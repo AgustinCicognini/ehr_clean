@@ -1,0 +1,3459 @@
+hallazgos_cuantitativos,patien_id,encounter_id
+sin datos,0,0
+tensión arterial: 140/90 mmHg,0,1
+glucemia: 92 mg/dL,0,1
+"Insulinemia: 14,2 µU/mL",0,1
+Amilasa: 119 U/L,0,1
+Lipasa: 21 U/L,0,1
+"Hormona estimulante de la tiroides (TSH): 0,139 µUI/mL",0,1
+"Tiroxina libre (T4L): 0,97 ng/dL",0,1
+sin datos,0,2
+Apolipoproteína A1: 160 mg/dL,0,3
+Apolipoproteína B: 107 mg/dL,0,3
+"Calcio iónico: 1,07 mmol/L",0,3
+Hemoglobina: 9 g/dL,0,4
+Glucosa: 87 mg/dL,0,4
+Uremia: 23 mg/dL,0,4
+Colesterol total: 199 mg/dL,0,4
+Lipoproteína de alta densidad (HDL): 45 mg/dL,0,4
+Lipoproteína de baja densidad (LDL): 133 mg/dL,0,4
+Triglicéridos: 105 mg/dL,0,4
+"Insulina: 8,4 µU/mL",0,4
+"Proteína C reactiva (PCR): 2,8 mg/L",0,4
+Serotonina: no detectada,0,4
+glucosa 80 mg/dL,0,5
+uremia 29 mg/dL,0,5
+colesterol total 275 mg/dL,0,5
+lipoproteína de baja densidad (LDL) 185 mg/dL,0,5
+"Densitometría ósea: L1-L4 AP -1,4, cuello femoral izquierdo -2,0, cuello femoral derecho 2,5 T-score",0,5
+"Pérdida de masa ósea: 4,2%",0,5
+Nivel de estrés: 8,0,6
+"Hormona estimulante de la tiroides (TSH): 5,27 mUI/L",0,7
+Testosterona total: 133 ng/dL,0,7
+"Testosterona libre: 5,28 pg/mL",0,7
+"Triyodotironina (T3) total: 3,06 ng/mL",0,7
+"Triyodotironina libre (T3L): 3,31 pg/mL",0,7
+"Tiempo de tromboplastina parcial activada (TTPa): 6,1 segundos",0,8
+"Hormona luteinizante (LH): 4,8 mUI/mL",0,8
+sin datos,0,9
+Cortisol: 10 µg/dL,1,10
+Dehidroepiandrosterona (DHEA): 400 µg/dL,1,10
+sin datos,1,11
+"Hormona estimulante de la tiroides (TSH): 5,8 mUI/L",1,12
+"Tiroxina libre (T4L): 1,0 ng/dL",1,12
+"Hormona luteinizante (LH) 2,9 (baja)",1,13
+sin datos,1,14
+sin datos,1,15
+sin datos,1,16
+sin datos,1,17
+Hidroclorotiazida 25 mg,1,18
+"levotiroxina 75 mcg de lunes a viernes, sábados 100 mcg",1,18
+fosfatasa alcalina 162 U/L,1,18
+fosfatasa alcalina ósea 33 U/L,1,18
+paratohormona 45 pg/mL,1,18
+"calciuria 470 mg/24h inicialmente, luego de diurético 330 mg/24h",1,18
+"calcio iónico 1,18 mmol/L",1,18
+"calcio total 4,73 mg/dL",1,18
+calcio en orina 374 mg/24h,1,18
+"tirotropina 0,28 mUI/L",1,18
+"espesor máximo 1,5 mm",1,18
+"columna lumbar -0,4",1,18
+"cuello femoral -1,4, 80%",1,18
+"Clonazepam 0,25 mg",1,18
+Hipercorticolemia: 54 (registrada en julio),1,19
+"Hormona luteinizante (LH): 2,0 mUI/mL",2,20
+Testosterona total: 500 ng/dL,2,20
+Niveles de serotonina: indetectables,2,21
+"Bioimpedancia: mejora en masa muscular (1 kg), disminución en tejido adiposo (1,4%)",2,22
+"Hormona luteinizante (LH) 2,0 mUI/mL",2,22
+Testosterona libre 141 pg/mL,2,22
+Cortisol: 10 µg/dL,2,23
+Dehidroepiandrosterona (DHEA): 400 µg/dL,2,23
+sin datos,2,24
+sin datos,2,25
+Glucosa: 120 mg/dL,2,26
+Lipoproteína de baja densidad (LDL): 178 mg/dL,2,26
+Triglicéridos: 165 mg/dL,2,26
+"Proteína C reactiva (PCR): 1,86 mg/dL",2,26
+"Insulinemia: 12,1 mU/L",2,26
+"Estradiol (E2): 32,2 pg/mL",2,26
+Fructosamina: 268 µmol/L,2,26
+sin datos,2,27
+Creatina quinasa (CPK): 54 U/L,2,28
+Selenio: valor no especificado,2,28
+"Cortisol: 19,7 µg/dL",2,28
+"Prolactina (PRL): 37,2 ng/mL",2,28
+Dehidroepiandrosterona sulfato (DHEA-S): 3170 µg/dL,2,28
+"Hormona estimulante de la tiroides (TSH): 2,08 mIU/L",2,28
+"Tiroxina libre (T4L): 1,4 ng/dL",2,28
+sin datos,2,29
+sin datos,3,30
+sin datos,3,31
+osmolalidad sérica: 293 mOsm/kg,3,32
+glucosa 80 mg/dL,3,33
+uremia 29 mg/dL,3,33
+colesterol total 275 mg/dL,3,33
+lipoproteína de baja densidad (LDL) 185 mg/dL,3,33
+"Densitometría ósea: L1-L4 AP -1,4, cuello femoral izquierdo -2,0, cuello femoral derecho 2,5 T-score",3,33
+"Pérdida de masa ósea: 4,2%",3,33
+Tirotropina (TSH): 3,3,34
+Tirotropina (TSH): 1.0,3,34
+25-hidroxivitamina D: 11 ng/mL,3,34
+Glucosa en sangre previa: 142 mg/dL,3,35
+Eritrosedimentación previa: 16 mm/h,3,35
+"Hemoglobina glicosilada (HbA1c): 6,4%",3,35
+"Proteína C reactiva (PCR) previa: 1,3 mg/dL",3,35
+"Cortisol previo: 7,6 µg/dL",3,35
+Insulina: 21 µIU/mL,3,35
+Glucosa en sangre actual: 126 mg/dL,3,35
+"Proteína C reactiva (PCR) actual: 1,2 mg/dL",3,35
+Eritrosedimentación actual: 39 mm/h,3,35
+Fructosamina: 247 µmol/L,3,35
+Cortisol actual: 15 µg/dL,3,35
+sin datos,3,36
+Hormona estimulante de la tiroides (TSH): 8 mUI/L,3,37
+glucosa 159 mg/dL,3,38
+"insulina 6,0 µU/mL",3,38
+"hemoglobina glicosilada (HbA1c) 7,0% (previamente 6,6%)",3,38
+Anticuerpos contra el ácido glutámico descarboxilasa (GAD) 120 U/mL,3,38
+sin datos,3,39
+sin datos,4,40
+Alanina aminotransferasa (ALT/GPT): 88 U/L,4,41
+Lipoproteína de alta densidad (HDL): 17 mg/dL,4,41
+Glutamato piruvato transaminasa (GPT): 40 U/L,4,42
+"Hormona estimulante de la tiroides (TSH): 6,32 mUI/L",4,42
+"Tiroxina libre (T4L): 1,21 ng/dL",4,42
+Glucosa: 93 mg/dL,4,43
+Fructosamina: 42 µmol/L,4,43
+"Creatinina: 1,3 mg/dL",4,43
+Colesterol total: 209 mg/dL,4,43
+Lipoproteína de alta densidad (HDL): 38 mg/dL,4,43
+Lipoproteína de baja densidad (LDL): 151 mg/dL,4,43
+Triglicéridos: 100 mg/dL,4,43
+"Hormona estimulante de la tiroides (TSH): 2,77 mUI/L",4,43
+"Testosterona total: 8,8 ng/mL",4,43
+"Bilirrubina total: 3,88 mg/dL",4,43
+"Cortisol: 18,8 µg/dL",4,43
+Bioimpedancia (BIA) con descenso de 3 kg,4,43
+sin datos,4,44
+cortisol con ritmo circadiano invertido,4,45
+sin datos,4,46
+sin datos,4,47
+"Hormona estimulante de la tiroides (TSH): 4,9 mUI/L",4,48
+"Hemoglobina A1c (HbA1c): 4,7%",4,49
+Fructosamina: 196 µmol/L,4,49
+Lipoproteína de alta densidad (HDL): 72 mg/dL,4,49
+Lipoproteína de baja densidad (LDL): 55 mg/dL,4,49
+Eritrosedimentación: 18 mm/h,5,50
+Lipoproteína de alta densidad (HDL): 62 mg/dL,5,50
+Lipoproteína de baja densidad (LDL): 202 mg/dL,5,50
+Triglicéridos: 129 mg/dL,5,50
+Creatina quinasa (CPK): 83 U/L,5,50
+Fructosamina: 232 µmol/L,5,50
+"Hemoglobina glicosilada (HbA1c): 5,1%",5,50
+Proteína C reactiva (PCR): 5 mg/L,5,50
+Serotonina: 226 ng/mL,5,50
+"Cortisol: 16,6 µg/dL",5,50
+"Veserino: 5,4",5,50
+"Hormona luteinizante (LH): 9,8 mIU/mL",5,50
+"Hormona foliculoestimulante (FSH): 5,7 mIU/mL",5,50
+"Prolactina (PRL): 15,4 ng/mL",5,50
+"Hormona del crecimiento (STH): 8,63 ng/mL",5,50
+"25-hidroxivitamina D: 27,4 ng/mL",5,50
+"Insulinemia: 5,7 µU/mL",5,50
+sin datos,5,51
+Testosterona libre: 222 pg/mL,5,52
+"Cortisol: 9,8 µg/dL",5,52
+"Dosis de Liraglutida: 1,8 mg",5,52
+Espermograma: teratozoospermia,5,53
+Nivel de estrés: 7,5,54
+Eritrosedimentación: 18 mm/h,5,55
+Lipoproteína de alta densidad (HDL): 62 mg/dL,5,55
+Lipoproteína de baja densidad (LDL): 202 mg/dL,5,55
+Triglicéridos: 129 mg/dL,5,55
+Creatina quinasa (CPK): 83 U/L,5,55
+Fructosamina: 232 µmol/L,5,55
+"Hemoglobina glicosilada (HbA1c): 5,1%",5,55
+Proteína C reactiva (PCR): 5 mg/L,5,55
+Serotonina: 226 ng/mL,5,55
+"Cortisol: 16,6 µg/dL",5,55
+"Veserino: 5,4",5,55
+"Hormona luteinizante (LH): 9,8 mIU/mL",5,55
+"Hormona foliculoestimulante (FSH): 5,7 mIU/mL",5,55
+"Prolactina (PRL): 15,4 ng/mL",5,55
+"Hormona del crecimiento (STH): 8,63 ng/mL",5,55
+"25-hidroxivitamina D: 27,4 ng/mL",5,55
+"Insulinemia: 5,7 µU/mL",5,55
+sin datos,5,56
+sin datos,5,57
+sin datos,5,58
+sin datos,5,59
+Glucosa: 106 mg/dL,6,60
+Uremia: 29 mg/dL,6,60
+"Creatinina: 0,91 mg/dL",6,60
+Lipoproteína de alta densidad (HDL): 58 mg/dL,6,60
+Lipoproteína de baja densidad (LDL): 119 mg/dL,6,60
+Triglicéridos: 48 mg/dL,6,60
+"Uremia: 4,90 mg/dL",6,60
+"Hormona estimulante de la tiroides (TSH): 0,095 mUI/L",6,60
+"Vitamina D: 21,8 ng/mL",6,60
+"Hemoglobina glicosilada (HbA1c): 5,00%",6,60
+Glóbulos blancos: 12500/mm³,6,61
+Glucosa: 85 mg/dL,6,61
+Uremia: 42 mg/dL,6,61
+Colesterol total: 186 mg/dL,6,61
+"Hormona estimulante de la tiroides (TSH): 2,99 mUI/L",6,61
+"Hormona luteinizante (LH): 3,17 mUI/mL",6,61
+"Cortisol: 18,10 µg/dL",6,61
+"Bilirrubina total: 2,34 mg/dL",6,61
+Bilirrubina libre: 106 µmol/L,6,61
+sin datos,6,62
+Hormona luteinizante (LH): 15 mUI/mL,6,63
+"Testosterona libre: 1,130 ng/dL",6,63
+Estradiol (E2): 71 pg/mL,6,63
+Cortisol: 22 µg/dL,6,63
+"Hormona estimulante de la tiroides (TSH): 10,6 mUI/L",6,64
+"Hematocrito 39,7%",6,65
+Ferritina: 26 ng/mL,6,66
+"Hormona estimulante de la tiroides (TSH): 2,90 mUI/L",6,66
+"Tiroxina libre (T4L): 1,05 ng/dL",6,66
+Hemoglobina Esferocítica 1,6,67
+"Hemoglobina A1c 5,8%",6,67
+Colesterol total 275 mg/dL,6,67
+Lipoproteína de alta densidad (HDL) 53 mg/dL,6,67
+Lipoproteína de baja densidad (LDL) 178 mg/dL,6,67
+Triglicéridos 228 mg/dL,6,67
+Creatina quinasa 78 U/L,6,67
+"Hormona estimulante de la tiroides (TSH) 0,83 mU/L",6,67
+"Hormona estimulante de la tiroides (TSH) 0,86 mU/L",6,67
+"Hormona foliculoestimulante (FSH) 68,4 mU/L",6,67
+"Prolactina 6,7 ng/mL",6,67
+"Cortisol 21,91 µg/dL",6,67
+Eritrosedimentación 12 mm/h,6,67
+Plaquetas: 53,6,68
+"Hormona estimulante de la tiroides (TSH): 5,2",6,68
+"Tiroxina libre (T4L): 0,81",6,68
+"Triyodotironina libre (T3L): 2,31",6,68
+"Cortisol plasmático: 15,5",6,68
+"Cortisol vespertino: 8,4",6,68
+Serotonina: 82,6,68
+"Proteína C reactiva (PCR): 6,8",6,68
+Homocisteína: 75,6,68
+sin datos,6,69
+"Hormona estimulante de la tiroides (TSH) después de la liberación de hormona tirotropina (TRH): 25,4 mUI/L",7,70
+"TSH: 3,2 mUI/L",7,70
+sin datos,7,71
+sin datos,7,72
+hormona folículo estimulante (FSH) alta,7,73
+"Hemoglobina (Hb): 11,6 g/dL",7,74
+Dehidroepiandrosterona (DHEA): 20 µg/dL,7,74
+"Vitamina B12: 1,00 pg/mL",7,74
+"Melatonina: 0,5 mg",7,74
+Omega-3: 8000 mg,7,74
+"Hormona estimulante de la tiroides (TSH) después de la liberación de hormona liberadora de tirotropina (TRH): 6,57 µUI/mL",7,74
+"TSH basal: 0,78 µUI/mL",7,74
+"Ácido fólico: 2,1 ng/mL",7,74
+"Ferritina: 10,0 ng/mL",7,74
+Reticulocitos: 32000/µL,7,74
+"Hemoglobina glicosilada (HbA1c): 5,4%",7,74
+Hemoglobina normal,7,75
+glucosa 109 mg/dL,7,75
+fructosamina 235 µmol/L,7,75
+uremia 56 mg/dL,7,75
+triglicéridos 110 mg/dL,7,75
+lipoproteína de alta densidad (HDL) 35 mg/dL,7,75
+lipoproteína de baja densidad (LDL) 110 mg/dL,7,75
+"hormona estimulante de la tiroides (TSH) 1,17 mUI/L",7,75
+"prolactina 3,6 ng/mL",7,75
+"hormona luteinizante (LH) 6,3 mUI/mL",7,75
+sulfato de dehidroepiandrosterona (DHEA-S) 122 µg/dL,7,75
+"testosterona total 256,7 ng/dL",7,75
+"cortisol matinal 16,7 µg/dL",7,75
+"proteína C reactiva (PCR) 0,7 mg/dL",7,75
+"porcentaje de masa magra 69,8%",7,75
+grasa corporal 31%,7,75
+sin datos,7,76
+Hemoglobina: 3 g/dL,7,77
+Eritrosedimentación: 6 mm/h,7,77
+"Proteína C reactiva: 3,48 mg/L",7,77
+Glucosa: 91 mg/dL,7,77
+"Insulinemia: 7,3 µU/mL",7,77
+"Hemoglobina glicosilada (HbA1c): 5,5%",7,77
+Fructosamina: 236 µmol/L,7,77
+Uremia: 34 mg/dL,7,77
+"Creatinina: 1,12 mg/dL",7,77
+Lipoproteína de alta densidad (HDL): 63 mg/dL,7,77
+Colesterol total: 201 mg/dL,7,77
+Lipoproteína de baja densidad (LDL): 123 mg/dL,7,77
+Triglicéridos: 71 mg/dL,7,77
+Creatina quinasa (CPK): 98 U/L,7,77
+Cortisol: 11 µg/dL,7,77
+Apolipoproteína A: 161 mg/dL,7,77
+Apolipoproteína B: 102 mg/dL,7,77
+Lipoproteína (a): 188 mg/dL,7,77
+"Homocisteína: 13,5 µmol/L",7,77
+Prolactina (PRL): 35 ng/mL,7,78
+macroadenoma: 17%,7,78
+"Hormona luteinizante (LH): 3,8 mUI/mL",7,79
+"Testosterona total: 7,8 ng/mL",7,79
+Testosterona libre: 110 pg/mL,7,79
+"Testosterona biodisponible: 2,55 ng/mL",7,79
+"Hormona estimulante de la tiroides (TSH): 3,8 mUI/L",7,79
+Glucemia en ayunas: 1400 mg/dL,8,80
+Cortisol matinal: 21 ug/dL,8,80
+Amilasa: 31 U/L,8,80
+Lipasa: 40 U/L,8,80
+Prolactina (PRL): 30 ng/mL,8,80
+"Tiempo de tromboplastina parcial activada (TTPa): 6,1 segundos",8,81
+"Hormona luteinizante (LH): 4,8 mUI/mL",8,81
+sin datos,8,82
+Nivel de estrés: 8,8,83
+Lipoproteína de alta densidad (HDL): 40 mg/dL,8,84
+Lipoproteína de baja densidad (LDL): 93 mg/dL,8,84
+"Hormona foliculoestimulante (FSH): 2,4 mUI/mL",8,84
+"Hormona luteinizante (LH): 2,4 mUI/mL",8,84
+"Tiroxina total (T4 total): 4,59 mcg/dL",8,84
+"Triyodotironina total (T3 total): 2,48 ng/mL",8,84
+Tiroxina libre (T4 libre): 373 pg/dL,8,84
+Peso actual: 88 kg,8,85
+dosis de levotiroxina: 125 mcg,8,85
+Aumento de 7 kg de masa muscular,8,86
+resultados de laboratorio específicos,8,87
+Lipoproteína de alta densidad (HDL): 67 mg/dL,8,88
+Lipoproteína de baja densidad (LDL): 80 mg/dL,8,88
+"Tiempo de protrombina: 1,500 segundos",8,88
+Peso: 85 kg,8,89
+sin datos,9,90
+"Hemoglobina glicosilada (HbA1c): 5,7%",9,91
+"Hormona estimulante de la tiroides (TSH): 4,21 mUI/L",9,91
+"Tiroxina libre (T4L): 1,25 ng/dL",9,91
+Fructosamina: 281 µmol/L,9,91
+Curva de glucosa: 204 mg/dL,9,91
+Glucosa: 119 mg/dL,9,91
+"Insulina basal: 4,5 µIU/mL",9,91
+Insulina a los 60 minutos: 53 µIU/mL,9,91
+Glucosa: 122 mg/dL,9,92
+"Calcemia: 9,4 mg/dL",9,92
+"Hemoglobina no glicosilada: 4,90%",9,92
+Fructosamina: 218 µmol/L,9,92
+"Hemoglobina glicosilada (HbA1c): 5,5%",9,92
+Lipoproteína de baja densidad (LDL): 145 mg/dL,9,92
+Lipoproteína de alta densidad (HDL): 84 mg/dL,9,92
+Triglicéridos: 104 mg/dL,9,92
+Uremia: 48 mg/dL,9,92
+"Hormona estimulante de la tiroides (TSH): 15,3 mUI/L",9,92
+"Tiroxina libre (T4L): 0,73 ng/dL",9,92
+"Tirotropina (TG): 0,5 mUI/L",9,92
+Parathormona intacta (PTHi): 27 pg/mL,9,92
+Calciuria: 330 mg/24h,9,93
+"Densitometría ósea: Columna lumbar L2-L4: 0,8 g/cm²",9,93
+"Cuello femoral: 1,8 g/cm²",9,93
+Glucosa: 83 mg/dL,9,94
+Fructosamina: 230 µmol/L,9,94
+Colesterol total: 70 mg/dL,9,94
+Lipoproteína de alta densidad (HDL): 61 mg/dL,9,94
+Lipoproteína de baja densidad (LDL): 113 mg/dL,9,94
+Lipoproteína (a): 100 mg/dL,9,94
+"Hormona estimulante de la tiroides (TSH): 0,62 mUI/L",9,94
+Estradiol (E2): 70 pg/mL,9,94
+"Hormona foliculoestimulante (FSH): 8,2 mUI/mL",9,94
+Dehidroepiandrosterona (DHEA): 96 µg/dL,9,94
+"Cortisol matinal: 25,3 µg/dL",9,94
+"Cortisol vespertino: 11,8 µg/dL",9,94
+"Proteína C reactiva (PCR): 6,0 mg/L",9,94
+Colesterol total: 198 mg/dL,9,95
+Triglicéridos: 324 mg/dL,9,95
+Lipoproteína de alta densidad (HDL): 51 mg/dL,9,95
+Lipoproteína de baja densidad (LDL): 82 mg/dL,9,95
+"Hormona estimulante de la tiroides (TSH): 4,47 mUI/L",9,95
+Tiroxina libre (T4L): 1 ng/dL,9,95
+Anticuerpos contra la peroxidasa tiroidea (ATPO): 46 UI/mL,9,95
+Anticuerpos contra la tiroglobulina (ATG): 20 UI/mL,9,95
+Vitamina D: 17 ng/mL,9,95
+Hemoglobina glicosilada: 6%,9,95
+Glucosa: 112 mg/dL,9,95
+sin datos,9,96
+"Hormona estimulante de la tiroides (TSH): 5,02 mUI/L",9,97
+"Tiroxina libre (T4L): 1,15 ng/dL",9,97
+Plaquetas: 53,9,98
+"Hormona estimulante de la tiroides (TSH): 5,2",9,98
+"Tiroxina libre (T4L): 0,81",9,98
+"Triyodotironina libre (T3L): 2,31",9,98
+"Cortisol plasmático: 15,5",9,98
+"Cortisol vespertino: 8,4",9,98
+Serotonina: 82,9,98
+"Proteína C reactiva (PCR): 6,8",9,98
+Homocisteína: 75,9,98
+Hemoglobina: 9 g/dL,9,99
+Glucosa: 87 mg/dL,9,99
+Uremia: 23 mg/dL,9,99
+Colesterol total: 199 mg/dL,9,99
+Lipoproteína de alta densidad (HDL): 45 mg/dL,9,99
+Lipoproteína de baja densidad (LDL): 133 mg/dL,9,99
+Triglicéridos: 105 mg/dL,9,99
+"Insulina: 8,4 µU/mL",9,99
+"Proteína C reactiva (PCR): 2,8 mg/L",9,99
+Serotonina: no detectada,9,99
+sin datos,10,100
+levotiroxina 88 mcg,10,101
+sin datos,10,102
+Hemoglobina normal,10,103
+"Hormona estimulante de la tiroides (TSH): 3,27 mUI/L",10,103
+"Prolactina total: 0,11 ng/mL",10,103
+"Bilirrubina total: 4,8 mg/dL",10,103
+"17-hidroxiprogesterona: 0,3 ng/mL",10,103
+"Estradiol (E2): 30,7 pg/mL",10,103
+"Hormona foliculoestimulante (FSH): 9,0 mUI/mL",10,103
+"Hormona luteinizante (LH): 4,20 mUI/mL",10,103
+"Post pico: 1,5",10,103
+Apolipoproteína A1: 160 mg/dL,10,104
+Apolipoproteína B: 107 mg/dL,10,104
+"Calcio iónico: 1,07 mmol/L",10,104
+Lipoproteína de alta densidad (HDL): 41 mg/dL,10,105
+Lipoproteína de baja densidad (LDL): 125 mg/dL,10,105
+Apolipoproteína A1: 128 mg/dL,10,105
+Apolipoproteína B: 109 mg/dL,10,105
+Glucosa: 110 mg/dL,10,105
+"Cortisol: 16,7 µg/dL",10,105
+"Antígeno prostático específico (PSA): 10,20 ng/mL",10,105
+"Hemoglobina (Hb): 12,2 g/dL",10,106
+Hematocrito (Hto): 27%,10,106
+"Ácido úrico: 3,3 mg/dL",10,106
+Lipoproteína de alta densidad (HDL): 66 mg/dL,10,106
+Lipoproteína de baja densidad (LDL): 79 mg/dL,10,106
+Triglicéridos (Tg): 40 mg/dL,10,106
+Glucosa: 101 mg/dL,10,106
+"Hormona estimulante de la tiroides (TSH): 1,53 mUI/L",10,106
+"Vitamina D: 20,4 ng/mL",10,106
+"Cortisol serotonina: 13,9 ng/mL",10,106
+"Cortisol vespertino: 3,1 ng/mL",10,106
+"Insulina: 7,6 µU/mL",10,106
+"Ferritina: 3,13 ng/mL",10,106
+Creatina quinasa (CPK): 50 U/L,10,106
+sin datos,10,107
+Lipoproteína de alta densidad (HDL): 41 mg/dL,10,108
+Lipoproteína de baja densidad (LDL): 125 mg/dL,10,108
+Apolipoproteína A1: 128 mg/dL,10,108
+Apolipoproteína B: 109 mg/dL,10,108
+Glucosa: 110 mg/dL,10,108
+"Cortisol: 16,7 µg/dL",10,108
+"Antígeno prostático específico (PSA): 10,20 ng/mL",10,108
+Hidroclorotiazida 25 mg,10,109
+"levotiroxina 75 mcg de lunes a viernes, sábados 100 mcg",10,109
+fosfatasa alcalina 162 U/L,10,109
+fosfatasa alcalina ósea 33 U/L,10,109
+paratohormona 45 pg/mL,10,109
+"calciuria 470 mg/24h inicialmente, luego de diurético 330 mg/24h",10,109
+"calcio iónico 1,18 mmol/L",10,109
+"calcio total 4,73 mg/dL",10,109
+calcio en orina 374 mg/24h,10,109
+"tirotropina 0,28 mUI/L",10,109
+"espesor máximo 1,5 mm",10,109
+"columna lumbar -0,4",10,109
+"cuello femoral -1,4, 80%",10,109
+"Clonazepam 0,25 mg",10,109
+Peso actual: 88 kg,11,110
+dosis de levotiroxina: 125 mcg,11,110
+sin datos,11,111
+Hematocrito: 34%,11,112
+Ferremia: 32 µg/dL,11,112
+Densitometría ósea de cuello y columna lumbar,11,113
+Hierro sérico: 82 µg/dL,11,114
+"Ferritina: 20,6 ng/mL",11,114
+Transferrina: 276 mg/dL,11,114
+Vitamina B12: 232 pg/mL,11,114
+"Hormona foliculoestimulante (FSH): 15,1 mUI/mL",11,114
+Estradiol (E2): 54 pg/mL,11,114
+"Hormona luteinizante (LH): 2,0 mUI/mL",11,115
+Testosterona total: 500 ng/dL,11,115
+sin datos,11,116
+sin datos,11,117
+hormona folículo estimulante (FSH) alta,11,118
+"Agregó a su dieta HMB, 5 gramos",11,119
+Edad: 10 años,12,120
+Hemoglobina glicosilada (HbA1c): 204 mg/dL,12,120
+Lipoproteína de alta densidad (HDL): 72 mg/dL,12,120
+Lipoproteína de baja densidad (LDL): 132 mg/dL,12,120
+Triglicéridos: 60 mg/dL,12,120
+"Cortisol: 15,32 µg/dL",12,120
+Factor de crecimiento similar a la insulina tipo 1 (IGF-1): 217 ng/mL,12,120
+"Hormona estimulante de la tiroides (TSH): 3,19 mUI/L",12,120
+sin datos,12,121
+sin datos,12,122
+sin datos,12,123
+Lipoproteína de alta densidad (HDL): 69 mg/dL,12,124
+Lipoproteína de baja densidad (LDL): 191 mg/dL,12,124
+Triglicéridos: 171 mg/dL,12,124
+sin datos,12,125
+sin datos,12,126
+Nivel previo de prolactina: 120 ng/mL,12,127
+Hormona luteinizante (LH): 4 mUI/mL,12,128
+sin datos,12,129
+Niveles de Selenio: 90 mcg/L,13,130
+Hormona foliculoestimulante (FSH): 10 mUI/mL,13,130
+Estradiol (E2): 108 pg/mL,13,130
+Dehidroepiandrosterona sulfato (DHEA-S): 800 µg/dL,13,130
+"Hemoglobina (Hb): 12,9 g/dL",13,130
+Ferritina: 21 ng/mL,13,130
+"Ácido fólico: 11,2 ng/mL",13,130
+Vitamina B12: 800 pg/mL,13,130
+Vitamina D: 22 ng/mL,13,130
+Dehidroepiandrosterona (DHEA): 25 (Octubre 2022),13,131
+Dehidroepiandrosterona (DHEA): 25 (Octubre 2022),13,132
+Tiroxina (T4) y Triyodotironina (T3) disminuidas,13,133
+"Hormona estimulante de la tiroides (TSH): 5,1 mUI/L",13,134
+Hormona foliculoestimulante (FSH) y Hormona luteinizante (LH): elevadas,13,134
+sin datos,13,135
+Prolactina (PRL): 35 ng/mL,13,136
+macroadenoma: 17%,13,136
+Hemoglobina: 4 g/dL,13,137
+Lipoproteína de alta densidad (HDL): 47 mg/dL,13,137
+Lipoproteína de baja densidad (LDL): 137 mg/dL,13,137
+Triglicéridos: 76 mg/dL,13,137
+Fructosamina: 253 µmol/L,13,137
+"Tiempo de protrombina: 9,42 segundos",13,137
+"Tiempo de tromboplastina parcial activada: 3,6 segundos",13,137
+Mejoría en la masa muscular de 3 kg,13,137
+disminución de tejido adiposo de 2 kg,13,137
+sin datos,13,138
+sin datos,13,139
+Creatina quinasa (CPK): 62 U/L,14,140
+Proteína C reactiva (PCR): baja,14,140
+Hormona luteinizante (LH): 7 mUI/mL,14,140
+"Hormona foliculoestimulante (FSH): 6,3 mUI/mL",14,140
+"Prolactina (PRL): 9,1 ng/mL",14,140
+Dehidroepiandrosterona sulfato (DHEA-S): 2390 µg/dL,14,140
+"Tiroxina (T4): 3,78 µg/dL",14,140
+"Tiroxina libre (T4 libre): 87,20 ng/dL",14,140
+"Bilirrubina total (T bilirrubina): 2,01 mg/dL",14,140
+"Insulina: 3,7 µIU/mL",14,140
+"Cortisol vespertino: 5,4 µg/dL",14,140
+sin datos,14,141
+sin datos,14,142
+"Hormona estimulante de la tiroides (TSH): 5,1 mUI/L",14,143
+Hormona foliculoestimulante (FSH) y Hormona luteinizante (LH): elevadas,14,143
+Prolactina: 22 ng/mL,14,144
+Cortisol: 20 µg/dL,14,144
+Tiroxina libre: 300 pg/dL,14,144
+sin datos,14,145
+sin datos,14,146
+Creatina quinasa (CPK): 154 U/L,14,147
+"Hormona foliculoestimulante (FSH): 1,5 mUI/mL",14,147
+"Hormona luteinizante (LH): 2,3 mUI/mL",14,147
+"Testosterona total (Tot): 8,32 ng/mL",14,147
+Prolactina (PRL): 24 ng/mL,14,147
+"Cortisol matutino: 22,6 µg/dL",14,147
+Cortisol nocturno: negativo,14,147
+Prolactina (PRL): 22 ng/mL,14,147
+sin datos,14,148
+Ha perdido 17 kg de peso,14,149
+Ligero incremento en los niveles de cortisol,15,150
+"Neutrófilos totales 5,7 x10^9/L",15,151
+"Insulinemia 9,5 µU/mL",15,151
+"Cortisol 14,0 µg/dL",15,151
+"Hemoglobina glicosilada (HbA1c): 5,7%",15,152
+"Hormona estimulante de la tiroides (TSH): 4,21 mUI/L",15,152
+"Tiroxina libre (T4L): 1,25 ng/dL",15,152
+Fructosamina: 281 µmol/L,15,152
+Curva de glucosa: 204 mg/dL,15,152
+Glucosa: 119 mg/dL,15,152
+"Insulina basal: 4,5 µIU/mL",15,152
+Insulina a los 60 minutos: 53 µIU/mL,15,152
+"Tiempo de tromboplastina parcial activada (TTPa): 6,1 segundos",15,153
+"Hormona luteinizante (LH): 4,8 mUI/mL",15,153
+Hipovitaminosis D,15,154
+Pérdida de peso de 10 kg,15,155
+"Valor desconocido bajo 0,5",15,155
+Glucosa en sangre: 90 mg/dL,15,155
+Hemoglobina: 9 g/dL,15,156
+Glucosa: 89 mg/dL,15,156
+Uremia: 30 mg/dL,15,156
+Lipoproteína de alta densidad (HDL): 62 mg/dL,15,156
+Lipoproteína de baja densidad (LDL): 100 mg/dL,15,156
+Triglicéridos: 57 mg/dL,15,156
+Creatina quinasa (CPK): 200 U/L,15,156
+"Insulina: 4,5 µU/mL",15,156
+"Proteína C reactiva (PCR): 0,4 mg/dL",15,156
+"Hormona estimulante de la tiroides (TSH): 1,58 µUI/mL",15,156
+"Tiroxina libre (T4L): 1,20 ng/dL",15,156
+Dehidroepiandrosterona sulfato (DHEA-S): 5090 µg/dL,15,156
+"Cortisol matutino: 17,1 µg/dL",15,156
+"Cortisol vespertino: 9,0 µg/dL",15,156
+Colesterol total: 198 mg/dL,15,157
+Triglicéridos: 324 mg/dL,15,157
+Lipoproteína de alta densidad (HDL): 51 mg/dL,15,157
+Lipoproteína de baja densidad (LDL): 82 mg/dL,15,157
+"Hormona estimulante de la tiroides (TSH): 4,47 mUI/L",15,157
+Tiroxina libre (T4L): 1 ng/dL,15,157
+Anticuerpos contra la peroxidasa tiroidea (ATPO): 46 UI/mL,15,157
+Anticuerpos contra la tiroglobulina (ATG): 20 UI/mL,15,157
+Vitamina D: 17 ng/mL,15,157
+Hemoglobina glicosilada: 6%,15,157
+Glucosa: 112 mg/dL,15,157
+sin datos,15,158
+sin datos,15,159
+Colesterol total: 110 mg/dL,16,160
+"Hormona estimulante de la tiroides (TSH): 0,84 mUI/L",16,160
+"Cortisol: 6,45 µg/dL",16,160
+"toma 0,5 mg de Clonazepam dos veces al día",16,161
+Creatina post entrenamiento (5 g inmediatamente después),16,161
+sin datos,16,162
+levotiroxina 150 mcg,16,163
+Metformina 1000 mg,16,163
+Dosis máxima: 125 mcg,16,164
+"Lipoproteína muy alta, 600 mg/dL",16,164
+sin datos,16,165
+Curva glucémica con leve hipoglucemia,16,166
+"Hormona luteinizante (LH): 2,1 mUI/mL",16,167
+"Testosterona total: 1,91 ng/mL",16,167
+Cortisol: 14 µg/dL,16,167
+Minociclina 100 mg durante un mes,16,168
+12g de vitamina C,16,168
+"Hormona estimulante de la tiroides (TSH): 3,96 mUI/L",16,169
+Vitamina D: 22 ng/mL,16,169
+sin datos,17,170
+"Aumento de insulina: 19,7 µU/mL",17,171
+"índice HOMA: 4,52",17,171
+"Cortisol: 14,9 µg/dL",17,171
+"Bioimpedancia: mejora en masa muscular (1 kg), disminución en tejido adiposo (1,4%)",17,172
+"Hormona luteinizante (LH) 2,0 mUI/mL",17,172
+Testosterona libre 141 pg/mL,17,172
+sin datos,17,173
+sin datos,17,174
+sin datos,17,175
+sin datos,17,176
+Capacidad aeróbica rápida: 14,17,177
+Hematocrito: 28%,17,178
+Hemoglobina: 20 g/dL,17,178
+Glucosa: 84 mg/dL,17,178
+"Hemoglobina glicosilada (HbA1c): 5,0%",17,178
+Uremia: 29 mg/dL,17,178
+Lipoproteína de alta densidad (HDL): 53 mg/dL,17,178
+Lipoproteína de baja densidad (LDL): 207 mg/dL,17,178
+Triglicéridos: 62 mg/dL,17,178
+Colesterol total: 272 mg/dL,17,178
+Creatina quinasa (CPK): 38 U/L,17,178
+Hormona estimulante de la tiroides (TSH): 177 mUI/L,17,178
+"Prolactina: 14,8 ng/mL",17,178
+Estradiol (E2): 11 pg/mL,17,178
+"Insulina: 5,3 µU/mL",17,178
+"Cortisol: 16,7 µg/dL",17,178
+Factor reumatoide (FR): 4 UI/mL,17,178
+Serotonina: 48 ng/mL,17,178
+sin datos,17,179
+sin datos,18,180
+Fosfatasa alcalina: 59 U/L,18,181
+"Trombocitos: 5,47 x10^9/L",18,181
+Estradiol: 18 pg/mL,18,181
+Aplicación de testosterona: 31 mg,18,181
+levotiroxina 75 mcg,18,182
+Valsartán 80 mg dos veces al día,18,182
+Bisoprolol 5 mg una vez al día,18,182
+Atorvastatina 10 mg,18,182
+Uremia 30 mg/dL,18,183
+"Ácido úrico 6,9 mg/dL",18,183
+Apolipoproteína A 173 mg/dL,18,183
+Apolipoproteína B 113 mg/dL,18,183
+sin datos,18,184
+Colesterol total: 289 mg/dL,18,185
+"Hormona estimulante de la tiroides (TSH): 4,6 mUI/L",18,185
+"Tiroxina libre (T4L): 0,87 ng/dL",18,185
+Lipoproteína de baja densidad (LDL): 205 mg/dL,18,185
+Eritrosedimentación: 24 mm/h,18,185
+Lipoproteína de alta densidad (HDL): 64 mg/dL,18,185
+Resultados de laboratorio generales y tiroideos: normales,18,186
+Hemoglobina: 19 g/dL,18,187
+"Uremia: 5,4 mg/dL",18,187
+Lipoproteína de baja densidad (LDL): 125 mg/dL,18,187
+Tiroxina (T4): 88 (fecha de marzo),18,188
+Nivel de estrés: 7,18,188
+Cortisol matutino: 21 µg/dL,18,189
+"Cortisol vespertino: 6,7 µg/dL",18,189
+Ferritina: 26 ng/mL,19,190
+"Hormona estimulante de la tiroides (TSH): 2,90 mUI/L",19,190
+"Tiroxina libre (T4L): 1,05 ng/dL",19,190
+sin datos,19,191
+sin datos,19,192
+Glucosa: 121 mg/dL,19,193
+"Hemoglobina glicosilada (HbA1c): 6,1%",19,193
+Cortisol: 14 µg/dL,19,193
+Colesterol total: 178 mg/dL,19,193
+"Hormona estimulante de la tiroides (TSH): 2,5 mUI/L",19,193
+"Insulina: 10,0 µIU/mL",19,193
+Velocidad de sedimentación globular (VSG): 31 mm/h,19,193
+Triglicéridos: 133 mg/dL,19,193
+cortisol: 28 (vespertino: 12),19,194
+Prolactina (PRL): 23,19,194
+Sulfato de dehidroepiandrosterona (DHEA-S): 700,19,194
+Vitamina D: 20,19,194
+"Hemoglobina (Hb): 11,6 g/dL",19,195
+Dehidroepiandrosterona (DHEA): 20 µg/dL,19,195
+"Vitamina B12: 1,00 pg/mL",19,195
+"Melatonina: 0,5 mg",19,195
+Omega-3: 8000 mg,19,195
+"Hormona estimulante de la tiroides (TSH) después de la liberación de hormona liberadora de tirotropina (TRH): 6,57 µUI/mL",19,195
+"TSH basal: 0,78 µUI/mL",19,195
+"Ácido fólico: 2,1 ng/mL",19,195
+"Ferritina: 10,0 ng/mL",19,195
+Reticulocitos: 32000/µL,19,195
+"Hemoglobina glicosilada (HbA1c): 5,4%",19,195
+Hormona luteinizante (LH): 6 mUI/mL,19,196
+"Triyodotironina (T3): 3,3 ng/dL",19,196
+sin datos,19,197
+"Neutrófilos totales 5,7 x10^9/L",19,198
+"Insulinemia 9,5 µU/mL",19,198
+"Cortisol 14,0 µg/dL",19,198
+sin datos,19,199
+Resultados de laboratorio después de 3 meses sin tratamiento,20,200
+Índice de Masa Corporal (IMC): 23,20,201
+Glucosa en ayunas: 123 mg/dL,20,201
+"Hemoglobina glicosilada (HbA1c): 6,2%",20,201
+"Cortisol: 12,3 µg/dL",20,201
+"Insulina: 7,23 µUI/mL",20,201
+"Hormona estimulante de la tiroides (TSH): 4,25 mUI/L",20,201
+sin datos,20,202
+Hormona estimulante de la tiroides (TSH): 30,20,203
+repetición de TSH: 13,20,203
+Curva glucémica con leve hipoglucemia,20,204
+Hormona estimulante de la tiroides (TSH): 44 mU/L,20,205
+"Hormona luteinizante (LH): 11,5 mU/mL",20,205
+"Hormona foliculoestimulante (FSH): 22,9 mU/mL",20,205
+"Litio: 0,41 mmol/L",20,205
+Creatina fosfoquinasa (CPK): 139 U/L,20,205
+"Proteína C reactiva (PCR): 1,69 mg/dL",20,205
+"Cortisol vespertino: 16,2 µg/dL",20,205
+Cortisol matutino: 8 µg/dL,20,205
+Tiroglobulina (Tg): 262 ng/mL,20,205
+Lipoproteína de alta densidad (HDL): 41 mg/dL,20,205
+Lipoproteína de baja densidad (LDL): 123 mg/dL,20,205
+Glucosa: 107 mg/dL,20,205
+"Creatinina: 1,78 mg/dL",20,205
+"Testosterona total: 3,10 ng/mL",20,205
+"Testosterona libre: 86,5 pg/mL",20,205
+Sulfato de dehidroepiandrosterona (DHEA-S): 44 µg/dL,20,205
+"Porcentaje de grasa corporal: 32,3%",20,205
+Peso: 89 kg,20,205
+Masa magra: 58 kg,20,205
+sin datos,20,206
+glucosa 80 mg/dL,20,207
+uremia 29 mg/dL,20,207
+colesterol total 275 mg/dL,20,207
+lipoproteína de baja densidad (LDL) 185 mg/dL,20,207
+"Densitometría ósea: L1-L4 AP -1,4, cuello femoral izquierdo -2,0, cuello femoral derecho 2,5 T-score",20,207
+"Pérdida de masa ósea: 4,2%",20,207
+cortisol: 28 (vespertino: 12),20,208
+Prolactina (PRL): 23,20,208
+Sulfato de dehidroepiandrosterona (DHEA-S): 700,20,208
+Vitamina D: 20,20,208
+sin datos,20,209
+sin datos,21,210
+sin datos,21,211
+Glutamato piruvato transaminasa (GPT): 40 U/L,21,212
+"Hormona estimulante de la tiroides (TSH): 6,32 mUI/L",21,212
+"Tiroxina libre (T4L): 1,21 ng/dL",21,212
+"Apolipoproteína A1, Apolipoproteína B: 95 mg/dL",21,213
+Zinc: 87 µg/dL,21,213
+Lipoproteína de baja densidad (LDL): 149 mg/dL,21,213
+Lipoproteína de alta densidad (HDL): 71 mg/dL,21,213
+Cortisol: 16 µg/dL,21,213
+"Hormona estimulante de la tiroides (TSH): 0,32 mUI/L",21,214
+Cortisol: 23 µg/dL en la tarde,21,214
+12 µg/dL en la noche,21,214
+glucosa e insulina normales,21,215
+"Hemoglobina glicosilada (HbA1c): 5,1%",21,215
+Dehidroepiandrosterona sulfato (DHEA-S): 449 µg/dL,21,215
+cortisol con ritmo circadiano invertido,21,216
+sin datos,21,217
+sin datos,21,218
+sin datos,21,219
+"Metros recorridos: 12,5",22,220
+Eritrosedimentación: 6 mm/h,22,220
+"Proteína C reactiva: 1,75 mg/dL",22,220
+Glucosa: 92 mg/dL,22,220
+"Hemoglobina glicosilada (HbA1c): 5,0%",22,220
+Fructosamina: 209 µmol/L,22,220
+Lipoproteína de alta densidad (HDL): 40 mg/dL,22,220
+Lipoproteína de baja densidad (LDL): 129 mg/dL,22,220
+Amilasa: 73 U/L,22,220
+Lipasa: 37 U/L,22,220
+Creatina quinasa (CPK): 153 U/L,22,220
+"Hormona estimulante de la tiroides (TSH): 2,26 mUI/L",22,220
+"Testosterona total: 6,23 ng/mL",22,220
+"Cortisol: 11,8 µg/dL",22,220
+"Velocidad de eritrosedimentación (VES): 5,3 mm/h",22,220
+"Antígeno prostático específico (PSA): 1,4 ng/mL",22,220
+Hormona luteinizante (LH) 4,22,221
+Niveles de prolactina (PRL) ligeramente elevados,22,222
+"Neutrófilos totales 5,7 x10^9/L",22,223
+"Insulinemia 9,5 µU/mL",22,223
+"Cortisol 14,0 µg/dL",22,223
+Creatina quinasa (CPK): 330 U/L,22,224
+"Hormona estimulante de la tiroides (TSH): 0,76 mUI/L",22,224
+sin datos,22,225
+Niveles de cortisol: regulares,22,226
+Anticuerpos antinucleares (ANA) positivos con una dilución de 1/160,22,227
+Cortisol matutino: 2,22,228
+Cortisol vespertino: 5,22,228
+"Hormona estimulante de la tiroides (TSH): 4,89",22,228
+"Hormona estimulante de la tiroides (TSH): 5,8 mUI/L",22,229
+"Tiroxina libre (T4L): 1,0 ng/dL",22,229
+"Bilirrubina total: 1,70 mg/dL",23,230
+"Bilirrubina directa: 0,39 mg/dL",23,230
+Lipoproteína de alta densidad (HDL): 56 mg/dL,23,230
+Lipoproteína de baja densidad (LDL): 159 mg/dL,23,230
+Hidroclorotiazida 25 mg,23,231
+"levotiroxina 75 mcg de lunes a viernes, sábados 100 mcg",23,231
+fosfatasa alcalina 162 U/L,23,231
+fosfatasa alcalina ósea 33 U/L,23,231
+paratohormona 45 pg/mL,23,231
+"calciuria 470 mg/24h inicialmente, luego de diurético 330 mg/24h",23,231
+"calcio iónico 1,18 mmol/L",23,231
+"calcio total 4,73 mg/dL",23,231
+calcio en orina 374 mg/24h,23,231
+"tirotropina 0,28 mUI/L",23,231
+"espesor máximo 1,5 mm",23,231
+"columna lumbar -0,4",23,231
+"cuello femoral -1,4, 80%",23,231
+"Clonazepam 0,25 mg",23,231
+Colesterol total: 287 mg/dL,23,232
+Lipoproteína de baja densidad (LDL): 200 mg/dL,23,232
+Bilirrubina total y directa: bajas,23,232
+Cortisol: 20 mcg/dL,23,232
+"Hormona estimulante de la tiroides (TSH): 4,82 mUI/L",23,232
+Creatina fosfoquinasa (CPK): 600 U/L,23,232
+deficiencia de Inmunoglobulina G (IgG),23,233
+Creatina quinasa (CPK): 154 U/L,23,234
+"Hormona foliculoestimulante (FSH): 1,5 mUI/mL",23,234
+"Hormona luteinizante (LH): 2,3 mUI/mL",23,234
+"Testosterona total (Tot): 8,32 ng/mL",23,234
+Prolactina (PRL): 24 ng/mL,23,234
+"Cortisol matutino: 22,6 µg/dL",23,234
+Cortisol nocturno: negativo,23,234
+Prolactina (PRL): 22 ng/mL,23,234
+Glucosa: 100 mg/dL,23,235
+Insulina: 28 µU/mL,23,235
+Lipoproteína de baja densidad (LDL): 141 mg/dL,23,235
+Fructosamina: 239 µmol/L,23,235
+"Proteína C reactiva (PCR): 3,19 mg/L",23,235
+Ferritina: 700 ng/mL,23,235
+"Tiempo de tromboplastina parcial activada (aPTT): 3,60 segundos",23,235
+sin datos,23,236
+Niveles de serotonina: indetectables,23,237
+"Hematocrito: 39,9%",23,238
+Lipoproteína de baja densidad (LDL): 11 mg/dL,23,238
+Lipoproteína de alta densidad (HDL): 39 mg/dL,23,238
+Triglicéridos: 74 mg/dL,23,238
+"Hormona foliculoestimulante (FSH): 8,3 mUI/mL",23,238
+"Hormona luteinizante (LH): 6,1 mUI/mL",23,238
+"Prolactina: 2,8 ng/mL",23,238
+"Testosterona: 3,98 ng/mL",23,238
+Eritrosedimentación: 32 mm/h,23,238
+Ferritina: 885 ng/mL,23,238
+"Hormona estimulante de la tiroides (TSH): 2,69 mUI/L",23,238
+"Cortisol: 20,70 µg/dL",23,238
+sin datos,23,239
+sin datos,24,240
+Anticuerpos antinucleares (ANA) positivos con una dilución de 1/160,24,241
+Cortisol matutino: 24 µg/dL,24,242
+sin datos,24,243
+sin datos,24,244
+Cortisol: 18 µg/dL,24,245
+Cortisol vespertino: 3 µg/dL,24,245
+Prolactina: 24 ng/mL,24,245
+Testosterona total: 3 ng/mL,24,245
+cortisol: 28 (vespertino: 12),24,246
+Prolactina (PRL): 23,24,246
+Sulfato de dehidroepiandrosterona (DHEA-S): 700,24,246
+Vitamina D: 20,24,246
+Creatina quinasa (CPK): 62 U/L,24,247
+Proteína C reactiva (PCR): baja,24,247
+Hormona luteinizante (LH): 7 mUI/mL,24,247
+"Hormona foliculoestimulante (FSH): 6,3 mUI/mL",24,247
+"Prolactina (PRL): 9,1 ng/mL",24,247
+Dehidroepiandrosterona sulfato (DHEA-S): 2390 µg/dL,24,247
+"Tiroxina (T4): 3,78 µg/dL",24,247
+"Tiroxina libre (T4 libre): 87,20 ng/dL",24,247
+"Bilirrubina total (T bilirrubina): 2,01 mg/dL",24,247
+"Insulina: 3,7 µIU/mL",24,247
+"Cortisol vespertino: 5,4 µg/dL",24,247
+Dehidroepiandrosterona (DHEA): 25 (Octubre 2022),24,248
+Ferritina: 26 ng/mL,24,249
+"Hormona estimulante de la tiroides (TSH): 2,90 mUI/L",24,249
+"Tiroxina libre (T4L): 1,05 ng/dL",24,249
+"Neutrófilos totales 5,7 x10^9/L",25,250
+"Insulinemia 9,5 µU/mL",25,250
+"Cortisol 14,0 µg/dL",25,250
+sin datos,25,251
+"semaglutida: 0,25 mg",25,252
+glucosa en sangre: 90 mg/dL,25,252
+fructosamina: 223 µmol/L,25,252
+"hemoglobina glicosilada (HbA1c): 4,6%",25,252
+"urea en sangre: 6,5 mg/dL",25,252
+lipoproteína de alta densidad (HDL): 40 mg/dL,25,252
+lipoproteína de baja densidad (LDL): 134 mg/dL,25,252
+amilasa sérica: 44 U/L,25,252
+lipasa: 47 U/L,25,252
+"hormona estimulante de la tiroides (TSH): 1,90 mIU/L",25,252
+"prolactina (PRL): 8,6 ng/mL",25,252
+"hormona luteinizante (LH): 4,6 mIU/mL",25,252
+testosterona libre: 134 pg/mL,25,252
+"cortisol: 15,6 µg/dL",25,252
+Uremia 30 mg/dL,25,253
+"Ácido úrico 6,9 mg/dL",25,253
+Apolipoproteína A 173 mg/dL,25,253
+Apolipoproteína B 113 mg/dL,25,253
+Glucosa: 121 mg/dL,25,254
+"Hemoglobina glicosilada (HbA1c): 7,1%",25,254
+Insulina: 24 µU/mL,25,254
+Glucemia en ayunas: 120-130 mg/dL,25,254
+sin datos,25,255
+Hemoglobina normal,25,256
+glucosa 104 mg/dL,25,256
+"ácido úrico 3,2 mg/dL",25,256
+Lipoproteína de baja densidad (LDL): 116 mg/dL,25,256
+Lipoproteína de alta densidad (HDL): 53 mg/dL,25,256
+Triglicéridos: 116 mg/dL,25,256
+"Hormona estimulante de la tiroides (TSH): 3,6 mUI/L",25,256
+Vitamina D: 12 ng/mL,25,256
+Creatina quinasa (CPK): 139 U/L,25,256
+"Tiroxina libre (T4L): 0,97 ng/dL",25,256
+Colesterol total: 192 mg/dL,25,256
+"Calcio iónico: 5,14 mmol/L",25,257
+Hormona paratiroidea (PTH): 94 pg/mL,25,258
+"Calcio iónico: 5,96 mg/dL",25,258
+sin datos,25,259
+Hematocrito 38%,26,260
+Vitamina B12: 600 pg/mL,26,260
+Hemoglobina normal,26,261
+Glucosa: 90 mg/dL,26,261
+Proteína C reactiva (PCR): 3 mg/L,26,261
+"Insulina: 8,7 µU/mL",26,261
+Amilasa: 65 U/L,26,261
+Lipasa: 37 U/L,26,261
+"Hormona estimulante de la tiroides (TSH): 2,42 µIU/mL",26,261
+"Triyodotironina (T3): 0,72 ng/dL",26,261
+Hormona foliculoestimulante (FSH): 14 mIU/mL,26,261
+Hormona luteinizante (LH): 33 mIU/mL,26,261
+Prolactina (PRL): 26 ng/mL,26,261
+"Homocisteína: 6,7 µmol/L",26,261
+Zinc: 97 µg/dL,26,261
+Vitamina D: 59 ng/mL,26,261
+Peso: 76 kg,26,262
+altura: 174 cm,26,262
+deficiencia de Inmunoglobulina G (IgG),26,263
+Variabilidad de la frecuencia cardíaca en condiciones controladas,26,264
+sin datos,26,265
+Ligero incremento en los niveles de cortisol,26,266
+Ha perdido 17 kg de peso,26,267
+Nivel de cortisol: 21 µg/dL,26,268
+"Hemoglobina A1c: 5,3%",26,269
+Fructosamina: 135 µmol/L,26,269
+Lipoproteína de alta densidad (HDL): 56 mg/dL,26,269
+Lipoproteína de baja densidad (LDL): 60 mg/dL,26,269
+Triglicéridos: 115 mg/dL,26,269
+"Hormona estimulante de la tiroides (TSH): 1,55 mUI/L",26,269
+"Tiroxina libre (T4L): 0,84 ng/dL",26,269
+Testosterona total: 9 ng/dL,27,270
+"Testosterona biodisponible: 2,57 ng/dL",27,270
+Testosterona libre: 110 pg/mL,27,270
+"Hormona estimulante de la tiroides (TSH): 4,89 mUI/L",27,270
+"Hormona luteinizante (LH): 3,1 mUI/mL",27,270
+"Cortisol: 18,9 µg/dL",27,270
+Glucosa: 89 mg/dL,27,270
+"Hormona luteinizante (LH): 0,48 mUI/mL",27,271
+"Hormona foliculoestimulante (FSH): 0,7 mUI/mL",27,271
+Testosterona total: 9.0 ng/dL,27,271
+Curva glucémica con leve hipoglucemia,27,272
+"Hormona estimulante de la tiroides (TSH): 10,6 mUI/L",27,273
+consumiendo 200 gramos de proteína,27,274
+Dehidroepiandrosterona (DHEA) bajos,27,275
+sin datos,27,276
+Nivel de estrés: 7,27,277
+"Hormona estimulante de la tiroides (TSH): 4,8 mUI/L",27,278
+Prolactina (PRL): 28 ng/mL,27,278
+Fructosamina: 300 µmol/L,27,278
+Eritrosedimentación: 18 mm/h,27,279
+Lipoproteína de alta densidad (HDL): 62 mg/dL,27,279
+Lipoproteína de baja densidad (LDL): 202 mg/dL,27,279
+Triglicéridos: 129 mg/dL,27,279
+Creatina quinasa (CPK): 83 U/L,27,279
+Fructosamina: 232 µmol/L,27,279
+"Hemoglobina glicosilada (HbA1c): 5,1%",27,279
+Proteína C reactiva (PCR): 5 mg/L,27,279
+Serotonina: 226 ng/mL,27,279
+"Cortisol: 16,6 µg/dL",27,279
+"Veserino: 5,4",27,279
+"Hormona luteinizante (LH): 9,8 mIU/mL",27,279
+"Hormona foliculoestimulante (FSH): 5,7 mIU/mL",27,279
+"Prolactina (PRL): 15,4 ng/mL",27,279
+"Hormona del crecimiento (STH): 8,63 ng/mL",27,279
+"25-hidroxivitamina D: 27,4 ng/mL",27,279
+"Insulinemia: 5,7 µU/mL",27,279
+Tiempo en cama: 6 horas,28,280
+Nivel de estrés percibido: 8,28,280
+Resultados de laboratorio generales: normales,28,281
+sin datos,28,282
+Minociclina 100 mg durante un mes,28,283
+12g de vitamina C,28,283
+Cortisol matutino: 2,28,284
+Cortisol vespertino: 5,28,284
+"Hormona estimulante de la tiroides (TSH): 4,89",28,284
+resultados de laboratorio específicos,28,285
+Eritrosedimentación: 18 mm/h,28,286
+Lipoproteína de alta densidad (HDL): 62 mg/dL,28,286
+Lipoproteína de baja densidad (LDL): 202 mg/dL,28,286
+Triglicéridos: 129 mg/dL,28,286
+Creatina quinasa (CPK): 83 U/L,28,286
+Fructosamina: 232 µmol/L,28,286
+"Hemoglobina glicosilada (HbA1c): 5,1%",28,286
+Proteína C reactiva (PCR): 5 mg/L,28,286
+Serotonina: 226 ng/mL,28,286
+"Cortisol: 16,6 µg/dL",28,286
+"Veserino: 5,4",28,286
+"Hormona luteinizante (LH): 9,8 mIU/mL",28,286
+"Hormona foliculoestimulante (FSH): 5,7 mIU/mL",28,286
+"Prolactina (PRL): 15,4 ng/mL",28,286
+"Hormona del crecimiento (STH): 8,63 ng/mL",28,286
+"25-hidroxivitamina D: 27,4 ng/mL",28,286
+"Insulinemia: 5,7 µU/mL",28,286
+Colesterol total: 238 mg/dL,28,287
+Lipoproteína de alta densidad (HDL): 86 mg/dL,28,287
+Lipoproteína de baja densidad (LDL): 142 mg/dL,28,287
+Creatina quinasa (CPK): 43 U/L,28,287
+Proteína C reactiva (PCR): negativa,28,287
+"Hormona estimulante de la tiroides (TSH): 2,39 mUI/L",28,287
+"Tiroxina libre (T4L): 0,89 ng/dL",28,287
+sin datos,28,288
+Calciuria: 330 mg/24h,28,289
+"Densitometría ósea: Columna lumbar L2-L4: 0,8 g/cm²",28,289
+"Cuello femoral: 1,8 g/cm²",28,289
+Eritrosedimentación: 4 mm/h,29,290
+Uremia: 37 mg/dL,29,290
+Lipoproteína de alta densidad (HDL): 40 mg/dL,29,290
+Lipoproteína de baja densidad (LDL): 140 mg/dL,29,290
+Triglicéridos: 114 mg/dL,29,290
+Glucosa: 103 mg/dL,29,290
+"Hormona luteinizante (LH): 4,9 mUI/mL",29,290
+"Hormona foliculoestimulante (FSH): 6,0 mUI/mL",29,290
+"Proteína C reactiva (PCR): 1,9 mg/dL",29,290
+"Homocisteína: 7,9 µmol/L",29,290
+Tiempo de tromboplastina parcial activada (TTPA): 4m55s,29,290
+Tiroxina libre (T4 libre): 101 ng/dL,29,290
+"Insulina: 28,6 µIU/mL",29,290
+"Hemoglobina glicosilada (HbA1c): 5,7%",29,291
+"Hormona estimulante de la tiroides (TSH): 4,21 mUI/L",29,291
+"Tiroxina libre (T4L): 1,25 ng/dL",29,291
+Fructosamina: 281 µmol/L,29,291
+Curva de glucosa: 204 mg/dL,29,291
+Glucosa: 119 mg/dL,29,291
+"Insulina basal: 4,5 µIU/mL",29,291
+Insulina a los 60 minutos: 53 µIU/mL,29,291
+Glucosa: 82 mg/dL,29,292
+"Calcio en suero: 10,3 mg/dL",29,292
+"Hormona estimulante de la tiroides (TSH): 3,06 mUI/L",29,292
+Tiroxina libre (T4 libre): 1 ng/dL,29,292
+"Prolactina (PRL): 10,1 ng/mL",29,292
+Factor de crecimiento similar a la insulina tipo 1 (IGF-1): 158 ng/mL,29,292
+"Hormona de crecimiento humano (HGH): 0,09 ng/mL",29,292
+"Fosfatasa alcalina ósea: 60,4 U/L",29,292
+sin datos,29,293
+resultados de laboratorio específicos,29,294
+sin datos,29,295
+sin datos,29,296
+sin datos,29,297
+Hemoglobina: 11 g/dL,29,298
+Triglicéridos: 115 mg/dL,29,298
+Lactato deshidrogenasa (LDH): normal,29,298
+"Hormona estimulante de la tiroides (TSH): 3,00 mUI/L",29,298
+"Hormona luteinizante (LH): 5,5 mUI/mL",29,298
+"Antígeno prostático específico (PSA): 0,29 ng/mL",29,298
+sin datos,29,299
+Eritrosedimentación: 4 mm/h,30,300
+Uremia: 37 mg/dL,30,300
+Lipoproteína de alta densidad (HDL): 40 mg/dL,30,300
+Lipoproteína de baja densidad (LDL): 140 mg/dL,30,300
+Triglicéridos: 114 mg/dL,30,300
+Glucosa: 103 mg/dL,30,300
+"Hormona luteinizante (LH): 4,9 mUI/mL",30,300
+"Hormona foliculoestimulante (FSH): 6,0 mUI/mL",30,300
+"Proteína C reactiva (PCR): 1,9 mg/dL",30,300
+"Homocisteína: 7,9 µmol/L",30,300
+Tiempo de tromboplastina parcial activada (TTPA): 4m55s,30,300
+Tiroxina libre (T4 libre): 101 ng/dL,30,300
+"Insulina: 28,6 µIU/mL",30,300
+Glucosa: 120 mg/dL,30,301
+Lipoproteína de baja densidad (LDL): 178 mg/dL,30,301
+Triglicéridos: 165 mg/dL,30,301
+"Proteína C reactiva (PCR): 1,86 mg/dL",30,301
+"Insulinemia: 12,1 mU/L",30,301
+"Estradiol (E2): 32,2 pg/mL",30,301
+Fructosamina: 268 µmol/L,30,301
+Resultados de laboratorio generales: normales,30,302
+sin datos,30,303
+sin datos,30,304
+sin datos,30,305
+Hormona luteinizante (LH): 4 mUI/mL,30,306
+"Hormona estimulante de la tiroides (TSH): 5,02 mUI/L",30,307
+"Tiroxina libre (T4L): 1,15 ng/dL",30,307
+sin datos,30,308
+sin datos,30,309
+sin datos,31,310
+Proteína C reactiva (PCR): 16 mg/L,31,311
+"Hormona estimulante de la tiroides (TSH): 1,87 mUI/L",31,311
+"Cortisol: 19,2 µg/dL",31,311
+"Cortisol vespertino: 7,9 µg/dL",31,311
+Hemoglobina: 20 g/dL,31,312
+Lipoproteína de alta densidad (HDL): 39 mg/dL,31,312
+Lipoproteína de baja densidad (LDL): 234 mg/dL,31,312
+Glucosa: 100 mg/dL,31,312
+Lipasa: 54 U/L,31,312
+Amilasa: 45 U/L,31,312
+"Proteína C reactiva (PCR): 31,20 mg/L",31,312
+"Hormona luteinizante (LH): 11,2 mIU/mL",31,312
+"Hormona foliculoestimulante (FSH): 6,7 mIU/mL",31,312
+Estradiol (E2): 32 pg/mL,31,312
+Homocisteína: 8 µmol/L,31,312
+"Cortisol: 15,9 µg/dL (vespertino: 8,1 µg/dL)",31,312
+Peso total: 100 kg,31,312
+Masa magra: 61 kg,31,312
+Masa grasa: 35 kg,31,312
+sin datos,31,313
+nivel de cortisol: 19 µg/dL,31,314
+Los resultados de laboratorio generales son normales,31,315
+sin datos,31,316
+Hormona luteinizante (LH): 15 mUI/mL,31,317
+"Testosterona libre: 1,130 ng/dL",31,317
+Estradiol (E2): 71 pg/mL,31,317
+Cortisol: 22 µg/dL,31,317
+Cortisol matutino 18 µg/dL,31,318
+Cortisol vespertino 14 µg/dL,31,318
+sin datos,31,319
+Peso: 85 kg,32,320
+Hormona foliculoestimulante (FSH): 4 mUI/mL,32,321
+"Bilirrubina directa: 1,87 mg/dL",32,321
+Cortisol matutino: 24 µg/dL,32,321
+Cortisol vespertino: 8 µg/dL,32,321
+Serotonina plaquetaria: indetectable,32,321
+glucosa 159 mg/dL,32,322
+"insulina 6,0 µU/mL",32,322
+"hemoglobina glicosilada (HbA1c) 7,0% (previamente 6,6%)",32,322
+Anticuerpos contra el ácido glutámico descarboxilasa (GAD) 120 U/mL,32,322
+sin datos,32,323
+glucemia: 83 mg/dL,32,324
+uremia: 56 mg/dL,32,324
+"ácido úrico: 7,5 mg/dL",32,324
+Lipoproteína de alta densidad (HDL): 50 mg/dL,32,324
+Lipoproteína de baja densidad (LDL): 157 mg/dL,32,324
+"Hormona estimulante de la tiroides (TSH): 2,6 mUI/L",32,324
+"Bioimpedancia (BIA) con mejora en masa muscular de 2,5",32,325
+"Masa muscular: 50,5 kg",32,325
+"Grasa corporal: 13,6%",32,325
+"Tensión arterial: elevada en 0,5",32,325
+Glucosa: 121 mg/dL,32,326
+"Hemoglobina glicosilada (HbA1c): 6,1%",32,326
+Cortisol: 14 µg/dL,32,326
+Colesterol total: 178 mg/dL,32,326
+"Hormona estimulante de la tiroides (TSH): 2,5 mUI/L",32,326
+"Insulina: 10,0 µIU/mL",32,326
+Velocidad de sedimentación globular (VSG): 31 mm/h,32,326
+Triglicéridos: 133 mg/dL,32,326
+sin datos,32,327
+sin datos,32,328
+Glucosa: 88 mg/dL,32,329
+Urea: 46 mg/dL,32,329
+"Creatinina: 1,2 mg/dL",32,329
+Glutamato piruvato transaminasa (GPT): 122 U/L,32,329
+Lipoproteína de alta densidad (HDL): 51 mg/dL,32,329
+Lipoproteína de baja densidad (LDL): 186 mg/dL,32,329
+"Hormona estimulante de la tiroides (TSH): 4,79 mUI/L",32,329
+Peso: 85 kg,32,329
+Grasa corporal: 27%,32,329
+Masa magra: 59 kg,32,329
+sin datos,33,330
+sin datos,33,331
+Niveles de testosterona adecuados en 2021,33,332
+Nivel de fructosamina: 293 µmol/L,33,333
+sin datos,33,334
+Hormona luteinizante (LH): 22 mUI/mL,33,335
+sin datos,33,336
+Glóbulos blancos: 12500/mm³,33,337
+Glucosa: 85 mg/dL,33,337
+Uremia: 42 mg/dL,33,337
+Colesterol total: 186 mg/dL,33,337
+"Hormona estimulante de la tiroides (TSH): 2,99 mUI/L",33,337
+"Hormona luteinizante (LH): 3,17 mUI/mL",33,337
+"Cortisol: 18,10 µg/dL",33,337
+"Bilirrubina total: 2,34 mg/dL",33,337
+Bilirrubina libre: 106 µmol/L,33,337
+Hematocrito: 28%,33,338
+Hemoglobina: 20 g/dL,33,338
+Glucosa: 84 mg/dL,33,338
+"Hemoglobina glicosilada (HbA1c): 5,0%",33,338
+Uremia: 29 mg/dL,33,338
+Lipoproteína de alta densidad (HDL): 53 mg/dL,33,338
+Lipoproteína de baja densidad (LDL): 207 mg/dL,33,338
+Triglicéridos: 62 mg/dL,33,338
+Colesterol total: 272 mg/dL,33,338
+Creatina quinasa (CPK): 38 U/L,33,338
+Hormona estimulante de la tiroides (TSH): 177 mUI/L,33,338
+"Prolactina: 14,8 ng/mL",33,338
+Estradiol (E2): 11 pg/mL,33,338
+"Insulina: 5,3 µU/mL",33,338
+"Cortisol: 16,7 µg/dL",33,338
+Factor reumatoide (FR): 4 UI/mL,33,338
+Serotonina: 48 ng/mL,33,338
+sin datos,33,339
+sin datos,34,340
+sin datos,34,341
+Testosterona: 116 ng/dL,34,342
+"Bilirrubina total: 2,67 mg/dL",34,342
+"Insulina: 5,8 µU/mL",34,342
+"Glucosa en ayunas: 25,1 mg/dL",34,342
+"Glucosa postprandial: 6,0 mg/dL",34,342
+Creatina quinasa (CPK): 264 U/L,34,342
+"Tirotropina (TSH): 0,34 mUI/L",34,343
+Hormona foliculoestimulante (FSH): 55 mUI/mL,34,343
+Estradiol (E2): 110 pg/mL,34,343
+Hemoglobina normal,34,344
+Glucosa 123 mg/dL,34,344
+Uremia 20 mg/dL,34,344
+Hepatograma normal,34,344
+Colesterol total 173 mg/dL,34,344
+Lipoproteína de baja densidad (LDL) 103 mg/dL,34,344
+Eritrosedimentación 19 mm/h,34,344
+Insulina libre 91 µU/mL,34,344
+"Insulina total 5,48 µU/mL",34,344
+"25-hidroxivitamina D 1,4 ng/mL",34,344
+Ferremia 77 µg/dL,34,344
+Creatina quinasa 53 U/L,34,344
+Antígeno carcinoembrionario (CA 19-9) normal,34,344
+"Antígeno prostático específico (PSA) 0,11 ng/mL",34,344
+"Hormona estimulante de la tiroides (TSH) 0,719 µIU/mL",34,344
+Hemoglobina esferocítica: 16 g/dL,34,345
+Glucosa: 86 mg/dL,34,345
+Fructosamina: 218 µmol/L,34,345
+Lipoproteína de alta densidad (HDL): 70 mg/dL,34,345
+"Hormona estimulante de la tiroides (TSH): 1,22 mUI/L",34,345
+"Prolactina: 10,4 ng/mL",34,345
+"Cortisol: 14,78 µg/dL (vespertino: 10,44 µg/dL)",34,345
+"Homocisteína: 12,7 µmol/L",34,345
+"25-hidroxivitamina D: 31,6 ng/mL",34,345
+Apolipoproteína A: 159 mg/dL,34,345
+Apolipoproteína B: 100 mg/dL,34,345
+Hormona luteinizante (LH): 22 mUI/mL,34,346
+"Hormona luteinizante (LH): 2,7 mUI/mL",34,347
+"Testosterona total: 6,67 ng/mL",34,347
+sin datos,34,348
+sin datos,34,349
+sin datos,35,350
+sin datos,35,351
+"semaglutida: 0,25 mg",35,352
+glucosa en sangre: 90 mg/dL,35,352
+fructosamina: 223 µmol/L,35,352
+"hemoglobina glicosilada (HbA1c): 4,6%",35,352
+"urea en sangre: 6,5 mg/dL",35,352
+lipoproteína de alta densidad (HDL): 40 mg/dL,35,352
+lipoproteína de baja densidad (LDL): 134 mg/dL,35,352
+amilasa sérica: 44 U/L,35,352
+lipasa: 47 U/L,35,352
+"hormona estimulante de la tiroides (TSH): 1,90 mIU/L",35,352
+"prolactina (PRL): 8,6 ng/mL",35,352
+"hormona luteinizante (LH): 4,6 mIU/mL",35,352
+testosterona libre: 134 pg/mL,35,352
+"cortisol: 15,6 µg/dL",35,352
+sin datos,35,353
+Aumento de masa muscular de 4-5g,35,354
+Nivel de estrés: 8,35,355
+Hormona paratiroidea (PTH): 94 pg/mL,35,356
+"Calcio iónico: 5,96 mg/dL",35,356
+sin datos,35,357
+Tirotropina (TSH): 3,35,358
+Tirotropina (TSH): 1.0,35,358
+25-hidroxivitamina D: 11 ng/mL,35,358
+"semaglutida: 0,25 mg",35,359
+glucosa en sangre: 90 mg/dL,35,359
+fructosamina: 223 µmol/L,35,359
+"hemoglobina glicosilada (HbA1c): 4,6%",35,359
+"urea en sangre: 6,5 mg/dL",35,359
+lipoproteína de alta densidad (HDL): 40 mg/dL,35,359
+lipoproteína de baja densidad (LDL): 134 mg/dL,35,359
+amilasa sérica: 44 U/L,35,359
+lipasa: 47 U/L,35,359
+"hormona estimulante de la tiroides (TSH): 1,90 mIU/L",35,359
+"prolactina (PRL): 8,6 ng/mL",35,359
+"hormona luteinizante (LH): 4,6 mIU/mL",35,359
+testosterona libre: 134 pg/mL,35,359
+"cortisol: 15,6 µg/dL",35,359
+consumiendo 200 gramos de proteína,36,360
+nivel de levotiroxina de 112 mcg/día,36,361
+Los resultados de laboratorio generales son normales,36,362
+Glóbulos blancos: 12500/mm³,36,363
+Glucosa: 85 mg/dL,36,363
+Uremia: 42 mg/dL,36,363
+Colesterol total: 186 mg/dL,36,363
+"Hormona estimulante de la tiroides (TSH): 2,99 mUI/L",36,363
+"Hormona luteinizante (LH): 3,17 mUI/mL",36,363
+"Cortisol: 18,10 µg/dL",36,363
+"Bilirrubina total: 2,34 mg/dL",36,363
+Bilirrubina libre: 106 µmol/L,36,363
+"toma 0,5 mg de Clonazepam dos veces al día",36,364
+Creatina post entrenamiento (5 g inmediatamente después),36,364
+"Tirotropina (TSH): 3,0 mUI/L",36,365
+Glucosa: 131 mg/dL,36,366
+"Hemoglobina glicosilada (HbA1c): 6,1%",36,366
+Fructosamina: 238 µmol/L,36,366
+glucosa e insulina normales,36,367
+"Hemoglobina glicosilada (HbA1c): 5,1%",36,367
+Dehidroepiandrosterona sulfato (DHEA-S): 449 µg/dL,36,367
+"Hormona estimulante de la tiroides (TSH): 2,39 mUI/L",36,368
+"Tiroxina libre (T4L): 0,68 ng/dL",36,368
+"Hemoglobina A1c (HbA1c): 4,7%",36,369
+Fructosamina: 196 µmol/L,36,369
+Lipoproteína de alta densidad (HDL): 72 mg/dL,36,369
+Lipoproteína de baja densidad (LDL): 55 mg/dL,36,369
+Resultados de laboratorio: normales,37,370
+sin datos,37,371
+sin datos,37,372
+sin datos,37,373
+"Hormona luteinizante (LH): 2,0 mUI/mL",37,374
+Testosterona total: 500 ng/dL,37,374
+Hemograma: eosinofilia,37,375
+"Recuento de glóbulos blancos: eosinofilia 21,5%",37,375
+Enzimas: Creatina fosfoquinasa (CPK) 102 U/L,37,375
+Glucemia: 96 mg/dL,37,375
+"Hemoglobina glicosilada (HbA1c): 5,2%",37,375
+Fructosamina: 253 µmol/L,37,375
+"Perfil lipídico: Lipoproteína de alta densidad (HDL) 50 mg/dL, Lipoproteína de baja densidad (LDL) 121 mg/dL, Triglicéridos (TG) 133 mg/dL",37,375
+"Homocisteína: 13,4 µmol/L",37,375
+"Proteína C reactiva (PCR): 4,1 mg/L",37,375
+"Cortisol: 14,0 µg/dL",37,375
+"Insulina: 6,9 µIU/mL",37,375
+Testosterona libre: 349 pg/mL,37,375
+Insulina: 32 mU/L,37,376
+"Hormona estimulante de la tiroides (TSH): 0,0003 mU/L",37,376
+Cortisol matutino: 18 mcg/dL,37,376
+Cortisol vespertino: 10 mcg/dL,37,376
+Estradiol (E2): 400 pg/mL,37,376
+Glucosa: 115 mg/dL,37,376
+Proteína C reactiva (PCR): 25 mg/L,37,376
+Estradiol (E2): 400 pg/mL,37,376
+Uremia: 39 mg/dL,37,377
+Lipoproteína de alta densidad (HDL): 49 mg/dL,37,377
+Lipoproteína de baja densidad (LDL): 183 mg/dL,37,377
+Glucosa en ayunas: 134 mg/dL,37,377
+"Hemoglobina glicosilada (HbA1c): 8,9%",37,377
+Creatinina en suero: 58 µmol/L,37,378
+Antitrombina III: 83%,37,379
+"Cortisol: 15,1 µg/dL",37,379
+"Hormona foliculoestimulante (FSH): 7,1 mUI/mL",37,379
+"Pril: 31,09",37,379
+Dehidroepiandrosterona sulfato (DHEA-S): 948 µg/dL,37,379
+"Hormona estimulante de la tiroides (TSH): 3,83 µUI/mL",37,379
+"Tiroxina libre (T4L): 1,09 ng/dL",37,379
+"Triyodotironina (T3): 1,05 ng/mL",37,379
+Peso 63 kg,37,379
+Masa grasa 22 kg,37,379
+Masa magra 36 kg,37,379
+sin datos,38,380
+sin datos,38,381
+Prolactina: 22 ng/mL,38,382
+Cortisol: 20 µg/dL,38,382
+Tiroxina libre: 300 pg/dL,38,382
+Tomó 40 mg de Stanozolol,38,383
+sin datos,38,384
+Niveles de cortisol: regulares,38,385
+Nivel de estrés: 7,38,386
+"Hormona estimulante de la tiroides (TSH): 0,2 mUI/L",38,387
+"Tiroxina libre (T4L): 2,21 ng/dL",38,387
+"Calcio en suero: 8,9 mg/dL",38,387
+Hormona paratiroidea intacta: 23 pg/mL,38,387
+"Tiroglobulina: 0,1 ng/mL",38,387
+Lipoproteína de baja densidad (LDL): 131 mg/dL,38,388
+Apolipoproteína A: 97 mg/dL,38,388
+Lipoproteína (a): 65 mg/dL,38,388
+sin datos,38,389
+"Uricemia: 7,5 mg/dL",39,390
+Lipoproteína de alta densidad (HDL): 45 mg/dL,39,390
+Lipoproteína de baja densidad (LDL): 113 mg/dL,39,390
+Triglicéridos: 194 mg/dL,39,390
+Fructosamina: 226 µmol/L,39,390
+Apolipoproteína A1: 113 mg/dL,39,390
+Apolipoproteína B: 101 mg/dL,39,390
+Glucosa: 92 mg/dL,39,390
+"Hemoglobina glicosilada (HbA1c): 22,1%",39,390
+"Homocisteína: 11,7 µmol/L",39,390
+"Prolactina: 11,6 ng/mL",39,390
+Dehidroepiandrosterona sulfato (DHEA-S): 1460 µg/dL,39,390
+"Hormona estimulante de la tiroides (TSH): 1,66 mUI/L",39,390
+Peso: 95 kg,39,390
+"Porcentaje de grasa corporal: 33,1%",39,390
+Grasa en tronco: 40%,39,390
+Masa magra: 62%,39,390
+sin datos,39,391
+"Hormona estimulante de la tiroides (TSH) post liberación de hormona tirotropina (TRH): 28,70 mUI/L",39,392
+"Triyodotironina inversa (T3 reversa): 0,07 ng/dL",39,392
+Plaquetas: 193 x10^3/uL,39,393
+Coagulograma: normal,39,393
+Glucosa: 107 mg/dL,39,393
+Fructosamina: 243 µmol/L,39,393
+Amilasa: 44 U/L,39,393
+Lipasa: 73 U/L,39,393
+Creatina quinasa (CPK): 237 U/L,39,393
+"Insulinemia: 9,4 µU/mL",39,393
+Hemoglobina 39 g/L,39,394
+Eritrosedimentación 36 mm/h,39,394
+Uremia 45 mg/dL,39,394
+"Proteína C reactiva 11,9 mg/dL",39,394
+Cortisol 22 µg/dL,39,394
+Fosfatasa alcalina 22 U/L,39,394
+Lipoproteína de alta densidad (HDL): 69 mg/dL,39,395
+Lipoproteína de baja densidad (LDL): 191 mg/dL,39,395
+Triglicéridos: 171 mg/dL,39,395
+sin datos,39,396
+sin datos,39,397
+Hemograma: eosinofilia,39,398
+"Recuento de glóbulos blancos: eosinofilia 21,5%",39,398
+Enzimas: Creatina fosfoquinasa (CPK) 102 U/L,39,398
+Glucemia: 96 mg/dL,39,398
+"Hemoglobina glicosilada (HbA1c): 5,2%",39,398
+Fructosamina: 253 µmol/L,39,398
+"Perfil lipídico: Lipoproteína de alta densidad (HDL) 50 mg/dL, Lipoproteína de baja densidad (LDL) 121 mg/dL, Triglicéridos (TG) 133 mg/dL",39,398
+"Homocisteína: 13,4 µmol/L",39,398
+"Proteína C reactiva (PCR): 4,1 mg/L",39,398
+"Cortisol: 14,0 µg/dL",39,398
+"Insulina: 6,9 µIU/mL",39,398
+Testosterona libre: 349 pg/mL,39,398
+Hormona estimulante de la tiroides (TSH): 30,39,399
+repetición de TSH: 13,39,399
+sin datos,40,400
+"Hormona luteinizante (LH): 5,0 mUI/mL",40,401
+"Testosterona libre: 1,71 ng/dL",40,401
+Lipoproteína de baja densidad (LDL): 180 mg/dL,40,401
+Lipoproteína de alta densidad (HDL): 39 mg/dL,40,401
+Dehidroepiandrosterona sulfato (DHEA-S): 1600 µg/dL,40,401
+Cortisol: 12 µg/dL,40,401
+Apolipoproteína A (APO A): 129 mg/dL,40,401
+Apolipoproteína B (APO B): 132 mg/dL,40,401
+Lipoproteína (a) (Lp(a)): 35 mg/dL,40,401
+sin datos,40,402
+sin datos,40,403
+Hemoglobina normal,40,404
+recuento de glóbulos blancos: 9000/uL,40,404
+Proteína C reactiva: 6 mg/L,40,404
+velocidad de sedimentación globular: 21 mm/h,40,404
+Creatina quinasa: 223 U/L,40,404
+"Hormona estimulante de la tiroides (TSH): 7,8 mIU/L",40,404
+"Hormona estimulante de la tiroides (TSH): 2,47 mUI/L",40,405
+Beta-2-Microglobulina: negativa,40,405
+Proteinograma: normal,40,405
+"Serotonina: 25,6 ng/mL",40,405
+Glucosa: 133 mg/dL,40,405
+sin datos,40,406
+Colesterol total: 198 mg/dL,40,407
+Triglicéridos: 324 mg/dL,40,407
+Lipoproteína de alta densidad (HDL): 51 mg/dL,40,407
+Lipoproteína de baja densidad (LDL): 82 mg/dL,40,407
+"Hormona estimulante de la tiroides (TSH): 4,47 mUI/L",40,407
+Tiroxina libre (T4L): 1 ng/dL,40,407
+Anticuerpos contra la peroxidasa tiroidea (ATPO): 46 UI/mL,40,407
+Anticuerpos contra la tiroglobulina (ATG): 20 UI/mL,40,407
+Vitamina D: 17 ng/mL,40,407
+Hemoglobina glicosilada: 6%,40,407
+Glucosa: 112 mg/dL,40,407
+Composición corporal (InBody): 22% de grasa corporal,40,408
+sin datos,40,409
+Curva glucémica con leve hipoglucemia,41,410
+Nivel de estrés: 8,41,411
+sin datos,41,412
+cortisol con ritmo circadiano invertido,41,413
+sin datos,41,414
+sin datos,41,415
+Duración del sueño: 6 horas,41,416
+tratada con 150 mcg de levotiroxina,41,417
+clonazepam 2 mg a las 23 horas,41,417
+aumento de peso de 10 kg en 1 mes,41,417
+Peso previo 120 kg con descenso de 40 kg,41,417
+Porcentaje de grasa corporal 21%,41,417
+Cortisol: 5 µg/dL,41,418
+"Hormona estimulante de la tiroides (TSH): 2,45 mUI/L",41,418
+Colesterol total: 238 mg/dL,41,419
+Lipoproteína de alta densidad (HDL): 86 mg/dL,41,419
+Lipoproteína de baja densidad (LDL): 142 mg/dL,41,419
+Creatina quinasa (CPK): 43 U/L,41,419
+Proteína C reactiva (PCR): negativa,41,419
+"Hormona estimulante de la tiroides (TSH): 2,39 mUI/L",41,419
+"Tiroxina libre (T4L): 0,89 ng/dL",41,419
+"toma 0,5 mg de Clonazepam dos veces al día",42,420
+Creatina post entrenamiento (5 g inmediatamente después),42,420
+Nivel de estrés: 8,42,421
+Hipovitaminosis D,42,422
+sin datos,42,423
+sin datos,42,424
+Niveles bajos de glucosilceramida beta-glucosidasa nocturna,42,425
+Disminución de somatotropina,42,425
+Creatina quinasa (CPK): 369 U/L,42,426
+Prolactina (PRL): 29 ng/mL,42,426
+sin datos,42,427
+Los resultados de laboratorio generales son normales,42,428
+sin datos,42,429
+Niveles de cortisol: 41,43,430
+"niveles de triyodotironina (T3): 0,4",43,430
+"hemoglobina glicosilada (HbA1c): 11,3",43,430
+"Hormona estimulante de la tiroides (TSH) post liberación de hormona tirotropina (TRH): 28,70 mUI/L",43,431
+"Triyodotironina inversa (T3 reversa): 0,07 ng/dL",43,431
+glucosa 159 mg/dL,43,432
+"insulina 6,0 µU/mL",43,432
+"hemoglobina glicosilada (HbA1c) 7,0% (previamente 6,6%)",43,432
+Anticuerpos contra el ácido glutámico descarboxilasa (GAD) 120 U/mL,43,432
+Colesterol total: 198 mg/dL,43,433
+Triglicéridos: 324 mg/dL,43,433
+Lipoproteína de alta densidad (HDL): 51 mg/dL,43,433
+Lipoproteína de baja densidad (LDL): 82 mg/dL,43,433
+"Hormona estimulante de la tiroides (TSH): 4,47 mUI/L",43,433
+Tiroxina libre (T4L): 1 ng/dL,43,433
+Anticuerpos contra la peroxidasa tiroidea (ATPO): 46 UI/mL,43,433
+Anticuerpos contra la tiroglobulina (ATG): 20 UI/mL,43,433
+Vitamina D: 17 ng/mL,43,433
+Hemoglobina glicosilada: 6%,43,433
+Glucosa: 112 mg/dL,43,433
+Prolactina: 22 ng/mL,43,434
+Cortisol: 20 µg/dL,43,434
+Tiroxina libre: 300 pg/dL,43,434
+sin datos,43,435
+sin datos,43,436
+"Tirotropina (TSH) 3,66 mUI/L",43,437
+niveles de testosterona en tercio superior,43,438
+sin datos,43,439
+Tiroxina (T4) y Triyodotironina (T3) disminuidas,44,440
+eritrosedimentación (ES): 10 mm/h,44,441
+Lipoproteína de baja densidad (LDL): 188 mg/dL,44,441
+Lipoproteína de alta densidad (HDL): 49 mg/dL,44,441
+Fructosamina: 280 µmol/L,44,441
+Apolipoproteína A1: 127 mg/dL,44,441
+Apolipoproteína B: 147 mg/dL,44,441
+Homocisteína: 151 µmol/L,44,441
+Testosterona total: 71 ng/dL,44,441
+Testosterona libre: 167 pg/mL,44,441
+"Insulina: 3,4 µU/mL",44,441
+Lipoproteína de baja densidad (LDL): 166 mg/dL,44,441
+Creatina quinasa (CPK): 166 U/L,44,441
+Apolipoproteína A1: 117 mg/dL,44,441
+Apolipoproteína B: 131 mg/dL,44,441
+"Hormona estimulante de la tiroides (TSH): 1,3 mU/L",44,441
+Creatina quinasa (CPK): 330 U/L,44,442
+"Hormona estimulante de la tiroides (TSH): 0,76 mUI/L",44,442
+Niveles de Selenio: 90 mcg/L,44,443
+Hormona foliculoestimulante (FSH): 10 mUI/mL,44,443
+Estradiol (E2): 108 pg/mL,44,443
+Dehidroepiandrosterona sulfato (DHEA-S): 800 µg/dL,44,443
+"Hemoglobina (Hb): 12,9 g/dL",44,443
+Ferritina: 21 ng/mL,44,443
+"Ácido fólico: 11,2 ng/mL",44,443
+Vitamina B12: 800 pg/mL,44,443
+Vitamina D: 22 ng/mL,44,443
+sin datos,44,444
+sin datos,44,445
+Frecuencia cardíaca: 70 latidos por minuto,44,446
+sin datos,44,447
+sin datos,44,448
+Triglicéridos: 89 mg/dL,44,449
+Lipoproteína de baja densidad (LDL): 126 mg/dL,44,449
+Glucosa: 100 mg/dL,44,449
+"Hormona luteinizante (LH): 3,6 mUI/mL",45,450
+"Hormona foliculoestimulante (FSH): 1,8 mUI/mL",45,450
+"Testosterona total: 3,7 ng/mL",45,450
+Testosterona libre: 287 pg/mL,45,450
+"Bilirrubina directa: 1,9 mg/dL",45,450
+"Uricemia: 7,5 mg/dL",45,451
+Lipoproteína de alta densidad (HDL): 45 mg/dL,45,451
+Lipoproteína de baja densidad (LDL): 113 mg/dL,45,451
+Triglicéridos: 194 mg/dL,45,451
+Fructosamina: 226 µmol/L,45,451
+Apolipoproteína A1: 113 mg/dL,45,451
+Apolipoproteína B: 101 mg/dL,45,451
+Glucosa: 92 mg/dL,45,451
+"Hemoglobina glicosilada (HbA1c): 22,1%",45,451
+"Homocisteína: 11,7 µmol/L",45,451
+"Prolactina: 11,6 ng/mL",45,451
+Dehidroepiandrosterona sulfato (DHEA-S): 1460 µg/dL,45,451
+"Hormona estimulante de la tiroides (TSH): 1,66 mUI/L",45,451
+Peso: 95 kg,45,451
+"Porcentaje de grasa corporal: 33,1%",45,451
+Grasa en tronco: 40%,45,451
+Masa magra: 62%,45,451
+sin datos,45,452
+sin datos,45,453
+sin datos,45,454
+Glucosa: 120 mg/dL,45,455
+Lipoproteína de baja densidad (LDL): 178 mg/dL,45,455
+Triglicéridos: 165 mg/dL,45,455
+"Proteína C reactiva (PCR): 1,86 mg/dL",45,455
+"Insulinemia: 12,1 mU/L",45,455
+"Estradiol (E2): 32,2 pg/mL",45,455
+Fructosamina: 268 µmol/L,45,455
+sin datos,45,456
+sin datos,45,457
+sin datos,45,458
+Serotonina plasmática: 88 ng/mL,45,459
+"Triyodotironina libre (T3L): 2,1 pg/mL",45,459
+"Hormona estimulante de la tiroides (TSH): 1,0 mUI/L",45,459
+Dehidroepiandrosterona (DHEA): 25 µg/dL,45,459
+Testosterona libre: 440 pg/mL,46,460
+"Hormona luteinizante (LH): 2,4 mUI/mL",46,460
+"Hormona estimulante de la tiroides (TSH): 2,47 mUI/L",46,461
+Beta-2-Microglobulina: negativa,46,461
+Proteinograma: normal,46,461
+"Serotonina: 25,6 ng/mL",46,461
+Glucosa: 133 mg/dL,46,461
+"Proteína C reactiva (PCR): 5,9 mg/L",46,462
+Creatina fosfoquinasa (CPK): 161 U/L,46,462
+sin datos,46,463
+Calciuria: 330 mg/24h,46,464
+"Densitometría ósea: Columna lumbar L2-L4: 0,8 g/cm²",46,464
+"Cuello femoral: 1,8 g/cm²",46,464
+sin datos,46,465
+sin datos,46,466
+Resultados de laboratorio y hormonales: normales,46,467
+"Hematocrito 39,7%",46,468
+"Hormona luteinizante (LH): 5,0 mUI/mL",46,469
+"Testosterona libre: 1,71 ng/dL",46,469
+Lipoproteína de baja densidad (LDL): 180 mg/dL,46,469
+Lipoproteína de alta densidad (HDL): 39 mg/dL,46,469
+Dehidroepiandrosterona sulfato (DHEA-S): 1600 µg/dL,46,469
+Cortisol: 12 µg/dL,46,469
+Apolipoproteína A (APO A): 129 mg/dL,46,469
+Apolipoproteína B (APO B): 132 mg/dL,46,469
+Lipoproteína (a) (Lp(a)): 35 mg/dL,46,469
+Colesterol total: 172 mg/dL,47,470
+Lipoproteína de baja densidad (LDL): 77 mg/dL,47,470
+Lipoproteína de alta densidad (HDL): 28 mg/dL,47,470
+Triglicéridos: 387 mg/dL,47,470
+Fructosamina: 273 µmol/L,47,470
+"Hemoglobina glicosilada (HbA1c): 7,6%",47,470
+Glucosa: 162 mg/dL,47,470
+Serotonina: 65 ng/mL,47,470
+"Cortisol: 13,6 µg/dL",47,470
+"Cortisol vespertino: 9,3 µg/dL",47,470
+Homocisteína: 11 µmol/L,47,470
+"Deshidrogenasa succínica (SDHA): 2,58 U/L",47,470
+"Hormona estimulante de la tiroides (TSH): 1,1 mIU/L",47,470
+"Prolactina (PRL): 5,6 ng/mL",47,470
+Deshidrogenasa succínica (SDHA): 597 U/L,47,470
+"Hormona estimulante de la tiroides (TSH) post liberación de hormona tirotropina (TRH): 28,70 mUI/L",47,471
+"Triyodotironina inversa (T3 reversa): 0,07 ng/dL",47,471
+sin datos,47,472
+Cortisol matutino: 24 µg/dL,47,473
+sin datos,47,474
+sin datos,47,475
+Prolactina: 22 ng/mL,47,476
+Cortisol: 20 µg/dL,47,476
+Tiroxina libre: 300 pg/dL,47,476
+"Hormona estimulante de la tiroides (TSH) post liberación de hormona tirotropina (TRH): 28,70 mUI/L",47,477
+"Triyodotironina inversa (T3 reversa): 0,07 ng/dL",47,477
+"toma 0,5 mg de Clonazepam dos veces al día",47,478
+Creatina post entrenamiento (5 g inmediatamente después),47,478
+Nivel de estrés de 6-7,47,479
+sin datos,48,480
+dimensiones 13x8x8 mm,48,481
+Glucosa en sangre previa: 142 mg/dL,48,482
+Eritrosedimentación previa: 16 mm/h,48,482
+"Hemoglobina glicosilada (HbA1c): 6,4%",48,482
+"Proteína C reactiva (PCR) previa: 1,3 mg/dL",48,482
+"Cortisol previo: 7,6 µg/dL",48,482
+Insulina: 21 µIU/mL,48,482
+Glucosa en sangre actual: 126 mg/dL,48,482
+"Proteína C reactiva (PCR) actual: 1,2 mg/dL",48,482
+Eritrosedimentación actual: 39 mm/h,48,482
+Fructosamina: 247 µmol/L,48,482
+Cortisol actual: 15 µg/dL,48,482
+niveles de cortisol de 25,48,483
+Apolipoproteína A1: 160 mg/dL,48,484
+Apolipoproteína B: 107 mg/dL,48,484
+"Calcio iónico: 1,07 mmol/L",48,484
+nivel de cortisol: 19 µg/dL,48,485
+cortisol: 28 (vespertino: 12),48,486
+Prolactina (PRL): 23,48,486
+Sulfato de dehidroepiandrosterona (DHEA-S): 700,48,486
+Vitamina D: 20,48,486
+"Talla objetivo 1,70 m",48,487
+"Hormona estimulante de la tiroides (TSH): 0,32 mUI/L",48,488
+Cortisol: 23 µg/dL en la tarde,48,488
+12 µg/dL en la noche,48,488
+sin datos,48,489
+Prueba de tolerancia oral a la glucosa (PTOG) reciente con resultados límite,49,490
+Hemoglobina Normal,49,491
+Eritrosedimentación 5,49,491
+Glucosa 104 mg/dL,49,491
+Colesterol total 186 mg/dL,49,491
+Lipoproteína de alta densidad (HDL) 41 mg/dL,49,491
+Lipoproteína de baja densidad (LDL) 128 mg/dL,49,491
+Triglicéridos 135 mg/dL,49,491
+Creatina quinasa (CPK) 105 U/L,49,491
+Ferritina 91 ng/mL,49,491
+"Tiroxina (T4) 2,90 ng/dL",49,491
+Tiroxina libre (T4 libre) 279 pg/dL,49,491
+"Cortisol 6,6 mcg/dL",49,491
+"Hormona foliculoestimulante (FSH) 4,09 mUI/mL",49,491
+Insulina 22 mUI/L,49,491
+"Tiroxina (T4) 2,2 ng/dL",49,491
+"Cortisol 6,61 mcg/dL",49,491
+Homocisteína 10 µmol/L,49,491
+"25-hidroxivitamina D 27,7 ng/mL",49,491
+Hemoglobina: 9 g/dL,49,492
+Glucosa: 87 mg/dL,49,492
+Uremia: 23 mg/dL,49,492
+Colesterol total: 199 mg/dL,49,492
+Lipoproteína de alta densidad (HDL): 45 mg/dL,49,492
+Lipoproteína de baja densidad (LDL): 133 mg/dL,49,492
+Triglicéridos: 105 mg/dL,49,492
+"Insulina: 8,4 µU/mL",49,492
+"Proteína C reactiva (PCR): 2,8 mg/L",49,492
+Serotonina: no detectada,49,492
+Lipoproteína de baja densidad (LDL): 131 mg/dL,49,493
+Apolipoproteína A: 97 mg/dL,49,493
+Lipoproteína (a): 65 mg/dL,49,493
+"Bioimpedancia: mejora en masa muscular (1 kg), disminución en tejido adiposo (1,4%)",49,494
+"Hormona luteinizante (LH) 2,0 mUI/mL",49,494
+Testosterona libre 141 pg/mL,49,494
+sin datos,49,495
+sin datos,49,496
+sin datos,49,497
+Nivel de estrés: 7,49,498
+sin datos,49,499
+"Hemoglobina glicosilada (HbA1c): 7,6%",50,500
+sin datos,50,501
+vitamina D 100.000 UI,50,502
+"Hormona estimulante de la tiroides (TSH) 5,0 mUI/L",50,502
+"Calcio en sangre 9,3 mg/dL",50,502
+"Calcio iónico 4,8 mg/dL",50,502
+"Fosfatasa alcalina (FAL) 3,9 U/L",50,502
+"cuello femoral 2020: 0,561 g/cm2, T-score -2,6",50,502
+"2022: 0,642 g/cm2, T-score -2,8",50,502
+"Columna L2-L4 2022: 0,997 g/cm2 (previo 0,75 g/cm2)",50,502
+"Hormona estimulante de la tiroides (TSH): 3,7 mUI/L",50,503
+Serotonina: 47 ng/mL,50,503
+hipercortisolismo,50,504
+hormona adrenocorticotrópica (ACTH) elevada,50,504
+Niveles de cortisol: 24 ug/dL,50,505
+"niveles de insulina: 23,5 uIU/mL",50,505
+"Proteína C reactiva (PCR): 18,32 mg/L",50,505
+"recuento de glóbulos blancos: 15,3 x10^3/uL",50,505
+sin datos,50,506
+levotiroxina 150 mcg,50,507
+Metformina 1000 mg,50,507
+leucopenia,50,508
+niveles bajos de triyodotironina (T3),50,508
+hipercortisolemia,50,508
+sin datos,50,509
+Prolactina (PRL): 35 ng/mL,51,510
+macroadenoma: 17%,51,510
+sin datos,51,511
+"Hormona luteinizante (LH): 2,4 mUI/mL",51,512
+Testosterona libre: 88 pg/mL,51,512
+"Bilirrubina directa (BD): 2,04 mg/dL",51,512
+"Hormona estimulante de la tiroides (TSH): 3,51 µUI/mL",51,512
+Cortisol: 17 µg/dL,51,512
+exceso de peso de 4 kg,51,513
+Hemoglobina normal,51,514
+Glucosa 123 mg/dL,51,514
+Uremia 20 mg/dL,51,514
+Hepatograma normal,51,514
+Colesterol total 173 mg/dL,51,514
+Lipoproteína de baja densidad (LDL) 103 mg/dL,51,514
+Eritrosedimentación 19 mm/h,51,514
+Insulina libre 91 µU/mL,51,514
+"Insulina total 5,48 µU/mL",51,514
+"25-hidroxivitamina D 1,4 ng/mL",51,514
+Ferremia 77 µg/dL,51,514
+Creatina quinasa 53 U/L,51,514
+Antígeno carcinoembrionario (CA 19-9) normal,51,514
+"Antígeno prostático específico (PSA) 0,11 ng/mL",51,514
+"Hormona estimulante de la tiroides (TSH) 0,719 µIU/mL",51,514
+sin datos,51,515
+Peso actual: 102 kg,51,516
+"Composición corporal: 64,5% masa magra, 32% grasa",51,516
+Glucosa: 88 mg/dL,51,516
+"Hemoglobina glicosilada (HbA1c): 5,2%",51,516
+Uremia: 35 mg/dL,51,516
+Colesterol total: 138 mg/dL,51,516
+Lipoproteína de baja densidad (LDL): 81 mg/dL,51,516
+Lipoproteína de alta densidad (HDL): 44 mg/dL,51,516
+Triglicéridos: 67 mg/dL,51,516
+Sulfato de dehidroepiandrosterona (DHEA-S): 278 µg/dL,51,516
+"Hormona estimulante de la tiroides (TSH): 1,85 mUI/L",51,516
+"Tiroxina libre (T4 libre): 1,75 ng/dL",51,516
+"Tiroxina total (T4 total): 3,80 ng/dL",51,516
+"Cortisol: 16,3 µg/dL",51,516
+Hemograma: eosinofilia,51,517
+"Recuento de glóbulos blancos: eosinofilia 21,5%",51,517
+Enzimas: Creatina fosfoquinasa (CPK) 102 U/L,51,517
+Glucemia: 96 mg/dL,51,517
+"Hemoglobina glicosilada (HbA1c): 5,2%",51,517
+Fructosamina: 253 µmol/L,51,517
+"Perfil lipídico: Lipoproteína de alta densidad (HDL) 50 mg/dL, Lipoproteína de baja densidad (LDL) 121 mg/dL, Triglicéridos (TG) 133 mg/dL",51,517
+"Homocisteína: 13,4 µmol/L",51,517
+"Proteína C reactiva (PCR): 4,1 mg/L",51,517
+"Cortisol: 14,0 µg/dL",51,517
+"Insulina: 6,9 µIU/mL",51,517
+Testosterona libre: 349 pg/mL,51,517
+sin datos,51,518
+sin datos,51,519
+"Hormona estimulante de la tiroides (TSH): 4,92 mUI/L",52,520
+sin datos,52,521
+"Cortisol: 6,5 µg/dL",52,522
+"Hormona estimulante de la tiroides (TSH): 1,58 mUI/L",52,522
+Hemoglobina,52,523
+Magnesio,52,523
+sin datos,52,524
+sin datos,52,525
+Lipoproteína de baja densidad (LDL): 160 mg/dL,52,526
+Triglicéridos: 102 mg/dL,52,526
+"Hormona estimulante de la tiroides (TSH): 1,60 mUI/L",52,526
+Glucosa: 115 mg/dL,52,527
+Uremia: 40 mg/dL,52,527
+Triglicéridos: 138 mg/dL,52,527
+Creatina quinasa (CPK): 37 U/L,52,527
+"Calcio en sangre: 10,7 mg/dL",52,527
+"Fosfato en sangre: 3,5 mg/dL",52,527
+"Vitamina D: 18,1 ng/mL",52,527
+"Densidad mineral ósea (DMO) columna lumbar (AP): -0,5%",52,527
+"cuello femoral (CF): +1,5%",52,527
+sin datos,52,528
+"Calcio iónico: 5,14 mmol/L",52,529
+Prolactina (PRL): 35 ng/mL,53,530
+macroadenoma: 17%,53,530
+Lipoproteína de baja densidad (LDL): 110 mg/dL,53,531
+Lipoproteína A: 20 mg/dL,53,531
+"Hormona estimulante de la tiroides (TSH): 0,11 mUI/L",53,531
+"Tiroxina libre (T4L): 0,84 ng/dL",53,531
+"Cortisol: 8,9 µg/dL",53,531
+"Cortisol vespertino: 6,8 µg/dL",53,531
+Serotonina plaquetaria: indetectable,53,531
+"toma 0,5 mg de Clonazepam dos veces al día",53,532
+Creatina post entrenamiento (5 g inmediatamente después),53,532
+sin datos,53,533
+sin datos,53,534
+sin datos,53,535
+Dehidroepiandrosterona (DHEA): 386 ug/dL,53,536
+"Antígeno prostático específico (PSA): 3,45 ng/mL",53,536
+Glutamato piruvato transaminasa (GPT): 40 U/L,53,537
+"Hormona estimulante de la tiroides (TSH): 6,32 mUI/L",53,537
+"Tiroxina libre (T4L): 1,21 ng/dL",53,537
+"Calcio iónico: 5,14 mmol/L",53,538
+sin datos,53,539
+sin datos,54,540
+"Hormona luteinizante (LH): 2,7 mUI/mL",54,541
+"Testosterona total: 6,67 ng/mL",54,541
+sin datos,54,542
+"Hormona estimulante de la tiroides (TSH): 2,4 mUI/L",54,543
+Cortisol: 30 µg/dL,54,543
+sin datos,54,544
+sin datos,54,545
+Anticuerpos antinucleares (ANA) positivos con una dilución de 1/160,54,546
+Albúmina: normal,54,547
+Hemoglobina: normal,54,547
+Lipoproteína de alta densidad (HDL): 66 mg/dL,54,547
+Lipoproteína de baja densidad (LDL): 142 mg/dL,54,547
+Cortisol matinal: 14 µg/dL,54,547
+Cortisol vespertino: 9 µg/dL,54,547
+Variabilidad de la frecuencia cardíaca (HRV): normal,54,547
+sin datos,54,548
+sin datos,54,549
+sin datos,55,550
+"Hormona estimulante de la tiroides (TSH): 3,8 mUI/L",55,551
+Hormona luteinizante (LH): 8 mUI/mL,55,551
+Testosterona: 11 ng/mL,55,551
+"Cortisol: 24,8 µg/dL",55,551
+"Vitamina D: 18,8 ng/mL",55,551
+Tiroxina (T4) y Triyodotironina (T3) disminuidas,55,552
+Colesterol total: 238 mg/dL,55,553
+Lipoproteína de alta densidad (HDL): 86 mg/dL,55,553
+Lipoproteína de baja densidad (LDL): 142 mg/dL,55,553
+Creatina quinasa (CPK): 43 U/L,55,553
+Proteína C reactiva (PCR): negativa,55,553
+"Hormona estimulante de la tiroides (TSH): 2,39 mUI/L",55,553
+"Tiroxina libre (T4L): 0,89 ng/dL",55,553
+sin datos,55,554
+Creatina quinasa (CPK): 62 U/L,55,555
+Proteína C reactiva (PCR): baja,55,555
+Hormona luteinizante (LH): 7 mUI/mL,55,555
+"Hormona foliculoestimulante (FSH): 6,3 mUI/mL",55,555
+"Prolactina (PRL): 9,1 ng/mL",55,555
+Dehidroepiandrosterona sulfato (DHEA-S): 2390 µg/dL,55,555
+"Tiroxina (T4): 3,78 µg/dL",55,555
+"Tiroxina libre (T4 libre): 87,20 ng/dL",55,555
+"Bilirrubina total (T bilirrubina): 2,01 mg/dL",55,555
+"Insulina: 3,7 µIU/mL",55,555
+"Cortisol vespertino: 5,4 µg/dL",55,555
+Eritrosedimentación: 18 mm/h,55,556
+Lipoproteína de alta densidad (HDL): 62 mg/dL,55,556
+Lipoproteína de baja densidad (LDL): 202 mg/dL,55,556
+Triglicéridos: 129 mg/dL,55,556
+Creatina quinasa (CPK): 83 U/L,55,556
+Fructosamina: 232 µmol/L,55,556
+"Hemoglobina glicosilada (HbA1c): 5,1%",55,556
+Proteína C reactiva (PCR): 5 mg/L,55,556
+Serotonina: 226 ng/mL,55,556
+"Cortisol: 16,6 µg/dL",55,556
+"Veserino: 5,4",55,556
+"Hormona luteinizante (LH): 9,8 mIU/mL",55,556
+"Hormona foliculoestimulante (FSH): 5,7 mIU/mL",55,556
+"Prolactina (PRL): 15,4 ng/mL",55,556
+"Hormona del crecimiento (STH): 8,63 ng/mL",55,556
+"25-hidroxivitamina D: 27,4 ng/mL",55,556
+"Insulinemia: 5,7 µU/mL",55,556
+"Hemoglobina glicosilada (HbA1c): 5,7%",55,557
+"Hormona estimulante de la tiroides (TSH): 4,21 mUI/L",55,557
+"Tiroxina libre (T4L): 1,25 ng/dL",55,557
+Fructosamina: 281 µmol/L,55,557
+Curva de glucosa: 204 mg/dL,55,557
+Glucosa: 119 mg/dL,55,557
+"Insulina basal: 4,5 µIU/mL",55,557
+Insulina a los 60 minutos: 53 µIU/mL,55,557
+Calcio en sangre: normal,55,558
+Hemoglobina: 19 g/dL,55,559
+"Uremia: 5,4 mg/dL",55,559
+Lipoproteína de baja densidad (LDL): 125 mg/dL,55,559
+Nivel de estrés: 8,56,560
+Peso actual: 88 kg,56,561
+dosis de levotiroxina: 125 mcg,56,561
+sin datos,56,562
+Dos unidades internacionales de medicamento no especificado,56,563
+sin datos,56,564
+sin datos,56,565
+sin datos,56,566
+Aumento de masa muscular de 4-5g,56,567
+sin datos,56,568
+sin datos,56,569
+sin datos,57,570
+"Cortisol: 6,5 µg/dL",57,571
+"Hormona estimulante de la tiroides (TSH): 1,58 mUI/L",57,571
+sin datos,57,572
+Testosterona: 116 ng/dL,57,573
+"Bilirrubina total: 2,67 mg/dL",57,573
+"Insulina: 5,8 µU/mL",57,573
+"Glucosa en ayunas: 25,1 mg/dL",57,573
+"Glucosa postprandial: 6,0 mg/dL",57,573
+Creatina quinasa (CPK): 264 U/L,57,573
+Alanina aminotransferasa (ALT/GPT): 88 U/L,57,574
+Lipoproteína de alta densidad (HDL): 17 mg/dL,57,574
+sin datos,57,575
+sin datos,57,576
+sin datos,57,577
+Hemoglobina: 18 g/dL,57,578
+Colesterol total: 158 mg/dL,57,578
+Lipoproteína de baja densidad (LDL): 92 mg/dL,57,578
+Gamma-glutamil transferasa (GGT): 18 U/L,57,578
+Creatina quinasa (CPK): 137 U/L,57,578
+"Hormona estimulante de la tiroides (TSH): 3,20 mUI/L",57,578
+"Antígeno prostático específico (PSA): 1,93 ng/mL",57,578
+sin datos,57,579
+sin datos,58,580
+"Hormona estimulante de la tiroides (TSH): 0,2 mUI/L",58,581
+"Tiroxina libre (T4L): 2,21 ng/dL",58,581
+"Calcio en suero: 8,9 mg/dL",58,581
+Hormona paratiroidea intacta: 23 pg/mL,58,581
+"Tiroglobulina: 0,1 ng/mL",58,581
+sin datos,58,582
+Hemoglobina: 4 g/dL,58,583
+Lipoproteína de alta densidad (HDL): 47 mg/dL,58,583
+Lipoproteína de baja densidad (LDL): 137 mg/dL,58,583
+Triglicéridos: 76 mg/dL,58,583
+Fructosamina: 253 µmol/L,58,583
+"Tiempo de protrombina: 9,42 segundos",58,583
+"Tiempo de tromboplastina parcial activada: 3,6 segundos",58,583
+Mejoría en la masa muscular de 3 kg,58,583
+disminución de tejido adiposo de 2 kg,58,583
+sin datos,58,584
+Glucosa en sangre previa: 142 mg/dL,58,585
+Eritrosedimentación previa: 16 mm/h,58,585
+"Hemoglobina glicosilada (HbA1c): 6,4%",58,585
+"Proteína C reactiva (PCR) previa: 1,3 mg/dL",58,585
+"Cortisol previo: 7,6 µg/dL",58,585
+Insulina: 21 µIU/mL,58,585
+Glucosa en sangre actual: 126 mg/dL,58,585
+"Proteína C reactiva (PCR) actual: 1,2 mg/dL",58,585
+Eritrosedimentación actual: 39 mm/h,58,585
+Fructosamina: 247 µmol/L,58,585
+Cortisol actual: 15 µg/dL,58,585
+sin datos,58,586
+sin datos,58,587
+Niveles de cortisol: regulares,58,588
+sin datos,58,589
+sin datos,59,590
+Edad: 10 años,59,591
+Hemoglobina glicosilada (HbA1c): 204 mg/dL,59,591
+Lipoproteína de alta densidad (HDL): 72 mg/dL,59,591
+Lipoproteína de baja densidad (LDL): 132 mg/dL,59,591
+Triglicéridos: 60 mg/dL,59,591
+"Cortisol: 15,32 µg/dL",59,591
+Factor de crecimiento similar a la insulina tipo 1 (IGF-1): 217 ng/mL,59,591
+"Hormona estimulante de la tiroides (TSH): 3,19 mUI/L",59,591
+"Hormona estimulante de la tiroides (TSH): 0,2 mUI/L",59,592
+"Tiroxina libre (T4L): 2,21 ng/dL",59,592
+"Calcio en suero: 8,9 mg/dL",59,592
+Hormona paratiroidea intacta: 23 pg/mL,59,592
+"Tiroglobulina: 0,1 ng/mL",59,592
+Hemoglobina normal,59,593
+Glucosa: 90 mg/dL,59,593
+Proteína C reactiva (PCR): 3 mg/L,59,593
+"Insulina: 8,7 µU/mL",59,593
+Amilasa: 65 U/L,59,593
+Lipasa: 37 U/L,59,593
+"Hormona estimulante de la tiroides (TSH): 2,42 µIU/mL",59,593
+"Triyodotironina (T3): 0,72 ng/dL",59,593
+Hormona foliculoestimulante (FSH): 14 mIU/mL,59,593
+Hormona luteinizante (LH): 33 mIU/mL,59,593
+Prolactina (PRL): 26 ng/mL,59,593
+"Homocisteína: 6,7 µmol/L",59,593
+Zinc: 97 µg/dL,59,593
+Vitamina D: 59 ng/mL,59,593
+"Hormona luteinizante (LH): 6,6 mUI/mL",59,594
+"Testosterona: 1,74 ng/mL",59,594
+Creatina quinasa (CPK): 154 U/L,59,595
+"Hormona foliculoestimulante (FSH): 1,5 mUI/mL",59,595
+"Hormona luteinizante (LH): 2,3 mUI/mL",59,595
+"Testosterona total (Tot): 8,32 ng/mL",59,595
+Prolactina (PRL): 24 ng/mL,59,595
+"Cortisol matutino: 22,6 µg/dL",59,595
+Cortisol nocturno: negativo,59,595
+Prolactina (PRL): 22 ng/mL,59,595
+"Hemoglobina (Hb): 12,2 g/dL",59,596
+Hematocrito (Hto): 27%,59,596
+"Ácido úrico: 3,3 mg/dL",59,596
+Lipoproteína de alta densidad (HDL): 66 mg/dL,59,596
+Lipoproteína de baja densidad (LDL): 79 mg/dL,59,596
+Triglicéridos (Tg): 40 mg/dL,59,596
+Glucosa: 101 mg/dL,59,596
+"Hormona estimulante de la tiroides (TSH): 1,53 mUI/L",59,596
+"Vitamina D: 20,4 ng/mL",59,596
+"Cortisol serotonina: 13,9 ng/mL",59,596
+"Cortisol vespertino: 3,1 ng/mL",59,596
+"Insulina: 7,6 µU/mL",59,596
+"Ferritina: 3,13 ng/mL",59,596
+Creatina quinasa (CPK): 50 U/L,59,596
+Anticuerpos antinucleares (ANA) positivos con una dilución de 1/160,59,597
+sin datos,59,598
+sin datos,59,599
+Suplementación con beta-hidroxi-beta-metilbutirato (HMB) y creatina: 5 g al día,60,600
+sin datos,60,601
+sin datos,60,602
+Creatina fosfoquinasa (CPK): 400 U/L,60,603
+Urea: 58 mg/dL,60,603
+"Creatinina: 1,3 mg/dL",60,603
+Metabolismo basal medido,60,604
+Insulina: 32 mU/L,60,605
+"Hormona estimulante de la tiroides (TSH): 0,0003 mU/L",60,605
+Cortisol matutino: 18 mcg/dL,60,605
+Cortisol vespertino: 10 mcg/dL,60,605
+Estradiol (E2): 400 pg/mL,60,605
+Glucosa: 115 mg/dL,60,605
+Proteína C reactiva (PCR): 25 mg/L,60,605
+Estradiol (E2): 400 pg/mL,60,605
+sin datos,60,606
+Hemoglobina: 10 g/dL,60,607
+Ferritina: 291 ng/mL,60,607
+Urea: 31 mg/dL,60,607
+"Ácido úrico: 4,2 mg/dL",60,607
+Lipoproteína de alta densidad (HDL): 58 mg/dL,60,607
+Lipoproteína de baja densidad (LDL): 174 mg/dL,60,607
+Triglicéridos: 41 mg/dL,60,607
+Colesterol total: 241 mg/dL,60,607
+Creatina fosfoquinasa (CPK): 98 U/L,60,607
+Fructosamina: 265 µmol/L,60,607
+Lactato deshidrogenasa (LDH): 146 U/L,60,607
+Apolipoproteína A: 151 mg/dL,60,607
+Apolipoproteína B: 124 mg/dL,60,607
+Glucosa: 87 mg/dL,60,607
+"Hemoglobina glicosilada (HbA1c): 4,9%",60,607
+"Proteína C reactiva (PCR): 2,15 mg/L",60,607
+"Prolactina: 13,4 ng/mL",60,607
+"Homocisteína: 11,8 µmol/L",60,607
+Dehidroepiandrosterona sulfato (DHEA-S): 1240 µg/dL,60,607
+Tolerancia oral a la glucosa (TOG): 112 mg/dL,60,607
+"Cortisol: 21,2 µg/dL",60,608
+Dehidroepiandrosterona sulfato (DHEA-S): 46 µg/dL,60,608
+sin datos,60,609
+Peso actual: 88 kg,61,610
+dosis de levotiroxina: 125 mcg,61,610
+sin datos,61,611
+"Hematocrito: 39,9%",61,612
+Lipoproteína de baja densidad (LDL): 11 mg/dL,61,612
+Lipoproteína de alta densidad (HDL): 39 mg/dL,61,612
+Triglicéridos: 74 mg/dL,61,612
+"Hormona foliculoestimulante (FSH): 8,3 mUI/mL",61,612
+"Hormona luteinizante (LH): 6,1 mUI/mL",61,612
+"Prolactina: 2,8 ng/mL",61,612
+"Testosterona: 3,98 ng/mL",61,612
+Eritrosedimentación: 32 mm/h,61,612
+Ferritina: 885 ng/mL,61,612
+"Hormona estimulante de la tiroides (TSH): 2,69 mUI/L",61,612
+"Cortisol: 20,70 µg/dL",61,612
+sin datos,61,613
+Hormona estimulante de la tiroides (TSH): 8 mUI/L,61,614
+sin datos,61,615
+sin datos,61,616
+sin datos,61,617
+"Tirotropina (TSH) 1,5 mUI/L",61,618
+Vitamina D 9 ng/mL,61,618
+"Uricemia: 7,5 mg/dL",61,619
+Lipoproteína de alta densidad (HDL): 45 mg/dL,61,619
+Lipoproteína de baja densidad (LDL): 113 mg/dL,61,619
+Triglicéridos: 194 mg/dL,61,619
+Fructosamina: 226 µmol/L,61,619
+Apolipoproteína A1: 113 mg/dL,61,619
+Apolipoproteína B: 101 mg/dL,61,619
+Glucosa: 92 mg/dL,61,619
+"Hemoglobina glicosilada (HbA1c): 22,1%",61,619
+"Homocisteína: 11,7 µmol/L",61,619
+"Prolactina: 11,6 ng/mL",61,619
+Dehidroepiandrosterona sulfato (DHEA-S): 1460 µg/dL,61,619
+"Hormona estimulante de la tiroides (TSH): 1,66 mUI/L",61,619
+Peso: 95 kg,61,619
+"Porcentaje de grasa corporal: 33,1%",61,619
+Grasa en tronco: 40%,61,619
+Masa magra: 62%,61,619
+Prolactina (PRL): 35 ng/mL,62,620
+macroadenoma: 17%,62,620
+sin datos,62,621
+Creatina fosfoquinasa (CPK): 400 U/L,62,622
+Urea: 58 mg/dL,62,622
+"Creatinina: 1,3 mg/dL",62,622
+Suplementación con beta-hidroxi-beta-metilbutirato (HMB) y creatina: 5 g al día,62,623
+Hemoglobina normal,62,624
+glucosa 109 mg/dL,62,624
+fructosamina 235 µmol/L,62,624
+uremia 56 mg/dL,62,624
+triglicéridos 110 mg/dL,62,624
+lipoproteína de alta densidad (HDL) 35 mg/dL,62,624
+lipoproteína de baja densidad (LDL) 110 mg/dL,62,624
+"hormona estimulante de la tiroides (TSH) 1,17 mUI/L",62,624
+"prolactina 3,6 ng/mL",62,624
+"hormona luteinizante (LH) 6,3 mUI/mL",62,624
+sulfato de dehidroepiandrosterona (DHEA-S) 122 µg/dL,62,624
+"testosterona total 256,7 ng/dL",62,624
+"cortisol matinal 16,7 µg/dL",62,624
+"proteína C reactiva (PCR) 0,7 mg/dL",62,624
+"porcentaje de masa magra 69,8%",62,624
+grasa corporal 31%,62,624
+cortisol: 28 (vespertino: 12),62,625
+Prolactina (PRL): 23,62,625
+Sulfato de dehidroepiandrosterona (DHEA-S): 700,62,625
+Vitamina D: 20,62,625
+Triglicéridos: 89 mg/dL,62,626
+Lipoproteína de baja densidad (LDL): 126 mg/dL,62,626
+Glucosa: 100 mg/dL,62,626
+Antitrombina III: 83%,62,627
+"Cortisol: 15,1 µg/dL",62,627
+"Hormona foliculoestimulante (FSH): 7,1 mUI/mL",62,627
+"Pril: 31,09",62,627
+Dehidroepiandrosterona sulfato (DHEA-S): 948 µg/dL,62,627
+"Hormona estimulante de la tiroides (TSH): 3,83 µUI/mL",62,627
+"Tiroxina libre (T4L): 1,09 ng/dL",62,627
+"Triyodotironina (T3): 1,05 ng/mL",62,627
+Peso 63 kg,62,627
+Masa grasa 22 kg,62,627
+Masa magra 36 kg,62,627
+Cortisol matutino: 18 µg/dL,62,628
+Cortisol vespertino: 16 µg/dL,62,628
+Hormona paratiroidea intacta (PTH): 111 pg/mL,62,629
+"Calcio sérico: 10,7 mg/dL",62,629
+"Calcio iónico: 1,33 mg/dL",62,629
+"Magnesio: 1,33 mg/dL",62,629
+"Fósforo: 3,0 mg/dL",62,629
+Calcio en orina: 223 mg/24h,62,629
+Clearance de creatinina: 87 mL/min,62,629
+Fosfatasa alcalina ósea: 22 U/L,62,629
+"T-score de columna lumbar: -1,7",62,629
+Metabolismo basal medido,63,630
+Hematocrito: 34%,63,631
+Ferremia: 32 µg/dL,63,631
+Proteína C reactiva (PCR): 16 mg/L,63,632
+"Hormona estimulante de la tiroides (TSH): 1,87 mUI/L",63,632
+"Cortisol: 19,2 µg/dL",63,632
+"Cortisol vespertino: 7,9 µg/dL",63,632
+sin datos,63,633
+Hormona paratiroidea (PTH): 94 pg/mL,63,634
+"Calcio iónico: 5,96 mg/dL",63,634
+sin datos,63,635
+Insulinemia: 25 µU/mL,63,636
+sin datos,63,637
+sin datos,63,638
+"Hormona estimulante de la tiroides (TSH): 4,8 mUI/L",63,639
+Prolactina (PRL): 28 ng/mL,63,639
+Fructosamina: 300 µmol/L,63,639
+Alanina aminotransferasa (ALT/GPT): 88 U/L,64,640
+Lipoproteína de alta densidad (HDL): 17 mg/dL,64,640
+Hemoglobina normal,64,641
+"Hormona estimulante de la tiroides (TSH): 3,27 mUI/L",64,641
+"Prolactina total: 0,11 ng/mL",64,641
+"Bilirrubina total: 4,8 mg/dL",64,641
+"17-hidroxiprogesterona: 0,3 ng/mL",64,641
+"Estradiol (E2): 30,7 pg/mL",64,641
+"Hormona foliculoestimulante (FSH): 9,0 mUI/mL",64,641
+"Hormona luteinizante (LH): 4,20 mUI/mL",64,641
+"Post pico: 1,5",64,641
+sin datos,64,642
+Hemoglobina: 18 g/dL,64,643
+Colesterol total: 158 mg/dL,64,643
+Lipoproteína de baja densidad (LDL): 92 mg/dL,64,643
+Gamma-glutamil transferasa (GGT): 18 U/L,64,643
+Creatina quinasa (CPK): 137 U/L,64,643
+"Hormona estimulante de la tiroides (TSH): 3,20 mUI/L",64,643
+"Antígeno prostático específico (PSA): 1,93 ng/mL",64,643
+Aumento de masa muscular de 4-5g,64,644
+sin datos,64,645
+sin datos,64,646
+Hemoglobina normal,64,647
+Glucosa 123 mg/dL,64,647
+Uremia 20 mg/dL,64,647
+Hepatograma normal,64,647
+Colesterol total 173 mg/dL,64,647
+Lipoproteína de baja densidad (LDL) 103 mg/dL,64,647
+Eritrosedimentación 19 mm/h,64,647
+Insulina libre 91 µU/mL,64,647
+"Insulina total 5,48 µU/mL",64,647
+"25-hidroxivitamina D 1,4 ng/mL",64,647
+Ferremia 77 µg/dL,64,647
+Creatina quinasa 53 U/L,64,647
+Antígeno carcinoembrionario (CA 19-9) normal,64,647
+"Antígeno prostático específico (PSA) 0,11 ng/mL",64,647
+"Hormona estimulante de la tiroides (TSH) 0,719 µIU/mL",64,647
+sin datos,64,648
+Colesterol total: 172 mg/dL,64,649
+Lipoproteína de baja densidad (LDL): 77 mg/dL,64,649
+Lipoproteína de alta densidad (HDL): 28 mg/dL,64,649
+Triglicéridos: 387 mg/dL,64,649
+Fructosamina: 273 µmol/L,64,649
+"Hemoglobina glicosilada (HbA1c): 7,6%",64,649
+Glucosa: 162 mg/dL,64,649
+Serotonina: 65 ng/mL,64,649
+"Cortisol: 13,6 µg/dL",64,649
+"Cortisol vespertino: 9,3 µg/dL",64,649
+Homocisteína: 11 µmol/L,64,649
+"Deshidrogenasa succínica (SDHA): 2,58 U/L",64,649
+"Hormona estimulante de la tiroides (TSH): 1,1 mIU/L",64,649
+"Prolactina (PRL): 5,6 ng/mL",64,649
+Deshidrogenasa succínica (SDHA): 597 U/L,64,649
+Hemoglobina: 9 g/dL,65,650
+Glucosa: 89 mg/dL,65,650
+Uremia: 30 mg/dL,65,650
+Lipoproteína de alta densidad (HDL): 62 mg/dL,65,650
+Lipoproteína de baja densidad (LDL): 100 mg/dL,65,650
+Triglicéridos: 57 mg/dL,65,650
+Creatina quinasa (CPK): 200 U/L,65,650
+"Insulina: 4,5 µU/mL",65,650
+"Proteína C reactiva (PCR): 0,4 mg/dL",65,650
+"Hormona estimulante de la tiroides (TSH): 1,58 µUI/mL",65,650
+"Tiroxina libre (T4L): 1,20 ng/dL",65,650
+Dehidroepiandrosterona sulfato (DHEA-S): 5090 µg/dL,65,650
+"Cortisol matutino: 17,1 µg/dL",65,650
+"Cortisol vespertino: 9,0 µg/dL",65,650
+Hemoglobina: 9 g/dL,65,651
+Glucosa: 89 mg/dL,65,651
+Uremia: 30 mg/dL,65,651
+Lipoproteína de alta densidad (HDL): 62 mg/dL,65,651
+Lipoproteína de baja densidad (LDL): 100 mg/dL,65,651
+Triglicéridos: 57 mg/dL,65,651
+Creatina quinasa (CPK): 200 U/L,65,651
+"Insulina: 4,5 µU/mL",65,651
+"Proteína C reactiva (PCR): 0,4 mg/dL",65,651
+"Hormona estimulante de la tiroides (TSH): 1,58 µUI/mL",65,651
+"Tiroxina libre (T4L): 1,20 ng/dL",65,651
+Dehidroepiandrosterona sulfato (DHEA-S): 5090 µg/dL,65,651
+"Cortisol matutino: 17,1 µg/dL",65,651
+"Cortisol vespertino: 9,0 µg/dL",65,651
+sin datos,65,652
+Colesterol total: 198 mg/dL,65,653
+Triglicéridos: 324 mg/dL,65,653
+Lipoproteína de alta densidad (HDL): 51 mg/dL,65,653
+Lipoproteína de baja densidad (LDL): 82 mg/dL,65,653
+"Hormona estimulante de la tiroides (TSH): 4,47 mUI/L",65,653
+Tiroxina libre (T4L): 1 ng/dL,65,653
+Anticuerpos contra la peroxidasa tiroidea (ATPO): 46 UI/mL,65,653
+Anticuerpos contra la tiroglobulina (ATG): 20 UI/mL,65,653
+Vitamina D: 17 ng/mL,65,653
+Hemoglobina glicosilada: 6%,65,653
+Glucosa: 112 mg/dL,65,653
+Glucosa: 120 mg/dL,65,654
+Lipoproteína de baja densidad (LDL): 178 mg/dL,65,654
+Triglicéridos: 165 mg/dL,65,654
+"Proteína C reactiva (PCR): 1,86 mg/dL",65,654
+"Insulinemia: 12,1 mU/L",65,654
+"Estradiol (E2): 32,2 pg/mL",65,654
+Fructosamina: 268 µmol/L,65,654
+osmolalidad sérica: 293 mOsm/kg,65,655
+"Hormona estimulante de la tiroides (TSH) 3,2 mUI/L",65,656
+"Aumento de insulina: 19,7 µU/mL",65,657
+"índice HOMA: 4,52",65,657
+"Cortisol: 14,9 µg/dL",65,657
+sin datos,65,658
+Eritrosedimentación: 5 mm/h,65,659
+"Proteína C reactiva: 0,5 mg/dL",65,659
+Lipoproteína de baja densidad (LDL): 108 mg/dL,65,659
+Lipoproteína de alta densidad (HDL): 65 mg/dL,65,659
+Triglicéridos: 75 mg/dL,65,659
+sin datos,66,660
+Glucosa: 88 mg/dL,66,661
+Urea: 46 mg/dL,66,661
+"Creatinina: 1,2 mg/dL",66,661
+Glutamato piruvato transaminasa (GPT): 122 U/L,66,661
+Lipoproteína de alta densidad (HDL): 51 mg/dL,66,661
+Lipoproteína de baja densidad (LDL): 186 mg/dL,66,661
+"Hormona estimulante de la tiroides (TSH): 4,79 mUI/L",66,661
+Peso: 85 kg,66,661
+Grasa corporal: 27%,66,661
+Masa magra: 59 kg,66,661
+Calciuria: 330 mg/24h,66,662
+"Densitometría ósea: Columna lumbar L2-L4: 0,8 g/cm²",66,662
+"Cuello femoral: 1,8 g/cm²",66,662
+sin datos,66,663
+sin datos,66,664
+Hemograma normal,66,665
+glucemia 84 mg/dL,66,665
+uremia 31 mg/dL,66,665
+colesterol total 217 mg/dL,66,665
+"ácido úrico 7,6 mg/dL",66,665
+"proteína C reactiva (PCR) 1,2 mg/dL",66,665
+"hemoglobina glicosilada (HbA1c) 4,7%",66,665
+"hormona estimulante de la tiroides (TSH) 2,90 mUI/L",66,665
+"insulina 9,7 µU/mL",66,665
+"cortisol matinal 12,0 µg/dL",66,665
+"cortisol vespertino 5,83 µg/dL",66,665
+sin datos,66,666
+Glucosa: 121 mg/dL,66,667
+"Hemoglobina glicosilada (HbA1c): 7,1%",66,667
+Insulina: 24 µU/mL,66,667
+Glucemia en ayunas: 120-130 mg/dL,66,667
+sin datos,66,668
+sin datos,66,669
+sin datos,67,670
+Plaquetas: 53,67,671
+"Hormona estimulante de la tiroides (TSH): 5,2",67,671
+"Tiroxina libre (T4L): 0,81",67,671
+"Triyodotironina libre (T3L): 2,31",67,671
+"Cortisol plasmático: 15,5",67,671
+"Cortisol vespertino: 8,4",67,671
+Serotonina: 82,67,671
+"Proteína C reactiva (PCR): 6,8",67,671
+Homocisteína: 75,67,671
+sin datos,67,672
+Hemoglobina: 19 g/dL,67,673
+"Uremia: 5,4 mg/dL",67,673
+Lipoproteína de baja densidad (LDL): 125 mg/dL,67,673
+Dos unidades internacionales de medicamento no especificado,67,674
+sin datos,67,675
+sin datos,67,676
+Índice de Masa Corporal (IMC): 23,67,677
+Glucosa en ayunas: 123 mg/dL,67,677
+"Hemoglobina glicosilada (HbA1c): 6,2%",67,677
+"Cortisol: 12,3 µg/dL",67,677
+"Insulina: 7,23 µUI/mL",67,677
+"Hormona estimulante de la tiroides (TSH): 4,25 mUI/L",67,677
+sin datos,67,678
+"Metros recorridos: 12,5",67,679
+Eritrosedimentación: 6 mm/h,67,679
+"Proteína C reactiva: 1,75 mg/dL",67,679
+Glucosa: 92 mg/dL,67,679
+"Hemoglobina glicosilada (HbA1c): 5,0%",67,679
+Fructosamina: 209 µmol/L,67,679
+Lipoproteína de alta densidad (HDL): 40 mg/dL,67,679
+Lipoproteína de baja densidad (LDL): 129 mg/dL,67,679
+Amilasa: 73 U/L,67,679
+Lipasa: 37 U/L,67,679
+Creatina quinasa (CPK): 153 U/L,67,679
+"Hormona estimulante de la tiroides (TSH): 2,26 mUI/L",67,679
+"Testosterona total: 6,23 ng/mL",67,679
+"Cortisol: 11,8 µg/dL",67,679
+"Velocidad de eritrosedimentación (VES): 5,3 mm/h",67,679
+"Antígeno prostático específico (PSA): 1,4 ng/mL",67,679
+sin datos,68,680
+sin datos,68,681
+sin datos,68,682
+sin datos,68,683
+sin datos,68,684
+Se despierta a las 7:00 am,68,685
+Colesterol total: 198 mg/dL,68,686
+Triglicéridos: 324 mg/dL,68,686
+Lipoproteína de alta densidad (HDL): 51 mg/dL,68,686
+Lipoproteína de baja densidad (LDL): 82 mg/dL,68,686
+"Hormona estimulante de la tiroides (TSH): 4,47 mUI/L",68,686
+Tiroxina libre (T4L): 1 ng/dL,68,686
+Anticuerpos contra la peroxidasa tiroidea (ATPO): 46 UI/mL,68,686
+Anticuerpos contra la tiroglobulina (ATG): 20 UI/mL,68,686
+Vitamina D: 17 ng/mL,68,686
+Hemoglobina glicosilada: 6%,68,686
+Glucosa: 112 mg/dL,68,686
+Hemoglobina: 5 g/dL,68,687
+Colesterol total: 300 mg/dL,68,687
+Lipoproteína de alta densidad (HDL): 50 mg/dL,68,687
+Lipoproteína de baja densidad (LDL): 232 mg/dL,68,687
+Triglicéridos: 93 mg/dL,68,687
+Apolipoproteína A: 128 mg/dL,68,687
+Apolipoproteína B: 173 mg/dL,68,687
+Lipoproteína (a): 45 mg/dL,68,687
+"Prolactina total: 5,23 ng/mL",68,687
+"Colesterol HDL: 18,7 mg/dL",68,687
+Hierro sérico: 82 µg/dL,68,688
+"Ferritina: 20,6 ng/mL",68,688
+Transferrina: 276 mg/dL,68,688
+Vitamina B12: 232 pg/mL,68,688
+"Hormona foliculoestimulante (FSH): 15,1 mUI/mL",68,688
+Estradiol (E2): 54 pg/mL,68,688
+Insulina: 32 mU/L,68,689
+"Hormona estimulante de la tiroides (TSH): 0,0003 mU/L",68,689
+Cortisol matutino: 18 mcg/dL,68,689
+Cortisol vespertino: 10 mcg/dL,68,689
+Estradiol (E2): 400 pg/mL,68,689
+Glucosa: 115 mg/dL,68,689
+Proteína C reactiva (PCR): 25 mg/L,68,689
+Estradiol (E2): 400 pg/mL,68,689
+sin datos,69,690
+sin datos,69,691
+Hormona luteinizante (LH): 14 mUI/mL,69,692
+Hormona foliculoestimulante (FSH): 10 mUI/mL,69,692
+Testosterona total: 8 ng/dL,69,692
+Aumento de peso de 10 kg en el último mes,69,692
+sin datos,69,693
+Proteína C Reactiva (PCR) menor a 1,69,694
+Hormona estimulante de la tiroides (TSH): 3,69,694
+Cortisol: 14,69,694
+Glucosa: 121 mg/dL,69,695
+"Hemoglobina glicosilada (HbA1c): 7,1%",69,695
+Insulina: 24 µU/mL,69,695
+Glucemia en ayunas: 120-130 mg/dL,69,695
+Hemoglobina Normal,69,696
+Eritrosedimentación 5,69,696
+Glucosa 104 mg/dL,69,696
+Colesterol total 186 mg/dL,69,696
+Lipoproteína de alta densidad (HDL) 41 mg/dL,69,696
+Lipoproteína de baja densidad (LDL) 128 mg/dL,69,696
+Triglicéridos 135 mg/dL,69,696
+Creatina quinasa (CPK) 105 U/L,69,696
+Ferritina 91 ng/mL,69,696
+"Tiroxina (T4) 2,90 ng/dL",69,696
+Tiroxina libre (T4 libre) 279 pg/dL,69,696
+"Cortisol 6,6 mcg/dL",69,696
+"Hormona foliculoestimulante (FSH) 4,09 mUI/mL",69,696
+Insulina 22 mUI/L,69,696
+"Tiroxina (T4) 2,2 ng/dL",69,696
+"Cortisol 6,61 mcg/dL",69,696
+Homocisteína 10 µmol/L,69,696
+"25-hidroxivitamina D 27,7 ng/mL",69,696
+sin datos,69,697
+Creatinina: 3 mg/dL,69,698
+sin datos,69,699
+sin datos,70,700
+levotiroxina 150 mcg,70,701
+Metformina 1000 mg,70,701
+"Cortisol: 14,4 µg/dL",70,702
+"Hormona luteinizante (LH): 3,4 mUI/mL",70,702
+"Testosterona total: 3,04 ng/mL",70,702
+"Testosterona libre: 4,1 pg/mL",70,702
+Triglicéridos: 89 mg/dL,70,703
+Lipoproteína de baja densidad (LDL): 126 mg/dL,70,703
+Glucosa: 100 mg/dL,70,703
+sin datos,70,704
+Hemoglobina normal,70,705
+Glucosa 123 mg/dL,70,705
+Uremia 20 mg/dL,70,705
+Hepatograma normal,70,705
+Colesterol total 173 mg/dL,70,705
+Lipoproteína de baja densidad (LDL) 103 mg/dL,70,705
+Eritrosedimentación 19 mm/h,70,705
+Insulina libre 91 µU/mL,70,705
+"Insulina total 5,48 µU/mL",70,705
+"25-hidroxivitamina D 1,4 ng/mL",70,705
+Ferremia 77 µg/dL,70,705
+Creatina quinasa 53 U/L,70,705
+Antígeno carcinoembrionario (CA 19-9) normal,70,705
+"Antígeno prostático específico (PSA) 0,11 ng/mL",70,705
+"Hormona estimulante de la tiroides (TSH) 0,719 µIU/mL",70,705
+sin datos,70,706
+Espermograma: teratozoospermia,70,707
+sin datos,70,708
+"Hormona estimulante de la tiroides (TSH): 3,98 mUI/L",70,709
+Niveles de testosterona adecuados en 2021,71,710
+Hemoglobina: 8 g/dL,71,711
+Colesterol total: 199 mg/dL,71,711
+Lipoproteína de alta densidad (HDL): 72 mg/dL,71,711
+Triglicéridos: 88 mg/dL,71,711
+Glucosa: 88 mg/dL,71,711
+Factor de crecimiento similar a la insulina (IGF): 155 ng/mL,71,711
+Prolactina: 21 ng/mL,71,711
+"Tiempo de protrombina: 10,7 segundos",71,711
+"Hormona estimulante de la tiroides (TSH): 3,35 mUI/L",71,711
+"Insulina: 8,5 µU/mL",71,711
+sin datos,71,712
+Índice de Masa Corporal (IMC): 23,71,713
+Glucosa en ayunas: 123 mg/dL,71,713
+"Hemoglobina glicosilada (HbA1c): 6,2%",71,713
+"Cortisol: 12,3 µg/dL",71,713
+"Insulina: 7,23 µUI/mL",71,713
+"Hormona estimulante de la tiroides (TSH): 4,25 mUI/L",71,713
+sin datos,71,714
+sin datos,71,715
+Cortisol: 14 µg/dL,71,716
+Glucosa: 95 mg/dL,71,716
+"Amilasa y lipasa: 8,1 U/L",71,716
+"Hormona estimulante de la tiroides (TSH): 2,4 mUI/L",71,717
+Cortisol: 30 µg/dL,71,717
+sin datos,71,718
+resultados de laboratorio metabólico normales,71,719
+aumento de 2 kg de masa muscular,72,720
+"Hormona estimulante de la tiroides (TSH): 5,8 mUI/L",72,721
+"Tiroxina libre (T4L): 1,0 ng/dL",72,721
+Glucosa: 131 mg/dL,72,722
+"Hemoglobina glicosilada (HbA1c): 6,1%",72,722
+Fructosamina: 238 µmol/L,72,722
+Lipoproteína de alta densidad (HDL): 67 mg/dL,72,723
+Lipoproteína de baja densidad (LDL): 80 mg/dL,72,723
+"Tiempo de protrombina: 1,500 segundos",72,723
+"toma 0,5 mg de Clonazepam dos veces al día",72,724
+Creatina post entrenamiento (5 g inmediatamente después),72,724
+Albúmina: normal,72,725
+Hemoglobina: normal,72,725
+Lipoproteína de alta densidad (HDL): 66 mg/dL,72,725
+Lipoproteína de baja densidad (LDL): 142 mg/dL,72,725
+Cortisol matinal: 14 µg/dL,72,725
+Cortisol vespertino: 9 µg/dL,72,725
+Variabilidad de la frecuencia cardíaca (HRV): normal,72,725
+sin datos,72,726
+glucosa e insulina normales,72,727
+"Hemoglobina glicosilada (HbA1c): 5,1%",72,727
+Dehidroepiandrosterona sulfato (DHEA-S): 449 µg/dL,72,727
+Cortisol matutino: 24 µg/dL,72,728
+sin datos,72,729
+sin datos,73,730
+sin datos,73,731
+Lipoproteína de alta densidad (HDL): 67 mg/dL,73,732
+Lipoproteína de baja densidad (LDL): 80 mg/dL,73,732
+"Tiempo de protrombina: 1,500 segundos",73,732
+"Hormona luteinizante (LH): 2,4 mUI/mL",73,733
+Testosterona libre: 88 pg/mL,73,733
+"Bilirrubina directa (BD): 2,04 mg/dL",73,733
+"Hormona estimulante de la tiroides (TSH): 3,51 µUI/mL",73,733
+Cortisol: 17 µg/dL,73,733
+sin datos,73,734
+sin datos,73,735
+sin datos,73,736
+aumento de cortisol,73,737
+descenso de 1 kilogramo en peso corporal,73,738
+sin datos,73,739
+"Hormona estimulante de la tiroides (TSH): 1,3 mUI/L",74,740
+Colesterol total: 180 mg/dL,74,740
+Cortisol: 9 µg/dL,74,740
+"Hormona luteinizante (LH): 3,21 mUI/mL",74,741
+"Hormona foliculoestimulante (FSH): 3,14 mUI/mL",74,741
+Testosterona total: 419 ng/dL,74,741
+Testosterona libre: 114 pg/mL,74,741
+"Testosterona biodisponible: 9,09 ng/dL",74,741
+sin datos,74,742
+sin datos,74,743
+"Hormona estimulante de la tiroides (TSH): 4,53 mUI/L",74,744
+"Tiroxina libre (T4L): 1,49 ng/dL",74,744
+"Triyodotironina libre (T3L): 3,25 pg/mL",74,744
+Fructosamina: 310 µmol/L,74,744
+Fosfatasa alcalina ósea: 13 U/L,74,744
+Glucosa: 110 mg/dL,74,744
+Cortisol: 26 µg/dL,74,744
+"Prolactina: 20,7 ng/mL",74,744
+Creatina fosfoquinasa (CPK): 400 U/L,74,745
+Urea: 58 mg/dL,74,745
+"Creatinina: 1,3 mg/dL",74,745
+sin datos,74,746
+sin datos,74,747
+Glucosa: 94 mg/dL,74,748
+Sedimentación: 311 mm/h,74,748
+Uremia: 22 mg/dL,74,748
+Lipoproteína de alta densidad (HDL): 58 mg/dL,74,748
+Lipoproteína de baja densidad (LDL): 169 mg/dL,74,748
+Triglicéridos: 118 mg/dL,74,748
+"Creatinina en plasma: 2,11 mg/dL",74,748
+Serotonina: 227 ng/mL,74,748
+"Cortisol: 15,7 µg/dL",74,748
+"Hormona luteinizante (LH): 5,1 mIU/mL",74,748
+"Prolactina: 14,9 ng/mL",74,748
+Dehidroepiandrosterona sulfato (DHEA-S): 2100 µg/dL,74,748
+"Hormona estimulante de la tiroides (TSH): 1,73 mIU/L",74,748
+"25-hidroxivitamina D: 25,8 ng/mL",74,748
+sin datos,74,749
+Niveles de testosterona adecuados en 2021,75,750
+Niveles de serotonina: indetectables,75,751
+Hemoglobina: 9 g/dL,75,752
+Glucosa: 89 mg/dL,75,752
+Uremia: 30 mg/dL,75,752
+Lipoproteína de alta densidad (HDL): 62 mg/dL,75,752
+Lipoproteína de baja densidad (LDL): 100 mg/dL,75,752
+Triglicéridos: 57 mg/dL,75,752
+Creatina quinasa (CPK): 200 U/L,75,752
+"Insulina: 4,5 µU/mL",75,752
+"Proteína C reactiva (PCR): 0,4 mg/dL",75,752
+"Hormona estimulante de la tiroides (TSH): 1,58 µUI/mL",75,752
+"Tiroxina libre (T4L): 1,20 ng/dL",75,752
+Dehidroepiandrosterona sulfato (DHEA-S): 5090 µg/dL,75,752
+"Cortisol matutino: 17,1 µg/dL",75,752
+"Cortisol vespertino: 9,0 µg/dL",75,752
+sin datos,75,753
+Colesterol total: 172 mg/dL,75,754
+Lipoproteína de baja densidad (LDL): 77 mg/dL,75,754
+Lipoproteína de alta densidad (HDL): 28 mg/dL,75,754
+Triglicéridos: 387 mg/dL,75,754
+Fructosamina: 273 µmol/L,75,754
+"Hemoglobina glicosilada (HbA1c): 7,6%",75,754
+Glucosa: 162 mg/dL,75,754
+Serotonina: 65 ng/mL,75,754
+"Cortisol: 13,6 µg/dL",75,754
+"Cortisol vespertino: 9,3 µg/dL",75,754
+Homocisteína: 11 µmol/L,75,754
+"Deshidrogenasa succínica (SDHA): 2,58 U/L",75,754
+"Hormona estimulante de la tiroides (TSH): 1,1 mIU/L",75,754
+"Prolactina (PRL): 5,6 ng/mL",75,754
+Deshidrogenasa succínica (SDHA): 597 U/L,75,754
+Testosterona libre: 222 pg/mL,75,755
+"Cortisol: 9,8 µg/dL",75,755
+"Dosis de Liraglutida: 1,8 mg",75,755
+"Hormona luteinizante (LH): 2,1 mUI/mL",75,756
+"Testosterona total (Tol): 93,2 ng/dL",75,756
+Prolactina: 22 ng/mL,75,757
+Cortisol: 20 µg/dL,75,757
+Tiroxina libre: 300 pg/dL,75,757
+sin datos,75,758
+Bajos niveles de vitamina D3,75,759
+"Hormona estimulante de la tiroides (TSH) post liberación de hormona tirotropina (TRH): 28,70 mUI/L",76,760
+"Triyodotironina inversa (T3 reversa): 0,07 ng/dL",76,760
+Insulina: 32 mU/L,76,761
+"Hormona estimulante de la tiroides (TSH): 0,0003 mU/L",76,761
+Cortisol matutino: 18 mcg/dL,76,761
+Cortisol vespertino: 10 mcg/dL,76,761
+Estradiol (E2): 400 pg/mL,76,761
+Glucosa: 115 mg/dL,76,761
+Proteína C reactiva (PCR): 25 mg/L,76,761
+Estradiol (E2): 400 pg/mL,76,761
+"Hormona luteinizante (LH): 2,7 mUI/mL",76,762
+"Testosterona total: 6,67 ng/mL",76,762
+Glucosa: 86 mg/dL,76,763
+Triglicéridos: 65 mg/dL,76,763
+Colesterol total: 210 mg/dL,76,763
+Lipoproteína de alta densidad (HDL): 54 mg/dL,76,763
+Eritrosedimentación: 13 mm/h,76,763
+Zinc: 53 µg/dL,76,763
+Aumento de peso de 2 kg,76,763
+disminución de masa muscular de 2 kg,76,763
+"Hormona luteinizante (LH): 2,4 mUI/mL",76,764
+Testosterona libre: 88 pg/mL,76,764
+"Bilirrubina directa (BD): 2,04 mg/dL",76,764
+"Hormona estimulante de la tiroides (TSH): 3,51 µUI/mL",76,764
+Cortisol: 17 µg/dL,76,764
+Hemoglobina: 10 g/dL,76,765
+Glucosa: 80 mg/dL,76,765
+"Hemoglobina glicosilada: 5,3%",76,765
+Cortisol: 232 nmol/L,76,765
+Lipoproteína de alta densidad (HDL): 72 mg/dL,76,765
+Lipoproteína de baja densidad (LDL): 141 mg/dL,76,765
+Triglicéridos: 94 mg/dL,76,765
+Creatina quinasa (CPK): 105 U/L,76,765
+"Proteína C reactiva (PCR): 1,5 mg/L",76,765
+"Hormona estimulante de la tiroides (TSH): 1,17 mIU/L",76,765
+"Prolactina: 5,3 ng/mL",76,765
+"Insulina: 7,0 µU/mL",76,765
+Dehidroepiandrosterona sulfato (DHEA-S): 70 µg/dL,76,765
+"Cortisol: 9,10 µg/dL",76,765
+Vitamina B12: 332 pg/mL,76,765
+sin datos,76,766
+Cortisol matutino: 21 µg/dL,76,767
+"Cortisol vespertino: 6,7 µg/dL",76,767
+sin datos,76,768
+Composición corporal (InBody): 22% de grasa corporal,76,769
+aumento de 2 kg de masa muscular,77,770
+Hemoglobina,77,771
+Magnesio,77,771
+sin datos,77,772
+Nivel de estrés: 7,77,773
+Hormona luteinizante (LH): 22 mUI/mL,77,774
+Colesterol total: 110 mg/dL,77,775
+"Hormona estimulante de la tiroides (TSH): 0,84 mUI/L",77,775
+"Cortisol: 6,45 µg/dL",77,775
+cortisol: 28 (vespertino: 12),77,776
+Prolactina (PRL): 23,77,776
+Sulfato de dehidroepiandrosterona (DHEA-S): 700,77,776
+Vitamina D: 20,77,776
+"Tiempo de tromboplastina parcial activada (TTPa): 6,1 segundos",77,777
+"Hormona luteinizante (LH): 4,8 mUI/mL",77,777
+sin datos,77,778
+Hematocrito: 42%,77,779
+Masa magra: 40 kg,77,779
+Peso total: 73 kg,77,779
+Cortisol: 23 ug/dL,77,779
+Dehidroepiandrosterona (DHEA): 69 ug/dL,77,779
+Cortisol matutino: 24 ug/dL,77,779
+Cortisol vespertino: 58 ug/dL,77,779
+Albúmina (ALB): normal,78,780
+"Hormona foliculoestimulante (FSH): 9,4 mUI/mL",78,780
+"Prolactina (PRL): 35,6 ng/mL",78,780
+"Hematocrito (HCT): 18,2%",78,780
+"Proteína C reactiva (PCR): 1,6 mg/dL",78,780
+"Estradiol (E2): 61,5 pg/mL",78,780
+Hemoglobina: normal,78,780
+Lipoproteína de alta densidad (HDL): 69 mg/dL,78,780
+Lipoproteína de baja densidad (LDL): 160 mg/dL,78,780
+Glucosa: 4 mmol/L,78,780
+Creatina quinasa (CPK): 286 U/L,78,780
+Triglicéridos (TG): 51 mg/dL,78,780
+sin datos,78,781
+Edad: 12 años,78,782
+levotiroxina 88 mcg,78,782
+"paroxetina 12,5 mg",78,782
+Ferritina: 55 ng/mL,78,782
+"Hormona estimulante de la tiroides (TSH): 1,20 mUI/L",78,782
+"Tiroxina libre (T4L): 1,03 ng/dL",78,782
+"Triyodotironina (T3): 0,68 ng/dL",78,782
+"Hormona foliculoestimulante (FSH): 6,19 mUI/mL",78,782
+"Hormona luteinizante (LH): 8,19 mUI/mL",78,782
+Colesterol total: 227 mg/dL,78,782
+HDL: 51 mg/dL,78,782
+LDL: 155 mg/dL,78,782
+sin datos,78,783
+resultados de laboratorio metabólico normales,78,784
+Hormona luteinizante (LH): 14 mUI/mL,78,785
+Hormona foliculoestimulante (FSH): 10 mUI/mL,78,785
+Testosterona total: 8 ng/dL,78,785
+Aumento de peso de 10 kg en el último mes,78,785
+Ferritina: 57 ng/mL,78,786
+Lactato deshidrogenasa (LDH): 197 U/L,78,786
+"Cortisol: 16,41 µg/dL",78,786
+Testosterona libre: 147 pg/mL,78,786
+"Testosterona total: 8,65 ng/mL",78,786
+Creatina quinasa (CPK): 322 U/L,78,786
+"Insulina: 10,5 µIU/mL",78,786
+Glucosa: 105 mg/dL,78,786
+"Prolactina: 15,3 ng/mL",78,786
+Aldosterona: 28 ng/dL,78,786
+25-hidroxivitamina D: 28 ng/mL,78,786
+Hemoglobina: 10 g/dL,78,787
+Ferritina: 291 ng/mL,78,787
+Urea: 31 mg/dL,78,787
+"Ácido úrico: 4,2 mg/dL",78,787
+Lipoproteína de alta densidad (HDL): 58 mg/dL,78,787
+Lipoproteína de baja densidad (LDL): 174 mg/dL,78,787
+Triglicéridos: 41 mg/dL,78,787
+Colesterol total: 241 mg/dL,78,787
+Creatina fosfoquinasa (CPK): 98 U/L,78,787
+Fructosamina: 265 µmol/L,78,787
+Lactato deshidrogenasa (LDH): 146 U/L,78,787
+Apolipoproteína A: 151 mg/dL,78,787
+Apolipoproteína B: 124 mg/dL,78,787
+Glucosa: 87 mg/dL,78,787
+"Hemoglobina glicosilada (HbA1c): 4,9%",78,787
+"Proteína C reactiva (PCR): 2,15 mg/L",78,787
+"Prolactina: 13,4 ng/mL",78,787
+"Homocisteína: 11,8 µmol/L",78,787
+Dehidroepiandrosterona sulfato (DHEA-S): 1240 µg/dL,78,787
+Tolerancia oral a la glucosa (TOG): 112 mg/dL,78,787
+sin datos,78,788
+Hemoglobina: 6 g/dL,78,789
+"Proteína C reactiva (PCR): 2,7 mg/dL",78,789
+Glucosa: 101 mg/dL,78,789
+"Insulina: 8,8 µU/mL",78,789
+"Hemoglobina glicosilada (HbA1c): 5,77%",78,789
+"Creatinina: 0,84 mg/dL",78,789
+Lipoproteína de alta densidad (HDL): 49 mg/dL,78,789
+Lipoproteína de baja densidad (LDL): 131 mg/dL,78,789
+Triglicéridos: 86 mg/dL,78,789
+"Calcio total: 10,1 mg/dL",78,789
+"Calcio ionizado: 1,31 mmol/L",78,789
+Creatina quinasa (CPK): 56 U/L,78,789
+"Hormona estimulante de la tiroides (TSH): 1,72 mIU/L",78,789
+"Hormona foliculoestimulante (FSH): 2,53 mIU/mL",78,789
+Estradiol (E2): 161 pg/mL,78,789
+Dehidroepiandrosterona sulfato (DHEA-S): 956 µg/dL,78,789
+Hormona paratiroidea (PTH): 110 pg/mL,78,789
+"25-hidroxivitamina D: 27,8 ng/mL",78,789
+"Cortisol: 14,0 µg/dL",78,789
+"Ácido úrico: 7,6 mg/dL",78,789
+"Densitometría ósea: L2-L4: 0,8 g/cm²",78,789
+"Cuello femoral: -1,0 g/cm²",78,789
+"Tiroxina libre (T4L): 0,68 ng/dL",79,790
+Disminución de Beta-hidroxi-beta-metilbutirato (HMB),79,790
+sin datos,79,791
+sin datos,79,792
+sin datos,79,793
+Creatina quinasa (CPK): 154 U/L,79,794
+"Hormona foliculoestimulante (FSH): 1,5 mUI/mL",79,794
+"Hormona luteinizante (LH): 2,3 mUI/mL",79,794
+"Testosterona total (Tot): 8,32 ng/mL",79,794
+Prolactina (PRL): 24 ng/mL,79,794
+"Cortisol matutino: 22,6 µg/dL",79,794
+Cortisol nocturno: negativo,79,794
+Prolactina (PRL): 22 ng/mL,79,794
+"Vitamina D: 9,7 ng/mL",79,795
+Calcio en sangre: normal,79,796
+"Bioimpedancia (BIA) con mejora en masa muscular de 2,5",79,797
+"Masa muscular: 50,5 kg",79,797
+"Grasa corporal: 13,6%",79,797
+"Tensión arterial: elevada en 0,5",79,797
+hipercortisolismo,79,798
+hormona adrenocorticotrópica (ACTH) elevada,79,798
+Cortisol matutino: 2,79,799
+Cortisol vespertino: 5,79,799
+"Hormona estimulante de la tiroides (TSH): 4,89",79,799
+Colesterol total: 110 mg/dL,80,800
+"Hormona estimulante de la tiroides (TSH): 0,84 mUI/L",80,800
+"Cortisol: 6,45 µg/dL",80,800
+Dehidroepiandrosterona (DHEA) baja,80,801
+Estradiol (E2) normal,80,801
+Hormona estimulante de la tiroides (TSH) baja,80,801
+Hemoglobina: 6 g/dL,80,802
+"Proteína C reactiva (PCR): 2,7 mg/dL",80,802
+Glucosa: 101 mg/dL,80,802
+"Insulina: 8,8 µU/mL",80,802
+"Hemoglobina glicosilada (HbA1c): 5,77%",80,802
+"Creatinina: 0,84 mg/dL",80,802
+Lipoproteína de alta densidad (HDL): 49 mg/dL,80,802
+Lipoproteína de baja densidad (LDL): 131 mg/dL,80,802
+Triglicéridos: 86 mg/dL,80,802
+"Calcio total: 10,1 mg/dL",80,802
+"Calcio ionizado: 1,31 mmol/L",80,802
+Creatina quinasa (CPK): 56 U/L,80,802
+"Hormona estimulante de la tiroides (TSH): 1,72 mIU/L",80,802
+"Hormona foliculoestimulante (FSH): 2,53 mIU/mL",80,802
+Estradiol (E2): 161 pg/mL,80,802
+Dehidroepiandrosterona sulfato (DHEA-S): 956 µg/dL,80,802
+Hormona paratiroidea (PTH): 110 pg/mL,80,802
+"25-hidroxivitamina D: 27,8 ng/mL",80,802
+"Cortisol: 14,0 µg/dL",80,802
+"Ácido úrico: 7,6 mg/dL",80,802
+"Densitometría ósea: L2-L4: 0,8 g/cm²",80,802
+"Cuello femoral: -1,0 g/cm²",80,802
+sin datos,80,803
+Densitometría ósea de cuello y columna lumbar,80,804
+sin datos,80,805
+sin datos,80,806
+sin datos,80,807
+Hematocrito: 34%,80,808
+Ferremia: 32 µg/dL,80,808
+glucosa e insulina normales,80,809
+"Hemoglobina glicosilada (HbA1c): 5,1%",80,809
+Dehidroepiandrosterona sulfato (DHEA-S): 449 µg/dL,80,809
+Glucosa: 91 mg/dL,81,810
+Insulina: 14 µU/mL,81,810
+Fructosamina: 112 µmol/L,81,810
+Cortisol: 26 µg/dL,81,810
+Lipoproteína de baja densidad (LDL): 151 mg/dL,81,810
+Lipoproteína de alta densidad (HDL): 62 mg/dL,81,810
+sin datos,81,811
+Índice de Masa Corporal (IMC): 23,81,812
+Glucosa en ayunas: 123 mg/dL,81,812
+"Hemoglobina glicosilada (HbA1c): 6,2%",81,812
+"Cortisol: 12,3 µg/dL",81,812
+"Insulina: 7,23 µUI/mL",81,812
+"Hormona estimulante de la tiroides (TSH): 4,25 mUI/L",81,812
+Sulfato de dehidroepiandrosterona (DHEA-S): 661 µg/dL,81,813
+Vitamina D: 29 ng/mL,81,813
+vitamina D 100.000 UI,81,814
+"Hormona estimulante de la tiroides (TSH) 5,0 mUI/L",81,814
+"Calcio en sangre 9,3 mg/dL",81,814
+"Calcio iónico 4,8 mg/dL",81,814
+"Fosfatasa alcalina (FAL) 3,9 U/L",81,814
+"cuello femoral 2020: 0,561 g/cm2, T-score -2,6",81,814
+"2022: 0,642 g/cm2, T-score -2,8",81,814
+"Columna L2-L4 2022: 0,997 g/cm2 (previo 0,75 g/cm2)",81,814
+sin datos,81,815
+Niveles de cortisol: 41,81,816
+"niveles de triyodotironina (T3): 0,4",81,816
+"hemoglobina glicosilada (HbA1c): 11,3",81,816
+"Aumento de peso de 0,50 kg por semana",81,817
+tratada con 150 mcg de levotiroxina,81,818
+clonazepam 2 mg a las 23 horas,81,818
+aumento de peso de 10 kg en 1 mes,81,818
+Peso previo 120 kg con descenso de 40 kg,81,818
+Porcentaje de grasa corporal 21%,81,818
+"Hormona luteinizante (LH) en 3,5 mUI/mL",81,819
+sin datos,82,820
+Creatinina: 3 mg/dL,82,821
+sin datos,82,822
+sin datos,82,823
+Aumento de 7 kg de masa muscular,82,824
+"Hormona luteinizante (LH) en 3,5 mUI/mL",82,825
+sin datos,82,826
+sin datos,82,827
+Glucosa: 93 mg/dL,82,828
+Fructosamina: 42 µmol/L,82,828
+"Creatinina: 1,3 mg/dL",82,828
+Colesterol total: 209 mg/dL,82,828
+Lipoproteína de alta densidad (HDL): 38 mg/dL,82,828
+Lipoproteína de baja densidad (LDL): 151 mg/dL,82,828
+Triglicéridos: 100 mg/dL,82,828
+"Hormona estimulante de la tiroides (TSH): 2,77 mUI/L",82,828
+"Testosterona total: 8,8 ng/mL",82,828
+"Bilirrubina total: 3,88 mg/dL",82,828
+"Cortisol: 18,8 µg/dL",82,828
+Bioimpedancia (BIA) con descenso de 3 kg,82,828
+"Talla objetivo 1,70 m",82,829
+Resultados de laboratorio de función gonadal: normales,83,830
+Pérdida de peso: 4 kg,83,831
+"Cortisol: 17 (vespertino), 7",83,831
+"Hormona estimulante de la tiroides (TSH): 5,96",83,831
+hipercortisolismo,83,832
+hormona adrenocorticotrópica (ACTH) elevada,83,832
+"Ácido úrico: 7,3 mg/dL",83,833
+sin datos,83,834
+Glucosa: 86 mg/dL,83,835
+Fructosamina: 251 µmol/L,83,835
+Lipoproteína de alta densidad (HDL): 63 mg/dL,83,835
+Triglicéridos: 46 mg/dL,83,835
+Creatina quinasa (CPK): 192 U/L,83,835
+"Hormona luteinizante (LH): 1,5 mIU/mL",83,835
+"Hormona estimulante de la tiroides (TSH): 1,70 µIU/mL",83,835
+Sedimento urinario: 2300 células/µL,83,835
+Dosis máxima: 125 mcg,83,836
+"Lipoproteína muy alta, 600 mg/dL",83,836
+sin datos,83,837
+"Hormona estimulante de la tiroides (TSH): 4,92 mUI/L",83,838
+Hormona luteinizante (LH): 17 mUI/mL y 20 mUI/mL,83,839
+Testosterona total (Tot): 8 ng/dL,83,839
+Lipoproteína de alta densidad (HDL): baja,83,839
+Lipoproteína de baja densidad (LDL): 161 mg/dL,83,839
+Estradiol (E2): 50 pg/mL,83,839
+parathormona intacta (PTH) normal,84,840
+fosfatasa alcalina ósea normal,84,840
+"Hormona luteinizante (LH) en 3,5 mUI/mL",84,841
+"Hormona estimulante de la tiroides (TSH): 3,98 mUI/L",84,842
+Creatina fosfoquinasa (CPK): 400 U/L,84,843
+Urea: 58 mg/dL,84,843
+"Creatinina: 1,3 mg/dL",84,843
+"toma 0,5 mg de Clonazepam dos veces al día",84,844
+Creatina post entrenamiento (5 g inmediatamente después),84,844
+Prueba previa de Lipasa: 26 U/L,84,845
+Tirotropina (TSH): 2 mU/L,84,845
+Tiempo de pico: 29 segundos,84,845
+Frecuencia cardíaca en reposo alta: 77 latidos por minuto,84,845
+Glucosa: 100 mg/dL,84,846
+Insulina: 28 µU/mL,84,846
+Lipoproteína de baja densidad (LDL): 141 mg/dL,84,846
+Fructosamina: 239 µmol/L,84,846
+"Proteína C reactiva (PCR): 3,19 mg/L",84,846
+Ferritina: 700 ng/mL,84,846
+"Tiempo de tromboplastina parcial activada (aPTT): 3,60 segundos",84,846
+sin datos,84,847
+Nivel de estrés: 8,84,848
+sin datos,84,849
+Hemoglobina: 10 g/dL,85,850
+Ferritina: 291 ng/mL,85,850
+Urea: 31 mg/dL,85,850
+"Ácido úrico: 4,2 mg/dL",85,850
+Lipoproteína de alta densidad (HDL): 58 mg/dL,85,850
+Lipoproteína de baja densidad (LDL): 174 mg/dL,85,850
+Triglicéridos: 41 mg/dL,85,850
+Colesterol total: 241 mg/dL,85,850
+Creatina fosfoquinasa (CPK): 98 U/L,85,850
+Fructosamina: 265 µmol/L,85,850
+Lactato deshidrogenasa (LDH): 146 U/L,85,850
+Apolipoproteína A: 151 mg/dL,85,850
+Apolipoproteína B: 124 mg/dL,85,850
+Glucosa: 87 mg/dL,85,850
+"Hemoglobina glicosilada (HbA1c): 4,9%",85,850
+"Proteína C reactiva (PCR): 2,15 mg/L",85,850
+"Prolactina: 13,4 ng/mL",85,850
+"Homocisteína: 11,8 µmol/L",85,850
+Dehidroepiandrosterona sulfato (DHEA-S): 1240 µg/dL,85,850
+Tolerancia oral a la glucosa (TOG): 112 mg/dL,85,850
+"Uricemia: 7,5 mg/dL",85,851
+Lipoproteína de alta densidad (HDL): 45 mg/dL,85,851
+Lipoproteína de baja densidad (LDL): 113 mg/dL,85,851
+Triglicéridos: 194 mg/dL,85,851
+Fructosamina: 226 µmol/L,85,851
+Apolipoproteína A1: 113 mg/dL,85,851
+Apolipoproteína B: 101 mg/dL,85,851
+Glucosa: 92 mg/dL,85,851
+"Hemoglobina glicosilada (HbA1c): 22,1%",85,851
+"Homocisteína: 11,7 µmol/L",85,851
+"Prolactina: 11,6 ng/mL",85,851
+Dehidroepiandrosterona sulfato (DHEA-S): 1460 µg/dL,85,851
+"Hormona estimulante de la tiroides (TSH): 1,66 mUI/L",85,851
+Peso: 95 kg,85,851
+"Porcentaje de grasa corporal: 33,1%",85,851
+Grasa en tronco: 40%,85,851
+Masa magra: 62%,85,851
+"Hemoglobina glicosilada (HbA1c): 5,7%",85,852
+"Hormona estimulante de la tiroides (TSH): 4,21 mUI/L",85,852
+"Tiroxina libre (T4L): 1,25 ng/dL",85,852
+Fructosamina: 281 µmol/L,85,852
+Curva de glucosa: 204 mg/dL,85,852
+Glucosa: 119 mg/dL,85,852
+"Insulina basal: 4,5 µIU/mL",85,852
+Insulina a los 60 minutos: 53 µIU/mL,85,852
+Nivel de estrés: 7,85,853
+aumento de peso hasta 102 kg,85,854
+sin datos,85,855
+sin datos,85,856
+Glucosa: 86 mg/dL,85,857
+Fructosamina: 251 µmol/L,85,857
+Lipoproteína de alta densidad (HDL): 63 mg/dL,85,857
+Triglicéridos: 46 mg/dL,85,857
+Creatina quinasa (CPK): 192 U/L,85,857
+"Hormona luteinizante (LH): 1,5 mIU/mL",85,857
+"Hormona estimulante de la tiroides (TSH): 1,70 µIU/mL",85,857
+Sedimento urinario: 2300 células/µL,85,857
+Resultados de laboratorio generales: normales,85,858
+nivel de cortisol: 19 µg/dL,85,859
+"Apolipoproteína A1, Apolipoproteína B: 95 mg/dL",86,860
+Zinc: 87 µg/dL,86,860
+Lipoproteína de baja densidad (LDL): 149 mg/dL,86,860
+Lipoproteína de alta densidad (HDL): 71 mg/dL,86,860
+Cortisol: 16 µg/dL,86,860
+Albúmina: normal,86,861
+Hemoglobina: normal,86,861
+Lipoproteína de alta densidad (HDL): 66 mg/dL,86,861
+Lipoproteína de baja densidad (LDL): 142 mg/dL,86,861
+Cortisol matinal: 14 µg/dL,86,861
+Cortisol vespertino: 9 µg/dL,86,861
+Variabilidad de la frecuencia cardíaca (HRV): normal,86,861
+hipertrigliceridemia: 1.176 mg/dL,86,862
+glucosa: 168 mg/dL,86,862
+"Hemoglobina glicosilada (HbA1c): 7,6%",86,862
+colesterol: 124 mg/dL,86,862
+triglicéridos: 83 mg/dL,86,862
+glucosa: 110 mg/dL,86,862
+"HbA1c: 6,6%",86,862
+"nivel de insulina: 14,0 mU/L",86,862
+Densitometría ósea de cuello y columna lumbar,86,863
+sin datos,86,864
+hipercortisolismo,86,865
+hormona adrenocorticotrópica (ACTH) elevada,86,865
+"Hormona estimulante de la tiroides (TSH): 1,3 mUI/L",86,866
+Colesterol total: 180 mg/dL,86,866
+Cortisol: 9 µg/dL,86,866
+Curva glucémica con leve hipoglucemia,86,867
+"Tirotropina (TSH): 0,34 mUI/L",86,868
+Hormona foliculoestimulante (FSH): 55 mUI/mL,86,868
+Estradiol (E2): 110 pg/mL,86,868
+Uremia 30 mg/dL,86,869
+"Ácido úrico 6,9 mg/dL",86,869
+Apolipoproteína A 173 mg/dL,86,869
+Apolipoproteína B 113 mg/dL,86,869
+"Hormona luteinizante (LH): 8,79 mUI/mL",87,870
+Tiroxina libre (T4 libre): 167 ng/dL,87,870
+"Bilirrubina directa: 1,03 mg/dL",87,870
+Dehidroepiandrosterona (DHEA): 386 ug/dL,87,871
+"Antígeno prostático específico (PSA): 3,45 ng/mL",87,871
+Hemoglobina Esferocítica 1,87,872
+"Hemoglobina A1c 5,8%",87,872
+Colesterol total 275 mg/dL,87,872
+Lipoproteína de alta densidad (HDL) 53 mg/dL,87,872
+Lipoproteína de baja densidad (LDL) 178 mg/dL,87,872
+Triglicéridos 228 mg/dL,87,872
+Creatina quinasa 78 U/L,87,872
+"Hormona estimulante de la tiroides (TSH) 0,83 mU/L",87,872
+"Hormona estimulante de la tiroides (TSH) 0,86 mU/L",87,872
+"Hormona foliculoestimulante (FSH) 68,4 mU/L",87,872
+"Prolactina 6,7 ng/mL",87,872
+"Cortisol 21,91 µg/dL",87,872
+Eritrosedimentación 12 mm/h,87,872
+cortisol: 28 (vespertino: 12),87,873
+Prolactina (PRL): 23,87,873
+Sulfato de dehidroepiandrosterona (DHEA-S): 700,87,873
+Vitamina D: 20,87,873
+sin datos,87,874
+Hemoglobina esferocítica: 16 g/dL,87,875
+Glucosa: 86 mg/dL,87,875
+Fructosamina: 218 µmol/L,87,875
+Lipoproteína de alta densidad (HDL): 70 mg/dL,87,875
+"Hormona estimulante de la tiroides (TSH): 1,22 mUI/L",87,875
+"Prolactina: 10,4 ng/mL",87,875
+"Cortisol: 14,78 µg/dL (vespertino: 10,44 µg/dL)",87,875
+"Homocisteína: 12,7 µmol/L",87,875
+"25-hidroxivitamina D: 31,6 ng/mL",87,875
+Apolipoproteína A: 159 mg/dL,87,875
+Apolipoproteína B: 100 mg/dL,87,875
+sin datos,87,876
+Peso: 76 kg,87,877
+altura: 174 cm,87,877
+sin datos,87,878
+"Tirotropina (TSH): 6,8 mUI/L",87,879
+Tirotropina (TSH): 3,88,880
+Tirotropina (TSH): 1.0,88,880
+25-hidroxivitamina D: 11 ng/mL,88,880
+"Hemoglobina glicosilada (HbA1c): 7,6%",88,881
+"Hormona estimulante de la tiroides (TSH): 90,25 mUI/L",88,882
+"Tirotropina (TSH) 2,35 mUI/L",88,883
+"Hormona luteinizante (LH) 22,30 mUI/mL",88,883
+Prolactina (PRL) 13 ng/mL,88,883
+Estradiol (E2) 26 pg/mL,88,883
+"Testosterona total (TOT) 2,41 ng/mL",88,883
+Inhibina B: menor a 10 pg/mL,88,883
+Nivel de estrés: 8,88,883
+Prueba de tolerancia oral a la glucosa (PTOG) reciente con resultados límite,88,884
+Nivel de estrés: 8,88,885
+sin datos,88,886
+sin datos,88,887
+Hemoglobina Esferocítica 1,88,888
+"Hemoglobina A1c 5,8%",88,888
+Colesterol total 275 mg/dL,88,888
+Lipoproteína de alta densidad (HDL) 53 mg/dL,88,888
+Lipoproteína de baja densidad (LDL) 178 mg/dL,88,888
+Triglicéridos 228 mg/dL,88,888
+Creatina quinasa 78 U/L,88,888
+"Hormona estimulante de la tiroides (TSH) 0,83 mU/L",88,888
+"Hormona estimulante de la tiroides (TSH) 0,86 mU/L",88,888
+"Hormona foliculoestimulante (FSH) 68,4 mU/L",88,888
+"Prolactina 6,7 ng/mL",88,888
+"Cortisol 21,91 µg/dL",88,888
+Eritrosedimentación 12 mm/h,88,888
+Tiempo en cama: 6 horas,88,889
+Nivel de estrés percibido: 8,88,889
+Peso actual: 102 kg,89,890
+"Composición corporal: 64,5% masa magra, 32% grasa",89,890
+Glucosa: 88 mg/dL,89,890
+"Hemoglobina glicosilada (HbA1c): 5,2%",89,890
+Uremia: 35 mg/dL,89,890
+Colesterol total: 138 mg/dL,89,890
+Lipoproteína de baja densidad (LDL): 81 mg/dL,89,890
+Lipoproteína de alta densidad (HDL): 44 mg/dL,89,890
+Triglicéridos: 67 mg/dL,89,890
+Sulfato de dehidroepiandrosterona (DHEA-S): 278 µg/dL,89,890
+"Hormona estimulante de la tiroides (TSH): 1,85 mUI/L",89,890
+"Tiroxina libre (T4 libre): 1,75 ng/dL",89,890
+"Tiroxina total (T4 total): 3,80 ng/dL",89,890
+"Cortisol: 16,3 µg/dL",89,890
+"Tiempo de tromboplastina parcial activada (TTPA): 9,01 segundos",89,891
+"Cortisol: 23,4 µg/dL",89,891
+Hormona luteinizante (LH) 4,89,892
+sin datos,89,893
+Capacidad aeróbica rápida: 14,89,894
+"Cortisol: 6,5 µg/dL",89,895
+"Hormona estimulante de la tiroides (TSH): 1,58 mUI/L",89,895
+Eritrosedimentación: 3 mm/h,89,896
+Glucosa: 102 mg/dL,89,896
+Ferritina: 186 ng/mL,89,896
+Uremia: 29 mg/dL,89,896
+"Calcio iónico: 4,5 mg/dL",89,896
+"Fosfato: 2,6 mg/dL",89,896
+Lipoproteína de baja densidad (LDL): 110 mg/dL,89,896
+Lipoproteína de alta densidad (HDL): 40 mg/dL,89,896
+"Hormona estimulante de la tiroides (TSH): 4,0 mUI/L",89,896
+"25-hidroxivitamina D: 22,7 ng/mL",89,896
+"Homocisteína: 5,0 µmol/L",89,896
+"Hematocrito: 16,5%",89,896
+sin datos,89,897
+sin datos,89,898
+sin datos,89,899
+Peso: 85 kg,90,900
+Hormona paratiroidea (PTH): 94 pg/mL,90,901
+"Calcio iónico: 5,96 mg/dL",90,901
+"Bioimpedancia: mejora en masa muscular (1 kg), disminución en tejido adiposo (1,4%)",90,902
+"Hormona luteinizante (LH) 2,0 mUI/mL",90,902
+Testosterona libre 141 pg/mL,90,902
+"Bioimpedancia: mejora en masa muscular (1 kg), disminución en tejido adiposo (1,4%)",90,903
+"Hormona luteinizante (LH) 2,0 mUI/mL",90,903
+Testosterona libre 141 pg/mL,90,903
+Hormona estimulante de la tiroides (TSH): 8 mUI/L,90,904
+dimensiones 13x8x8 mm,90,905
+Ferritina: 57 ng/mL,90,906
+Lactato deshidrogenasa (LDH): 197 U/L,90,906
+"Cortisol: 16,41 µg/dL",90,906
+Testosterona libre: 147 pg/mL,90,906
+"Testosterona total: 8,65 ng/mL",90,906
+Creatina quinasa (CPK): 322 U/L,90,906
+"Insulina: 10,5 µIU/mL",90,906
+Glucosa: 105 mg/dL,90,906
+"Prolactina: 15,3 ng/mL",90,906
+Aldosterona: 28 ng/dL,90,906
+25-hidroxivitamina D: 28 ng/mL,90,906
+sin datos,90,907
+Hormona folículo estimulante (FSH): 4 mUI/mL,90,908
+Estradiol (E2): 110 pg/mL,90,908
+Cortisol: 32 µg/dL,90,908
+Glucosa: 131 mg/dL,90,909
+"Hemoglobina glicosilada (HbA1c): 6,1%",90,909
+Fructosamina: 238 µmol/L,90,909
+sin datos,91,910
+sin datos,91,911
+sin datos,91,912
+"Cortisol: 14,4 µg/dL",91,913
+"Hormona luteinizante (LH): 3,4 mUI/mL",91,913
+"Testosterona total: 3,04 ng/mL",91,913
+"Testosterona libre: 4,1 pg/mL",91,913
+sin datos,91,914
+sin datos,91,915
+sin datos,91,916
+sin datos,91,917
+sin datos,91,918
+"Hormona luteinizante (LH): 2,4 mUI/mL",91,919
+Testosterona libre: 88 pg/mL,91,919
+"Bilirrubina directa (BD): 2,04 mg/dL",91,919
+"Hormona estimulante de la tiroides (TSH): 3,51 µUI/mL",91,919
+Cortisol: 17 µg/dL,91,919
+Hormona foliculoestimulante (FSH): 8 mUI/mL,92,920
+"Hormona luteinizante (LH): 7,9 mUI/mL",92,920
+"Testosterona total: 5,9 ng/mL",92,920
+Prolactina: 25 ng/mL,92,920
+recuento espermático bajo,92,920
+movilidad espermática reducida,92,920
+Niveles de prolactina (PRL) ligeramente elevados,92,921
+exceso de peso de 4 kg,92,922
+Niveles de cortisol: 24 ug/dL,92,923
+"niveles de insulina: 23,5 uIU/mL",92,923
+"Proteína C reactiva (PCR): 18,32 mg/L",92,923
+"recuento de glóbulos blancos: 15,3 x10^3/uL",92,923
+"Proteína C reactiva (PCR): 5,9 mg/L",92,924
+Creatina fosfoquinasa (CPK): 161 U/L,92,924
+sin datos,92,925
+Aumento de 7 kg de masa muscular,92,926
+Hemoglobina: 20 g/dL,92,927
+Lipoproteína de alta densidad (HDL): 39 mg/dL,92,927
+Lipoproteína de baja densidad (LDL): 234 mg/dL,92,927
+Glucosa: 100 mg/dL,92,927
+Lipasa: 54 U/L,92,927
+Amilasa: 45 U/L,92,927
+"Proteína C reactiva (PCR): 31,20 mg/L",92,927
+"Hormona luteinizante (LH): 11,2 mIU/mL",92,927
+"Hormona foliculoestimulante (FSH): 6,7 mIU/mL",92,927
+Estradiol (E2): 32 pg/mL,92,927
+Homocisteína: 8 µmol/L,92,927
+"Cortisol: 15,9 µg/dL (vespertino: 8,1 µg/dL)",92,927
+Peso total: 100 kg,92,927
+Masa magra: 61 kg,92,927
+Masa grasa: 35 kg,92,927
+Hemoglobina esferocítica: 16 g/dL,92,928
+Glucosa: 86 mg/dL,92,928
+Fructosamina: 218 µmol/L,92,928
+Lipoproteína de alta densidad (HDL): 70 mg/dL,92,928
+"Hormona estimulante de la tiroides (TSH): 1,22 mUI/L",92,928
+"Prolactina: 10,4 ng/mL",92,928
+"Cortisol: 14,78 µg/dL (vespertino: 10,44 µg/dL)",92,928
+"Homocisteína: 12,7 µmol/L",92,928
+"25-hidroxivitamina D: 31,6 ng/mL",92,928
+Apolipoproteína A: 159 mg/dL,92,928
+Apolipoproteína B: 100 mg/dL,92,928
+sin datos,92,929
+Glucosa: 80 mg/dL,93,930
+Triglicéridos: 121 mg/dL,93,930
+Insulina: 23 µU/mL,93,930
+"Hormona estimulante de la tiroides (TSH): 10,6 mUI/L",93,931
+sin datos,93,932
+sin datos,93,933
+sin datos,93,934
+Hemoglobina esferocítica: 16 g/dL,93,935
+Glucosa: 86 mg/dL,93,935
+Fructosamina: 218 µmol/L,93,935
+Lipoproteína de alta densidad (HDL): 70 mg/dL,93,935
+"Hormona estimulante de la tiroides (TSH): 1,22 mUI/L",93,935
+"Prolactina: 10,4 ng/mL",93,935
+"Cortisol: 14,78 µg/dL (vespertino: 10,44 µg/dL)",93,935
+"Homocisteína: 12,7 µmol/L",93,935
+"25-hidroxivitamina D: 31,6 ng/mL",93,935
+Apolipoproteína A: 159 mg/dL,93,935
+Apolipoproteína B: 100 mg/dL,93,935
+Lipoproteína de alta densidad (HDL): 100 mg/dL,93,936
+Lipoproteína de baja densidad (LDL): 83 mg/dL,93,936
+"Aumento de bilirrubina indirecta: 2,45 mg/dL",93,936
+"Homocisteína: 5,5 µmol/L",93,936
+"Hormona estimulante de la tiroides (TSH): 5,48 mUI/L",93,936
+Dehidroepiandrosterona sulfato (DHEA-S): 138 µg/dL,93,936
+"Cortisol matinal: 17,7 µg/dL",93,936
+"Cortisol vespertino: 6,0 µg/dL",93,936
+"Vitamina C: 2,0 mg/dL",93,936
+sin datos,93,937
+sin datos,93,938
+Plaquetas: 193 x10^3/uL,93,939
+Coagulograma: normal,93,939
+Glucosa: 107 mg/dL,93,939
+Fructosamina: 243 µmol/L,93,939
+Amilasa: 44 U/L,93,939
+Lipasa: 73 U/L,93,939
+Creatina quinasa (CPK): 237 U/L,93,939
+"Insulinemia: 9,4 µU/mL",93,939
+Creatina quinasa (CPK): 330 U/L,94,940
+"Hormona estimulante de la tiroides (TSH): 0,76 mUI/L",94,940
+Colesterol total: 179 mg/dL,94,941
+Lipoproteína de alta densidad (HDL): 59 mg/dL,94,941
+Lipoproteína de baja densidad (LDL): 115 mg/dL,94,941
+Triglicéridos: 58 mg/dL,94,941
+"Hormona estimulante de la tiroides (TSH): 1,53 mUI/L",94,941
+Hormona folículo estimulante (FSH): 4 mUI/mL,94,942
+Estradiol (E2): 110 pg/mL,94,942
+Cortisol: 32 µg/dL,94,942
+sin datos,94,943
+Colesterol total: 238 mg/dL,94,944
+Lipoproteína de alta densidad (HDL): 86 mg/dL,94,944
+Lipoproteína de baja densidad (LDL): 142 mg/dL,94,944
+Creatina quinasa (CPK): 43 U/L,94,944
+Proteína C reactiva (PCR): negativa,94,944
+"Hormona estimulante de la tiroides (TSH): 2,39 mUI/L",94,944
+"Tiroxina libre (T4L): 0,89 ng/dL",94,944
+Hematocrito: 49%,94,945
+Lipoproteína de alta densidad (HDL): 39 mg/dL,94,945
+sin datos,94,946
+"Aumento de insulina: 19,7 µU/mL",94,947
+"índice HOMA: 4,52",94,947
+"Cortisol: 14,9 µg/dL",94,947
+Fosfatasa alcalina: 59 U/L,94,948
+"Trombocitos: 5,47 x10^9/L",94,948
+Estradiol: 18 pg/mL,94,948
+Aplicación de testosterona: 31 mg,94,948
+Eritrosedimentación: 4 mm/h,94,949
+Uremia: 37 mg/dL,94,949
+Lipoproteína de alta densidad (HDL): 40 mg/dL,94,949
+Lipoproteína de baja densidad (LDL): 140 mg/dL,94,949
+Triglicéridos: 114 mg/dL,94,949
+Glucosa: 103 mg/dL,94,949
+"Hormona luteinizante (LH): 4,9 mUI/mL",94,949
+"Hormona foliculoestimulante (FSH): 6,0 mUI/mL",94,949
+"Proteína C reactiva (PCR): 1,9 mg/dL",94,949
+"Homocisteína: 7,9 µmol/L",94,949
+Tiempo de tromboplastina parcial activada (TTPA): 4m55s,94,949
+Tiroxina libre (T4 libre): 101 ng/dL,94,949
+"Insulina: 28,6 µIU/mL",94,949
+sin datos,95,950
+nivel de levotiroxina de 112 mcg/día,95,951
+Antitrombina III: 83%,95,952
+"Cortisol: 15,1 µg/dL",95,952
+"Hormona foliculoestimulante (FSH): 7,1 mUI/mL",95,952
+"Pril: 31,09",95,952
+Dehidroepiandrosterona sulfato (DHEA-S): 948 µg/dL,95,952
+"Hormona estimulante de la tiroides (TSH): 3,83 µUI/mL",95,952
+"Tiroxina libre (T4L): 1,09 ng/dL",95,952
+"Triyodotironina (T3): 1,05 ng/mL",95,952
+Peso 63 kg,95,952
+Masa grasa 22 kg,95,952
+Masa magra 36 kg,95,952
+sin datos,95,953
+cortisol con ritmo circadiano invertido,95,954
+sin datos,95,955
+sin datos,95,956
+Creatina quinasa (CPK): 154 U/L,95,957
+"Hormona foliculoestimulante (FSH): 1,5 mUI/mL",95,957
+"Hormona luteinizante (LH): 2,3 mUI/mL",95,957
+"Testosterona total (Tot): 8,32 ng/mL",95,957
+Prolactina (PRL): 24 ng/mL,95,957
+"Cortisol matutino: 22,6 µg/dL",95,957
+Cortisol nocturno: negativo,95,957
+Prolactina (PRL): 22 ng/mL,95,957
+"Hormona estimulante de la tiroides (TSH): 5,02 mUI/L",95,958
+"Tiroxina libre (T4L): 1,15 ng/dL",95,958
+sin datos,95,959
+Tiroxina (T4) y Triyodotironina (T3) disminuidas,96,960
+"Hormona luteinizante (LH): 6,6 mUI/mL",96,961
+"Testosterona: 1,74 ng/mL",96,961
+"Hormona estimulante de la tiroides (TSH): 4,92 mUI/L",96,962
+Hemoglobina: 12 g/dL,96,963
+"Proteína C reactiva (PCR): 0,21 mg/dL",96,963
+Glucosa: 92 mg/dL,96,963
+"Insulina: 8,1 µU/mL",96,963
+Fructosamina: 260 µmol/L,96,963
+"Ácido úrico: 6,7 mg/dL",96,963
+Colesterol total: 231 mg/dL,96,963
+Lipoproteína de alta densidad (HDL): 72 mg/dL,96,963
+Lipoproteína de baja densidad (LDL): 127 mg/dL,96,963
+Triglicéridos: 161 mg/dL,96,963
+Creatina quinasa (CPK): 97 U/L,96,963
+"Hormona estimulante de la tiroides (TSH): 2,37 µIU/mL",96,963
+"Hormona luteinizante (LH): 2,26 mIU/mL",96,963
+"Tiroxina (T4): 4,92 µg/dL",96,963
+"Tiroxina unida a proteínas (T4 bd): 8,25 µg/dL",96,963
+25-hidroxivitamina D: 52 ng/mL,96,963
+"Cortisol: 19,4 µg/dL",96,963
+Cortisol vespertino: 5 µg/dL,96,963
+"Hormona adrenocorticotropa (ACTH): 60,7 pg/mL",96,963
+Apolipoproteína A (Apo A): 227 mg/dL,96,963
+Apolipoproteína B (Apo B): 92 mg/dL,96,963
+sin datos,96,964
+sin datos,96,965
+sin datos,96,966
+Testosterona libre: 222 pg/mL,96,967
+"Cortisol: 9,8 µg/dL",96,967
+"Dosis de Liraglutida: 1,8 mg",96,967
+sin datos,96,968
+Serotonina plasmática: 88 ng/mL,96,969
+"Triyodotironina libre (T3L): 2,1 pg/mL",96,969
+"Hormona estimulante de la tiroides (TSH): 1,0 mUI/L",96,969
+Dehidroepiandrosterona (DHEA): 25 µg/dL,96,969
+Hemoglobina: 20 g/dL,97,970
+Lipoproteína de alta densidad (HDL): 39 mg/dL,97,970
+Lipoproteína de baja densidad (LDL): 234 mg/dL,97,970
+Glucosa: 100 mg/dL,97,970
+Lipasa: 54 U/L,97,970
+Amilasa: 45 U/L,97,970
+"Proteína C reactiva (PCR): 31,20 mg/L",97,970
+"Hormona luteinizante (LH): 11,2 mIU/mL",97,970
+"Hormona foliculoestimulante (FSH): 6,7 mIU/mL",97,970
+Estradiol (E2): 32 pg/mL,97,970
+Homocisteína: 8 µmol/L,97,970
+"Cortisol: 15,9 µg/dL (vespertino: 8,1 µg/dL)",97,970
+Peso total: 100 kg,97,970
+Masa magra: 61 kg,97,970
+Masa grasa: 35 kg,97,970
+Hormona luteinizante (LH) 4,97,971
+sin datos,97,972
+Eritrosedimentación: 4 mm/h,97,973
+Uremia: 37 mg/dL,97,973
+Lipoproteína de alta densidad (HDL): 40 mg/dL,97,973
+Lipoproteína de baja densidad (LDL): 140 mg/dL,97,973
+Triglicéridos: 114 mg/dL,97,973
+Glucosa: 103 mg/dL,97,973
+"Hormona luteinizante (LH): 4,9 mUI/mL",97,973
+"Hormona foliculoestimulante (FSH): 6,0 mUI/mL",97,973
+"Proteína C reactiva (PCR): 1,9 mg/dL",97,973
+"Homocisteína: 7,9 µmol/L",97,973
+Tiempo de tromboplastina parcial activada (TTPA): 4m55s,97,973
+Tiroxina libre (T4 libre): 101 ng/dL,97,973
+"Insulina: 28,6 µIU/mL",97,973
+resultados de laboratorio metabólico normales,97,974
+Prueba de tolerancia oral a la glucosa (PTOG) reciente con resultados límite,97,975
+sin datos,97,976
+sin datos,97,977
+sin datos,97,978
+"Hormona estimulante de la tiroides (TSH): 5,1 mUI/L",97,979
+Hormona foliculoestimulante (FSH) y Hormona luteinizante (LH): elevadas,97,979
+Niveles de cortisol: 41,98,980
+"niveles de triyodotironina (T3): 0,4",98,980
+"hemoglobina glicosilada (HbA1c): 11,3",98,980
+sin datos,98,981
+"Hormona luteinizante (LH): 0,48 mUI/mL",98,982
+"Hormona foliculoestimulante (FSH): 0,7 mUI/mL",98,982
+Testosterona total: 9.0 ng/dL,98,982
+Glucosa: 94 mg/dL,98,983
+Sedimentación: 311 mm/h,98,983
+Uremia: 22 mg/dL,98,983
+Lipoproteína de alta densidad (HDL): 58 mg/dL,98,983
+Lipoproteína de baja densidad (LDL): 169 mg/dL,98,983
+Triglicéridos: 118 mg/dL,98,983
+"Creatinina en plasma: 2,11 mg/dL",98,983
+Serotonina: 227 ng/mL,98,983
+"Cortisol: 15,7 µg/dL",98,983
+"Hormona luteinizante (LH): 5,1 mIU/mL",98,983
+"Prolactina: 14,9 ng/mL",98,983
+Dehidroepiandrosterona sulfato (DHEA-S): 2100 µg/dL,98,983
+"Hormona estimulante de la tiroides (TSH): 1,73 mIU/L",98,983
+"25-hidroxivitamina D: 25,8 ng/mL",98,983
+sin datos,98,984
+Hormona estimulante de la tiroides (TSH): 8 mUI/L,98,985
+sin datos,98,986
+Dehidroepiandrosterona (DHEA): 386 ug/dL,98,987
+"Antígeno prostático específico (PSA): 3,45 ng/mL",98,987
+sin datos,98,988
+niveles de testosterona en el límite inferior,98,989
+disminución de serotonina,98,989
+Niveles bajos de vitamina D,98,989
+Triglicéridos: 288 mg/dL,98,989
+Lipoproteína de alta densidad (HDL): 36 mg/dL,98,989
+Lipoproteína de baja densidad (LDL): 170 mg/dL,98,989
+Serotonina: 17 ng/mL,98,989
+sin datos,99,990
+sin datos,99,991
+Resultados de laboratorio generales: normales,99,992
+sin datos,99,993
+sin datos,99,994
+"Hormona estimulante de la tiroides (TSH): 3,96 mUI/L",99,995
+Vitamina D: 22 ng/mL,99,995
+Creatina quinasa (CPK): 54 U/L,99,996
+Selenio: valor no especificado,99,996
+"Cortisol: 19,7 µg/dL",99,996
+"Prolactina (PRL): 37,2 ng/mL",99,996
+Dehidroepiandrosterona sulfato (DHEA-S): 3170 µg/dL,99,996
+"Hormona estimulante de la tiroides (TSH): 2,08 mIU/L",99,996
+"Tiroxina libre (T4L): 1,4 ng/dL",99,996
+sin datos,99,997
+sin datos,99,998
+sin datos,99,999

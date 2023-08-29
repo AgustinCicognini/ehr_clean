@@ -1,0 +1,2321 @@
+indicaciones,patien_id,encounter_id
+Prueba de semaglutida pendiente,0,0
+Pendiente de control,0,1
+análisis de laboratorio con variabilidad de la frecuencia cardíaca (HRV),0,2
+estudio de sueño para evaluar apnea del sueño,0,2
+continuar con actividad física,0,3
+Citramalato una vez al día,0,3
+Control para posible inicio de terapia con medicamentos antirresortivos,0,3
+Derivado a Psiquiatría para regulación psicofarmacológica,0,4
+análisis de laboratorio completo,0,5
+evaluación hormonal,0,6
+nueva prueba para confirmar,0,7
+Inicio de nuevo ciclo de Clomifeno,0,7
+Dos días sin aplicación de gonadotropina,0,8
+"Quedan dos aplicaciones, el domingo es la última de gonadotropina",0,8
+Espaciar gonadotropina a una aplicación cada cuatro días,0,8
+Laboratorio en una semana sin aplicación,0,8
+Control para selección de tratamiento,0,8
+"suplementación con proteína de suero (whey), creatina y beta-hidroxi-beta-metilbutirato (HMB)",0,9
+análisis de laboratorio para control,0,9
+Control mediante análisis de composición corporal InBody,0,9
+control nutricional,1,10
+Próxima cita en 2 meses con evaluación de Lipoproteína de baja densidad (LDL),1,10
+Pendiente de resultados de laboratorio,1,11
+Pendiente de seguimiento,1,12
+Aumento de Levotiroxina (LT4) a 200 mcg por 5 días y 175 mcg por 2 días,1,12
+Se inicia reactivación,1,13
+plan de salud,1,14
+pruebas de laboratorio con curva de tolerancia a la glucosa,1,14
+metformina diaria,1,15
+control en la cuarta semana,1,15
+Control para posible reactivación de la enfermedad,1,16
+Omega-3,1,17
+Ezetimiba,1,17
+Beta-hidroxibutirato (HMB) Proteína,1,17
+Suplemento pre-entrenamiento: Megastene,1,17
+Melatonina de liberación prolongada (Circadin),1,17
+Control pendiente,1,17
+seguir una dieta cetogénica con Omega 3 y minoxidil,1,18
+Continúa con diurético,1,18
+evaluación con curva de cortisol y marcadores inflamatorios,1,18
+beta-hidroxi-beta-metilbutirato 2 g,1,18
+entrenamiento de fuerza,1,18
+análisis de cortisol libre en orina de 24 horas,1,19
+tratamiento con Clomifeno,2,20
+Control para ajuste de dosis de Clomifeno,2,20
+sin datos,2,21
+Inicio de nuevo ciclo de tratamiento con Clomifeno,2,22
+pendiente de nuevos análisis de laboratorio,2,22
+control nutricional,2,23
+Próxima cita en 2 meses con evaluación de Lipoproteína de baja densidad (LDL),2,23
+Inicio de rutina de gimnasio y plan nutricional el próximo lunes,2,24
+Tres meses hasta el próximo monitoreo con Holter,2,24
+Un mes hasta la próxima prueba de laboratorio,2,24
+"Se añade Clomifeno, 25 mg en días alternos",2,24
+Control a través de correo electrónico en un mes,2,24
+Control con monitor Holter en dos meses,2,24
+Reactivación del tratamiento,2,25
+Cloruro de magnesio,2,26
+beta-hidroxi-beta-metilbutirato (HMB),2,26
+Berberina,2,26
+Ezetimiba,2,26
+Holomagnesio,2,26
+Circadin,2,26
+Control en 1 mes con laboratorio,2,26
+Inicio de nuevo ciclo de Clomifeno y Gonadotropina,2,27
+Pendiente de nuevos resultados de laboratorio,2,27
+plan nutricional no restrictivo,2,28
+Sulbutiamina,2,28
+Tuaplex,2,28
+Circadin,2,28
+análisis de laboratorio para iniciar tratamiento con Semaglutida,2,29
+consulta de nutrición,2,29
+plan,3,30
+estudio de laboratorio completo,3,30
+circunferencia de la cintura,3,30
+infusión intravenosa de hierro,3,31
+"Dosis reducida de levotiroxina a 62,5 mcg",3,31
+Metformina 850 mg dos veces al día,3,31
+Rosuvastatina 10 mg al día,3,31
+control de laboratorio,3,31
+Ecografía tiroidea,3,31
+Densitometría ósea en 6 meses,3,31
+Control posterior al viaje,3,32
+análisis de laboratorio completo,3,33
+Prescribo Memorex y Megastine,3,34
+evaluación del ciclo menstrual,3,34
+niveles de cortisol,3,34
+tratamiento con simeticona y desoxirribonucleasa,3,35
+retomar plan nutricional,3,35
+realizar nuevo control,3,35
+análisis de laboratorio,3,36
+"Aumento de la dosis de Levotiroxina a 125 mcg cinco días a la semana y 62,5 mcg dos días a la semana",3,37
+Control con curva de respuesta,3,37
+Solicito gammagrafía tiroidea,3,38
+Derivo al Dr. Frechtel para interconsulta,3,38
+Referencia a nutrición para ajuste y control,3,39
+evaluación con curva de tolerancia a la glucosa,4,40
+Control con terapia de sustitución de tiroides,4,40
+análisis de laboratorio para evaluación hormonal,4,41
+Inicio de tratamiento con levotiroxina (LT4) 50 mcg,4,42
+Control programado en 3 semanas,4,42
+Control de BIA en febrero,4,43
+Próximos análisis de laboratorio con Apolipoproteína,4,43
+Continúa con suplemento de Omega 3,4,44
+variabilidad de la frecuencia cardíaca (HRV),4,45
+"Dosis reducida a 25 mg, tres veces por semana",4,46
+resultados de laboratorio de función gonadal y serotonina plaquetaria,4,46
+Derivado a urología para evaluación de potencia sexual,4,47
+Control posterior con bioimpedancia eléctrica,4,47
+"tratamiento con Clomifeno, dosis media, por 21 días",4,48
+"Gonadotropina, tres dosis",4,48
+nuevo análisis de laboratorio con prueba de liberación de tirotropina (TRH),4,48
+Hierro polimaltosado,4,49
+Laboratorio en 1 mes para evaluar Proteína C reactiva (PCR) y Hierro,4,49
+Control después del viaje,4,49
+Aumento de dosis de levotiroxina,5,50
+Sulbutiamina,5,50
+Omega 3 2000 mg,5,50
+Melatol Plus mg glicinato,5,50
+inicio de entrenamiento,5,50
+Disminución de la dosis de Trilip,5,51
+control en 2 meses,5,51
+Cambio en el plan nutricional,5,52
+seguimiento a través de WhatsApp,5,52
+actividad física al aire libre una vez por semana,5,52
+Cambio de Liraglutida a Semaglutida,5,52
+nuevos análisis de laboratorio,5,53
+espermograma actualizado,5,53
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),5,54
+Aumento de dosis de levotiroxina,5,55
+Sulbutiamina,5,55
+Omega 3 2000 mg,5,55
+Melatol Plus mg glicinato,5,55
+inicio de entrenamiento,5,55
+Pendiente de resultados de laboratorio,5,56
+Se proporcionan opciones de tratamiento,5,57
+sin datos,5,58
+análisis de laboratorio completo,5,59
+ecografía de tiroides,5,59
+Próximo laboratorio incluirá prueba de testosterona,6,60
+Zolpidem,6,61
+Creatina,6,61
+Clomifeno por 20 días,6,61
+laboratorio,6,61
+Derivación a nutrición para ajuste nutricional,6,61
+"suplementación con Hidroximetilbutirato (HMB), creatina y vitamina D",6,62
+posibilidad de suplementación con Dehidroepiandrosterona (DHEA),6,62
+Se suspende Clomifeno,6,63
+análisis de laboratorio en 15 días,6,63
+Aumento de la dosis de levotiroxina a 125 mcg,6,64
+Alverina y bromuro de otilonio (Miopropan),6,64
+Control en 1 mes,6,64
+Se solicita Tirotropina (TSH),6,65
+Triyodotironina reversa (T3 reversa),6,65
+Dehidroepiandrosterona sulfato (DHEA-S),6,65
+perfil hormonal gonadal,6,65
+Control en 6 meses con ecografía y análisis de anticuerpos,6,66
+Derivado a nutrición,6,67
+Se solicitan más análisis de laboratorio,6,67
+pautas para Dehidroepiandrosterona (DHEA),6,68
+Levothyroxine 137 mcg cinco días a la semana y 150 mcg dos días a la semana,6,68
+Circadin,6,68
+Control en un mes,6,68
+laboratorio completo con variabilidad de la frecuencia cardíaca (HRV),6,69
+radiografía para control,6,69
+seguimiento por endocrinología en 1 mes,7,70
+Nuevos análisis de laboratorio después de las vacaciones,7,70
+análisis de laboratorio,7,71
+Seguimiento por correo electrónico para comenzar,7,71
+"Durante la primera semana, tomará 1 comprimido",7,72
+"durante la segunda semana, tomará 2 comprimidos",7,72
+seguimiento telefónico,7,72
+análisis de laboratorio completo,7,73
+control gastroenterológico para establecer tratamiento,7,74
+"evaluación de absorción de ácido fólico, hierro y vitamina B12",7,74
+"Inicio de tratamiento con semaglutida 0,25 mg",7,75
+Control de dosis en 1 mes con análisis de laboratorio,7,75
+laboratorio completo con curva glucémica,7,76
+Control médico programado antes de fin de año,7,77
+evaluación de la función cardíaca,7,78
+retomar actividad física,7,79
+plan de dieta cetogénica controlada,8,80
+tratamiento con semaglutida,8,80
+Próximos análisis de laboratorio en 4 semanas,8,80
+Dos días sin aplicación de gonadotropina,8,81
+"Quedan dos aplicaciones, el domingo es la última de gonadotropina",8,81
+Espaciar gonadotropina a una aplicación cada cuatro días,8,81
+Laboratorio en una semana sin aplicación,8,81
+Control para selección de tratamiento,8,81
+prueba de cortisol,8,82
+nuevas enzimas,8,82
+tratamiento con semaglutida,8,82
+evaluación hormonal,8,83
+Pendiente de nuevos análisis de laboratorio,8,84
+evaluación completa,8,85
+Derivación a nutrición,8,85
+Solicito evaluación completa con curva de cortisol,8,86
+consulta con nutricionista,8,87
+Próximo control en 4 meses,8,87
+Control a los 6 meses,8,88
+evaluación médica completa,8,89
+Tratamiento nutricional,9,90
+Pendiente de control,9,90
+plan nutricional,9,91
+Control de tiroides y glucemia para mayo,9,91
+Aumento de levotiroxina a 175 mcg,9,92
+Control en 4 semanas,9,92
+Hidroclorotiazida 25 mg,9,93
+Citrato de potasio y vitamina D,9,93
+Control de laboratorio en 2 meses,9,93
+Inicio de actividad física,9,93
+Suplemento de DHEA,9,94
+entrenamiento de fuerza en circuito,9,94
+Modifico Rosuvastatina por Ácido fenofíbrico (día por medio),9,95
+Metformina 850 mg dos veces al día y control de laboratorio en 2 meses,9,95
+Indico plan nutricional y actividad física,9,95
+Continúa con suplemento de Omega 3,9,96
+Aumento de dosis de levotiroxina a 50 mcg cuatro veces por semana y 75 mcg tres veces por semana,9,97
+pautas para Dehidroepiandrosterona (DHEA),9,98
+Levothyroxine 137 mcg cinco días a la semana y 150 mcg dos días a la semana,9,98
+Circadin,9,98
+Control en un mes,9,98
+Derivado a Psiquiatría para regulación psicofarmacológica,9,99
+Control en dos meses,10,100
+análisis de laboratorio completo,10,101
+nueva prueba en 15 días,10,102
+enviar resultados del control de albúmina por correo electrónico,10,102
+sin datos,10,103
+continuar con actividad física,10,104
+Citramalato una vez al día,10,104
+Control para posible inicio de terapia con medicamentos antirresortivos,10,104
+resolución de infección urinaria,10,105
+próximo control,10,105
+berberina (posibilidad de metformina),10,106
+Actividad física en circuito,10,106
+derivación a nutrición,10,106
+vitamina D,10,106
+Control tiroideo y hematológico pendiente,10,106
+laboratorio para composición corporal,10,107
+Gasto Energético en Reposo (GER),10,107
+resolución de infección urinaria,10,108
+próximo control,10,108
+seguir una dieta cetogénica con Omega 3 y minoxidil,10,109
+Continúa con diurético,10,109
+evaluación con curva de cortisol y marcadores inflamatorios,10,109
+beta-hidroxi-beta-metilbutirato 2 g,10,109
+entrenamiento de fuerza,10,109
+evaluación completa,11,110
+Derivación a nutrición,11,110
+Indicación de Clomifeno,11,111
+"Suplementos de Zinc, Magnesio y Vitamina B6 (ZMA)",11,111
+Beta-hidroximetilbutirato (HMB),11,111
+Control pendiente,11,111
+administración de hierro por vía intramuscular,11,112
+Continuar con ácido fólico y Siderblut,11,112
+Iniciar tratamiento con probióticos,11,112
+Control de laboratorio pendiente,11,112
+Derivado a Carolina,11,113
+tratamiento con corticoides,11,113
+Solicito terapia modificadora de la enfermedad,11,113
+Balance de fósforo y calcio,11,113
+Hormonal,11,113
+Prueba de sangre oculta en heces (Indice sideroblástico),11,114
+Densitometría ósea (DMO),11,114
+examen ocular (Exo),11,114
+control de laboratorio,11,114
+tratamiento con Clomifeno,11,115
+Control para ajuste de dosis de Clomifeno,11,115
+análisis de laboratorio completo,11,116
+laboratorio completo,11,117
+bioimpedancia,11,117
+análisis de laboratorio completo,11,118
+Solicita análisis de laboratorio para orientación,11,119
+realizar 7 a 8 comidas al día,12,120
+radiografía de muñeca,12,120
+evaluación del consumo energético y composición corporal para ajuste nutricional y de alimentación,12,120
+sin datos,12,121
+Reactivación del tratamiento,12,122
+Derivado para evaluación nutrigenética,12,123
+Suplementos: Megasten y Coenzima Q10,12,123
+Control al regreso de vacaciones para evaluar indicación,12,124
+muestra de liraglutida para prueba,12,125
+laboratorio completo,12,126
+resonancia magnética nuclear de hipófisis,12,127
+ecografía,12,127
+evaluación de la visión de campo,12,127
+análisis de laboratorio,12,127
+Clomifeno: 25 mg cada dos días,12,128
+seguimiento,12,128
+análisis de laboratorio completo,12,129
+incrementar la dosis de Selenio a 200 mcg/día,13,130
+suplemento de magnesio,13,131
+seguimiento,13,131
+suplemento de magnesio,13,132
+seguimiento,13,132
+reducir dosis,13,133
+"Suplementación con L-carnitina, Beta-hidroxi-beta-metilbutirato (HMB) y Magnesio",13,133
+Control de la reactivación del tratamiento,13,133
+Aumento de la dosis de levotiroxina a 175 mcg por 6 días y posterior control,13,134
+evaluación completa,13,135
+evaluación de la función cardíaca,13,136
+Control programado para abril,13,137
+laboratorio para composición corporal,13,138
+Gasto Energético en Reposo (GER),13,138
+sin datos,13,139
+suplementación con Hidroximetilbutirato (HMB),14,140
+proteína,14,140
+creatina,14,140
+Clomifeno por 5 días,14,140
+ZMA,14,140
+seguimiento de laboratorio,14,140
+Circadin 10 mg,14,141
+Sulbutiamina,14,141
+Suplemento de Magnesio glicinato 500 mg,14,141
+Suplemento de Beta-Hidroxi Beta-Metilbutirato (HMB) de Control Lab por un mes,14,141
+nueva prueba de laboratorio para confirmación,14,142
+Aumento de la dosis de levotiroxina a 175 mcg por 6 días y posterior control,14,143
+pautas para Melatonina y Sulbutiamina,14,144
+Derivo a Nutrición y a Planificación de entrenamiento,14,144
+curva de glucosa,14,145
+estudio del sueño,14,145
+Seguimiento por correo electrónico para posible inicio de tratamiento,14,145
+Control para posible reactivación de la enfermedad,14,146
+"Magnesio, dos veces al día",14,147
+Pendiente de evaluación en horario vespertino,14,147
+análisis de laboratorio completo,14,148
+Variabilidad de la frecuencia cardíaca (HRV),14,148
+análisis de impedancia bioeléctrica (BIA),14,148
+Monitoreo Ambulatorio de la Presión Arterial (MAPA),14,149
+Evaluación de la respuesta al estímulo programada para un mes,15,150
+consulta con nutrición,15,151
+nuevo análisis de laboratorio con determinación de colesterol total (DCT),15,151
+iniciar ayuno intermitente al regreso,15,151
+Comunicación por mensaje,15,151
+plan nutricional,15,152
+Control de tiroides y glucemia para mayo,15,152
+Dos días sin aplicación de gonadotropina,15,153
+"Quedan dos aplicaciones, el domingo es la última de gonadotropina",15,153
+Espaciar gonadotropina a una aplicación cada cuatro días,15,153
+Laboratorio en una semana sin aplicación,15,153
+Control para selección de tratamiento,15,153
+tratamiento con vitamina D durante 4 ciclos,15,154
+Control en 5 meses,15,154
+ajuste de dosis de Semaglutida,15,155
+consideración de tratamiento con Clomifeno,15,155
+Evaluación de función adrenal pendiente,15,156
+Próximo control de laboratorio en un mes,15,156
+Control clínico posterior con el Dr. Gonzalo,15,156
+Modifico Rosuvastatina por Ácido fenofíbrico (día por medio),15,157
+Metformina 850 mg dos veces al día y control de laboratorio en 2 meses,15,157
+Indico plan nutricional y actividad física,15,157
+análisis de laboratorio completo,15,158
+Seguimiento por correo electrónico,15,158
+Bajo plan de tratamiento por 4 semanas,15,159
+análisis de laboratorio,15,159
+"Suplementos: Omega 3, Vitamina D3, Fit9, Magnesio, Ácido fólico",16,160
+Kéfir y Alverine a demanda de manera transitoria,16,160
+evaluación completa,16,161
+evaluación completa,16,162
+análisis de laboratorio completo,16,163
+plan nutricional,16,163
+resonancia magnética nuclear (RMN) de hipófisis,16,164
+análisis de laboratorio,16,164
+ecografía tiroidea,16,164
+Variabilidad de la frecuencia cardíaca (HRV) para posible evaluación del sueño,16,164
+evaluación hormonal,16,165
+variabilidad de la frecuencia cardíaca (HRV) para control,16,165
+dieta baja en carbohidratos,16,166
+Control en un mes,16,166
+tratamiento con Clomifeno,16,167
+nuevo control,16,167
+tratamiento con Isotretinoína (Roaccután),16,168
+evaluación hormonal,16,168
+Ingesta de Sterogyl: 3 veces al día,16,169
+Control en 3 meses con endocrinólogo,16,169
+análisis de laboratorio,17,170
+prueba de tolerancia a la glucosa,17,170
+análisis de laboratorio completo para posible inicio de metformina,17,171
+Inicio de nuevo ciclo de tratamiento con Clomifeno,17,172
+pendiente de nuevos análisis de laboratorio,17,172
+evaluación completa,17,173
+análisis de laboratorio,17,174
+Control programado para febrero para evaluar estabilización,17,175
+sin datos,17,176
+Aumento de dosis de Vitamina C a 3 g,17,177
+Vitamina E a 1000 mg,17,177
+continúa con suplemento de ZMA y HMB cada 20 horas,17,177
+Suspensión de quelantes,17,177
+Se realizará análisis de laboratorio al regreso,17,177
+sin datos,17,178
+análisis de laboratorio completo,17,179
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),18,180
+próxima aplicación para el día 17,18,181
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV) mediante dispositivo portátil o monitor Holter,18,182
+análisis de cortisol,18,183
+testosterona,18,183
+Suspender Atorvastatina hasta próximo control,18,183
+Megestrol,18,184
+Beta-hidroxi-beta-metilbutirato (HMB),18,184
+evaluación completa,18,185
+laboratorio con curva para evaluación metabólica,18,186
+Control en 6 meses,18,187
+pruebas de laboratorio,18,188
+ecografía tiroidea,18,188
+Pendiente de indicaciones para pautas de descanso a través de mensaje,18,189
+Control en 6 meses con ecografía y análisis de anticuerpos,19,190
+Se solicita evaluación,19,191
+"Dieta: Desayuno - 3 huevos enteros + 2 claras, 60 gramos de queso, 1 tostada. Media mañana - fruta (1 porción). Almuerzo - 200 gramos de carne, arroz o papa. Tarde - queso, 1 porción + 1 huevo. Cena - misma comida que en la tarde.",19,192
+"Suplementos: Creatina (2 dosis diarias), HMB 3 gramos.",19,192
+"Medicación: Clomifeno, media tableta diaria por 15 días.",19,192
+Berberina,19,193
+retomar plan nutricional,19,193
+"Continúa con Levotiroxina 62,5 mcg",19,193
+nuevo laboratorio confirmatorio,19,194
+Sterogyl,19,194
+control gastroenterológico para establecer tratamiento,19,195
+"evaluación de absorción de ácido fólico, hierro y vitamina B12",19,195
+Suspensión de Clomifeno,19,196
+Pendiente de control,19,196
+laboratorio completo con curva de glucosa,19,197
+consulta con nutrición,19,198
+nuevo análisis de laboratorio con determinación de colesterol total (DCT),19,198
+iniciar ayuno intermitente al regreso,19,198
+Comunicación por mensaje,19,198
+análisis de laboratorio,19,199
+nuevo ciclo de Clomifeno por 20 días,20,200
+análisis de laboratorio a los 10 días después del inicio del tratamiento,20,200
+"Aumento de la dosis de levotiroxina a 55,5 mcg",20,201
+retomar el plan nutricional,20,201
+Suplemento de Vitamina D: 1000 UI,20,201
+Control en 3 meses,20,201
+suspender el tratamiento con clomifeno,20,202
+Continuar con Ashwagandha,20,202
+reducir la dosis de Clonazepam a 1,20,202
+reducir la dosis de Melatonina a 2,20,202
+reducir la dosis de Alverine a 1,20,202
+añadir Sulbutiamina al tratamiento,20,202
+nueva medición de DHEA,20,202
+posible inicio de tratamiento,20,202
+Cambio de medicación a Fluoxetina,20,203
+Aumento de Levotiroxina (LT4) a 88 mcg,20,203
+Reinicio de suplementos de Selenio y Magnesio,20,203
+Control programado en un mes,20,203
+dieta baja en carbohidratos,20,204
+Control en un mes,20,204
+Aumento de la dosis de levotiroxina a 100 mcg cuatro veces por semana y 50 mcg tres veces por semana,20,205
+Prescripción de melatonina 2 mg,20,205
+ecografía testicular,20,205
+espermograma,20,205
+sin datos,20,206
+análisis de laboratorio completo,20,207
+nuevo laboratorio confirmatorio,20,208
+Sterogyl,20,208
+Omega-3,20,209
+Ezetimiba,20,209
+Beta-hidroxibutirato (HMB) Proteína,20,209
+Suplemento pre-entrenamiento: Megastene,20,209
+Melatonina de liberación prolongada (Circadin),20,209
+Control pendiente,20,209
+metformina diaria,21,210
+control en la cuarta semana,21,210
+evaluación completa,21,211
+Prueba de tolerancia a la glucosa,21,211
+Ecografía tiroidea,21,211
+Inicio de tratamiento con levotiroxina (LT4) 50 mcg,21,212
+Control programado en 3 semanas,21,212
+Disminución de Dehidroepiandrosterona (DHEA) a dosis óptima los días sábado y domingo,21,213
+Suplemento de Omega-3: dos dosis,21,213
+"Suplemento de Zinc, Magnesio y Vitamina B6 (ZMA)",21,213
+"Disminución de la dosis de Levotiroxina (LT4): 125 mcg cinco veces por semana, 62,5 mcg una vez por semana",21,214
+consulta psiquiátrica,21,214
+consulta de fertilidad,21,214
+reinicio Metformina 850 mg una vez al día,21,215
+Control de laboratorio con pruebas de función tiroidea pendientes,21,215
+posible inicio de anticonceptivos orales debido a síndrome de ovario poliquístico,21,215
+variabilidad de la frecuencia cardíaca (HRV),21,216
+análisis de laboratorio completo,21,217
+Seguimiento por correo electrónico,21,217
+levotiroxina 88 mcg,21,218
+Suplementos: Hierro y vitamina D 300 UI,21,218
+Solicito evaluación,21,218
+muestra de liraglutida para prueba,21,219
+"tratamiento con Semaglutida: 0,6 mg",22,220
+Beta-hidroxi-beta-metilbutirato (HMB): 3 gramos,22,220
+Circadin,22,220
+Control clínico pendiente,22,220
+prueba con clomifeno,22,221
+sulbutiamina y memorex,22,221
+Control clínico y de laboratorio en 3 semanas,22,221
+"pruebas para Cortisol, Dehidroepiandrosterona sulfato (DHEA-S), Prolactina (PRL) y Serotonina",22,222
+consulta con nutrición,22,223
+nuevo análisis de laboratorio con determinación de colesterol total (DCT),22,223
+iniciar ayuno intermitente al regreso,22,223
+Comunicación por mensaje,22,223
+Aplicación de Nebido la semana pasada,22,224
+Pretende iniciar un plan,22,224
+Kaya Neurobrain,22,225
+Control con Megastenex 1,22,225
+Adquisición de suplementos nutricionales,22,226
+Derivado a consulta de reumatología,22,227
+nueva prueba de laboratorio,22,228
+Beta-hidroximetilbutirato (HMB),22,228
+Creatina,22,228
+Zinc monometionina aspartato (ZMA),22,228
+Omega-3,22,228
+Pendiente de seguimiento,22,229
+Aumento de Levotiroxina (LT4) a 200 mcg por 5 días y 175 mcg por 2 días,22,229
+Pendiente de evaluación cardiológica,23,230
+seguir una dieta cetogénica con Omega 3 y minoxidil,23,231
+Continúa con diurético,23,231
+evaluación con curva de cortisol y marcadores inflamatorios,23,231
+beta-hidroxi-beta-metilbutirato 2 g,23,231
+entrenamiento de fuerza,23,231
+Melatonina 2mg + 3mg,23,232
+laboratorio con curva en 3 semanas,23,232
+Nuevo control de testosterona y apolipoproteína,23,232
+Control clínico pendiente,23,232
+examen parasitológico,23,233
+"Magnesio, dos veces al día",23,234
+Pendiente de evaluación en horario vespertino,23,234
+tratamiento con antibióticos y Deltisona,23,235
+Metformina 500 mg,23,235
+Ezetimiba,23,235
+suplemento de Magnesio,23,235
+Levothyroxine en la misma dosis,23,235
+control y posible suspensión de medicación,23,235
+prueba de tratamiento con medicamento antitiroideo y propranolol,23,236
+sin datos,23,237
+interrumpir el plan,23,238
+Dehidroepiandrosterona (DHEA) 50 mg,23,238
+mantenerse hidratado,23,238
+plan de tratamiento,23,239
+control metabólico,23,239
+Bajo plan de tratamiento por 4 semanas,24,240
+análisis de laboratorio,24,240
+Derivado a consulta de reumatología,24,241
+variabilidad de la frecuencia cardíaca (HRV),24,242
+sin datos,24,243
+Se solicita evaluación,24,244
+tratamiento con Clomifeno por 12 días,24,245
+Cabergolina media tableta semanal,24,245
+Melatonina,24,245
+Ashwagandha,24,245
+Sulbutiamina,24,245
+Suplementos de Creatina y HMB,24,245
+Control de laboratorio en 15 días,24,245
+Posibilidad de control por Resonancia Magnética Nuclear,24,245
+nuevo laboratorio confirmatorio,24,246
+Sterogyl,24,246
+suplementación con Hidroximetilbutirato (HMB),24,247
+proteína,24,247
+creatina,24,247
+Clomifeno por 5 días,24,247
+ZMA,24,247
+seguimiento de laboratorio,24,247
+suplemento de magnesio,24,248
+seguimiento,24,248
+Control en 6 meses con ecografía y análisis de anticuerpos,24,249
+consulta con nutrición,25,250
+nuevo análisis de laboratorio con determinación de colesterol total (DCT),25,250
+iniciar ayuno intermitente al regreso,25,250
+Comunicación por mensaje,25,250
+laboratorio completo con variabilidad de la frecuencia cardíaca (HRV),25,251
+radiografía para control,25,251
+"Aumento de dosis en 0,5 unidades de medicamento no especificado",25,252
+control en psiquiatría,25,252
+análisis de cortisol,25,253
+testosterona,25,253
+Suspender Atorvastatina hasta próximo control,25,253
+Reinicia tratamiento con Pioglitazona,25,254
+Inicia tratamiento con Semaglutida,25,254
+Control en 1 mes,25,254
+evaluación completa,25,255
+Aumento de levotiroxina a 50 mcg de lunes a viernes y 25 mcg los sábados,25,256
+Solicito densitometría ósea,25,256
+Reducción de atorvastatina a 10 mg en días alternos,25,256
+Suplemento de vitamina D esterol,25,257
+"Aumento de la dosis de levotiroxina a 62,5 mcg",25,257
+Nuevos análisis de laboratorio programados para dentro de 2 meses,25,257
+nueva evaluación completa,25,258
+inicio de Hormona de Crecimiento 2 UI nocturna,25,259
+Uso de Metenolona,25,259
+Control de laboratorio actual y programado para un mes,25,259
+Alverine (Myopran),26,260
+Cannabidiol/Melatonina 5 mg,26,260
+Control clínico pendiente,26,260
+Está tomando levotiroxina 75 µg,26,261
+suplemento de zinc Life Extension,26,261
+Adrenal Energy,26,261
+sin vitamina D,26,261
+probióticos,26,261
+coenzima Q10,26,261
+triptófano y omega 3,26,261
+complejo B dos veces al día,26,261
+Ashwagandha 450 mg dos veces al día,26,261
+Magnesio Life Extension,26,261
+Semaglutida a 2 mg,26,261
+Aumento de levotiroxina de 75 a 88 µg,26,261
+análisis de laboratorio,26,262
+recuento alimentario,26,262
+evaluación de composición corporal,26,262
+examen parasitológico,26,263
+análisis de laboratorio completo,26,264
+nueva prueba en 15 días,26,265
+enviar resultados del control de albúmina por correo electrónico,26,265
+Evaluación de la respuesta al estímulo programada para un mes,26,266
+Monitoreo Ambulatorio de la Presión Arterial (MAPA),26,267
+Próximo control en 2 meses,26,268
+Control en 6 meses,26,269
+Control de laboratorio,27,270
+evaluación tiroidea,27,270
+"Continuar con tratamiento de Clomifeno: dos tabletas diarias por una semana, luego una tableta diaria por una semana y posterior suspensión",27,271
+dieta baja en carbohidratos,27,272
+Control en un mes,27,272
+Aumento de la dosis de levotiroxina a 125 mcg,27,273
+Alverina y bromuro de otilonio (Miopropan),27,273
+Control en 1 mes,27,273
+"Suplementos: Creatina 2 veces al día, HMB 3 gramos al día, ZMA 1 vez al día",27,274
+adquisición de Dehidroepiandrosterona (DHEA),27,275
+Control pendiente,27,276
+análisis de laboratorio con curva de glucosa,27,277
+variabilidad de la frecuencia cardíaca (HRV),27,277
+evaluación del sueño,27,277
+prueba de TSH después de la liberación de tirotropina (TRH),27,278
+nuevo hemograma,27,278
+examen parasitológico,27,278
+Control previo al viaje,27,278
+Aumento de dosis de levotiroxina,27,279
+Sulbutiamina,27,279
+Omega 3 2000 mg,27,279
+Melatol Plus mg glicinato,27,279
+inicio de entrenamiento,27,279
+evaluación completa,28,280
+Variabilidad de la frecuencia cardíaca (HRV),28,280
+análisis de laboratorio completo,28,281
+evaluación de la composición corporal para orientación nutricional y suplementación,28,281
+metformina diaria,28,282
+control en la cuarta semana,28,282
+tratamiento con Isotretinoína (Roaccután),28,283
+evaluación hormonal,28,283
+nueva prueba de laboratorio,28,284
+Beta-hidroximetilbutirato (HMB),28,284
+Creatina,28,284
+Zinc monometionina aspartato (ZMA),28,284
+Omega-3,28,284
+consulta con nutricionista,28,285
+Próximo control en 4 meses,28,285
+Aumento de dosis de levotiroxina,28,286
+Sulbutiamina,28,286
+Omega 3 2000 mg,28,286
+Melatol Plus mg glicinato,28,286
+inicio de entrenamiento,28,286
+ecografía de tiroides,28,287
+ecocardiograma de estrés,28,287
+Control semestral,28,287
+análisis de laboratorio,28,288
+Doppler carotídeo transcraneal,28,288
+Hidroclorotiazida 25 mg,28,289
+Citrato de potasio y vitamina D,28,289
+Control de laboratorio en 2 meses,28,289
+Inicio de actividad física,28,289
+Se añade berberina a su tratamiento,29,290
+"Se requiere control antes de su viaje a Neuquén, donde planea residir",29,290
+plan nutricional,29,291
+Control de tiroides y glucemia para mayo,29,291
+Derivación a Nutrición,29,292
+Derivación a consulta de Endocrinología Pediátrica,29,292
+inicio de Hormona de Crecimiento 2 UI nocturna,29,293
+Uso de Metenolona,29,293
+Control de laboratorio actual y programado para un mes,29,293
+consulta con nutricionista,29,294
+Próximo control en 4 meses,29,294
+análisis de laboratorio completo,29,295
+Variabilidad de la frecuencia cardíaca (HRV),29,295
+análisis de impedancia bioeléctrica (BIA),29,295
+análisis de laboratorio,29,296
+control,29,297
+Exemestano,29,297
+plan nutricional,29,298
+Control en 1 mes,29,298
+Tratamiento con Semaglutida 1mg semanal y Levotiroxina 150 mcg,29,299
+nuevo control,29,299
+Se añade berberina a su tratamiento,30,300
+"Se requiere control antes de su viaje a Neuquén, donde planea residir",30,300
+Cloruro de magnesio,30,301
+beta-hidroxi-beta-metilbutirato (HMB),30,301
+Berberina,30,301
+Ezetimiba,30,301
+Holomagnesio,30,301
+Circadin,30,301
+Control en 1 mes con laboratorio,30,301
+Solicito análisis de laboratorio completo y Dímero-D,30,302
+análisis de laboratorio con curva de tolerancia a la glucosa,30,303
+variabilidad de la frecuencia cardíaca (HRV) a través de Garmin,30,303
+Se solicita evaluación,30,304
+tratamiento con Clomifeno,30,305
+seguimiento clínico y de laboratorio,30,305
+Clomifeno: 25 mg cada dos días,30,306
+seguimiento,30,306
+Aumento de dosis de levotiroxina a 50 mcg cuatro veces por semana y 75 mcg tres veces por semana,30,307
+evaluación,30,308
+Control en 4 semanas,30,309
+disminuir la dosis de Levotiroxina (LT4) a los sábados hasta próximo control,31,310
+variabilidad de la frecuencia cardíaca (HRV),31,311
+suspensión de carbohidratos,31,312
+Melatonina,31,312
+Magnesio,31,312
+Tratamiento con Doxiciclina y Vitamina B6,31,313
+consumo reducido de carbohidratos,31,313
+Suplemento de Magnesio y consumo de Activia,31,313
+Control prenatal programado para el tercer trimestre,31,313
+administración de metformina,31,314
+administración de hormona del crecimiento,31,314
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),31,315
+Control para posible reactivación de la enfermedad,31,316
+Se suspende Clomifeno,31,317
+análisis de laboratorio en 15 días,31,317
+"Clonazepam 0,25 mg",31,318
+Melatonina,31,318
+evaluación de la glándula pituitaria,31,319
+evaluación médica completa,32,320
+Clomifeno durante 15 días,32,321
+Zinc,32,321
+Triptófano,32,321
+Alverina,32,321
+Magnesio,32,321
+Control clínico y laboratorio en 1 mes,32,321
+Posibilidad de derivación a psiquiatría,32,321
+Solicito gammagrafía tiroidea,32,322
+Derivo al Dr. Frechtel para interconsulta,32,322
+Hierro (HMB),32,323
+Magnesio (Mg),32,323
+Continuar con Metotrexato (MTX) en dosis doble,32,323
+laboratorio,32,324
+densitometría corporal total (DCT),32,324
+No se recibieron resultados de laboratorio. Pendiente.,32,325
+Berberina,32,326
+retomar plan nutricional,32,326
+"Continúa con Levotiroxina 62,5 mcg",32,326
+análisis de laboratorio,32,327
+análisis de laboratorio,32,328
+confirmación de función tiroidea,32,329
+evaluación completa,33,330
+sin datos,33,331
+evaluación para orientación hormonal,33,332
+Beta-hidroximetilbutirato (HMB),33,333
+creatina,33,333
+ZMA (Zinc Monomethionine Aspartate),33,333
+citrulina,33,333
+prueba de tolerancia a la glucosa prolongada,33,333
+indicación de Psiquiatría para plan de dieta cetogénica y Semaglutida,33,334
+Control con evaluación de gasto energético y estrés,33,334
+suspender tratamiento con Clomifeno,33,335
+plan de tratamiento con Metformina,33,335
+prueba de testosterona,33,335
+consulta para planificación de tratamiento,33,335
+Pendiente de resultados de laboratorio,33,336
+Zolpidem,33,337
+Creatina,33,337
+Clomifeno por 20 días,33,337
+laboratorio,33,337
+Derivación a nutrición para ajuste nutricional,33,337
+sin datos,33,338
+análisis de laboratorio con curva de tolerancia a la glucosa,33,339
+variabilidad de la frecuencia cardíaca (HRV) a través de Garmin,33,339
+disminuir la dosis de Levotiroxina (LT4) a los sábados hasta próximo control,34,340
+Control programado para febrero para evaluar estabilización,34,341
+Inhibidores de la Enzima Convertidora de Angiotensina (IECA),34,342
+Beta-hidroximetilbutirato (HMB),34,342
+pautas de tratamiento,34,342
+Control en 1 mes con análisis de laboratorio,34,342
+Disminución a 175x6 1/2 x1,34,343
+Control programado en 3 meses,34,343
+"tratamiento con sulbutiamina, fosfoserina, metformina 850 mg y beta-hidroxibeta-metilbutirato (HMB)",34,344
+control de laboratorio en 1 mes,34,344
+Melatonina 2+3,34,345
+Dexlansoprazol,34,345
+Alverine,34,345
+Control clínico,34,345
+suspender tratamiento con Clomifeno,34,346
+plan de tratamiento con Metformina,34,346
+prueba de testosterona,34,346
+consulta para planificación de tratamiento,34,346
+Se deriva a Psiquiatría,34,347
+reducir la dosis de Clomifeno a dos veces por semana,34,348
+control pendiente,34,348
+Colocación de dispositivo intrauterino (DIU) de cobre o Mirena,34,349
+Control clínico con laboratorio programado para enero,34,349
+laboratorio completo con curva de glucosa,35,350
+Variabilidad de la frecuencia cardíaca (HRV) y evaluación del sueño para corrección,35,350
+Entrenamiento de fuerza a las 10 am,35,350
+evaluación hormonal en dos partes del ciclo menstrual,35,351
+"Aumento de dosis en 0,5 unidades de medicamento no especificado",35,352
+control en psiquiatría,35,352
+plan de nutrición,35,353
+Control de seguimiento,35,353
+laboratorio con curva de glucosa,35,354
+Análisis de impedancia bioeléctrica (BIA),35,354
+análisis de laboratorio,35,355
+variabilidad de la frecuencia cardíaca (HRV),35,355
+nueva evaluación completa,35,356
+evaluación hormonal,35,357
+Prescribo Memorex y Megastine,35,358
+evaluación del ciclo menstrual,35,358
+niveles de cortisol,35,358
+"Aumento de dosis en 0,5 unidades de medicamento no especificado",35,359
+control en psiquiatría,35,359
+"Suplementos: Creatina 2 veces al día, HMB 3 gramos al día, ZMA 1 vez al día",36,360
+laboratorio completo con curva de glucosa,36,361
+bioimpedancia,36,361
+ergometría en bicicleta,36,361
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),36,362
+Zolpidem,36,363
+Creatina,36,363
+Clomifeno por 20 días,36,363
+laboratorio,36,363
+Derivación a nutrición para ajuste nutricional,36,363
+evaluación completa,36,364
+aplicación de ácido hialurónico,36,365
+evaluación completa,36,365
+curva de glucosa,36,366
+nuevos análisis de laboratorio,36,366
+reinicio Metformina 850 mg una vez al día,36,367
+Control de laboratorio con pruebas de función tiroidea pendientes,36,367
+posible inicio de anticonceptivos orales debido a síndrome de ovario poliquístico,36,367
+Se solicita evaluación,36,368
+Hierro polimaltosado,36,369
+Laboratorio en 1 mes para evaluar Proteína C reactiva (PCR) y Hierro,36,369
+Control después del viaje,36,369
+Pendiente de seguimiento,37,370
+evaluación médica,37,371
+posible tratamiento con semaglutida,37,371
+suspensión de carbohidratos,37,371
+evaluación,37,372
+"suplementación con Hidroximetilbutirato (HMB), creatina y vitamina D",37,373
+posibilidad de suplementación con Dehidroepiandrosterona (DHEA),37,373
+tratamiento con Clomifeno,37,374
+Control para ajuste de dosis de Clomifeno,37,374
+coprocultivo,37,375
+nuevos análisis de laboratorio,37,375
+Derivación a nutrición,37,375
+Continúa con Levotiroxina (LT4) de lunes a viernes,37,376
+Se añade Circadin y Cannabidiol (CBD),37,376
+Aumento de dosis de Metformina (MTF) a 1000 mg dos veces al día,37,376
+control en 1 mes,37,377
+inicio de tratamiento con especialista en diabetes,37,377
+control nutricional y deportivo,37,377
+nuevo control de laboratorio en 3 semanas,37,378
+Beta-hidroxi-beta-metilbutirato (HMB),37,379
+Sulbutiamina,37,379
+"Cabergolina 0,25 mg cada 15 días",37,379
+Selenio,37,379
+control de laboratorio,37,379
+Bajo plan de tratamiento por 4 semanas,38,380
+análisis de laboratorio,38,380
+sin datos,38,381
+pautas para Melatonina y Sulbutiamina,38,382
+Derivo a Nutrición y a Planificación de entrenamiento,38,382
+Pendiente de resultados de laboratorio,38,383
+sin datos,38,384
+Adquisición de suplementos nutricionales,38,385
+análisis de laboratorio con curva de glucosa,38,386
+variabilidad de la frecuencia cardíaca (HRV),38,386
+evaluación del sueño,38,386
+Disminución de la dosis de levotiroxina a 175 mcg cinco días a la semana y media dosis un día a la semana,38,387
+Control de albúmina en suero en un mes con apoproteínas,38,387
+Niacina,38,388
+Control en 2 meses,38,388
+análisis de laboratorio en tres meses,38,389
+suspensión de colesterol,39,390
+Sulbutiamina,39,390
+Beta-hidroxi-beta-metilbutirato (HMB),39,390
+Magnesio,39,390
+Omega-3 2000 mg,39,390
+Ashwagandha,39,390
+análisis de laboratorio,39,391
+Inicio de Levotiroxina sódica (LT4) 50 mcg,39,392
+tratamiento nutricional,39,392
+Control posterior pendiente,39,392
+prueba de tiempo de coagulación (DCT),39,393
+dieta cetogénica,39,393
+seguimiento por correo electrónico para nueva solicitud de control,39,393
+inicio de terapia con incretinas,39,393
+Solicito evaluación inflamatoria,39,394
+Control al regreso de vacaciones para evaluar indicación,39,395
+Circadin 10 mg,39,396
+Sulbutiamina,39,396
+Suplemento de Magnesio glicinato 500 mg,39,396
+Suplemento de Beta-Hidroxi Beta-Metilbutirato (HMB) de Control Lab por un mes,39,396
+análisis de laboratorio para chequeo,39,397
+coprocultivo,39,398
+nuevos análisis de laboratorio,39,398
+Derivación a nutrición,39,398
+Cambio de medicación a Fluoxetina,39,399
+Aumento de Levotiroxina (LT4) a 88 mcg,39,399
+Reinicio de suplementos de Selenio y Magnesio,39,399
+Control programado en un mes,39,399
+tratamiento con cannabidiol (CBD) por un mes,40,400
+Control en un mes,40,400
+"Medicación actual: DHEA 1 vez al día, ZMA 1 vez al día, Melatonina 1 vez al día (Life Extension) + Melatonina de liberación extendida 1 vez al día, Clonazepam 1 vez al día, Alverina",40,401
+Reinicia Ezetimibe 1 vez al día,40,401
+Suspende Hockey,40,401
+Retoma entrenamiento de alta intensidad intermitente (HIIT),40,401
+Agrega Niacina,40,401
+Clomifeno por días,40,401
+Control clínico y de laboratorio en 1 mes,40,401
+evaluación de la variabilidad de la frecuencia cardíaca (HRV),40,402
+laboratorio con curva de glucosa,40,403
+niveles de serotonina,40,403
+Aumento de Levotiroxina a 150 mcg,40,404
+Suplemento de Omega 3: 2000 mg,40,404
+Suplemento de Hidroximetilbutirato (HMB): 3g,40,404
+nuevo laboratorio metabólico,40,405
+Curva de cortisol,40,405
+Sulbutiamina y Tuaplex,40,405
+Berberina,40,405
+Continuar con Levotiroxina (LT4) sin cambios,40,405
+análisis de laboratorio completo con curva glucémica,40,406
+evaluación cardiológica,40,406
+antígeno prostático específico (PSA),40,406
+evaluación prostática,40,406
+Modifico Rosuvastatina por Ácido fenofíbrico (día por medio),40,407
+Metformina 850 mg dos veces al día y control de laboratorio en 2 meses,40,407
+Indico plan nutricional y actividad física,40,407
+Control anual programado,40,408
+evaluación completa,40,409
+bioimpedancia,40,409
+dieta baja en carbohidratos,41,410
+Control en un mes,41,410
+evaluación completa de densidad mineral ósea (DMO),41,411
+laboratorio para Hormona estimulante de la tiroides (TSH),41,412
+curva de cortisol,41,412
+variabilidad de la frecuencia cardíaca (HRV),41,413
+control,41,414
+Exemestano,41,414
+curva de glucosa,41,415
+estudio del sueño,41,415
+Seguimiento por correo electrónico para posible inicio de tratamiento,41,415
+Plan nutricional con dietista llamada Antonella,41,416
+Manejo de estrés con Ashwagandha,41,416
+suplemento de Dehidroepiandrosterona (DHEA),41,416
+evaluación completa,41,417
+evaluación de estrés,41,417
+plan nutricional,41,418
+derivación a planificación nutricional,41,418
+control de laboratorio,41,418
+ecografía de tiroides,41,419
+ecocardiograma de estrés,41,419
+Control semestral,41,419
+evaluación completa,42,420
+evaluación hormonal,42,421
+tratamiento con vitamina D durante 4 ciclos,42,422
+Control en 5 meses,42,422
+infusión intravenosa de hierro,42,423
+"Dosis reducida de levotiroxina a 62,5 mcg",42,423
+Metformina 850 mg dos veces al día,42,423
+Rosuvastatina 10 mg al día,42,423
+control de laboratorio,42,423
+Ecografía tiroidea,42,423
+Densitometría ósea en 6 meses,42,423
+Nuevo control en 3 días,42,424
+evaluación completa de variabilidad de la frecuencia cardíaca (HRV),42,425
+Melatonina de liberación prolongada (Circadin),42,426
+Seguimiento pendiente,42,426
+tratamiento con Clomifeno,42,427
+seguimiento clínico y de laboratorio,42,427
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),42,428
+"suplementación con Hidroximetilbutirato (HMB), creatina y vitamina D",42,429
+posibilidad de suplementación con Dehidroepiandrosterona (DHEA),42,429
+evaluación con curva de glucosa,43,430
+Inicio de Levotiroxina sódica (LT4) 50 mcg,43,431
+tratamiento nutricional,43,431
+Control posterior pendiente,43,431
+Solicito gammagrafía tiroidea,43,432
+Derivo al Dr. Frechtel para interconsulta,43,432
+Modifico Rosuvastatina por Ácido fenofíbrico (día por medio),43,433
+Metformina 850 mg dos veces al día y control de laboratorio en 2 meses,43,433
+Indico plan nutricional y actividad física,43,433
+pautas para Melatonina y Sulbutiamina,43,434
+Derivo a Nutrición y a Planificación de entrenamiento,43,434
+realización de análisis de laboratorio,43,435
+Prueba de reactivación antes de establecer ciclo de tratamiento,43,435
+Inicio de rutina de gimnasio y plan nutricional el próximo lunes,43,436
+Tres meses hasta el próximo monitoreo con Holter,43,436
+Un mes hasta la próxima prueba de laboratorio,43,436
+"Se añade Clomifeno, 25 mg en días alternos",43,436
+Control a través de correo electrónico en un mes,43,436
+Control con monitor Holter en dos meses,43,436
+Aumento de la dosis a 125 microgramos al día más medio comprimido tres veces por semana,43,437
+Suspender tratamiento con Clomifeno,43,438
+control en 3 semanas,43,438
+Omega 3 2000 mg,43,439
+Citrato de Magnesio,43,439
+Referencia a Nutrición,43,439
+reducir dosis,44,440
+"Suplementación con L-carnitina, Beta-hidroxi-beta-metilbutirato (HMB) y Magnesio",44,440
+Control de la reactivación del tratamiento,44,440
+reanudar actividad física,44,441
+Control en 2 meses,44,441
+Aplicación de Nebido la semana pasada,44,442
+Pretende iniciar un plan,44,442
+incrementar la dosis de Selenio a 200 mcg/día,44,443
+laboratorio completo con curva de glucosa,44,444
+Reactivación del tratamiento,44,445
+plan de entrenamiento de intervalos de alta intensidad (HIIT) aeróbico,44,446
+entrenamientos de rutina diaria (WODS),44,446
+Control después de las vacaciones,44,446
+Aumento de la dosis de Levotiroxina,44,447
+cambio a estradiol (E2),44,448
+cambio de programa de entrenamiento,44,448
+análisis de laboratorio,44,448
+Seguimiento por correo electrónico,44,448
+Derivado a kinesiología para evaluación de plantillas ortopédicas,44,449
+Control programado para fin de mes,44,449
+tratamiento con Clomifeno,45,450
+posterior control de laboratorio,45,450
+suspensión de colesterol,45,451
+Sulbutiamina,45,451
+Beta-hidroxi-beta-metilbutirato (HMB),45,451
+Magnesio,45,451
+Omega-3 2000 mg,45,451
+Ashwagandha,45,451
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),45,452
+Continúa con plan de nutrición,45,453
+ergometría,45,454
+prueba de inclinación (Tilt test),45,454
+variabilidad de la frecuencia cardíaca (HRV),45,454
+análisis de laboratorio con curva de glucosa,45,454
+Cloruro de magnesio,45,455
+beta-hidroxi-beta-metilbutirato (HMB),45,455
+Berberina,45,455
+Ezetimiba,45,455
+Holomagnesio,45,455
+Circadin,45,455
+Control en 1 mes con laboratorio,45,455
+Control programado para dentro de 3 meses,45,456
+análisis de laboratorio,45,457
+diagnóstico por imagen,45,457
+sin datos,45,458
+prueba de Semaglutida,45,459
+Seguimiento a través de mensajes,45,459
+nueva aplicación en 3 semanas,46,460
+realizar análisis de laboratorio antes de la siguiente aplicación,46,460
+nuevo laboratorio metabólico,46,461
+Curva de cortisol,46,461
+Sulbutiamina y Tuaplex,46,461
+Berberina,46,461
+Continuar con Levotiroxina (LT4) sin cambios,46,461
+suplementación con melatonina,46,462
+sulbutiamina,46,462
+levoglutamina/fosfoserina,46,462
+Pre-entrenamiento con beta-alanina,46,462
+Omega 3: 2000 UI,46,462
+Derivación a nutrición,46,462
+control con cannabidiol (CBD),46,462
+Inicio de rutina de gimnasio y plan nutricional el próximo lunes,46,463
+Tres meses hasta el próximo monitoreo con Holter,46,463
+Un mes hasta la próxima prueba de laboratorio,46,463
+"Se añade Clomifeno, 25 mg en días alternos",46,463
+Control a través de correo electrónico en un mes,46,463
+Control con monitor Holter en dos meses,46,463
+Hidroclorotiazida 25 mg,46,464
+Citrato de potasio y vitamina D,46,464
+Control de laboratorio en 2 meses,46,464
+Inicio de actividad física,46,464
+Aspirina,46,465
+Clomifeno por 10 días,46,465
+ZMA,46,465
+Clonazepam sublingual por 2 días,46,465
+Alevrina,46,465
+Melatonina por 2 días,46,465
+control de laboratorio en 1 mes,46,465
+Omega 3 2000 mg,46,466
+Citrato de Magnesio,46,466
+Referencia a Nutrición,46,466
+incrementará a tres veces por semana la actividad física,46,467
+suspender el consumo de carbohidratos simples,46,467
+añade creatina a la dieta,46,467
+solicita electrocardiograma actual,46,467
+control en dos meses,46,467
+Se solicita Tirotropina (TSH),46,468
+Triyodotironina reversa (T3 reversa),46,468
+Dehidroepiandrosterona sulfato (DHEA-S),46,468
+perfil hormonal gonadal,46,468
+"Medicación actual: DHEA 1 vez al día, ZMA 1 vez al día, Melatonina 1 vez al día (Life Extension) + Melatonina de liberación extendida 1 vez al día, Clonazepam 1 vez al día, Alverina",46,469
+Reinicia Ezetimibe 1 vez al día,46,469
+Suspende Hockey,46,469
+Retoma entrenamiento de alta intensidad intermitente (HIIT),46,469
+Agrega Niacina,46,469
+Clomifeno por días,46,469
+Control clínico y de laboratorio en 1 mes,46,469
+Melatonina 2 mg + 3 mg,47,470
+Sulbutiamina,47,470
+Berberina,47,470
+Inicio de actividad física en circuito,47,470
+Inicio de Levotiroxina sódica (LT4) 50 mcg,47,471
+tratamiento nutricional,47,471
+Control posterior pendiente,47,471
+prueba de cortisol,47,472
+nuevas enzimas,47,472
+tratamiento con semaglutida,47,472
+variabilidad de la frecuencia cardíaca (HRV),47,473
+evaluación completa,47,474
+Indicación de Clomifeno,47,475
+"Suplementos de Zinc, Magnesio y Vitamina B6 (ZMA)",47,475
+Beta-hidroximetilbutirato (HMB),47,475
+Control pendiente,47,475
+pautas para Melatonina y Sulbutiamina,47,476
+Derivo a Nutrición y a Planificación de entrenamiento,47,476
+Inicio de Levotiroxina sódica (LT4) 50 mcg,47,477
+tratamiento nutricional,47,477
+Control posterior pendiente,47,477
+evaluación completa,47,478
+laboratorio con curva de variabilidad de la frecuencia cardíaca (HRV),47,479
+evaluación médica,48,480
+posible tratamiento con semaglutida,48,480
+suspensión de carbohidratos,48,480
+Punción Aspiración con Aguja Fina (PAAF),48,481
+tratamiento con simeticona y desoxirribonucleasa,48,482
+retomar plan nutricional,48,482
+realizar nuevo control,48,482
+curva de tolerancia a la glucosa,48,483
+nuevos análisis de laboratorio,48,483
+indicación por mensaje,48,483
+continuar con actividad física,48,484
+Citramalato una vez al día,48,484
+Control para posible inicio de terapia con medicamentos antirresortivos,48,484
+administración de metformina,48,485
+administración de hormona del crecimiento,48,485
+nuevo laboratorio confirmatorio,48,486
+Sterogyl,48,486
+análisis de laboratorio,48,487
+radiografía de muñeca,48,487
+"Disminución de la dosis de Levotiroxina (LT4): 125 mcg cinco veces por semana, 62,5 mcg una vez por semana",48,488
+consulta psiquiátrica,48,488
+consulta de fertilidad,48,488
+sin datos,48,489
+evaluación completa,49,490
+Variabilidad de la Frecuencia Cardíaca (HRV),49,491
+ritmo cardíaco,49,491
+Derivado a Psiquiatría para regulación psicofarmacológica,49,492
+Niacina,49,493
+Control en 2 meses,49,493
+Inicio de nuevo ciclo de tratamiento con Clomifeno,49,494
+pendiente de nuevos análisis de laboratorio,49,494
+Control en 4 semanas,49,495
+Omega-3,49,496
+Ezetimiba,49,496
+Beta-hidroxibutirato (HMB) Proteína,49,496
+Suplemento pre-entrenamiento: Megastene,49,496
+Melatonina de liberación prolongada (Circadin),49,496
+Control pendiente,49,496
+inicio de Hormona de Crecimiento 2 UI nocturna,49,497
+Uso de Metenolona,49,497
+Control de laboratorio actual y programado para un mes,49,497
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),49,498
+evaluación completa en medicina familiar y terapéutica,49,499
+Evaluación de dislipidemia pendiente,49,499
+"tratamiento con semaglutida 0,5 mg",50,500
+Aumento de dosis de citrato de magnesio a dos veces al día,50,500
+Melatonina 2mg,50,500
+"Clomifeno, 25 mg por 20 días",50,500
+"Suplemento de Zinc, Magnesio y Vitamina B6 (ZMA) una vez al día",50,500
+Aumento de dosis de metformina a 750 mg dos veces al día,50,500
+Control de laboratorio en 3 semanas,50,500
+nueva evaluación de variabilidad de la frecuencia cardíaca (HRV),50,500
+análisis de laboratorio,50,501
+plan nutricional adaptado a nuevos horarios,50,501
+nuevos análisis de laboratorio,50,502
+Continuará con risedronato,50,502
+nueva ecografía para posible biopsia por aspiración con aguja fina (PAAF),50,502
+Actaea racemosa (Black cohosh),50,503
+Control de tiroides en 1 mes,50,503
+Posible Dehidroepiandrosterona (DHEA),50,503
+gammagrafía con octreótido,50,504
+dieta baja en carbohidratos,50,505
+prueba con semaglutida,50,505
+sin datos,50,506
+análisis de laboratorio completo,50,507
+plan nutricional,50,507
+Se deriva a Hematología,50,508
+evaluación,50,509
+evaluación de la función cardíaca,51,510
+suspensión de la suplementación nutricional,51,511
+seguimiento a través de mensajes para control de la sintomatología,51,511
+tratamiento con clomifeno,51,512
+añade proteína a la dieta,51,512
+Control por laboratorio en 1 mes,51,512
+Solicito evaluación,51,513
+"tratamiento con sulbutiamina, fosfoserina, metformina 850 mg y beta-hidroxibeta-metilbutirato (HMB)",51,514
+control de laboratorio en 1 mes,51,514
+curva de glucosa,51,515
+estudio del sueño,51,515
+Seguimiento por correo electrónico para posible inicio de tratamiento,51,515
+"Iniciado tratamiento con Clomifeno, dos ciclos",51,516
+Suplementación con beta-hidroximetilbutirato (HMB) y creatina,51,516
+Próximo control de laboratorio en marzo,51,516
+coprocultivo,51,517
+nuevos análisis de laboratorio,51,517
+Derivación a nutrición,51,517
+"suplementación con Hidroximetilbutirato (HMB), creatina y vitamina D",51,518
+posibilidad de suplementación con Dehidroepiandrosterona (DHEA),51,518
+laboratorio completo con variabilidad de la frecuencia cardíaca (HRV),51,519
+radiografía para control,51,519
+prueba de liberación de hormona tirotropina (TRH),52,520
+Prueba de semaglutida pendiente,52,521
+laboratorio completo con curva de glucosa,52,522
+Bioimpedancia con evaluación de líquidos,52,522
+Agrega Creatina,52,523
+Nuevo control de laboratorio antes del fin de año,52,523
+administración de hierro por vía intramuscular,52,524
+Continúa con vitamina B12 y ácido fólico,52,524
+Control en un mes,52,524
+punción aspiración con aguja fina (PAAF),52,525
+análisis de laboratorio completo,52,526
+Añade ibandronato,52,527
+Continúa con ácido fenofíbrico por 30 días,52,527
+Solicito ecografía abdominal para control de litiasis biliar,52,527
+Solicito laboratorio con determinaciones faltantes,52,527
+Control por correo electrónico,52,527
+inicio de Hormona de Crecimiento 2 UI nocturna,52,528
+Uso de Metenolona,52,528
+Control de laboratorio actual y programado para un mes,52,528
+Suplemento de vitamina D esterol,52,529
+"Aumento de la dosis de levotiroxina a 62,5 mcg",52,529
+Nuevos análisis de laboratorio programados para dentro de 2 meses,52,529
+evaluación de la función cardíaca,53,530
+tratamiento con Circadin,53,531
+Magnesio,53,531
+Megastene,53,531
+L-Triptófano,53,531
+HMB,53,531
+pautas de sueño,53,531
+evaluación completa,53,532
+análisis de laboratorio para posible prescripción de clomifeno,53,533
+Seguimiento se realizará por correo electrónico,53,533
+análisis de laboratorio,53,534
+Doppler carotídeo transcraneal,53,534
+análisis de laboratorio completo,53,535
+"Dosis de DHEA: 100 mg al día, cada dos días",53,536
+Control en 3 meses con prueba de Antígeno prostático específico (PSA),53,536
+Inicio de tratamiento con levotiroxina (LT4) 50 mcg,53,537
+Control programado en 3 semanas,53,537
+Suplemento de vitamina D esterol,53,538
+"Aumento de la dosis de levotiroxina a 62,5 mcg",53,538
+Nuevos análisis de laboratorio programados para dentro de 2 meses,53,538
+"Dosis reducida a 25 mg, tres veces por semana",53,539
+resultados de laboratorio de función gonadal y serotonina plaquetaria,53,539
+análisis de laboratorio,54,540
+Se deriva a Psiquiatría,54,541
+tratamiento con propranolol o bisoprolol,54,542
+Pendiente de aspiración con aguja fina (PAAF),54,542
+Disminución de la dosis de Levotiroxina a 50 mcg,54,543
+curva de cortisol en 1 mes,54,543
+ecografía tiroidea pendiente,54,543
+Continuar con Levotiroxina 50 mcg,54,543
+Se solicita evaluación,54,544
+Control programado para febrero para evaluar estabilización,54,545
+Derivado a consulta de reumatología,54,546
+Alevrina,54,547
+Omega 3,54,547
+Megastene,54,547
+Control clínico pendiente,54,547
+Tomar 17 mg de medicamento comprimido cada dos días,54,548
+controlar al regreso,54,548
+nueva prueba de laboratorio para confirmación,54,549
+Kaya Neurobrain,55,550
+Control con Megastenex 1,55,550
+Melatonina para anticipar el sueño a las 23 horas,55,551
+Tomar 4000 UI de Vitamina D por día,55,551
+Control en 3 meses,55,551
+reducir dosis,55,552
+"Suplementación con L-carnitina, Beta-hidroxi-beta-metilbutirato (HMB) y Magnesio",55,552
+Control de la reactivación del tratamiento,55,552
+ecografía de tiroides,55,553
+ecocardiograma de estrés,55,553
+Control semestral,55,553
+Aspirina,55,554
+Clomifeno por 10 días,55,554
+ZMA,55,554
+Clonazepam sublingual por 2 días,55,554
+Alevrina,55,554
+Melatonina por 2 días,55,554
+control de laboratorio en 1 mes,55,554
+suplementación con Hidroximetilbutirato (HMB),55,555
+proteína,55,555
+creatina,55,555
+Clomifeno por 5 días,55,555
+ZMA,55,555
+seguimiento de laboratorio,55,555
+Aumento de dosis de levotiroxina,55,556
+Sulbutiamina,55,556
+Omega 3 2000 mg,55,556
+Melatol Plus mg glicinato,55,556
+inicio de entrenamiento,55,556
+plan nutricional,55,557
+Control de tiroides y glucemia para mayo,55,557
+Consulta pendiente con hematología por Insuficiencia Cardíaca,55,558
+Control en 6 meses,55,559
+evaluación hormonal,56,560
+evaluación completa,56,561
+Derivación a nutrición,56,561
+Retoma entrenamiento y plan,56,562
+Control en 6 meses,56,562
+reactivación y control del tratamiento,56,563
+plan de nutrición,56,564
+Control de seguimiento,56,564
+análisis de laboratorio,56,565
+prueba de tolerancia a la glucosa,56,565
+Tomar 17 mg de medicamento comprimido cada dos días,56,566
+controlar al regreso,56,566
+laboratorio con curva de glucosa,56,567
+Análisis de impedancia bioeléctrica (BIA),56,567
+suspender tratamiento con Clomifeno,56,568
+Control en 3 meses,56,568
+"Continuar con suplemento de Zinc, Magnesio y Vitamina B6 (ZMA)",56,568
+Tratamiento con Semaglutida 1mg semanal y Levotiroxina 150 mcg,56,569
+nuevo control,56,569
+suspender tratamiento con Clomifeno,57,570
+Control en 3 meses,57,570
+"Continuar con suplemento de Zinc, Magnesio y Vitamina B6 (ZMA)",57,570
+laboratorio completo con curva de glucosa,57,571
+Bioimpedancia con evaluación de líquidos,57,571
+laboratorio completo,57,572
+bioimpedancia,57,572
+Inhibidores de la Enzima Convertidora de Angiotensina (IECA),57,573
+Beta-hidroximetilbutirato (HMB),57,573
+pautas de tratamiento,57,573
+Control en 1 mes con análisis de laboratorio,57,573
+análisis de laboratorio para evaluación hormonal,57,574
+análisis de laboratorio completo,57,575
+Composición corporal por bioimpedancia,57,575
+Hierro (HMB),57,576
+Magnesio (Mg),57,576
+Continuar con Metotrexato (MTX) en dosis doble,57,576
+evaluación hormonal en dos partes del ciclo menstrual,57,577
+control en 4 semanas,57,578
+Tratamiento psiquiátrico iniciado con Escitalopram 20 mg,57,579
+análisis de laboratorio con variabilidad de la frecuencia cardíaca (HRV),58,580
+estudio de sueño para evaluar apnea del sueño,58,580
+Disminución de la dosis de levotiroxina a 175 mcg cinco días a la semana y media dosis un día a la semana,58,581
+Control de albúmina en suero en un mes con apoproteínas,58,581
+laboratorio completo con curva glucémica,58,582
+Control programado para abril,58,583
+inicio de tratamiento con isotretinoína,58,584
+evaluación,58,584
+tratamiento con simeticona y desoxirribonucleasa,58,585
+retomar plan nutricional,58,585
+realizar nuevo control,58,585
+Omega 3 2000 mg,58,586
+Citrato de Magnesio,58,586
+Referencia a Nutrición,58,586
+análisis de laboratorio,58,587
+Adquisición de suplementos nutricionales,58,588
+Control,58,589
+análisis del sueño,59,590
+Control previo a la competencia para ajustar el plan nutricional,59,590
+realizar 7 a 8 comidas al día,59,591
+radiografía de muñeca,59,591
+evaluación del consumo energético y composición corporal para ajuste nutricional y de alimentación,59,591
+Disminución de la dosis de levotiroxina a 175 mcg cinco días a la semana y media dosis un día a la semana,59,592
+Control de albúmina en suero en un mes con apoproteínas,59,592
+Está tomando levotiroxina 75 µg,59,593
+suplemento de zinc Life Extension,59,593
+Adrenal Energy,59,593
+sin vitamina D,59,593
+probióticos,59,593
+coenzima Q10,59,593
+triptófano y omega 3,59,593
+complejo B dos veces al día,59,593
+Ashwagandha 450 mg dos veces al día,59,593
+Magnesio Life Extension,59,593
+Semaglutida a 2 mg,59,593
+Aumento de levotiroxina de 75 a 88 µg,59,593
+desintoxicación,59,594
+análisis de laboratorio,59,594
+reduzco dosis de Clomifeno a 1/2 comprimido por día,59,594
+Control con próximo análisis de laboratorio,59,594
+"Magnesio, dos veces al día",59,595
+Pendiente de evaluación en horario vespertino,59,595
+berberina (posibilidad de metformina),59,596
+Actividad física en circuito,59,596
+derivación a nutrición,59,596
+vitamina D,59,596
+Control tiroideo y hematológico pendiente,59,596
+Derivado a consulta de reumatología,59,597
+Se proporciona historia clínica para cirugía bariátrica,59,598
+Tratamiento nutricional,59,599
+Pendiente de control,59,599
+mejorar el fortalecimiento del núcleo muscular,60,600
+evaluación completa,60,600
+Pendiente de resultados de laboratorio,60,601
+Referencia a nutrición para ajuste y control,60,602
+Dieta: 175 g de arroz + 50 g de arroz en la mañana y 50-100 g en la noche previo a partido,60,603
+Fruta después del entrenamiento,60,603
+"Tratamiento actual: Melatonina 2+3, Selenio continuo",60,603
+análisis de orina de 24 horas,60,603
+evaluación tiroidea y urea,60,603
+vitamina B12 y ácido fólico,60,603
+Se inicia plan de manejo,60,604
+Control programado para 4 semanas,60,604
+Continúa con Levotiroxina (LT4) de lunes a viernes,60,605
+Se añade Circadin y Cannabidiol (CBD),60,605
+Aumento de dosis de Metformina (MTF) a 1000 mg dos veces al día,60,605
+laboratorio con curva de glucosa,60,606
+niveles de serotonina,60,606
+Continúa con vitamina E 400 UI,60,607
+Aspirina,60,607
+Magnesio,60,607
+Calcio con vitamina K2,60,607
+Vitamina C,60,607
+Próximo control: Vitamina D y Homocisteína con gamma-glutamil transferasa (GGT) (por pedido),60,607
+Pedido,60,607
+suplementación con Vitamina D 400 UI,60,608
+Beta-hidroxi-beta-metilbutirato (HMB),60,608
+pruebas de laboratorio para control de niveles de cortisol y DHEA-S en 2 meses,60,608
+levotiroxina 88 mcg,60,609
+Suplementos: Hierro y vitamina D 300 UI,60,609
+Solicito evaluación,60,609
+evaluación completa,61,610
+Derivación a nutrición,61,610
+sin datos,61,611
+interrumpir el plan,61,612
+Dehidroepiandrosterona (DHEA) 50 mg,61,612
+mantenerse hidratado,61,612
+evaluación del ciclo menstrual,61,613
+derivación a Nutrición,61,613
+"Aumento de la dosis de Levotiroxina a 125 mcg cinco días a la semana y 62,5 mcg dos días a la semana",61,614
+Control con curva de respuesta,61,614
+Aumento de la dosis de Levotiroxina,61,615
+"Dieta: Desayuno - 3 huevos enteros + 2 claras, 60 gramos de queso, 1 tostada. Media mañana - fruta (1 porción). Almuerzo - 200 gramos de carne, arroz o papa. Tarde - queso, 1 porción + 1 huevo. Cena - misma comida que en la tarde.",61,616
+"Suplementos: Creatina (2 dosis diarias), HMB 3 gramos.",61,616
+"Medicación: Clomifeno, media tableta diaria por 15 días.",61,616
+Tratamiento psiquiátrico iniciado con Escitalopram 20 mg,61,617
+Quetiapina 100 mg por la noche (para el sueño),61,618
+Levotiroxina 125 mcg,61,618
+Solicito evaluación,61,618
+suspensión de colesterol,61,619
+Sulbutiamina,61,619
+Beta-hidroxi-beta-metilbutirato (HMB),61,619
+Magnesio,61,619
+Omega-3 2000 mg,61,619
+Ashwagandha,61,619
+evaluación de la función cardíaca,62,620
+Suspensión de Melatonina y Sulbutiamina,62,621
+Inicio de nuevo ciclo de Clomifeno: media tableta por 20 días,62,621
+Laboratorio pendiente,62,621
+Dieta: 175 g de arroz + 50 g de arroz en la mañana y 50-100 g en la noche previo a partido,62,622
+Fruta después del entrenamiento,62,622
+"Tratamiento actual: Melatonina 2+3, Selenio continuo",62,622
+análisis de orina de 24 horas,62,622
+evaluación tiroidea y urea,62,622
+vitamina B12 y ácido fólico,62,622
+mejorar el fortalecimiento del núcleo muscular,62,623
+evaluación completa,62,623
+"Inicio de tratamiento con semaglutida 0,25 mg",62,624
+Control de dosis en 1 mes con análisis de laboratorio,62,624
+nuevo laboratorio confirmatorio,62,625
+Sterogyl,62,625
+Derivado a kinesiología para evaluación de plantillas ortopédicas,62,626
+Control programado para fin de mes,62,626
+Beta-hidroxi-beta-metilbutirato (HMB),62,627
+Sulbutiamina,62,627
+"Cabergolina 0,25 mg cada 15 días",62,627
+Selenio,62,627
+control de laboratorio,62,627
+consulta con psiquiatría,62,628
+derivación a psicología,62,628
+Clomifeno,62,628
+Sulbutiamina,62,628
+Withania somnifera (Ashwagandha),62,628
+Melatonina con Magnesio,62,628
+Control de laboratorio en 1 mes,62,628
+mantener hidratación habitual,62,629
+Alendronato: 10 mg,62,629
+Control a fin de año,62,629
+Se inicia plan de manejo,63,630
+Control programado para 4 semanas,63,630
+administración de hierro por vía intramuscular,63,631
+Continuar con ácido fólico y Siderblut,63,631
+Iniciar tratamiento con probióticos,63,631
+Control de laboratorio pendiente,63,631
+variabilidad de la frecuencia cardíaca (HRV),63,632
+evaluación,63,633
+nueva evaluación completa,63,634
+tratamiento con Silimarina por 30 días,63,635
+"Continúa con dosis de 0,5",63,636
+Posible terapia de reemplazo hormonal masculino a femenino,63,636
+Control en 1 mes,63,636
+tratamiento con propranolol o bisoprolol,63,637
+Pendiente de aspiración con aguja fina (PAAF),63,637
+análisis de laboratorio completo,63,638
+prueba de TSH después de la liberación de tirotropina (TRH),63,639
+nuevo hemograma,63,639
+examen parasitológico,63,639
+Control previo al viaje,63,639
+análisis de laboratorio para evaluación hormonal,64,640
+sin datos,64,641
+"tratamiento con Sulbutiamina, Levoglutamina y Melatonina",64,642
+control en 4 semanas,64,643
+laboratorio con curva de glucosa,64,644
+Análisis de impedancia bioeléctrica (BIA),64,644
+Continúa con suplemento de Omega 3,64,645
+Pendiente de control clínico,64,646
+"tratamiento con sulbutiamina, fosfoserina, metformina 850 mg y beta-hidroxibeta-metilbutirato (HMB)",64,647
+control de laboratorio en 1 mes,64,647
+análisis de laboratorio,64,648
+Seguimiento por correo electrónico para comenzar,64,648
+Melatonina 2 mg + 3 mg,64,649
+Sulbutiamina,64,649
+Berberina,64,649
+Inicio de actividad física en circuito,64,649
+Evaluación de función adrenal pendiente,65,650
+Próximo control de laboratorio en un mes,65,650
+Control clínico posterior con el Dr. Gonzalo,65,650
+Evaluación de función adrenal pendiente,65,651
+Próximo control de laboratorio en un mes,65,651
+Control clínico posterior con el Dr. Gonzalo,65,651
+tratamiento con Clomifeno,65,652
+seguimiento clínico y de laboratorio,65,652
+Modifico Rosuvastatina por Ácido fenofíbrico (día por medio),65,653
+Metformina 850 mg dos veces al día y control de laboratorio en 2 meses,65,653
+Indico plan nutricional y actividad física,65,653
+Cloruro de magnesio,65,654
+beta-hidroxi-beta-metilbutirato (HMB),65,654
+Berberina,65,654
+Ezetimiba,65,654
+Holomagnesio,65,654
+Circadin,65,654
+Control en 1 mes con laboratorio,65,654
+Control posterior al viaje,65,655
+control metabólico a su regreso,65,656
+análisis de laboratorio completo para posible inicio de metformina,65,657
+reducir la dosis de Clomifeno a dos veces por semana,65,658
+control pendiente,65,658
+Control médico,65,659
+Continúa con el mismo tratamiento,66,660
+control de laboratorio en fecha futura,66,660
+confirmación de función tiroidea,66,661
+Hidroclorotiazida 25 mg,66,662
+Citrato de potasio y vitamina D,66,662
+Control de laboratorio en 2 meses,66,662
+Inicio de actividad física,66,662
+Inicio de nuevo ciclo de Clomifeno y Gonadotropina,66,663
+Pendiente de nuevos resultados de laboratorio,66,663
+Inicio de tratamiento con nandrolona y sustanon,66,664
+drostanolona,66,664
+laboratorio completo con evaluación de curva de glucemia y composición corporal,66,665
+examen parasitológico al regreso,66,666
+derivará a hematología,66,666
+Reinicia tratamiento con Pioglitazona,66,667
+Inicia tratamiento con Semaglutida,66,667
+Control en 1 mes,66,667
+laboratorio completo para orientación en suplementación hormonal,66,668
+evaluación completa,66,669
+Inicio de nuevo ciclo de Clomifeno,67,670
+pautas para Dehidroepiandrosterona (DHEA),67,671
+Levothyroxine 137 mcg cinco días a la semana y 150 mcg dos días a la semana,67,671
+Circadin,67,671
+Control en un mes,67,671
+Megestrol,67,672
+Beta-hidroxi-beta-metilbutirato (HMB),67,672
+Control en 6 meses,67,673
+reactivación y control del tratamiento,67,674
+Kaya Neurobrain,67,675
+Control con Megastenex 1,67,675
+plan de nutrición,67,676
+Control de seguimiento,67,676
+"Aumento de la dosis de levotiroxina a 55,5 mcg",67,677
+retomar el plan nutricional,67,677
+Suplemento de Vitamina D: 1000 UI,67,677
+Control en 3 meses,67,677
+evaluación completa,67,678
+bioimpedancia,67,678
+"tratamiento con Semaglutida: 0,6 mg",67,679
+Beta-hidroxi-beta-metilbutirato (HMB): 3 gramos,67,679
+Circadin,67,679
+Control clínico pendiente,67,679
+sin datos,68,680
+examen parasitológico al regreso,68,681
+derivará a hematología,68,681
+Sulfato de Zinc 10 mg,68,682
+control de laboratorio en 4 semanas,68,682
+tratamiento con Silimarina por 30 días,68,683
+evaluación con curva de tolerancia a la glucosa,68,684
+Control con terapia de sustitución de tiroides,68,684
+Antibióticos,68,685
+evaluación completa con ritmo,68,685
+Modifico Rosuvastatina por Ácido fenofíbrico (día por medio),68,686
+Metformina 850 mg dos veces al día y control de laboratorio en 2 meses,68,686
+Indico plan nutricional y actividad física,68,686
+Prueba de monitorización continua de glucosa,68,687
+Tratamiento con ezetimiba,68,687
+dietas bajas en grasas,68,687
+dietas bajas en carbohidratos,68,687
+dieta mixta,68,687
+Prueba de sangre oculta en heces (Indice sideroblástico),68,688
+Densitometría ósea (DMO),68,688
+examen ocular (Exo),68,688
+control de laboratorio,68,688
+Continúa con Levotiroxina (LT4) de lunes a viernes,68,689
+Se añade Circadin y Cannabidiol (CBD),68,689
+Aumento de dosis de Metformina (MTF) a 1000 mg dos veces al día,68,689
+laboratorio completo con curva de glucosa,69,690
+Inicio de tratamiento con nandrolona y sustanon,69,691
+drostanolona,69,691
+Derivación a urología,69,692
+Suspensión de Clomifeno,69,692
+Control en 1 mes,69,692
+Tratamiento nutricional,69,693
+Pendiente de control,69,693
+evaluación hormonal,69,694
+ajuste nutricional,69,694
+Posibilidad de dieta cetogénica controlada,69,694
+Derivo a Federico Bietti para evaluación,69,694
+Posibilidad de tratamiento con semaglutida,69,694
+Reinicia tratamiento con Pioglitazona,69,695
+Inicia tratamiento con Semaglutida,69,695
+Control en 1 mes,69,695
+Variabilidad de la Frecuencia Cardíaca (HRV),69,696
+ritmo cardíaco,69,696
+Tratamiento con Doxiciclina y Vitamina B6,69,697
+consumo reducido de carbohidratos,69,697
+Suplemento de Magnesio y consumo de Activia,69,697
+Control prenatal programado para el tercer trimestre,69,697
+Comienza plan de entrenamiento,69,698
+Control en 4 meses,69,698
+Omega-3,69,699
+Ezetimiba,69,699
+Beta-hidroxibutirato (HMB) Proteína,69,699
+Suplemento pre-entrenamiento: Megastene,69,699
+Melatonina de liberación prolongada (Circadin),69,699
+Control pendiente,69,699
+Tratamiento con Semaglutida 1mg semanal y Levotiroxina 150 mcg,70,700
+nuevo control,70,700
+análisis de laboratorio completo,70,701
+plan nutricional,70,701
+análisis de laboratorio al regreso,70,702
+posible inicio de tratamiento con Clomifeno,70,702
+Derivado a kinesiología para evaluación de plantillas ortopédicas,70,703
+Control programado para fin de mes,70,703
+Retoma entrenamiento y plan,70,704
+Control en 6 meses,70,704
+"tratamiento con sulbutiamina, fosfoserina, metformina 850 mg y beta-hidroxibeta-metilbutirato (HMB)",70,705
+control de laboratorio en 1 mes,70,705
+1 comprimido de Clomifeno por 5 días,70,706
+Zolpidem por 1 semana,70,706
+retomar Melatonina,70,706
+"Clonazepam 0,25 mg dos veces al día",70,706
+Clomifeno por 1 semana,70,706
+Control de laboratorio en 3 semanas,70,706
+nuevos análisis de laboratorio,70,707
+espermograma actualizado,70,707
+decisión de suspender o continuar con la terapia de testosterona según la indicación del psiquiatra,70,708
+Aumento de la dosis de levotiroxina a 125 mcg,70,709
+Pendiente de control,70,709
+evaluación para orientación hormonal,71,710
+Se proporcionan opciones,71,711
+Control pendiente,71,711
+disminuir la dosis de Levotiroxina (LT4) a los sábados hasta próximo control,71,712
+"Aumento de la dosis de levotiroxina a 55,5 mcg",71,713
+retomar el plan nutricional,71,713
+Suplemento de Vitamina D: 1000 UI,71,713
+Control en 3 meses,71,713
+análisis de laboratorio,71,714
+Se suspende el tratamiento,71,715
+se realizará control en un mes,71,715
+Aumento de la dosis de Xr a x4,71,716
+"Inicio de tratamiento con semaglutida: 0,25 mg/semana",71,716
+control en 4 semanas,71,716
+Disminución de la dosis de Levotiroxina a 50 mcg,71,717
+curva de cortisol en 1 mes,71,717
+ecografía tiroidea pendiente,71,717
+Continuar con Levotiroxina 50 mcg,71,717
+Treonato de Magnesio,71,718
+Melatonina de liberación prolongada,71,718
+laboratorio inflamatorio y con curva de glucosa,71,719
+Composición corporal para orientación,71,719
+análisis de laboratorio completo,72,720
+variabilidad de la frecuencia cardíaca (HRV),72,720
+Pendiente de seguimiento,72,721
+Aumento de Levotiroxina (LT4) a 200 mcg por 5 días y 175 mcg por 2 días,72,721
+curva de glucosa,72,722
+nuevos análisis de laboratorio,72,722
+Control a los 6 meses,72,723
+evaluación completa,72,724
+Alevrina,72,725
+Omega 3,72,725
+Megastene,72,725
+Control clínico pendiente,72,725
+Solicito evaluación para indicación de actividad física,72,726
+reinicio Metformina 850 mg una vez al día,72,727
+Control de laboratorio con pruebas de función tiroidea pendientes,72,727
+posible inicio de anticonceptivos orales debido a síndrome de ovario poliquístico,72,727
+variabilidad de la frecuencia cardíaca (HRV),72,728
+análisis de laboratorio completo,72,729
+análisis de laboratorio completo,73,730
+evaluación hormonal,73,731
+variabilidad de la frecuencia cardíaca (HRV) para control,73,731
+Control a los 6 meses,73,732
+tratamiento con clomifeno,73,733
+añade proteína a la dieta,73,733
+Control por laboratorio en 1 mes,73,733
+sin datos,73,734
+levotiroxina 88 mcg,73,735
+Suplementos: Hierro y vitamina D 300 UI,73,735
+Solicito evaluación,73,735
+Se solicita control,73,736
+control completo para seguimiento,73,737
+incrementar la intensidad del entrenamiento físico,73,738
+Control en 2 meses,73,738
+evaluación completa,73,739
+Prescripción de Memorex para astenia,74,740
+Control en 6 meses,74,740
+Testoviron,74,741
+control de laboratorio en 10 días,74,741
+Tratamiento con Doxiciclina y Vitamina B6,74,742
+consumo reducido de carbohidratos,74,742
+Suplemento de Magnesio y consumo de Activia,74,742
+Control prenatal programado para el tercer trimestre,74,742
+evaluación completa,74,743
+Punción Aspiración con Aguja Fina (PAAF),74,744
+Prueba de Tolerancia Oral a la Glucosa (PTOG),74,744
+Circadin y magnesio para la noche,74,744
+Dieta: 175 g de arroz + 50 g de arroz en la mañana y 50-100 g en la noche previo a partido,74,745
+Fruta después del entrenamiento,74,745
+"Tratamiento actual: Melatonina 2+3, Selenio continuo",74,745
+análisis de orina de 24 horas,74,745
+evaluación tiroidea y urea,74,745
+vitamina B12 y ácido fólico,74,745
+evaluación de la glándula pituitaria,74,746
+laboratorio completo con curva de glucosa,74,747
+Variabilidad de la frecuencia cardíaca (HRV) y evaluación del sueño para corrección,74,747
+Entrenamiento de fuerza a las 10 am,74,747
+Omega 3 2000 mg,74,748
+actividad física,74,748
+Control,74,748
+Pendiente de evaluación de tratamiento,74,749
+evaluación para orientación hormonal,75,750
+sin datos,75,751
+Evaluación de función adrenal pendiente,75,752
+Próximo control de laboratorio en un mes,75,752
+Control clínico posterior con el Dr. Gonzalo,75,752
+Pendiente de resultados de laboratorio,75,753
+Melatonina 2 mg + 3 mg,75,754
+Sulbutiamina,75,754
+Berberina,75,754
+Inicio de actividad física en circuito,75,754
+Cambio en el plan nutricional,75,755
+seguimiento a través de WhatsApp,75,755
+actividad física al aire libre una vez por semana,75,755
+Cambio de Liraglutida a Semaglutida,75,755
+"suplemento de Zinc, Magnesio y Vitamina B6 (ZMA) dos veces al día",75,756
+análisis de laboratorio para evaluar el uso de clomifeno,75,756
+pautas para Melatonina y Sulbutiamina,75,757
+Derivo a Nutrición y a Planificación de entrenamiento,75,757
+inicio de tratamiento con isotretinoína,75,758
+evaluación,75,758
+Solicita evaluación hormonal con seguimiento para discutir opciones de tratamiento,75,759
+Inicio de Levotiroxina sódica (LT4) 50 mcg,76,760
+tratamiento nutricional,76,760
+Control posterior pendiente,76,760
+Continúa con Levotiroxina (LT4) de lunes a viernes,76,761
+Se añade Circadin y Cannabidiol (CBD),76,761
+Aumento de dosis de Metformina (MTF) a 1000 mg dos veces al día,76,761
+Se deriva a Psiquiatría,76,762
+prueba con cannabidiol (CBD) y magnesio,76,763
+Zinc,76,763
+tratamiento con clomifeno,76,764
+añade proteína a la dieta,76,764
+Control por laboratorio en 1 mes,76,764
+Control pendiente,76,765
+análisis de laboratorio,76,766
+Pendiente de indicaciones para pautas de descanso a través de mensaje,76,767
+análisis de laboratorio completo,76,768
+Control anual programado,76,769
+análisis de laboratorio completo,77,770
+variabilidad de la frecuencia cardíaca (HRV),77,770
+Agrega Creatina,77,771
+Nuevo control de laboratorio antes del fin de año,77,771
+Continúa con suplemento de Omega 3,77,772
+análisis de laboratorio con curva de glucosa,77,773
+variabilidad de la frecuencia cardíaca (HRV),77,773
+evaluación del sueño,77,773
+suspender tratamiento con Clomifeno,77,774
+plan de tratamiento con Metformina,77,774
+prueba de testosterona,77,774
+consulta para planificación de tratamiento,77,774
+"Suplementos: Omega 3, Vitamina D3, Fit9, Magnesio, Ácido fólico",77,775
+Kéfir y Alverine a demanda de manera transitoria,77,775
+nuevo laboratorio confirmatorio,77,776
+Sterogyl,77,776
+Dos días sin aplicación de gonadotropina,77,777
+"Quedan dos aplicaciones, el domingo es la última de gonadotropina",77,777
+Espaciar gonadotropina a una aplicación cada cuatro días,77,777
+Laboratorio en una semana sin aplicación,77,777
+Control para selección de tratamiento,77,777
+Se solicita evaluación,77,778
+Sulbutiamina,77,779
+melatonina,77,779
+magnesio,77,779
+ácido alfa lipoico,77,779
+HMB,77,779
+Seguir pautas,77,779
+Derivado a oftalmología para evaluación de síndrome de Bietti,77,779
+Control clínico en 2 meses,77,779
+evaluación completa,78,780
+1 comprimido de Clomifeno por 5 días,78,781
+Zolpidem por 1 semana,78,781
+retomar Melatonina,78,781
+"Clonazepam 0,25 mg dos veces al día",78,781
+Clomifeno por 1 semana,78,781
+Control de laboratorio en 3 semanas,78,781
+tratamiento con levotiroxina,78,782
+tratamiento con paroxetina,78,782
+Toma melatonina,78,782
+sin datos,78,783
+laboratorio inflamatorio y con curva de glucosa,78,784
+Composición corporal para orientación,78,784
+Derivación a urología,78,785
+Suspensión de Clomifeno,78,785
+Control en 1 mes,78,785
+Suplemento de Beta-hidroxi-beta-metilbutirato (HMB),78,786
+hierro,78,786
+vitamina B12,78,786
+ácido fólico,78,786
+Control de laboratorio en 1 mes,78,786
+Posible prueba de capacidad aeróbica máxima (VO2 max),78,786
+Continúa con vitamina E 400 UI,78,787
+Aspirina,78,787
+Magnesio,78,787
+Calcio con vitamina K2,78,787
+Vitamina C,78,787
+Próximo control: Vitamina D y Homocisteína con gamma-glutamil transferasa (GGT) (por pedido),78,787
+Pedido,78,787
+análisis de laboratorio completo,78,788
+Seguimiento por correo electrónico,78,788
+recolección de orina de 24 horas para gammagrafía de paratiroides,78,789
+Uso de Melatonina de liberación prolongada (Circadin) según necesidad en situaciones de estrés,79,790
+Control médico programado antes de fin de año,79,790
+Derivado a urología para evaluación de potencia sexual,79,791
+Control posterior con bioimpedancia eléctrica,79,791
+análisis de laboratorio completo,79,792
+"suplementación con proteína de suero (whey), creatina y beta-hidroxi-beta-metilbutirato (HMB)",79,793
+análisis de laboratorio para control,79,793
+Control mediante análisis de composición corporal InBody,79,793
+"Magnesio, dos veces al día",79,794
+Pendiente de evaluación en horario vespertino,79,794
+evaluación de variabilidad de la frecuencia cardíaca (HRV),79,795
+Consulta pendiente con hematología por Insuficiencia Cardíaca,79,796
+No se recibieron resultados de laboratorio. Pendiente.,79,797
+gammagrafía con octreótido,79,798
+nueva prueba de laboratorio,79,799
+Beta-hidroximetilbutirato (HMB),79,799
+Creatina,79,799
+Zinc monometionina aspartato (ZMA),79,799
+Omega-3,79,799
+"Suplementos: Omega 3, Vitamina D3, Fit9, Magnesio, Ácido fólico",80,800
+Kéfir y Alverine a demanda de manera transitoria,80,800
+evaluación de estrés con biorritmo,80,801
+Prueba de estimulación con hormona liberadora de tirotropina (TRH),80,801
+Ecografía de tiroides,80,801
+recolección de orina de 24 horas para gammagrafía de paratiroides,80,802
+Prueba de semaglutida pendiente,80,803
+Derivado a Carolina,80,804
+tratamiento con corticoides,80,804
+Solicito terapia modificadora de la enfermedad,80,804
+Balance de fósforo y calcio,80,804
+Hormonal,80,804
+evaluación médica completa,80,805
+análisis de laboratorio completo,80,806
+análisis de laboratorio para ajustar la dosis de medicación según los resultados y los síntomas del paciente,80,807
+Seguimiento y control programado de 1 a 3 meses,80,807
+administración de hierro por vía intramuscular,80,808
+Continuar con ácido fólico y Siderblut,80,808
+Iniciar tratamiento con probióticos,80,808
+Control de laboratorio pendiente,80,808
+reinicio Metformina 850 mg una vez al día,80,809
+Control de laboratorio con pruebas de función tiroidea pendientes,80,809
+posible inicio de anticonceptivos orales debido a síndrome de ovario poliquístico,80,809
+Disminución de la dosis de metformina a 850 mg una vez al día (mediodía),81,810
+berberina en la noche,81,810
+Control en 3 meses,81,810
+evaluación completa,81,811
+"Aumento de la dosis de levotiroxina a 55,5 mcg",81,812
+retomar el plan nutricional,81,812
+Suplemento de Vitamina D: 1000 UI,81,812
+Control en 3 meses,81,812
+retomar la ingesta de carbohidratos,81,813
+iniciar tratamiento con DHEA 25/50 mg,81,813
+dos ciclos de vitamina D,81,813
+suspender el uso de gel de testosterona y pregnenolona,81,813
+Control en 3 meses,81,813
+nuevos análisis de laboratorio,81,814
+Continuará con risedronato,81,814
+nueva ecografía para posible biopsia por aspiración con aguja fina (PAAF),81,814
+análisis de laboratorio con curva de tolerancia a la glucosa,81,815
+variabilidad de la frecuencia cardíaca (HRV) a través de Garmin,81,815
+evaluación con curva de glucosa,81,816
+sin datos,81,817
+evaluación completa,81,818
+evaluación de estrés,81,818
+pruebas de laboratorio para evaluar estabilización y niveles de cortisol,81,819
+tratamiento con clomifeno,81,819
+Pendiente de resultados de laboratorio,82,820
+Comienza plan de entrenamiento,82,821
+Control en 4 meses,82,821
+Tratamiento psiquiátrico iniciado con Escitalopram 20 mg,82,822
+Derivado a urología para evaluación de potencia sexual,82,823
+Control posterior con bioimpedancia eléctrica,82,823
+Solicito evaluación completa con curva de cortisol,82,824
+pruebas de laboratorio para evaluar estabilización y niveles de cortisol,82,825
+tratamiento con clomifeno,82,825
+Referencia a nutrición para ajuste y control,82,826
+análisis de laboratorio,82,827
+Control de BIA en febrero,82,828
+Próximos análisis de laboratorio con Apolipoproteína,82,828
+análisis de laboratorio,82,829
+radiografía de muñeca,82,829
+Referido a consulta de nutrición,83,830
+seguimiento para hipotiroidismo cuando disminuya el factor de estrés,83,831
+suplementación con Vitamina D,83,831
+gammagrafía con octreótido,83,832
+plan nutricional,83,833
+Suplementación con beta-hidroxi-beta-metilbutirato (HMB) y creatina,83,833
+Control programado en 4 meses,83,834
+Sin suplementación,83,835
+resonancia magnética nuclear (RMN) de hipófisis,83,836
+análisis de laboratorio,83,836
+ecografía tiroidea,83,836
+Variabilidad de la frecuencia cardíaca (HRV) para posible evaluación del sueño,83,836
+sin datos,83,837
+prueba de liberación de hormona tirotropina (TRH),83,838
+dosis de Clomifeno a 25 mg,83,839
+Anastrozol a tomar cada dos días,83,839
+Control en 1 mes,83,839
+suspender multivitamínico y suplementos prohormonales,84,840
+análisis de laboratorio para determinar niveles de litio en sangre,84,840
+pruebas de laboratorio para evaluar estabilización y niveles de cortisol,84,841
+tratamiento con clomifeno,84,841
+Aumento de la dosis de levotiroxina a 125 mcg,84,842
+Pendiente de control,84,842
+Dieta: 175 g de arroz + 50 g de arroz en la mañana y 50-100 g en la noche previo a partido,84,843
+Fruta después del entrenamiento,84,843
+"Tratamiento actual: Melatonina 2+3, Selenio continuo",84,843
+análisis de orina de 24 horas,84,843
+evaluación tiroidea y urea,84,843
+vitamina B12 y ácido fólico,84,843
+evaluación completa,84,844
+disminución de la dosis de Venlafaxina a 50 mg,84,845
+disminución de la dosis de Ácido Docosahexaenoico (DHA) y Venlafaxina a 50 mg,84,845
+Continuar con el suplemento KSM-66,84,845
+Melatonina: 3 mg,84,845
+Holomagnesio: 3 mg,84,845
+derivación al paciente a la Dra. Illa para orientación en Psiconeuroinmunoendocrinología (PNIE),84,845
+Control por mensaje para solicitud de suplementos desde Estados Unidos,84,845
+Continuar con KSM-66,84,845
+tratamiento con antibióticos y Deltisona,84,846
+Metformina 500 mg,84,846
+Ezetimiba,84,846
+suplemento de Magnesio,84,846
+Levothyroxine en la misma dosis,84,846
+control y posible suspensión de medicación,84,846
+Control pendiente,84,847
+evaluación hormonal,84,848
+Se solicita evaluación,84,849
+Continúa con vitamina E 400 UI,85,850
+Aspirina,85,850
+Magnesio,85,850
+Calcio con vitamina K2,85,850
+Vitamina C,85,850
+Próximo control: Vitamina D y Homocisteína con gamma-glutamil transferasa (GGT) (por pedido),85,850
+Pedido,85,850
+suspensión de colesterol,85,851
+Sulbutiamina,85,851
+Beta-hidroxi-beta-metilbutirato (HMB),85,851
+Magnesio,85,851
+Omega-3 2000 mg,85,851
+Ashwagandha,85,851
+plan nutricional,85,852
+Control de tiroides y glucemia para mayo,85,852
+evaluación completa de la variabilidad de la frecuencia cardíaca (HRV),85,853
+iniciar actividad física,85,854
+disminuir consumo de carbohidratos,85,854
+laboratorio completo,85,854
+ecografía abdominal,85,854
+Posible cirugía de bypass gástrico con técnica de la manga (LIRA),85,854
+análisis de laboratorio,85,855
+resonancia magnética nuclear de hombros,85,855
+derivación a fisioterapia,85,855
+Próximo control en seis meses,85,856
+Sin suplementación,85,857
+Solicito análisis de laboratorio completo y Dímero-D,85,858
+administración de metformina,85,859
+administración de hormona del crecimiento,85,859
+Disminución de Dehidroepiandrosterona (DHEA) a dosis óptima los días sábado y domingo,86,860
+Suplemento de Omega-3: dos dosis,86,860
+"Suplemento de Zinc, Magnesio y Vitamina B6 (ZMA)",86,860
+Alevrina,86,861
+Omega 3,86,861
+Megastene,86,861
+Control clínico pendiente,86,861
+duplicó la dosis de Metformina,86,862
+Fenofibrato 220 mg,86,862
+laboratorio completo,86,862
+Derivado a Carolina,86,863
+tratamiento con corticoides,86,863
+Solicito terapia modificadora de la enfermedad,86,863
+Balance de fósforo y calcio,86,863
+Hormonal,86,863
+Derivado a urología para evaluación de potencia sexual,86,864
+Control posterior con bioimpedancia eléctrica,86,864
+gammagrafía con octreótido,86,865
+Prescripción de Memorex para astenia,86,866
+Control en 6 meses,86,866
+dieta baja en carbohidratos,86,867
+Control en un mes,86,867
+Disminución a 175x6 1/2 x1,86,868
+Control programado en 3 meses,86,868
+análisis de cortisol,86,869
+testosterona,86,869
+Suspender Atorvastatina hasta próximo control,86,869
+Continuar con medicación actual a media dosis por 15 días,87,870
+realizar nuevos análisis de laboratorio,87,870
+"Dosis de DHEA: 100 mg al día, cada dos días",87,871
+Control en 3 meses con prueba de Antígeno prostático específico (PSA),87,871
+Derivado a nutrición,87,872
+Se solicitan más análisis de laboratorio,87,872
+nuevo laboratorio confirmatorio,87,873
+Sterogyl,87,873
+análisis de laboratorio con curva de tolerancia a la glucosa,87,874
+variabilidad de la frecuencia cardíaca (HRV) a través de Garmin,87,874
+Melatonina 2+3,87,875
+Dexlansoprazol,87,875
+Alverine,87,875
+Control clínico,87,875
+análisis de laboratorio,87,876
+análisis de laboratorio,87,877
+recuento alimentario,87,877
+evaluación de composición corporal,87,877
+análisis de laboratorio completo,87,878
+ecografía de tiroides,87,878
+incrementó la dosis de levotiroxina a 100 mcg,87,879
+control en 3 semanas,87,879
+Prescribo Memorex y Megastine,88,880
+evaluación del ciclo menstrual,88,880
+niveles de cortisol,88,880
+"tratamiento con semaglutida 0,5 mg",88,881
+Aumento de dosis de citrato de magnesio a dos veces al día,88,881
+Melatonina 2mg,88,881
+"Clomifeno, 25 mg por 20 días",88,881
+"Suplemento de Zinc, Magnesio y Vitamina B6 (ZMA) una vez al día",88,881
+Aumento de dosis de metformina a 750 mg dos veces al día,88,881
+Control de laboratorio en 3 semanas,88,881
+nueva evaluación de variabilidad de la frecuencia cardíaca (HRV),88,881
+disminución de la dosis de Levotiroxina (LT4) a 125 mcg cinco veces por semana y 50 mcg una vez por semana,88,882
+control de testosterona para eventual terapia de reemplazo,88,882
+análisis de laboratorio,88,883
+variabilidad de la frecuencia cardíaca (HRV),88,883
+evaluación completa,88,884
+evaluación completa de densidad mineral ósea (DMO),88,885
+Retoma entrenamiento y plan,88,886
+Control en 6 meses,88,886
+curva de glucosa,88,887
+estudio del sueño,88,887
+Seguimiento por correo electrónico para posible inicio de tratamiento,88,887
+Derivado a nutrición,88,888
+Se solicitan más análisis de laboratorio,88,888
+evaluación completa,88,889
+Variabilidad de la frecuencia cardíaca (HRV),88,889
+"Iniciado tratamiento con Clomifeno, dos ciclos",89,890
+Suplementación con beta-hidroximetilbutirato (HMB) y creatina,89,890
+Próximo control de laboratorio en marzo,89,890
+Clomifeno,89,891
+Aspartato de Magnesio,89,891
+Melatonina,89,891
+"Clonazepam 0,25 mg dos veces al día",89,891
+suplementación con Creatina,89,891
+Control médico después de las vacaciones,89,891
+prueba con clomifeno,89,892
+sulbutiamina y memorex,89,892
+Control clínico y de laboratorio en 3 semanas,89,892
+Tratamiento con Semaglutida 1mg semanal y Levotiroxina 150 mcg,89,893
+nuevo control,89,893
+Aumento de dosis de Vitamina C a 3 g,89,894
+Vitamina E a 1000 mg,89,894
+continúa con suplemento de ZMA y HMB cada 20 horas,89,894
+Suspensión de quelantes,89,894
+Se realizará análisis de laboratorio al regreso,89,894
+laboratorio completo con curva de glucosa,89,895
+Bioimpedancia con evaluación de líquidos,89,895
+Derivación a Nutrición para plan alimenticio bajo en carbohidratos,89,896
+Control de laboratorio en 3 meses,89,896
+Tratamiento nutricional,89,897
+Pendiente de control,89,897
+análisis de laboratorio completo,89,898
+laboratorio completo para orientación en suplementación hormonal,89,899
+evaluación médica completa,90,900
+nueva evaluación completa,90,901
+Inicio de nuevo ciclo de tratamiento con Clomifeno,90,902
+pendiente de nuevos análisis de laboratorio,90,902
+Inicio de nuevo ciclo de tratamiento con Clomifeno,90,903
+pendiente de nuevos análisis de laboratorio,90,903
+"Aumento de la dosis de Levotiroxina a 125 mcg cinco días a la semana y 62,5 mcg dos días a la semana",90,904
+Control con curva de respuesta,90,904
+Punción Aspiración con Aguja Fina (PAAF),90,905
+Suplemento de Beta-hidroxi-beta-metilbutirato (HMB),90,906
+hierro,90,906
+vitamina B12,90,906
+ácido fólico,90,906
+Control de laboratorio en 1 mes,90,906
+Posible prueba de capacidad aeróbica máxima (VO2 max),90,906
+Tiaprida,90,907
+Megestrol,90,907
+Derivación a gastroenterología,90,907
+Dehidroepiandrosterona (DHEA) 50 mg,90,908
+pautas para el sueño,90,908
+nueva evaluación clínica,90,908
+curva de glucosa,90,909
+nuevos análisis de laboratorio,90,909
+Derivado para evaluación nutrigenética,91,910
+Suplementos: Megasten y Coenzima Q10,91,910
+"Dieta: Desayuno - 3 huevos enteros + 2 claras, 60 gramos de queso, 1 tostada. Media mañana - fruta (1 porción). Almuerzo - 200 gramos de carne, arroz o papa. Tarde - queso, 1 porción + 1 huevo. Cena - misma comida que en la tarde.",91,911
+"Suplementos: Creatina (2 dosis diarias), HMB 3 gramos.",91,911
+"Medicación: Clomifeno, media tableta diaria por 15 días.",91,911
+muestra de liraglutida para prueba,91,912
+análisis de laboratorio al regreso,91,913
+posible inicio de tratamiento con Clomifeno,91,913
+Aumento de la dosis de Levotiroxina,91,914
+Control programado para dentro de 2 meses después de retomar la actividad física,91,915
+considerar la posible suspensión de estatinas,91,915
+Tratamiento nutricional,91,916
+Pendiente de control,91,916
+"Consumo de beta-hidroxi-beta-metilbutirato (HMB), creatina y suplemento pre-entrenamiento",91,917
+Solicita plan de salud,91,917
+Se solicitan pruebas de laboratorio,91,917
+análisis del sueño,91,918
+Control previo a la competencia para ajustar el plan nutricional,91,918
+tratamiento con clomifeno,91,919
+añade proteína a la dieta,91,919
+Control por laboratorio en 1 mes,91,919
+nuevo espermograma,92,920
+ecografía testicular,92,920
+"pruebas para Cortisol, Dehidroepiandrosterona sulfato (DHEA-S), Prolactina (PRL) y Serotonina",92,921
+Solicito evaluación,92,922
+dieta baja en carbohidratos,92,923
+prueba con semaglutida,92,923
+suplementación con melatonina,92,924
+sulbutiamina,92,924
+levoglutamina/fosfoserina,92,924
+Pre-entrenamiento con beta-alanina,92,924
+Omega 3: 2000 UI,92,924
+Derivación a nutrición,92,924
+control con cannabidiol (CBD),92,924
+Control en 4 semanas,92,925
+Solicito evaluación completa con curva de cortisol,92,926
+suspensión de carbohidratos,92,927
+Melatonina,92,927
+Magnesio,92,927
+Melatonina 2+3,92,928
+Dexlansoprazol,92,928
+Alverine,92,928
+Control clínico,92,928
+análisis de laboratorio,92,929
+Seguimiento por correo electrónico para comenzar,92,929
+"incremento de la dosis en 0,5 unidades",93,930
+control en 1 mes,93,930
+Aumento de la dosis de levotiroxina a 125 mcg,93,931
+Alverina y bromuro de otilonio (Miopropan),93,931
+Control en 1 mes,93,931
+cambio a estradiol (E2),93,932
+cambio de programa de entrenamiento,93,932
+análisis de laboratorio,93,932
+Seguimiento por correo electrónico,93,932
+Inicio de nuevo ciclo de Clomifeno y Gonadotropina,93,933
+Pendiente de nuevos resultados de laboratorio,93,933
+Inicio de rutina de gimnasio y plan nutricional el próximo lunes,93,934
+Tres meses hasta el próximo monitoreo con Holter,93,934
+Un mes hasta la próxima prueba de laboratorio,93,934
+"Se añade Clomifeno, 25 mg en días alternos",93,934
+Control a través de correo electrónico en un mes,93,934
+Control con monitor Holter en dos meses,93,934
+Melatonina 2+3,93,935
+Dexlansoprazol,93,935
+Alverine,93,935
+Control clínico,93,935
+Vitamina C 500 mg,93,936
+Suspensión de Megastene y Coenzima Q10,93,936
+Suspensión de Circadin,93,936
+Cambio de Debridat por Alverine,93,936
+Control de tiroides en 2 meses,93,936
+Vitamina C en 6 meses,93,936
+laboratorio con curva de glucosa,93,937
+niveles de serotonina,93,937
+Tomar 17 mg de medicamento comprimido cada dos días,93,938
+controlar al regreso,93,938
+prueba de tiempo de coagulación (DCT),93,939
+dieta cetogénica,93,939
+seguimiento por correo electrónico para nueva solicitud de control,93,939
+inicio de terapia con incretinas,93,939
+Aplicación de Nebido la semana pasada,94,940
+Pretende iniciar un plan,94,940
+Uso de Clonazepam según necesidad,94,941
+Pendiente de evaluación hormonal,94,941
+Dehidroepiandrosterona (DHEA) 50 mg,94,942
+pautas para el sueño,94,942
+nueva evaluación clínica,94,942
+plan de nutrición,94,943
+Control de seguimiento,94,943
+ecografía de tiroides,94,944
+ecocardiograma de estrés,94,944
+Control semestral,94,944
+"Suplementos de Magnesio, Vitamina C y Oxandrolona hasta el 20 de junio",94,945
+Eritropoyetina (EPO),94,945
+hemograma,94,945
+ferritina,94,945
+ácido fólico,94,945
+análisis de laboratorio completo,94,946
+análisis de laboratorio completo para posible inicio de metformina,94,947
+próxima aplicación para el día 17,94,948
+Se añade berberina a su tratamiento,94,949
+"Se requiere control antes de su viaje a Neuquén, donde planea residir",94,949
+Bioimpedancia cada dos semanas para evaluar la respuesta al tratamiento,95,950
+laboratorio completo con curva de glucosa,95,951
+bioimpedancia,95,951
+ergometría en bicicleta,95,951
+Beta-hidroxi-beta-metilbutirato (HMB),95,952
+Sulbutiamina,95,952
+"Cabergolina 0,25 mg cada 15 días",95,952
+Selenio,95,952
+control de laboratorio,95,952
+evaluación de la glándula pituitaria,95,953
+variabilidad de la frecuencia cardíaca (HRV),95,954
+Tratamiento nutricional,95,955
+Pendiente de control,95,955
+Kaya Neurobrain,95,956
+Control con Megastenex 1,95,956
+"Magnesio, dos veces al día",95,957
+Pendiente de evaluación en horario vespertino,95,957
+Aumento de dosis de levotiroxina a 50 mcg cuatro veces por semana y 75 mcg tres veces por semana,95,958
+Control en dos meses,95,959
+reducir dosis,96,960
+"Suplementación con L-carnitina, Beta-hidroxi-beta-metilbutirato (HMB) y Magnesio",96,960
+Control de la reactivación del tratamiento,96,960
+desintoxicación,96,961
+análisis de laboratorio,96,961
+reduzco dosis de Clomifeno a 1/2 comprimido por día,96,961
+Control con próximo análisis de laboratorio,96,961
+prueba de liberación de hormona tirotropina (TRH),96,962
+pautas y tratamiento para la hipertensión arterial sistólica (ASH) con melatonina y magnesio,96,963
+Control pendiente,96,964
+sin datos,96,965
+análisis de laboratorio,96,966
+Posibilidad de tratamiento con exemestano,96,966
+Cambio en el plan nutricional,96,967
+seguimiento a través de WhatsApp,96,967
+actividad física al aire libre una vez por semana,96,967
+Cambio de Liraglutida a Semaglutida,96,967
+Pendiente de resultados de laboratorio,96,968
+prueba de Semaglutida,96,969
+Seguimiento a través de mensajes,96,969
+suspensión de carbohidratos,97,970
+Melatonina,97,970
+Magnesio,97,970
+prueba con clomifeno,97,971
+sulbutiamina y memorex,97,971
+Control clínico y de laboratorio en 3 semanas,97,971
+Aspirina,97,972
+Clomifeno por 10 días,97,972
+ZMA,97,972
+Clonazepam sublingual por 2 días,97,972
+Alevrina,97,972
+Melatonina por 2 días,97,972
+control de laboratorio en 1 mes,97,972
+Se añade berberina a su tratamiento,97,973
+"Se requiere control antes de su viaje a Neuquén, donde planea residir",97,973
+laboratorio inflamatorio y con curva de glucosa,97,974
+Composición corporal para orientación,97,974
+evaluación completa,97,975
+nueva consulta de control,97,976
+pautas,97,977
+control,97,977
+Control programado para dentro de 3 meses,97,978
+Aumento de la dosis de levotiroxina a 175 mcg por 6 días y posterior control,97,979
+evaluación con curva de glucosa,98,980
+laboratorio completo con curva de glucosa,98,981
+"Continuar con tratamiento de Clomifeno: dos tabletas diarias por una semana, luego una tableta diaria por una semana y posterior suspensión",98,982
+Omega 3 2000 mg,98,983
+actividad física,98,983
+Control,98,983
+análisis de laboratorio,98,984
+"Aumento de la dosis de Levotiroxina a 125 mcg cinco días a la semana y 62,5 mcg dos días a la semana",98,985
+Control con curva de respuesta,98,985
+plan de nutrición,98,986
+"Dosis de DHEA: 100 mg al día, cada dos días",98,987
+Control en 3 meses con prueba de Antígeno prostático específico (PSA),98,987
+Prueba de semaglutida pendiente,98,988
+laboratorio con curva de tolerancia a la glucosa,98,989
+análisis de laboratorio completo,99,990
+curva de glucosa,99,991
+estudio del sueño,99,991
+Seguimiento por correo electrónico para posible inicio de tratamiento,99,991
+Solicito análisis de laboratorio completo y Dímero-D,99,992
+"Dosis reducida a 25 mg, tres veces por semana",99,993
+resultados de laboratorio de función gonadal y serotonina plaquetaria,99,993
+evaluación completa,99,994
+Prueba de tolerancia a la glucosa,99,994
+Ecografía tiroidea,99,994
+Ingesta de Sterogyl: 3 veces al día,99,995
+Control en 3 meses con endocrinólogo,99,995
+plan nutricional no restrictivo,99,996
+Sulbutiamina,99,996
+Tuaplex,99,996
+Circadin,99,996
+evaluación completa,99,997
+"Dieta: Desayuno - 3 huevos enteros + 2 claras, 60 gramos de queso, 1 tostada. Media mañana - fruta (1 porción). Almuerzo - 200 gramos de carne, arroz o papa. Tarde - queso, 1 porción + 1 huevo. Cena - misma comida que en la tarde.",99,998
+"Suplementos: Creatina (2 dosis diarias), HMB 3 gramos.",99,998
+"Medicación: Clomifeno, media tableta diaria por 15 días.",99,998
+Continúa con el mismo tratamiento,99,999
+control de laboratorio en fecha futura,99,999

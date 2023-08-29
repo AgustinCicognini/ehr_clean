@@ -1,0 +1,3607 @@
+hallazgos_cualitativos,patien_id,encounter_id
+Realiza actividad física cuatro veces por semana,0,0
+Plan nutricional no adecuado,0,0
+Ansiedad,0,0
+Tiene cuatro exámenes finales en la universidad y está trabajando en su tesis,0,0
+Defensa de tesis programada para febrero,0,0
+Proteína C reactiva (PCR): positiva,0,1
+"toma Clonazepam 1,5 mg y Fluoxetina 1,5 mg",0,2
+Realiza actividad física en bicicleta,0,2
+Antecedente de bulimia,0,2
+No sigue un plan nutricional,0,2
+No toma suplementos,0,2
+Padece de insomnio crónico,0,2
+No se han realizado controles de laboratorio,0,2
+Hipersomnia,0,2
+Resultados de laboratorio metabólico: normales,0,3
+Cortisol: ritmo normal,0,4
+Variabilidad de la frecuencia cardíaca (HRV): invertida (indicativo de aumento de estrés nocturno),0,4
+Sin antecedentes familiares,0,5
+Medicación actual desconocida,0,5
+Realiza actividad física tres veces por semana,0,5
+No sigue un plan nutricional cetogénico,0,5
+No consume harinas,0,5
+Ecografía ginecológica: normal,0,5
+Ergometría: normal,0,5
+Sin medicamentos suplementarios,0,6
+Presenta alergia nasal,0,6
+No está bajo tratamiento actual,0,6
+Realiza actividad física: Pádel y Pilates,0,6
+Sigue un plan nutricional,0,6
+Ciclos menstruales regulares,0,6
+No está tomando anticonceptivos orales actualmente,0,6
+Tiene 3 años de evolución de los síntomas,0,6
+Refiere episodio de reacción alérgica localizada en el rostro,0,6
+sin datos,0,7
+sin datos,0,8
+Examen coprológico y parasitológico: normales,0,9
+Mejora en entrenamiento,0,9
+Realiza CrossFit cinco veces por semana,0,9
+Sin suplementación,0,9
+Presenta pérdida de peso,0,9
+No está tomando Ezetimiba,1,10
+Paciente practicante de CrossFit en competición,1,11
+ciclo de Oxandrolona realizado hace 6 meses,1,11
+sin síntomas relevantes,1,11
+Resultados de laboratorio: normales,1,12
+No recibe terapia hormonal,1,12
+"Medicación actual: Mesterolona (Proviron), Laragon, Stanozolol una vez al día",1,13
+Hormona de crecimiento dos veces al día,1,13
+Duración del tratamiento: 9 semanas,1,13
+¿Síndrome del intestino irritable?,1,14
+Variabilidad de la frecuencia cardíaca,1,14
+"Está tomando suplementos de Zinc, Magnesio y Aspartato (ZMA), creatina y clomifeno",1,15
+mejora en la calidad del sueño,1,15
+Los resultados de laboratorio muestran mejoría,1,15
+Buen nivel de salud,1,16
+Buena respuesta al tratamiento,1,16
+Dislipidemia leve,1,17
+Conversión de testosterona a estradiol (E2),1,17
+hipercalciuria,1,18
+dislipidemia no tratada,1,18
+Diagnóstico en Mautalen,1,18
+Actividad física: caminata de 10 km,1,18
+Sin otras actividades recientes,1,18
+Menopausia precoz,1,18
+Sin suplementación,1,18
+"Ecografía Doppler de vena cava: normal en lado derecho, placa fibrolipídica menor al 20% en lado izquierdo",1,18
+Estrés habitual,1,18
+Ecocardiograma: normal,1,18
+Densitometría ósea: normal,1,18
+Nivel de sueño: medio,1,18
+realiza entrenamiento de CrossFit dos veces al día,1,19
+tiroidopatía,1,19
+astenia crónica,1,19
+buen nivel de sueño,1,19
+tratamiento con anticonceptivos orales,1,19
+estrés agudo,1,19
+episodios de fiebre baja,1,19
+Uso de Finasterida,2,20
+Variabilidad de la frecuencia cardíaca sin desactivación simpática,2,21
+Mejora en entrenamiento,2,22
+No está tomando Ezetimiba,2,23
+Variabilidad de la frecuencia cardíaca (HRV): leve mejora en la desviación estándar de todos los intervalos NN (SDNN) sin activación parasimpática nocturna,2,24
+Paciente bajo tratamiento con Decanoato de nandrolona y Testosterona,2,25
+Inició tratamiento el 27 de junio y finalizó la semana pasada,2,25
+Buen nivel de ánimo,2,26
+Hemograma: normal,2,26
+Hepatograma: normal,2,26
+Apolipoproteína A: normal,2,26
+Ecografía Doppler de cuello: normal,2,26
+Bajo en vitamina C,2,26
+Sin cambios en la fuerza,2,27
+Resultados de laboratorio: sin reactivación,2,27
+sin datos,2,28
+Realiza actividad física de manera habitual,2,29
+Juega rugby en la posición de segunda línea,3,30
+Sigue un plan nutricional personalizado,3,30
+No consume verduras,3,30
+No está tomando suplementos,3,30
+Plan de entrenamiento a cargo de un preparador físico de ALUMNI,3,30
+Duerme entre 6 a 7 horas sin interrupciones,3,30
+Buen nivel de recuperación,3,30
+anemia ferropénica con evaluación gastrointestinal completa negativa,3,31
+Poliposis hiperplásica microvesicular,3,31
+Mala absorción oral de hierro,3,31
+Mejora en los niveles de hierro y ferritina,3,31
+Observación expectante de caída del hematocrito,3,31
+Considera no continuar con Rugby,3,32
+Entrenamiento en gimnasio,3,32
+Deportes,3,32
+Buena alimentación,3,32
+Bajo consumo de Creatina HMB,3,32
+Omega 3,3,32
+Sin antecedentes familiares,3,33
+Medicación actual desconocida,3,33
+Realiza actividad física tres veces por semana,3,33
+No sigue un plan nutricional cetogénico,3,33
+No consume harinas,3,33
+Ecografía ginecológica: normal,3,33
+Ergometría: normal,3,33
+Paciente indica que aumentó la dosis de levotiroxina a 100 mcg por su cuenta,3,34
+mejora en la calidad del sueño y despertares,3,34
+"Polimenorrea tratada con parche anticonceptivo, actualmente tomando anticonceptivos orales",3,34
+Paciente no desea iniciar medicación,3,35
+Realiza entrenamiento de musculación en gimnasio,3,36
+Juega al tenis tres veces por semana,3,36
+"Experimenta sofocos, aunque con disminución",3,36
+Buen patrón de sueño,3,36
+"Presenta trastorno alimentario, practica ayuno",3,36
+No consume suplementos,3,36
+"No toma Omega 3, Beta-Hidroxi Beta-Metilbutirato (HMB) ni Magnesio",3,36
+Sí consume Vitamina C,3,36
+sin datos,3,37
+dos años en tratamiento con metimazol,3,38
+anticuerpos negativos,3,38
+No presenta microalbuminuria,3,38
+madre con enfermedad de Graves,3,38
+"Realiza actividad física: running, 21km",3,38
+Ecografía tiroidea: aumento de tamaño con contorno irregular,3,38
+glucosa en orina: positiva (+++),3,38
+Resultados de laboratorio generales: normales,3,39
+Niveles hormonales: óptimos,3,39
+Inicio de planificación familiar con método anticonceptivo Bietti: buen resultado,3,39
+variabilidad de la frecuencia cardíaca,4,40
+Última ingesta en enero,4,41
+sin datos,4,42
+Buen nivel de sueño,4,43
+Hemoglobina normal,4,43
+Pruebas hepáticas normales,4,43
+Tensión arterial normal,4,43
+Bajo en Omega 3 y Magnesio,4,43
+Mejora en la Bioimpedancia eléctrica,4,44
+Bajo consumo de carbohidratos,4,44
+Diarrea,4,45
+Dolor muscular,4,45
+buena respuesta al Clomifeno,4,46
+Suspensión de betabloqueantes,4,47
+Se someterá a cirugía estética (liposucción),4,47
+Control respiratorio debido a medicación,4,47
+astenia,4,48
+Mejora en la libido,4,48
+Estancamiento en el peso,4,48
+Se traslada a Nueva York,4,49
+Hemograma normal,4,49
+Ionograma normal,4,49
+Hepatitis N,5,50
+Anticuerpos antitiroglobulina (ATG): positivo,5,50
+Anticuerpos antitiroperoxidasa (ATP): positivo,5,50
+Excelente respuesta a los resultados del laboratorio,5,51
+Buen nivel de actividad física,5,52
+consumo habitual de Stanozolol hasta 100 mg,5,53
+antecedentes de cirugía por ginecomastia,5,53
+ciclos de dos meses y medio con tres meses de descanso,5,53
+Ecografía testicular: normal,5,53
+Resultados de laboratorio: normales,5,53
+Niveles de testosterona: medios,5,53
+Espermatogénesis incompleta: 2%,5,53
+Medicación actual: Diapresan A,5,54
+"Suplementos: cardamomo, zinc, aminoácidos, arginina, L-carnitina, glutamina, colágeno",5,54
+"Actividad física: entrenamiento personalizado 2-3 veces por semana, yoga dos veces por semana, running",5,54
+Lesión reciente: desgarro del músculo sóleo,5,54
+Calidad del sueño: media,5,54
+Hepatitis N,5,55
+Anticuerpos antitiroglobulina (ATG): positivo,5,55
+Anticuerpos antitiroperoxidasa (ATP): positivo,5,55
+Inició terapia con testosterona y metformina,5,56
+suspendida abruptamente debido a un viaje,5,56
+Ha reiniciado la terapia con testosterona,5,56
+Paciente ex fisiculturista,5,57
+ex presidente de la Federación Internacional de Fisicoculturismo y Fitness (IFBB),5,57
+Niveles altos de creatina quinasa (CK),5,57
+inicio de tratamiento con Genozym sin observar mejoras,5,57
+Aplicación autónoma de Testoviron con aumento de la libido,5,57
+Trastorno de la alimentación,5,58
+sin datos,5,59
+Hemograma normal,6,60
+Pruebas hepáticas: normales,6,60
+Laboratorio 2021: Normal,6,60
+Hepatitis N: negativa,6,61
+No ha recibido terapia neurocognitiva,6,62
+No ha realizado entrenamiento físico durante 15 días,6,62
+buen patrón de sueño,6,62
+atrofia muscular,6,62
+Resultados de laboratorio generales: sin particularidades,6,62
+Deficiencia de vitamina D,6,62
+En tratamiento con Clomifeno,6,63
+Uso de Circadin,6,63
+Mejoría clínica,6,63
+Acné en rostro y espalda,6,63
+Mejoría en patrón de sueño,6,63
+En evaluación con monitor de actividad Garmin,6,63
+Resultados de laboratorio: normales,6,64
+Sueño: normal,6,64
+Realiza actividad física dos veces por semana,6,65
+"En tratamiento con cabergolina, fluoxetina, lamotrigina 150 mg dos veces al día, y levotiroxina 50 mcg",6,65
+Cortisol con ritmo normal,6,65
+Resto sin particularidades,6,65
+sin datos,6,66
+Hepatitis no especificada,6,67
+Anticuerpos contra la peroxidasa tiroidea (ATPo) positivos,6,67
+mejora clínica de la Artritis Reumatoide,6,68
+Atendido por reumatólogo y hematólogo,6,68
+bajo cuidado del jefe del Hospital Austral,6,68
+Factor reumatoide: negativo,6,68
+Anticuerpos anti-tiroperoxidasa (ATPO): elevados,6,68
+Aparición de nevus sin especificar,6,69
+"Medicación actual: Pharmaton 25, Rivotril 0,5 mg, Melatol 3 mg (bajo tratamiento para trastornos del sueño)",6,69
+Viaje programado del 24 de mayo al junio,6,69
+¿Hipotiroidismo subclínico? ¿Transitorio?,7,70
+Sin síntomas,7,71
+Buen estado de ánimo y energía,7,71
+Preparándose para competir en SouthFit,7,71
+Entrenamiento actual incluye CrossFit y ejercicios de fuerza,7,71
+Objetivo: competir y mejorar fuerza y recuperación,7,71
+sin datos,7,72
+Antecedentes de entrenamiento previo con Leandro Carbone,7,73
+Antecedente de fractura de cóccix con lumbalgia posterior,7,73
+"Realiza entrenamiento en su domicilio, sin planificación",7,73
+"Sigue un plan nutricional sin carne, harinas ni azúcar",7,73
+Buen patrón de sueño,7,73
+Estrés habitual,7,73
+Refiere aumento de peso,7,73
+Disminución de la capacidad volitiva,7,73
+Amenorrea (dispositivo intrauterino Mirena),7,73
+Bajo tratamiento con Rotangel,7,73
+Diagnóstico de sobrecrecimiento bacteriano del intestino delgado (SIBO) y parasitosis,7,74
+Reanudación de actividad física personalizada,7,74
+Ejercicio de fuerza dos veces por semana,7,74
+Paciente con buen nivel de entrenamiento físico,7,75
+Trombosis venosa profunda en vena safena mayor,7,75
+Actualmente en reposo debido a cirugía por carcinoma basocelular en brazo y pierna,7,75
+sin datos,7,76
+Hematocrito: normal,7,77
+Hepatitis: negativa,7,77
+aumento en la tasa de filtración glomerular,7,78
+Aumento en la excreción renal de calcio y fósforo,7,78
+Hormona paratiroidea (PTH) y calcio séricos: normales,7,78
+Buen nivel de descanso,7,79
+Buen nivel de sueño,7,79
+Bajo nivel de actividad física,7,79
+Control previo realizado,7,79
+Mal nivel de sueño,8,80
+sin datos,8,81
+Variabilidad de la frecuencia cardíaca (HRV): normal,8,82
+Indica estrés energético,8,82
+Sin medicamentos suplementarios,8,83
+Presenta alergia nasal,8,83
+No está bajo tratamiento actual,8,83
+Realiza actividad física: Pádel y Pilates,8,83
+Sigue un plan nutricional,8,83
+Ciclos menstruales regulares,8,83
+No está tomando anticonceptivos orales actualmente,8,83
+Tiene 3 años de evolución de los síntomas,8,83
+Refiere episodio de reacción alérgica localizada en el rostro,8,83
+Hepatitis no detectada,8,84
+Paciente en tratamiento con dexametasona por 4 días,8,84
+actividades deportivas: ciclismo de ruta y levantamiento de pesas en gimnasio,8,85
+Ex fumador,8,85
+Antecedentes patológicos: hipotiroidismo,8,85
+"Suplementación: aminoácidos, creatina, multivitamínicos, beta-alanina",8,85
+Buen patrón de sueño,8,85
+Hipertensión arterial,8,86
+Mejora en la calidad del sueño,8,86
+Uso de Testosterona cipionato 200 mg y Stanozolol 20 mg (marca nacional) durante 12 a 14 semanas,8,86
+Terapia post-ciclo,8,86
+Sin seguimiento hormonal,8,86
+Síntomas de astenia y desgano,8,86
+sin datos,8,87
+Resultados de laboratorio hematológicos: normales,8,88
+Cirugía de hombro realizada el 25 de julio,8,88
+Extracción realizada en la última semana,8,88
+buen patrón de sueño,8,89
+Realiza actividad física 5 veces por semana,8,89
+Buena respuesta al tratamiento,9,90
+Actualmente sin uso de melatonina,9,91
+Punción aspirativa con aguja fina (PAAF) con resultado Bethesda II,9,91
+sin datos,9,92
+Gastropatía congestiva,9,93
+Hemorroides internas,9,93
+Hipercalciuria idiopática?,9,93
+Centellograma: negativo,9,93
+Hemograma normal,9,94
+Pruebas hepáticas normales,9,94
+Medicación actual: Rosuvastatina (día por medio) y Metformina,9,95
+Tratamiento oncológico con Quitsan y Atenix,9,95
+Un año de toma de medicación,9,95
+Sin plan nutricional ni actividad física,9,95
+Amenorrea de 5 meses,9,95
+Sin síntomas,9,95
+Menarca a los 13 años,9,95
+Paciente refiere astenia y desgano,9,95
+Mejora en la Bioimpedancia eléctrica,9,96
+Bajo consumo de carbohidratos,9,96
+Hepatitis N,9,97
+Paciente en tratamiento con nandrolona y hormona de crecimiento,9,97
+mejora clínica de la Artritis Reumatoide,9,98
+Atendido por reumatólogo y hematólogo,9,98
+bajo cuidado del jefe del Hospital Austral,9,98
+Factor reumatoide: negativo,9,98
+Anticuerpos anti-tiroperoxidasa (ATPO): elevados,9,98
+Cortisol: ritmo normal,9,99
+Variabilidad de la frecuencia cardíaca (HRV): invertida (indicativo de aumento de estrés nocturno),9,99
+Buena respuesta al entrenamiento,10,100
+Buen nivel de sueño,10,100
+Suspensión del consumo de harinas y clomifeno,10,100
+Diagnóstico de hipotiroidismo,10,101
+En proceso de buscar un segundo embarazo,10,101
+"Realiza actividad física, incluyendo correr y entrenamiento funcional",10,101
+Ciclos menstruales regulares,10,101
+Diagnóstico de mioma uterino,10,101
+resultados normales pero bajos,10,102
+Ciclos menstruales regulares,10,103
+Resultados de laboratorio normales,10,103
+Control médico normal,10,103
+Resultados de laboratorio metabólico: normales,10,104
+Hepatitis no especificada,10,105
+Resultado de cultivo de orina: Acinetobacter baumannii,10,105
+Hipertensión arterial diastólica 100 mmHg,10,105
+Ionograma: normal,10,106
+Pruebas hepáticas: normales,10,106
+Ecografía tiroidea: glándula tiroides de tamaño 45x10x20 mm,10,106
+Lactato deshidrogenasa (LDH): normal,10,106
+"Antecedentes familiares: Diabetes mellitus positiva, Infarto agudo de miocardio positivo, Diabetes mellitus negativa",10,107
+Medicamentos actuales: No especificados,10,107
+"Actividad física: Baile de salsa, 3 veces por semana",10,107
+Suplementos: Proteína de suero (Whey) y creatina de marca ENA,10,107
+Antecedentes personales: Obesidad,10,107
+Sueño intermitente,10,107
+Estrés alto,10,107
+Nunca ha tenido evaluación hormonal,10,107
+Hepatitis no especificada,10,108
+Resultado de cultivo de orina: Acinetobacter baumannii,10,108
+Hipertensión arterial diastólica 100 mmHg,10,108
+hipercalciuria,10,109
+dislipidemia no tratada,10,109
+Diagnóstico en Mautalen,10,109
+Actividad física: caminata de 10 km,10,109
+Sin otras actividades recientes,10,109
+Menopausia precoz,10,109
+Sin suplementación,10,109
+"Ecografía Doppler de vena cava: normal en lado derecho, placa fibrolipídica menor al 20% en lado izquierdo",10,109
+Estrés habitual,10,109
+Ecocardiograma: normal,10,109
+Densitometría ósea: normal,10,109
+Nivel de sueño: medio,10,109
+actividades deportivas: ciclismo de ruta y levantamiento de pesas en gimnasio,11,110
+Ex fumador,11,110
+Antecedentes patológicos: hipotiroidismo,11,110
+"Suplementación: aminoácidos, creatina, multivitamínicos, beta-alanina",11,110
+Buen patrón de sueño,11,110
+Sin suplementación,11,111
+Testosterona baja,11,111
+Ferritina: baja,11,112
+Tratamiento en Fundación Leloir por el Dr. Correa,11,113
+Realiza escalada en roca dos veces por semana,11,113
+Realiza running de manera esporádica,11,113
+Medicación actual: dimetilfumarato,11,113
+Fosfatasa alcalina ósea normal alta,11,113
+Resto sin particularidades,11,113
+Centellograma negativo,11,113
+sin datos,11,114
+Uso de Finasterida,11,115
+Practica kitesurf de septiembre a abril,11,116
+Objetivo estético,11,116
+Medicación actual: Finasterida 1mg,11,116
+Programado para implante el 23 de septiembre,11,116
+No toma suplementos,11,116
+Ha tomado creatina anteriormente,11,116
+Buen patrón de sueño habitual,11,116
+Realiza entrenamiento de fuerza 5 a 6 veces por semana con entrenador,11,116
+Sigue un plan nutricional alto en proteínas,11,116
+Menciona antropometría previa,11,116
+No ha tenido controles de laboratorio,11,116
+No toma medicamentos,11,117
+Suplementos: Creatina 5 gramos/día,11,117
+antecedentes de uso de estanozolol y testosterona,11,117
+"Entrenamiento 4-5 veces por semana, enfocado en fuerza y CrossFit",11,117
+Objetivo: estética y aumento de masa muscular,11,117
+buen nivel de sueño,11,117
+Sin plan nutricional actual,11,117
+buen nivel de ingesta proteica,11,117
+Antecedentes de entrenamiento previo con Leandro Carbone,11,118
+Antecedente de fractura de cóccix con lumbalgia posterior,11,118
+"Realiza entrenamiento en su domicilio, sin planificación",11,118
+"Sigue un plan nutricional sin carne, harinas ni azúcar",11,118
+Buen patrón de sueño,11,118
+Estrés habitual,11,118
+Refiere aumento de peso,11,118
+Disminución de la capacidad volitiva,11,118
+Amenorrea (dispositivo intrauterino Mirena),11,118
+Bajo tratamiento con Rotangel,11,118
+Retomando actividades lentamente,11,119
+Refiere mejora en el sueño,11,119
+Realiza 5 a 6 comidas de buena calidad al día,11,119
+Desayuna tostadas o 3 huevos,11,119
+3 horas después consume frutas y café,11,119
+realiza entrenamiento físico,11,119
+almuerza proteínas y carbohidratos,11,119
+merienda batido de queso,11,119
+"Cena sin carbohidratos, solo proteínas",11,119
+Consume cafeína y HMB,11,119
+Realiza más entrenamiento cardiovascular,11,119
+No sigue ningún plan establecido,11,119
+"Entrenamiento los días martes y jueves, sábado y domingo",12,120
+Antecedentes familiares de dislipidemia,12,120
+Insulinemia: normal,12,120
+Somatotropina: fina,12,120
+Anticuerpos anti-transglutaminasa tisular (celiaquía): negativos,12,120
+Zinc: normal,12,120
+sin datos,12,121
+Paciente bajo tratamiento con Decanoato de nandrolona y Testosterona,12,122
+Inició tratamiento el 27 de junio y finalizó la semana pasada,12,122
+Variabilidad en la función digestiva,12,123
+Creatina con buen resultado físico en kitesurf,12,123
+sin datos,12,124
+Interrumpió el uso de aripiprazol con mejoría clínica,12,125
+Cambio a metilfenidato y lamotrigina,12,125
+Leve mejoría clínica,12,125
+La concentración no mejora,12,125
+Hiperactividad,12,125
+Ingesta excesiva de alimentos en la tarde,12,125
+Mejoría en el patrón de sueño,12,125
+espondilitis,12,126
+Anemia ferropénica debido a metrorragias,12,126
+Pólipos endometriales,12,126
+Enfermedad por reflujo gastroesofágico (ERGE),12,126
+Sin actividad física actualmente,12,126
+Calidad de sueño deficiente debido a dolores,12,126
+Sin plan nutricional actual,12,126
+Sin controles médicos desde hace varios meses,12,126
+ciclos no regulares,12,126
+Bajo consumo de proteínas (solo huevos),12,126
+Diabetes tipo 2,12,126
+Sin seguimiento médico durante 3 años,12,127
+Pendiente de ecografía tiroidea,12,127
+"Antecedentes familiares de dislipidemia, accidente cerebrovascular e hipertensión arterial",12,127
+Diagnóstico de adenoma hipofisario sin tratamiento actual,12,127
+Reporta intolerancia a Lactamax,12,127
+Sin cefaleas,12,127
+No presenta movimientos anormales,12,127
+"Reporta astenia, caída de cabello, duerme 5 horas por día",12,127
+"En 2019, reportó sueño profundo",12,127
+Realiza actividad física y sigue un plan nutricional,12,127
+Creatina quinasa (CPK) y transaminasas: elevadas,12,128
+hiperosmia,12,129
+Falta de interés profunda,12,129
+Viajó a Europa el 29 de noviembre,12,129
+Poca actividad física,12,129
+Síntomas constantes,12,129
+Pendiente de control,13,130
+Buen nivel de energía y recuperación,13,131
+Realiza natación y equitación tres veces por semana,13,131
+"Toma suplementos de beta-hidroxi-beta-metilbutirato (HMB), colágeno y DHEA de farmacia homeopática",13,131
+Buen nivel de energía y recuperación,13,132
+Realiza natación y equitación tres veces por semana,13,132
+"Toma suplementos de beta-hidroxi-beta-metilbutirato (HMB), colágeno y DHEA de farmacia homeopática",13,132
+Se inicia reactivación del tratamiento,13,133
+sin datos,13,134
+Trastorno de alimentación,13,135
+Ausencia de menstruación,13,135
+Estrés laboral,13,135
+ansiedad,13,135
+polisintomatología,13,135
+Inflamación intestinal,13,135
+Múltiples intolerancias,13,135
+Bulimia y anorexia,13,135
+En recuperación,13,135
+persiste bulimia y episodios de atracones,13,135
+Refiere estreñimiento y aumento de peso,13,135
+aumento en la tasa de filtración glomerular,13,136
+Aumento en la excreción renal de calcio y fósforo,13,136
+Hormona paratiroidea (PTH) y calcio séricos: normales,13,136
+Hepatitis: negativa,13,137
+Buena respuesta al tratamiento,13,137
+"Antecedentes familiares: Diabetes mellitus positiva, Infarto agudo de miocardio positivo, Diabetes mellitus negativa",13,138
+Medicamentos actuales: No especificados,13,138
+"Actividad física: Baile de salsa, 3 veces por semana",13,138
+Suplementos: Proteína de suero (Whey) y creatina de marca ENA,13,138
+Antecedentes personales: Obesidad,13,138
+Sueño intermitente,13,138
+Estrés alto,13,138
+Nunca ha tenido evaluación hormonal,13,138
+Nódulo tiroideo mixto de 4 cm con vascularización periférica,13,139
+Insuficiencia cardíaca que requiere cirugía,13,139
+Buen nivel de energía,14,140
+Buen nivel de entrenamiento,14,140
+No está tomando suplementos actualmente,14,140
+No presenta estrés,14,141
+Realiza actividad física de carrera en Fiambala con buena respuesta,14,141
+"Evaluación de estrés: adecuada, con leves picos de estrés durante la noche",14,141
+función gonadal normal,14,142
+función tiroidea normal,14,142
+Presencia de inmunocitos,14,142
+sin datos,14,143
+Cuadro clínico con leve desbalance de miembros superiores,14,144
+Resto de resultados de laboratorio: normales,14,145
+Hipertensión arterial resistente con activación simpática,14,145
+¿Causada por apnea del sueño?,14,145
+Buen nivel de salud,14,146
+Buena respuesta al tratamiento,14,146
+Buen nivel de condición física,14,147
+Resultados de laboratorio generales: normales,14,147
+Exfumador,14,148
+Reporta mala alimentación,14,148
+Antecedentes de litiasis renal recurrente,14,148
+No sigue de manera constante la dieta baja en oxalatos de calcio,14,148
+Estrés habitual,14,148
+Buen patrón de sueño,14,148
+Sin actividad física regular,14,148
+Tiene entrenador personal pero no de manera constante,14,148
+No presenta astenia,14,149
+episodio de hipertensión,14,149
+mejoría con el plan nutricional,14,149
+Inició ayuno intermitente hace 2 meses,14,149
+Planea iniciar actividad física esta semana,14,149
+Niveles de estrés disminuidos,14,149
+Cambio en el plan de entrenamiento,15,150
+No presenta síntomas de astenia ni desgano,15,151
+Buen patrón de sueño,15,151
+No consume desayuno,15,151
+Almuerzo: 1-3 porciones de ensalada y jugos,15,151
+Merienda: jugo y yogur,15,151
+Cena: sopa con huevo,15,151
+No consume proteínas,15,151
+No consume aceite de pescado,15,151
+Actualmente sin uso de melatonina,15,152
+Punción aspirativa con aguja fina (PAAF) con resultado Bethesda II,15,152
+sin datos,15,153
+Resultados de laboratorio generales: normales,15,154
+Sin cambios en el resto del estado de salud,15,154
+Sin efectos secundarios,15,155
+Frecuencia cardíaca en reposo no superior a 110 latidos por minuto,15,155
+Sin ansiedad por la comida,15,155
+Paciente refiere niveles de testosterona sin cambios,15,155
+Estudio de sueño: normal,15,156
+ritmo cardíaco hiperadrenérgico sin sincronismo,15,156
+Actualmente no está tomando suplementos,15,156
+Retomó tratamiento con melatonina hace 10 días,15,156
+Suspendió Dehidroepiandrosterona (DHEA),15,156
+Disminuyó dosis de medicamento para el sueño,15,156
+Medicación actual: Rosuvastatina (día por medio) y Metformina,15,157
+Tratamiento oncológico con Quitsan y Atenix,15,157
+Un año de toma de medicación,15,157
+Sin plan nutricional ni actividad física,15,157
+Amenorrea de 5 meses,15,157
+Sin síntomas,15,157
+Menarca a los 13 años,15,157
+Paciente refiere astenia y desgano,15,157
+Siguiendo tratamiento nutricional con Antonella,15,158
+Dieta baja en carbohidratos,15,158
+Retomó entrenamiento con pesas,15,158
+Tratamiento de kinesiología con Sebastián Martínez,15,158
+No realizará CrossFit este año,15,158
+Participará en la clasificación nacional de levantamiento de pesas,15,158
+"Buen nivel de sueño, pero presenta dificultad para despertar",15,158
+consulta a Neumología indica que es inespecífico,15,159
+Tos crónica,15,159
+Sin síntomas,16,160
+inflamación intestinal constante,16,160
+Buen patrón de sueño,16,160
+Resultados de laboratorio: normales,16,160
+Sin dispositivo intrauterino hormonal,16,160
+Ciclos menstruales regulares,16,160
+No sigue planes nutricionales actuales,16,161
+antecedentes de entrenamiento inconstante,16,161
+Objetivo: aumento de masa muscular,16,161
+Presenta despertares nocturnos,16,161
+Realiza entrenamiento en gimnasio con objetivo estético,16,162
+"Consume suplementos de proteína de suero (ENA), creatina y beta-alanina",16,162
+"Entrena cinco veces por semana durante 30 minutos, utilizando su propio peso corporal y mancuernas",16,162
+"Los días martes y jueves realiza entrenamientos intensos, el resto de los días son complementarios",16,162
+"Sigue una dieta de ayuno intermitente de lunes a viernes, evitando alimentos procesados",16,162
+Los días sábado y viernes realiza un ayuno de 17 horas,16,162
+Sigue una dieta mediterránea,16,162
+Reporta buen nivel de sueño,16,162
+No ha tenido controles hormonales recientes ni evaluaciones de composición corporal,16,162
+Evaluación subjetiva: reporta astenia,16,162
+"En su juventud, tuvo una respuesta al estrés desmedida, tratada con clomipramina y luego carbamazepina",16,162
+Actualmente está tomando escitalopram,16,162
+Síndrome climatérico,16,163
+astenia,16,163
+poliartralgias,16,163
+aumento de peso,16,163
+Realiza actividad física: caminata,16,163
+Hipotiroidismo,16,163
+Intolerancia a las harinas,16,163
+Sueño insuficiente,16,163
+tratamiento con levotiroxina 100 mcg (inestable),16,164
+Nódulos tiroideos pequeños,16,164
+manejada con actividad física hasta hace 1 año,16,164
+en tratamiento con especialista en lípidos,16,164
+Medicación: ezetimibe 10 mg + rosuvastatina 2.5 mg,16,164
+Antecedentes familiares: cáncer gástrico en padre,16,165
+Antecedentes personales: cirugía de cadera debido a pinzamiento,16,165
+Actividad física: dos veces a la semana,16,165
+Estrés habitual,16,165
+Fallecimiento de padre,16,165
+Tratamiento previo con diclofenaco y pridinol,16,165
+Sin plan nutricional actual,16,165
+Dificultad para iniciar el sueño,16,165
+Refiere sueño profundo,16,165
+Resto sin particularidades,16,166
+Dímero D: negativo,16,167
+Lipoproteína A: negativa,16,167
+inicio de actividad física,16,167
+mejora de nutrición,16,167
+tratamiento dermatológico previo,16,168
+rosácea después de la ingesta,16,168
+actividad física regular,16,168
+Estado eutiroideo,16,169
+Buen nivel de actividad física,16,169
+Satisfecho con plan nutricional,16,169
+Disminución en el consumo de granos,16,169
+Peso estable,16,169
+Participará en competencia en julio/agosto,16,169
+Torneo en noviembre en Neuquén,16,169
+Buen patrón de sueño,16,169
+Realiza actividad física tres veces por semana,17,170
+Buena ingesta alimentaria,17,170
+No reporta cambios en su plan de alimentación,17,170
+ha incrementado la ingesta alimentaria y la actividad física a cuatro veces por semana,17,170
+Ciclos menstruales regulares sin uso de anticonceptivos orales,17,171
+¿Rosácea ocular?,17,171
+Síndrome de ojo seco,17,171
+¿Síndrome de Sjögren?,17,171
+Anticuerpos antinucleares (FAN) positivos,17,171
+Sin diagnóstico confirmado,17,171
+Siguiendo un plan nutricional,17,171
+Aumento de peso,17,171
+Baja actividad física,17,171
+Buen nivel de energía,17,171
+Ecografía de tiroides recibida: tiroiditis crónica sin nódulos,17,171
+Mejora en entrenamiento,17,172
+Estrés crónico con síndrome depresivo debido al fallecimiento del padre,17,173
+Alta actual,17,173
+Uso de Clonazepam debido a insomnio,17,173
+Oligomenorrea,17,173
+Sin síntomas,17,173
+Cambios en el estado de ánimo durante el síndrome premenstrual,17,173
+Refiere buen nivel de sueño con Clonazepam,17,173
+Se despierta con energía,17,173
+No realiza actividad física debido a falta de tiempo,17,173
+"Cuando realiza actividad física, presenta dificultad en la recuperación",17,173
+Sin estudios recientes,17,173
+Refiere haber seguido un plan hasta abril con Oxandrolona y Drostanolona,17,174
+"También ha tomado Cardarine, proteína y creatina en bajas dosis",17,174
+Buena recuperación,17,175
+Mejoría en composición corporal,17,175
+niveles de testosterona normalizados,17,175
+Resultados de laboratorio: normales,17,176
+Bajo nivel de actividad física,17,176
+Recientemente cambiado de residencia,17,176
+Menor carga laboral,17,176
+No recibe tratamiento con testosterona,17,176
+Mejoría en osteocondritis,17,177
+Mejoría en capacidad aeróbica y resistencia muscular,17,177
+No realizó actividad física,17,177
+Se va de viaje por trabajo con posibilidad de déficit de sueño,17,177
+Anticuerpos antinucleares (ANA): negativo,17,178
+Practica kitesurf de septiembre a abril,17,179
+Objetivo estético,17,179
+Medicación actual: Finasterida 1mg,17,179
+Programado para implante el 23 de septiembre,17,179
+No toma suplementos,17,179
+Ha tomado creatina anteriormente,17,179
+Buen patrón de sueño habitual,17,179
+Realiza entrenamiento de fuerza 5 a 6 veces por semana con entrenador,17,179
+Sigue un plan nutricional alto en proteínas,17,179
+Menciona antropometría previa,17,179
+No ha tenido controles de laboratorio,17,179
+sin datos,18,180
+Hemoglobina normal,18,181
+hipotiroidismo,18,182
+hipertensión arterial mal controlada,18,182
+Sin actividad física actual,18,182
+Estrés actual con 7-8 episodios de estrés previos,18,182
+Sobrepeso,18,182
+Sueño intermitente,18,182
+Hepatitis normal,18,183
+Ionograma normal,18,183
+Hemograma normal,18,183
+Orina normal,18,183
+Ecografía tiroidea y abdominal: normales,18,183
+Continúa entrenamiento con Federico,18,184
+leve mejora en la calidad del sueño,18,184
+Presenta astenia y desgano,18,185
+Dislipidemia,18,185
+Aumento de peso,18,185
+Antecedentes familiares de enfermedad cardiovascular y enfermedad coronaria,18,185
+Antecedentes de enfermedad tiroidea,18,185
+Ecografía tiroidea muestra pseudonódulos pequeños,18,185
+¿Tiroiditis?,18,185
+Ecocardiograma normal,18,185
+Epigastralgia con endoscopia digestiva alta que muestra gastropatía antral,18,185
+Buen nivel de sueño,18,185
+Actividad física: hockey,18,185
+Nivel de estrés: 7,18,185
+Postparto,18,186
+inestabilidad en función tiroidea,18,186
+aumento de peso,18,186
+Estrés debido al fallecimiento de la madre,18,186
+Realiza actividad física funcional tres veces por semana,18,186
+Ferritina: normal,18,187
+Inmunoglobulinas: normales,18,187
+Proteograma: normal,18,187
+Mejora con la reducción del estrés,18,187
+Antecedentes médicos: no especificados,18,188
+sin nódulos detectados en ecografía tiroidea,18,188
+madre con 10 nódulos tiroideos,18,188
+"hipertensión arterial (HTA) y artritis reumatoide (AR), sin medicación",18,188
+Buen patrón de sueño,18,188
+Actividades físicas: gimnasio y yoga,18,188
+Resultados de laboratorio generales: normales,18,189
+Variabilidad de la frecuencia cardíaca (HRV) con poca desconexión nocturna,18,189
+No recibe dopamina ni serotonina,18,189
+sin datos,19,190
+Práctica de rugby,19,191
+No consume medicamentos,19,191
+"Suplementos: No-Xplode, C4",19,191
+Sin otra medicación,19,191
+Resultados de laboratorio: normales,19,192
+Pruebas hepáticas: normales,19,193
+Análisis de orina: normal,19,193
+Ecografía previa en 2018: sin nódulos,19,193
+Ecografía de vena cava: normal en 2019,19,193
+Sin estrés y buen nivel de sueño,19,194
+ingesta de cafeína hasta la noche,19,194
+Diagnóstico de sobrecrecimiento bacteriano del intestino delgado (SIBO) y parasitosis,19,195
+Reanudación de actividad física personalizada,19,195
+Ejercicio de fuerza dos veces por semana,19,195
+sin datos,19,196
+Ciclos menstruales actuales irregulares,19,197
+"Actualmente tomando suplementos, específicamente Whey Strength",19,197
+Entrena cuatro veces por semana,19,197
+Calidad de sueño pobre con despertares frecuentes,19,197
+No presenta síntomas de astenia ni desgano,19,198
+Buen patrón de sueño,19,198
+No consume desayuno,19,198
+Almuerzo: 1-3 porciones de ensalada y jugos,19,198
+Merienda: jugo y yogur,19,198
+Cena: sopa con huevo,19,198
+No consume proteínas,19,198
+No consume aceite de pescado,19,198
+Realiza entrenamiento de musculación en gimnasio,19,199
+Juega al tenis tres veces por semana,19,199
+"Experimenta sofocos, aunque con disminución",19,199
+Buen patrón de sueño,19,199
+"Presenta trastorno alimentario, practica ayuno",19,199
+No consume suplementos,19,199
+"No toma Omega 3, Beta-Hidroxi Beta-Metilbutirato (HMB) ni Magnesio",19,199
+Sí consume Vitamina C,19,199
+No se realizó análisis de laboratorio,20,200
+Incremento de fuerza,20,200
+Buen patrón de sueño,20,200
+Hemoglobina en ayunas por la mañana,20,200
+Ecografía de abdomen: homogénea con leve esteatosis,20,201
+aumento de testosterona,20,202
+Niveles bajos de Dehidroepiandrosterona (DHEA),20,202
+Niveles bajos de cortisol,20,202
+consulta con Endocrinología,20,203
+Resto sin particularidades,20,204
+Hepatitis: negativa,20,205
+paciente que realiza levantamiento de pesas,20,206
+antecedentes familiares de hipotiroidismo,20,206
+diabetes: no presenta,20,206
+asma: presente,20,206
+última vacuna contra COVID-19 en diciembre,20,206
+no toma medicamentos,20,206
+sin suplementación actual,20,206
+buen nivel de sueño,20,206
+sin plan nutricional,20,206
+sin controles de laboratorio recientes,20,206
+sin evaluación hormonal,20,206
+"entrenamiento 6 veces a la semana, 2 horas por sesión",20,206
+competencia en agosto,20,206
+sin efectos secundarios,20,206
+Sin antecedentes familiares,20,207
+Medicación actual desconocida,20,207
+Realiza actividad física tres veces por semana,20,207
+No sigue un plan nutricional cetogénico,20,207
+No consume harinas,20,207
+Ecografía ginecológica: normal,20,207
+Ergometría: normal,20,207
+Sin estrés y buen nivel de sueño,20,208
+ingesta de cafeína hasta la noche,20,208
+Dislipidemia leve,20,209
+Conversión de testosterona a estradiol (E2),20,209
+"Está tomando suplementos de Zinc, Magnesio y Aspartato (ZMA), creatina y clomifeno",21,210
+mejora en la calidad del sueño,21,210
+Los resultados de laboratorio muestran mejoría,21,210
+Tiroidopatía,21,211
+Medicación actual: Montelukast,21,211
+Historia de neumonías recurrentes,21,211
+Vacunación completa,21,211
+Reporta sofocos y aumento de peso,21,211
+Síndrome menopáusico,21,211
+Insomnio con despertares nocturnos,21,211
+Sin astenia ni hiperosmia,21,211
+Toma multivitamínico con selenio y vitamina D,21,211
+Sin densitometrías óseas recientes,21,211
+Reporta pérdida de masa muscular,21,211
+Realiza Pilates,21,211
+Sin plan nutricional actual,21,211
+sin datos,21,212
+Hemoglobina normal,21,213
+resto sin particularidades,21,214
+amenorrea leve,21,215
+Acné facial,21,215
+Diarrea,21,216
+Dolor muscular,21,216
+Siguiendo tratamiento nutricional con Antonella,21,217
+Dieta baja en carbohidratos,21,217
+Retomó entrenamiento con pesas,21,217
+Tratamiento de kinesiología con Sebastián Martínez,21,217
+No realizará CrossFit este año,21,217
+Participará en la clasificación nacional de levantamiento de pesas,21,217
+"Buen nivel de sueño, pero presenta dificultad para despertar",21,217
+Alopecia,21,218
+controles generales normales,21,218
+Actividad física: running,21,218
+plan nutricional propio,21,218
+Antecedentes de dieta restrictiva,21,218
+Dieta vegana durante 5 a 6 meses en 2019,21,218
+Bajo dieta FODMAP,21,218
+Sueño intermitente,21,218
+Estrés habitual,21,218
+Un año en evaluación,21,218
+Interrumpió el uso de aripiprazol con mejoría clínica,21,219
+Cambio a metilfenidato y lamotrigina,21,219
+Leve mejoría clínica,21,219
+La concentración no mejora,21,219
+Hiperactividad,21,219
+Ingesta excesiva de alimentos en la tarde,21,219
+Mejoría en el patrón de sueño,21,219
+Ergometría: normal,22,220
+Resultados de laboratorio generales: normales,22,220
+Hepatitis no detectada,22,220
+Antecedentes de ginecomastia,22,221
+buen estado clínico hasta enero de 2021,22,222
+estrés en 2020 debido al fallecimiento de su padre,22,222
+está tomando Venlafaxina,22,222
+está tomando Levotiroxina (LT4) 50 mcg,22,222
+Posible variabilidad de la frecuencia cardíaca (HRV),22,222
+No presenta síntomas de astenia ni desgano,22,223
+Buen patrón de sueño,22,223
+No consume desayuno,22,223
+Almuerzo: 1-3 porciones de ensalada y jugos,22,223
+Merienda: jugo y yogur,22,223
+Cena: sopa con huevo,22,223
+No consume proteínas,22,223
+No consume aceite de pescado,22,223
+Hemoglobina normal,22,224
+Mejoría en cuadro de insomnio,22,225
+dificultades al levantarse,22,225
+Cansancio habitual,22,225
+Actividad física habitual,22,226
+Resultados de laboratorio generales: normales,22,226
+dolor en los hombros,22,227
+disminución de calambres y parestesias en las manos,22,227
+patrón nuclear granulado grueso,22,227
+Hemograma normal,22,228
+leve aumento de transaminasas,22,228
+Resultados de laboratorio: normales,22,229
+No recibe terapia hormonal,22,229
+Ecografía de abdomen,23,230
+Resultados de laboratorio generales: normales,23,230
+"Ecografía mamaria: ginecomastia en mama derecha, clasificación BIRADS 2",23,230
+hipercalciuria,23,231
+dislipidemia no tratada,23,231
+Diagnóstico en Mautalen,23,231
+Actividad física: caminata de 10 km,23,231
+Sin otras actividades recientes,23,231
+Menopausia precoz,23,231
+Sin suplementación,23,231
+"Ecografía Doppler de vena cava: normal en lado derecho, placa fibrolipídica menor al 20% en lado izquierdo",23,231
+Estrés habitual,23,231
+Ecocardiograma: normal,23,231
+Densitometría ósea: normal,23,231
+Nivel de sueño: medio,23,231
+toma Levotiroxina 100 mcg,23,232
+No presenta antecedentes médicos,23,232
+Realiza actividad física en el gimnasio cuatro veces por semana y juega al fútbol,23,232
+"Toma suplementos de creatina, proteína ENA, magnesio, zinc y selenio",23,232
+Refiere dificultad para iniciar el sueño,23,232
+Experimenta picos de estrés,23,232
+Resto sin particularidades,23,232
+no reportó hallazgos relevantes,23,233
+Buen nivel de condición física,23,234
+Resultados de laboratorio generales: normales,23,234
+Presenta otitis,23,235
+Aspiración con aguja fina (PAAF): negativa,23,236
+Nódulos tiroideos hiperfuncionantes,23,236
+Variabilidad de la frecuencia cardíaca sin desactivación simpática,23,237
+Hepatitis N,23,238
+Recuperación insuficiente,23,239
+Sin incremento de la masa muscular,23,239
+Antecedente de uso de estanozolol oral,23,239
+Sin suplementación actual,23,239
+consulta a Neumología indica que es inespecífico,24,240
+Tos crónica,24,240
+dolor en los hombros,24,241
+disminución de calambres y parestesias en las manos,24,241
+patrón nuclear granulado grueso,24,241
+Múltiples ocupaciones laborales,24,242
+Sin actividad física regular,24,242
+En México,24,243
+Finalización de ciclo y reactivación,24,243
+Presenta astenia,24,244
+Alteración del ritmo del sueño durante las vacaciones,24,244
+Resto de los resultados sin particularidades,24,245
+Sin estrés y buen nivel de sueño,24,246
+ingesta de cafeína hasta la noche,24,246
+Buen nivel de energía,24,247
+Buen nivel de entrenamiento,24,247
+No está tomando suplementos actualmente,24,247
+Buen nivel de energía y recuperación,24,248
+Realiza natación y equitación tres veces por semana,24,248
+"Toma suplementos de beta-hidroxi-beta-metilbutirato (HMB), colágeno y DHEA de farmacia homeopática",24,248
+sin datos,24,249
+No presenta síntomas de astenia ni desgano,25,250
+Buen patrón de sueño,25,250
+No consume desayuno,25,250
+Almuerzo: 1-3 porciones de ensalada y jugos,25,250
+Merienda: jugo y yogur,25,250
+Cena: sopa con huevo,25,250
+No consume proteínas,25,250
+No consume aceite de pescado,25,250
+Aparición de nevus sin especificar,25,251
+"Medicación actual: Pharmaton 25, Rivotril 0,5 mg, Melatol 3 mg (bajo tratamiento para trastornos del sueño)",25,251
+Viaje programado del 24 de mayo al junio,25,251
+sin datos,25,252
+Hepatitis normal,25,253
+Ionograma normal,25,253
+Hemograma normal,25,253
+Orina normal,25,253
+Ecografía tiroidea y abdominal: normales,25,253
+sin datos,25,254
+Realiza entrenamiento en gimnasio con objetivo estético,25,255
+"Consume suplementos de proteína de suero (ENA), creatina y beta-alanina",25,255
+"Entrena cinco veces por semana durante 30 minutos, utilizando su propio peso corporal y mancuernas",25,255
+"Los días martes y jueves realiza entrenamientos intensos, el resto de los días son complementarios",25,255
+"Sigue una dieta de ayuno intermitente de lunes a viernes, evitando alimentos procesados",25,255
+Los días sábado y viernes realiza un ayuno de 17 horas,25,255
+Sigue una dieta mediterránea,25,255
+Reporta buen nivel de sueño,25,255
+No ha tenido controles hormonales recientes ni evaluaciones de composición corporal,25,255
+Evaluación subjetiva: reporta astenia,25,255
+"En su juventud, tuvo una respuesta al estrés desmedida, tratada con clomipramina y luego carbamazepina",25,255
+Actualmente está tomando escitalopram,25,255
+Bajo tratamiento con levotiroxina 50 mcg de lunes a viernes,25,256
+Sin astenia,25,256
+Estrés habitual,25,257
+Buen patrón de sueño,25,257
+Aumento de peso,25,257
+ansiedad,25,257
+Alimentación inadecuada,25,257
+Buen nivel de actividad física,25,257
+Refiere poliuria nocturna,25,257
+Hemograma: normal,25,258
+sin datos,25,259
+aumento de la activación parasimpática,26,260
+Pruebas hepáticas normales,26,261
+inició probióticos sin mejoría,26,261
+Practica rugby,26,262
+toma suplemento de proteína de manera irregular,26,262
+No está tomando medicación,26,262
+No ha tomado suplementos anteriormente,26,262
+Calidad de sueño: media,26,262
+No sigue un plan nutricional,26,262
+Plan de entrenamiento con Santiago,26,262
+No se han realizado controles de laboratorio durante dos años,26,262
+No se ha realizado control hormonal,26,262
+No se ha realizado control de composición corporal,26,262
+"mejora en la fuerza, sin cambios en la composición corporal",26,262
+no reportó hallazgos relevantes,26,263
+entrenamiento nocturno de tipo CrossFit,26,264
+no sigue un plan nutricional específico,26,264
+alimentación ordenada,26,264
+COVID-19 en tres ocasiones,26,264
+afectación bronquial,26,264
+astenia crónica,26,264
+"toma suplementos de colágeno, aminoácidos y proteínas",26,264
+estrés de manera habitual,26,264
+resultados normales pero bajos,26,265
+Cambio en el plan de entrenamiento,26,266
+No presenta astenia,26,267
+episodio de hipertensión,26,267
+mejoría con el plan nutricional,26,267
+Inició ayuno intermitente hace 2 meses,26,267
+Planea iniciar actividad física esta semana,26,267
+Niveles de estrés disminuidos,26,267
+buen nivel de sueño con uso de melatonina,26,268
+Realiza actividad física 4 veces por semana durante 1:30 horas,26,268
+Continúa con plan de nutrición,26,268
+Resultados de laboratorio generales: normales,26,268
+Realiza actividad física 5 veces por semana,26,269
+Hemoglobina normal,26,269
+Pruebas hepáticas normales,26,269
+Durmiendo 9 horas con cambio en horario de entrenamiento,27,270
+Viaje reciente,27,270
+Inicio de práctica de yoga,27,270
+sin datos,27,271
+Resto sin particularidades,27,272
+Resultados de laboratorio: normales,27,273
+Sueño: normal,27,273
+realizando ejercicios 3 veces por semana,27,274
+"Al regresar de un viaje, comenzó a consumir frutas y batatas",27,274
+Dieta basada únicamente en proteínas,27,274
+Viajó el 3 de junio,27,274
+Durante los días de entrenamiento consume arroz,27,274
+"Desde el 23, consume calabaza en la noche y papas al mediodía",27,274
+sin datos,27,275
+Sin anticonceptivos orales,27,276
+Antecedentes de trastorno de ansiedad,27,277
+Tratamiento previo con antidepresivos,27,277
+Actualmente tomando Escitalopram,27,277
+Antecedentes de uso crónico de Zolpidem sin resultados,27,277
+Refiere depresión y problemas de sueño,27,277
+Toma Omega 3 y probióticos,27,277
+Realiza entrenamiento con peso corporal cuatro veces por semana,27,277
+Refiere disminución en rendimiento,27,277
+Presenta astenia y falta de motivación,27,278
+Dolor muscular,27,278
+eosinofilia,27,278
+Hepatitis N,27,279
+Anticuerpos antitiroglobulina (ATG): positivo,27,279
+Anticuerpos antitiroperoxidasa (ATP): positivo,27,279
+Enfermedad de reflujo gastroesofágico (ERGE),28,280
+disfonía crónica progresiva,28,280
+Antecedente de colecistectomía,28,280
+Dolor en el abdomen,28,280
+Sobrepeso,28,280
+endoscopia gastrointestinal normal,28,280
+No toma otras medicaciones,28,280
+No sigue planes nutricionales,28,280
+No realiza actividad física,28,280
+Calidad de sueño deficiente,28,280
+"Antecedentes familiares: Dislipidemia, Hipertensión arterial",28,281
+Antecedentes personales: Pérdida auditiva del 50% debido a la enfermedad de Meniere,28,281
+hiperprolactinemia,28,281
+Actividad física: leve,28,281
+lesiones en la rodilla,28,281
+pérdida de peso con dieta cetogénica y ayuno,28,281
+Suplementación intermitente,28,281
+nivel de sueño medio,28,281
+Nivel de estrés: 7,28,281
+"dolor articular, principalmente en los hombros",28,281
+astenia vespertina,28,281
+"Está tomando suplementos de Zinc, Magnesio y Aspartato (ZMA), creatina y clomifeno",28,282
+mejora en la calidad del sueño,28,282
+Los resultados de laboratorio muestran mejoría,28,282
+tratamiento dermatológico previo,28,283
+rosácea después de la ingesta,28,283
+actividad física regular,28,283
+Hemograma normal,28,284
+leve aumento de transaminasas,28,284
+sin datos,28,285
+Hepatitis N,28,286
+Anticuerpos antitiroglobulina (ATG): positivo,28,286
+Anticuerpos antitiroperoxidasa (ATP): positivo,28,286
+Sin síntomas,28,287
+Buen patrón de sueño,28,287
+Dieta alta en proteínas con pérdida de peso,28,287
+Consumo de 200g de carne y verduras,28,287
+"Cirugía estética realizada el 9 de diciembre, seguida de 2 meses de rehabilitación",28,287
+Buen nivel de energía,28,287
+Buen patrón de sueño,28,287
+Bajo nivel de Beta-hidroxibutirato (HMB),28,287
+mejoría en el sueño y la digestión,28,288
+duerme bien,28,288
+estudio cardiológico realizado,28,288
+Gastropatía congestiva,28,289
+Hemorroides internas,28,289
+Hipercalciuria idiopática?,28,289
+Centellograma: negativo,28,289
+sin datos,29,290
+Actualmente sin uso de melatonina,29,291
+Punción aspirativa con aguja fina (PAAF) con resultado Bethesda II,29,291
+Hemograma normal,29,292
+Pruebas hepáticas normales,29,292
+Proteinograma: normal,29,292
+sin datos,29,293
+sin datos,29,294
+Exfumador,29,295
+Reporta mala alimentación,29,295
+Antecedentes de litiasis renal recurrente,29,295
+No sigue de manera constante la dieta baja en oxalatos de calcio,29,295
+Estrés habitual,29,295
+Buen patrón de sueño,29,295
+Sin actividad física regular,29,295
+Tiene entrenador personal pero no de manera constante,29,295
+Realiza entrenamiento de musculación en gimnasio,29,296
+Juega al tenis tres veces por semana,29,296
+"Experimenta sofocos, aunque con disminución",29,296
+Buen patrón de sueño,29,296
+"Presenta trastorno alimentario, practica ayuno",29,296
+No consume suplementos,29,296
+"No toma Omega 3, Beta-Hidroxi Beta-Metilbutirato (HMB) ni Magnesio",29,296
+Sí consume Vitamina C,29,296
+sin datos,29,297
+Normalización,29,298
+Sin palpitaciones,29,299
+Tirotropina (TSH) suprimida,29,299
+sin datos,30,300
+Buen nivel de ánimo,30,301
+Hemograma: normal,30,301
+Hepatograma: normal,30,301
+Apolipoproteína A: normal,30,301
+Ecografía Doppler de cuello: normal,30,301
+Bajo en vitamina C,30,301
+Buen patrón de sueño,30,302
+"Sin suplementación, excepto Vitamina C",30,302
+"Anticonceptivos orales con ciclos regulares, Aviane-28",30,302
+Realiza actividad física 3 veces por semana,30,302
+Reporta buen patrón de sueño,30,302
+sin datos,30,303
+Práctica de rugby,30,304
+No consume medicamentos,30,304
+"Suplementos: No-Xplode, C4",30,304
+Sin otra medicación,30,304
+Continúa con disminución de la libido,30,305
+Creatina quinasa (CPK) y transaminasas: elevadas,30,306
+Hepatitis N,30,307
+Paciente en tratamiento con nandrolona y hormona de crecimiento,30,307
+despertares nocturnos,30,308
+sueño ligero,30,308
+No recuerda sus sueños,30,308
+Diagnóstico reciente de hipertensión arterial sin tratamiento actual,30,308
+Sin síntomas,30,308
+Estrés habitual,30,308
+Temblor en los ojos,30,308
+Escotomas,30,308
+Realiza actividad física con instructor,30,308
+anteriormente practicaba running,30,308
+Lesiones musculares,30,308
+Calambres,30,308
+Sin plan de nutrición establecido,30,308
+Refiere buena ingesta alimentaria,30,308
+No consume suplementos nutricionales,30,308
+Resultados de laboratorio generales: normales,30,309
+Prueba de esquizofrenia,30,309
+sin datos,31,310
+Carrera con pico de frecuencia cardíaca,31,311
+Quejas de mialgias,31,311
+Pendiente de control,31,312
+Resultados de laboratorio: normales,31,313
+mejora en los niveles de testosterona,31,314
+paciente en plan de tratamiento,31,314
+oligomenorrea,31,315
+No toma medicamentos antialérgicos,31,315
+No toma anticonceptivos orales,31,315
+No toma suplementos de vitamina C ni omega 3,31,315
+Ha incrementado el volumen de su entrenamiento,31,315
+Presenta mala calidad de sueño y dificultad para conciliarlo,31,315
+No ha experimentado mejoras en su fuerza,31,315
+Sigue un plan nutricional para disminuir la masa muscular,31,315
+"Durante mes y medio ha realizado ayuno intermitente de 16 horas por 8, tres días a la semana",31,315
+Los domingos consume proteínas y vegetales,31,315
+Refiere distensión abdominal,31,315
+Buen nivel de salud,31,316
+Buena respuesta al tratamiento,31,316
+En tratamiento con Clomifeno,31,317
+Uso de Circadin,31,317
+Mejoría clínica,31,317
+Acné en rostro y espalda,31,317
+Mejoría en patrón de sueño,31,317
+En evaluación con monitor de actividad Garmin,31,317
+Paciente se trasladará a vivir a España,31,318
+Sin respuesta a Melatonina,31,318
+Inició plan de nutrición con respuesta positiva en la disminución de peso,31,318
+Sin respuesta habitual a Melatonina y Cannabidiol (CBD),31,318
+Evaluación neurológica realizada (Dr. Salvat),31,319
+Tomografía Axial Computarizada (TAC) y la Resonancia Magnética Nuclear (RMN) son normales,31,319
+buen patrón de sueño,32,320
+Realiza actividad física 5 veces por semana,32,320
+Variabilidad de la frecuencia cardíaca (HRV) continua: actividad simpática nocturna,32,321
+dos años en tratamiento con metimazol,32,322
+anticuerpos negativos,32,322
+No presenta microalbuminuria,32,322
+madre con enfermedad de Graves,32,322
+"Realiza actividad física: running, 21km",32,322
+Ecografía tiroidea: aumento de tamaño con contorno irregular,32,322
+glucosa en orina: positiva (+++),32,322
+sin datos,32,323
+Ergometría y ecocardiograma: normales,32,324
+Ayuno,32,324
+Hemograma normal,32,324
+Hepatograma normal,32,324
+Paciente se trasladará a vivir a España,32,325
+Continúa con hipertrofia,32,325
+Restricción en diciembre,32,325
+Pruebas hepáticas: normales,32,326
+Análisis de orina: normal,32,326
+Ecografía previa en 2018: sin nódulos,32,326
+Ecografía de vena cava: normal en 2019,32,326
+toma de Quetiapina y Topiramato 100 mg,32,327
+sin vacaciones en 2018,32,327
+Realiza entrenamiento físico 5 veces por semana,32,328
+Buen patrón de sueño,32,328
+No consume suplementos,32,328
+Hemoglobina normal,32,329
+Resto sin particularidades,32,329
+No ha consultado a un nutricionista,33,330
+Bajo tratamiento con Coenzima Q10 100 mg,33,330
+Sin Dehidroepiandrosterona (DHEA),33,330
+Toma Vitamina C,33,330
+Resultados de laboratorio: normales,33,331
+Bajo nivel de actividad física,33,331
+Recientemente cambiado de residencia,33,331
+Menor carga laboral,33,331
+No recibe tratamiento con testosterona,33,331
+escaso entrenamiento,33,332
+pérdida de masa muscular,33,332
+Antecedentes familiares: Dislipidemia y Tiroidopatía,33,332
+"Tratamiento actual: Levotiroxina 50 mcg, Litio 450 mg/día",33,332
+Realiza actividad física 2 a 3 veces por semana,33,332
+No toma suplementos nutricionales,33,332
+Buen patrón de sueño,33,332
+Resultados de laboratorio generales: normales,33,333
+Función gonadal: normal,33,333
+Ecocardiograma: normal,33,333
+sin datos,33,334
+Niveles de testosterona: medios,33,335
+Paciente practicante de CrossFit en competición,33,336
+ciclo de Oxandrolona realizado hace 6 meses,33,336
+sin síntomas relevantes,33,336
+Hepatitis N: negativa,33,337
+Anticuerpos antinucleares (ANA): negativo,33,338
+sin datos,33,339
+sin datos,34,340
+Buena recuperación,34,341
+Mejoría en composición corporal,34,341
+niveles de testosterona normalizados,34,341
+Tomografía por Emisión de Fotón Único (SPECT): normal,34,342
+Prueba de esfuerzo (ergometría): normal,34,342
+Hipertensión arterial sistólica y diastólica basal,34,342
+Hemograma: normal,34,342
+Control clínico,34,343
+Antecedentes de cáncer de próstata bajo tratamiento con dutasterida mensual,34,344
+astenia con 6 meses de evolución,34,344
+Hipersomnia constante,34,344
+Dislipidemia tratada con atorvastatina 10 mg,34,344
+Sueño intermitente,34,344
+Sin suplementación,34,344
+Pruebas hepáticas: normales,34,345
+Manometría esofágica: normal,34,345
+¿Presenta hernia hiatal o desplazamiento de funduplicatura?,34,345
+Reflujo gastroesofágico,34,345
+Insuficiencia cardíaca: gastroenterología,34,345
+Niveles de testosterona: medios,34,346
+Resultados de laboratorio generales: normales,34,347
+hipergonadismo,34,348
+Indicación de Eudon (Domperidona) con buen resultado,34,349
+Se acuesta a las 23 horas,35,350
+se duerme a las 3 am,35,350
+Duerme siesta,35,350
+Hiperosmia a las 18 horas,35,350
+Bajo tratamiento con anticonceptivos orales (ACO) por endometriosis y Supradyn,35,350
+Antecedentes familiares: hipotiroidismo,35,351
+No presenta diabetes,35,351
+Oxandrolona 20 mg durante 4 meses,35,351
+Metenolona 100 mg durante 2 meses,35,351
+Ciclos menstruales irregulares,35,351
+Entrenamiento diario de 1 hora de musculación,35,351
+Aumento de transaminasas,35,351
+sin datos,35,352
+sin datos,35,353
+"Antecedentes familiares: enfermedad cardiovascular positiva, infarto agudo de miocardio",35,354
+Sin antecedentes personales,35,354
+"Suplementos: Proteína de suero (Whey) 1005 ENA, Creatina ENA",35,354
+Sin plan de nutrición establecido,35,354
+Posición en el fútbol: arquero para el club San Miguel,35,354
+Entrenamiento actual en el club y gimnasio por cuenta propia,35,354
+Sin mediciones recientes de composición corporal,35,354
+Sin controles de laboratorio recientes,35,354
+Sueño interrumpido con despertares,35,354
+Comienza la temporada en febrero,35,354
+Vacaciones del 15 de diciembre a enero,35,354
+Antecedentes de ansiedad y ataques de pánico,35,355
+Mareos recurrentes,35,355
+mala calidad de sueño,35,355
+Estado de alerta constante,35,355
+Realiza actividad física dos veces por semana,35,355
+No sigue un plan nutricional,35,355
+Disminución de la capacidad cognitiva,35,355
+Resultados de laboratorio: normales,35,355
+No utiliza programa de bloqueo de luz azul,35,355
+Buena inactivación parasimpática,35,355
+Hemograma: normal,35,356
+entrenamiento en gimnasio y aumento de masa muscular cinco veces por semana,35,357
+"consume creatina, omega y proteína de suero de leche (Whey)",35,357
+planea comenzar con beta-alanina,35,357
+no sigue un plan nutricional,35,357
+buen nivel de sueño,35,357
+desea establecer un plan,35,357
+Paciente indica que aumentó la dosis de levotiroxina a 100 mcg por su cuenta,35,358
+mejora en la calidad del sueño y despertares,35,358
+"Polimenorrea tratada con parche anticonceptivo, actualmente tomando anticonceptivos orales",35,358
+sin datos,35,359
+realizando ejercicios 3 veces por semana,36,360
+"Al regresar de un viaje, comenzó a consumir frutas y batatas",36,360
+Dieta basada únicamente en proteínas,36,360
+Viajó el 3 de junio,36,360
+Durante los días de entrenamiento consume arroz,36,360
+"Desde el 23, consume calabaza en la noche y papas al mediodía",36,360
+Hipotiroidismo,36,361
+Antecedente de trombosis venosa profunda,36,361
+Sin actividad física,36,361
+dificultad para iniciar el sueño,36,361
+ansiedad por consumo,36,361
+Ciclos menstruales regulares,36,361
+oligomenorrea,36,362
+No toma medicamentos antialérgicos,36,362
+No toma anticonceptivos orales,36,362
+No toma suplementos de vitamina C ni omega 3,36,362
+Ha incrementado el volumen de su entrenamiento físico,36,362
+mala calidad de sueño y dificultad para conciliarlo,36,362
+No ha experimentado mejoras en su fuerza,36,362
+Sigue un plan nutricional para disminuir la masa muscular,36,362
+Durante mes y medio ha practicado ayuno intermitente 16/8 durante tres días a la semana,36,362
+Los domingos consume proteínas y vegetales,36,362
+Refiere distensión abdominal,36,362
+Hepatitis N: negativa,36,363
+No sigue planes nutricionales actuales,36,364
+antecedentes de entrenamiento inconstante,36,364
+Objetivo: aumento de masa muscular,36,364
+Presenta despertares nocturnos,36,364
+Lesión en la cadera,36,365
+Posible artrosis,36,365
+aplicación de un corticoide con bloqueo,36,365
+suspensión de la levotiroxina (LT4),36,365
+Continúa con melatonina de liberación prolongada (Circadin),36,365
+Reporta astenia,36,365
+1 mes de dieta cetogénica con buen resultado,36,366
+leve mejora en el sueño,36,366
+No recibe Aldactone ni Renitec,36,366
+amenorrea leve,36,367
+Acné facial,36,367
+"Interrupción de levotiroxina hace 3 meses, en reducción progresiva",36,368
+Paciente reporta buen nivel de masa muscular,36,368
+Se despierta a las 5:30 am,36,368
+Se traslada a Nueva York,36,369
+Hemograma normal,36,369
+Ionograma normal,36,369
+uso repetitivo de esteroides,37,370
+"efectos secundarios de trenbolona a dosis altas: ginecomastia, acné, disminución de la libido",37,370
+Estrés habitual,37,370
+Sin actividad física durante 2 años,37,371
+levantamiento olímpico y crossfit,37,371
+despertares nocturnos,37,372
+sueño ligero,37,372
+No recuerda sus sueños,37,372
+Diagnóstico reciente de hipertensión arterial sin tratamiento actual,37,372
+Sin síntomas,37,372
+Estrés habitual,37,372
+Temblor en los ojos,37,372
+Escotomas,37,372
+Realiza actividad física con instructor,37,372
+anteriormente practicaba running,37,372
+Lesiones musculares,37,372
+Calambres,37,372
+Sin plan de nutrición establecido,37,372
+Refiere buena ingesta alimentaria,37,372
+No consume suplementos nutricionales,37,372
+No ha recibido terapia neurocognitiva,37,373
+No ha realizado entrenamiento físico durante 15 días,37,373
+buen patrón de sueño,37,373
+atrofia muscular,37,373
+Resultados de laboratorio generales: sin particularidades,37,373
+Deficiencia de vitamina D,37,373
+Uso de Finasterida,37,374
+Ecografía Doppler de tiroides: no homogénea,37,375
+Hemoglobina Normal,37,376
+Hormona foliculoestimulante (FSH): normal,37,376
+pérdida de masa muscular,37,377
+Ayuno con descenso de peso,37,377
+Realiza carrera y entrenamiento de fuerza,37,377
+Centellograma: normal,37,377
+sin datos,37,378
+Hemograma con leucopenia habitual,37,379
+"Nódulo isodenso de 9x5,5 mm en tiroides",37,379
+consulta a Neumología indica que es inespecífico,38,380
+Tos crónica,38,380
+paciente que realiza levantamiento de pesas,38,381
+antecedentes familiares de hipotiroidismo,38,381
+diabetes: no presenta,38,381
+asma: presente,38,381
+última vacuna contra COVID-19 en diciembre,38,381
+no toma medicamentos,38,381
+sin suplementación actual,38,381
+buen nivel de sueño,38,381
+sin plan nutricional,38,381
+sin controles de laboratorio recientes,38,381
+sin evaluación hormonal,38,381
+"entrenamiento 6 veces a la semana, 2 horas por sesión",38,381
+competencia en agosto,38,381
+sin efectos secundarios,38,381
+Cuadro clínico con leve desbalance de miembros superiores,38,382
+No realizó terapia post-ciclo,38,383
+Inició otro ciclo de 12 semanas con los mismos medicamentos,38,383
+"Realizó terapia post-ciclo con Gonadotropina 500 UI/día, Exemestano 25 mg/día, Tadalafil, Vitamina E, Hormona de Crecimiento 3,133 UI/día y Clenbuterol",38,383
+Terapia finalizada a mediados de abril,38,383
+Resultados de laboratorio: normales,38,384
+Bajo nivel de actividad física,38,384
+Recientemente cambiado de residencia,38,384
+Menor carga laboral,38,384
+No recibe tratamiento con testosterona,38,384
+Actividad física habitual,38,385
+Resultados de laboratorio generales: normales,38,385
+Antecedentes de trastorno de ansiedad,38,386
+Tratamiento previo con antidepresivos,38,386
+Actualmente tomando Escitalopram,38,386
+Antecedentes de uso crónico de Zolpidem sin resultados,38,386
+Refiere depresión y problemas de sueño,38,386
+Toma Omega 3 y probióticos,38,386
+Realiza entrenamiento con peso corporal cuatro veces por semana,38,386
+Refiere disminución en rendimiento,38,386
+Hemograma normal,38,387
+Mejoría de la astenia,38,388
+Mejoría en la calidad del sueño,38,388
+buen patrón de sueño,38,389
+Sin palpitaciones,38,389
+Mialgias crónicas,38,389
+Niveles altos de estrés psicológico,38,389
+durmiendo 7 horas con ayuda de Tranquinal,39,390
+Hemograma normal,39,390
+Pruebas hepáticas normales,39,390
+Monitorización ambulatoria de la presión arterial (MAPA): patrón dipper conservado,39,390
+sin datos,39,391
+sin datos,39,392
+Cuarta semana desde el inicio,39,393
+Entrenamiento con un individuo llamado Federico,39,394
+"Con anticonceptivos orales, ciclos menstruales regulares",39,394
+Última menstruación,39,394
+Levothyroxine 125 mcg,39,394
+Buen nivel de sueño,39,394
+No toma suplementos,39,394
+Sin objetivo claro de entrenamiento,39,394
+Proteínas totales bajas,39,394
+¿Vacunación?,39,394
+¿Diagnóstico de artritis reumatoide?,39,394
+sin datos,39,395
+No presenta estrés,39,396
+Realiza actividad física de carrera en Fiambala con buena respuesta,39,396
+"Evaluación de estrés: adecuada, con leves picos de estrés durante la noche",39,396
+Presenta astenia frecuente,39,397
+Calidad de sueño deficiente,39,397
+Tiempo limitado,39,397
+Ciclos menstruales regulares pero abundantes,39,397
+Actividad física irregular,39,397
+Alimentación inadecuada,39,397
+Ecografía Doppler de tiroides: no homogénea,39,398
+consulta con Endocrinología,39,399
+No realiza prácticas de meditación,40,400
+estudios cardiológicos son normales,40,401
+Un mes sin entrenamiento,40,401
+Estrés con síntomas aislados de Síndrome de Intestino Irritable,40,401
+no tiene apneas del sueño,40,402
+Antecedente de hipotiroidismo,40,402
+dificultad para conciliar el sueño,40,402
+despertares nocturnos,40,402
+Niveles de estrés muy altos,40,402
+desregulación de cortisol,40,402
+toma diazepam para dormir,40,402
+intento de suicidio,40,402
+hospitalización,40,402
+"toma diazepam 0,50 mg + 0,25 mg",40,402
+cambio a venlafaxina,40,402
+cefaleas crónicas,40,402
+consulta con neurología por episodios de pérdida de conciencia,40,402
+síntomas autonómicos,40,402
+No realiza actividad física,40,402
+No toma suplementos,40,402
+Uso de testosterona con recuperación adecuada,40,403
+Sueño inadecuado,40,403
+Variabilidad de la frecuencia cardíaca (HRV),40,403
+Función gonadal normal,40,404
+Buen nivel de sueño,40,405
+Estrés,40,405
+sin actividad física ni plan dietético,40,405
+Colesterol: normal,40,405
+Antecedentes familiares: enfermedad cardiovascular - diabetes mellitus,40,406
+no presenta tumores,40,406
+Alergia a Ma Luctz,40,406
+Tratamiento con pantoprazol por enfermedad por reflujo gastroesofágico,40,406
+posible relación con semaglutida,40,406
+Realiza actividad física corriendo tres veces por semana durante una hora,40,406
+no toma suplementos,40,406
+Sueño irregular y estrés intenso,40,406
+Sigue un plan nutricional y aplica semaglutida,40,406
+disminución de la potencia miccional,40,406
+sin palpitaciones,40,406
+Medicación actual: Rosuvastatina (día por medio) y Metformina,40,407
+Tratamiento oncológico con Quitsan y Atenix,40,407
+Un año de toma de medicación,40,407
+Sin plan nutricional ni actividad física,40,407
+Amenorrea de 5 meses,40,407
+Sin síntomas,40,407
+Menarca a los 13 años,40,407
+Paciente refiere astenia y desgano,40,407
+"Resultados de laboratorio generales: óptimos, dentro de la curva normal",40,408
+Continúa con actividad física de fuerza,40,408
+Antecedentes familiares de enfermedad celíaca,40,409
+actividad física regular,40,409
+buen plan nutricional sin orientación profesional,40,409
+no consume productos con harina,40,409
+antecedentes de ginecomastia,40,409
+buen patrón de sueño,40,409
+Resto sin particularidades,41,410
+Historia de fractura de costilla debido a equitación,41,411
+Historia de cirugía de reducción mamaria y liposucción,41,411
+Realiza electrofitness,41,411
+Ha intentado múltiples planes nutricionales,41,411
+No puede seguir una dieta cetogénica,41,411
+No consume alcohol,41,411
+No toma suplementos,41,411
+Presenta mala calidad de sueño,41,411
+Experiencia de despertares nocturnos,41,411
+aumento de peso,41,412
+Antecedentes familiares de tiroidopatía,41,412
+Divina durante 2 años con síntomas asociados,41,412
+caída de cabello,41,412
+astenia,41,412
+Estrés,41,412
+mejora en el nivel de sueño,41,412
+Diarrea,41,413
+Dolor muscular,41,413
+sin datos,41,414
+Resto de resultados de laboratorio: normales,41,415
+Hipertensión arterial resistente con activación simpática,41,415
+¿Causada por apnea del sueño?,41,415
+Ciclos menstruales regulares,41,416
+Sueño profundo,41,416
+Sin suplementación,41,416
+Antecedentes familiares: abuelo con tiroidopatía,41,417
+"Trauma adaptativo, desencadenado por divorcio y emigración",41,417
+Síndrome del túnel carpiano,41,417
+Tiroidopatía con 30 años de evolución,41,417
+Reporta despertares nocturnos,41,417
+"Paciente ciclista, realiza entrenamiento de resistencia con objetivos recreativos",41,417
+Entrenamiento los sábados por la mañana,41,417
+Durante la semana entrena a las 17-18 horas,41,417
+"Los martes y miércoles realiza CrossFit por la mañana, en ayunas",41,417
+Programado para cirugía de colgajo en septiembre,41,417
+"Suplementos: creatina, Animal Pack, L-carnitina, beta-alanina, cafeína",41,417
+"periodo de estrés en agosto, manejado con psicoterapia",41,418
+"inicio de entrenamiento físico hace 3 meses, 5 veces por semana",41,418
+dificultad para perder peso,41,418
+Resultados de laboratorio generales: normales,41,418
+Estrés oxidativo con leve disminución de la capacidad antioxidante total (CAO) y alta,41,418
+Sin síntomas,41,419
+Buen patrón de sueño,41,419
+Dieta alta en proteínas con pérdida de peso,41,419
+Consumo de 200g de carne y verduras,41,419
+"Cirugía estética realizada el 9 de diciembre, seguida de 2 meses de rehabilitación",41,419
+Buen nivel de energía,41,419
+Buen patrón de sueño,41,419
+Bajo nivel de Beta-hidroxibutirato (HMB),41,419
+No sigue planes nutricionales actuales,42,420
+antecedentes de entrenamiento inconstante,42,420
+Objetivo: aumento de masa muscular,42,420
+Presenta despertares nocturnos,42,420
+Sin medicamentos suplementarios,42,421
+Presenta alergia nasal,42,421
+No está bajo tratamiento actual,42,421
+Realiza actividad física: Pádel y Pilates,42,421
+Sigue un plan nutricional,42,421
+Ciclos menstruales regulares,42,421
+No está tomando anticonceptivos orales actualmente,42,421
+Tiene 3 años de evolución de los síntomas,42,421
+Refiere episodio de reacción alérgica localizada en el rostro,42,421
+Resultados de laboratorio generales: normales,42,422
+Sin cambios en el resto del estado de salud,42,422
+anemia ferropénica con evaluación gastrointestinal completa negativa,42,423
+Poliposis hiperplásica microvesicular,42,423
+Mala absorción oral de hierro,42,423
+Mejora en los niveles de hierro y ferritina,42,423
+Observación expectante de caída del hematocrito,42,423
+Presenta aumento de temperatura,42,424
+Mejor respuesta al tratamiento,42,424
+Reanudación de actividad física,42,425
+Aumento de peso,42,425
+Calidad de sueño deficiente,42,425
+despertares nocturnos debido a necesidad de micción,42,426
+Sensibilidad en el nervio pudendo,42,426
+Continúa con disminución de la libido,42,427
+oligomenorrea,42,428
+No toma medicamentos antialérgicos,42,428
+No toma anticonceptivos orales,42,428
+No toma suplementos de vitamina C ni omega 3,42,428
+Ha incrementado el volumen de su entrenamiento,42,428
+Presenta mala calidad de sueño y dificultad para conciliarlo,42,428
+No ha experimentado mejoras en su fuerza,42,428
+Sigue un plan nutricional para disminuir la masa muscular,42,428
+"Durante mes y medio ha realizado ayuno intermitente de 16 horas por 8, tres días a la semana",42,428
+Los domingos consume proteínas y vegetales,42,428
+Refiere distensión abdominal,42,428
+No ha recibido terapia neurocognitiva,42,429
+No ha realizado entrenamiento físico durante 15 días,42,429
+buen patrón de sueño,42,429
+atrofia muscular,42,429
+Resultados de laboratorio generales: sin particularidades,42,429
+Deficiencia de vitamina D,42,429
+No desea iniciar tratamiento en este momento,43,430
+No desea realizar recolección de orina de 24 horas,43,430
+sin datos,43,431
+dos años en tratamiento con metimazol,43,432
+anticuerpos negativos,43,432
+No presenta microalbuminuria,43,432
+madre con enfermedad de Graves,43,432
+"Realiza actividad física: running, 21km",43,432
+Ecografía tiroidea: aumento de tamaño con contorno irregular,43,432
+glucosa en orina: positiva (+++),43,432
+Medicación actual: Rosuvastatina (día por medio) y Metformina,43,433
+Tratamiento oncológico con Quitsan y Atenix,43,433
+Un año de toma de medicación,43,433
+Sin plan nutricional ni actividad física,43,433
+Amenorrea de 5 meses,43,433
+Sin síntomas,43,433
+Menarca a los 13 años,43,433
+Paciente refiere astenia y desgano,43,433
+Cuadro clínico con leve desbalance de miembros superiores,43,434
+Bloqueado,43,435
+Variabilidad de la frecuencia cardíaca (HRV): leve mejora en la desviación estándar de todos los intervalos NN (SDNN) sin activación parasimpática nocturna,43,436
+No realiza CrossFit,43,437
+Lesión en los peroneos,43,437
+Solo realiza levantamiento de pesas,43,437
+Clasificación nacional con buen nivel de fuerza,43,437
+Resto sin particularidades,43,438
+Buen patrón de sueño,43,439
+Proceso inflamatorio de bajo grado,43,439
+Se inicia reactivación del tratamiento,44,440
+reducción del 10% sin compromiso hemodinámico,44,441
+Hemorroides internas,44,441
+Ecodoppler: normal,44,441
+COVID-19: pendiente de nuevos resultados de laboratorio en febrero,44,441
+Dímero D: negativo,44,441
+Hemoglobina normal,44,442
+Pendiente de control,44,443
+Ciclos menstruales actuales irregulares,44,444
+"Actualmente tomando suplementos, específicamente Whey Strength",44,444
+Entrena cuatro veces por semana,44,444
+Calidad de sueño pobre con despertares frecuentes,44,444
+Paciente bajo tratamiento con Decanoato de nandrolona y Testosterona,44,445
+Inició tratamiento el 27 de junio y finalizó la semana pasada,44,445
+Realiza actividad física dos veces por semana,44,446
+una sesión de carrera,44,446
+25 minutos de natación,44,446
+mejora en la calidad de su rendimiento,44,446
+aumento de masa grasa y masa muscular,44,446
+puede correr 7-8 km en 7 minutos,44,446
+sin datos,44,447
+Buen patrón de sueño,44,448
+Ciclos menstruales regulares con ISIS FREE,44,448
+Realiza entrenamiento con pesas,44,449
+Practica flamenco dos veces por semana,44,449
+Planea realizar el Camino de Santiago de Compostela,44,449
+Refiere molestias en la rodilla,44,449
+Mejoría leve en la calidad del sueño,44,449
+Resultados de laboratorio generales: óptimos,44,449
+sin datos,45,450
+durmiendo 7 horas con ayuda de Tranquinal,45,451
+Hemograma normal,45,451
+Pruebas hepáticas normales,45,451
+Monitorización ambulatoria de la presión arterial (MAPA): patrón dipper conservado,45,451
+sin datos,45,452
+Resultados de laboratorio generales: normales,45,453
+No toma medicamentos antihipertensivos,45,454
+No toma suplementos,45,454
+No presenta diabetes tipo 2,45,454
+Actualmente no sigue planes nutricionales,45,454
+Lesión tendinosa en el hombro,45,454
+Realiza ejercicios en gimnasio tradicional,45,454
+Juega fútbol dos veces por semana,45,454
+No se han realizado análisis de laboratorio recientes,45,454
+Presenta lumbalgia crónica,45,454
+Comenzó a utilizar plantillas ortopédicas recientemente,45,454
+No se han realizado análisis de composición corporal recientes,45,454
+Presenta dificultades en la conciliación del sueño,45,454
+Buen nivel de ánimo,45,455
+Hemograma: normal,45,455
+Hepatograma: normal,45,455
+Apolipoproteína A: normal,45,455
+Ecografía Doppler de cuello: normal,45,455
+Bajo en vitamina C,45,455
+Resultados de laboratorio y ecografía abdominal: normales,45,456
+Realiza entrenamiento en gimnasio tres veces por semana sin plan nutricional,45,457
+No consume alcohol,45,457
+No toma suplementos actualmente,45,457
+Duerme 6 horas diarias,45,457
+Buen estado de salud,45,457
+Sin controles médicos previos,45,457
+Realiza carrera (running) 4 veces por semana,45,458
+No consume suplementos de proteínas,45,458
+"Dieta vegetariana, específicamente ovolactovegetariana",45,458
+Paciente con enfermedad celíaca,45,458
+Realizó liposucción en los meses de enero y febrero,45,458
+Horario de entrenamiento de 16:00 a 18:00 horas,45,458
+Sueño insuficiente con despertares frecuentes,45,458
+Ciclos menstruales irregulares durante los últimos 2 años,45,458
+Recientemente se realizó una inducción del ciclo menstrual,45,458
+No está tomando Duloxetina,45,459
+"Presenta astenia, mareos y falta de motivación",45,459
+Cortisol: curva normal,45,459
+Prueba de tolerancia a la glucosa: resistencia leve a la insulina,45,459
+sin datos,46,460
+Buen nivel de sueño,46,461
+Estrés,46,461
+sin actividad física ni plan dietético,46,461
+Colesterol: normal,46,461
+Sin suplementación actual,46,462
+Resultados de laboratorio generales: normales,46,462
+Función gonadal: normal,46,462
+Variabilidad de la frecuencia cardíaca (HRV): leve mejora en la desviación estándar de todos los intervalos NN (SDNN) sin activación parasimpática nocturna,46,463
+Gastropatía congestiva,46,464
+Hemorroides internas,46,464
+Hipercalciuria idiopática?,46,464
+Centellograma: negativo,46,464
+Variabilidad de la frecuencia cardíaca sin desconexión simpática nocturna,46,465
+Buen patrón de sueño,46,466
+Proceso inflamatorio de bajo grado,46,466
+Realiza actividad física (Crossfit) dos veces por semana,46,467
+No está tomando suplementos actualmente,46,467
+Buen patrón de sueño,46,467
+Realiza actividad física dos veces por semana,46,468
+"En tratamiento con cabergolina, fluoxetina, lamotrigina 150 mg dos veces al día, y levotiroxina 50 mcg",46,468
+Cortisol con ritmo normal,46,468
+Resto sin particularidades,46,468
+estudios cardiológicos son normales,46,469
+Un mes sin entrenamiento,46,469
+Estrés con síntomas aislados de Síndrome de Intestino Irritable,46,469
+Ergometría: normal,47,470
+Ecocardiograma de estrés: normal,47,470
+sin datos,47,471
+Variabilidad de la frecuencia cardíaca (HRV): normal,47,472
+Indica estrés energético,47,472
+Múltiples ocupaciones laborales,47,473
+Sin actividad física regular,47,473
+Diabetes mellitus tipo 2,47,474
+Ocupación: Capitán de Marina,47,474
+ritmos circadianos alterados,47,474
+Estrés habitual,47,474
+actividad física de manera regular,47,474
+buena ingesta alimentaria,47,474
+Sin suplementación,47,475
+Testosterona baja,47,475
+Cuadro clínico con leve desbalance de miembros superiores,47,476
+sin datos,47,477
+No sigue planes nutricionales actuales,47,478
+antecedentes de entrenamiento inconstante,47,478
+Objetivo: aumento de masa muscular,47,478
+Presenta despertares nocturnos,47,478
+Antecedentes familiares de psoriasis,47,479
+No toma medicamentos para la afección,47,479
+No toma suplementos,47,479
+Bajo consumo de carne roja,47,479
+Realiza actividad física: baloncesto y asiste al gimnasio dos veces por semana,47,479
+No sigue un plan nutricional,47,479
+Buen patrón de sueño,47,479
+Consumo de cannabidiol (CBD),47,479
+"Posterior a infección por COVID-19, refiere sinusitis",47,479
+¿Apnea del sueño?,47,479
+Sin actividad física durante 2 años,48,480
+levantamiento olímpico y crossfit,48,480
+Función tiroidea: normal,48,481
+nódulo isoecoico con vascularización periférica,48,481
+Paciente no desea iniciar medicación,48,482
+bajo tratamiento nutricional con buen resultado,48,483
+buen nivel de actividad física,48,483
+utiliza insulina libre con amenorrea,48,483
+no presenta estrés,48,483
+se levanta para orinar,48,483
+actualmente toma Melatonina y medicamento magistral,48,483
+Dehidroepiandrosterona (DHEA) baja,48,483
+Cannabidiol (CBD) opcional,48,483
+Resultados de laboratorio metabólico: normales,48,484
+mejora en los niveles de testosterona,48,485
+paciente en plan de tratamiento,48,485
+Sin estrés y buen nivel de sueño,48,486
+ingesta de cafeína hasta la noche,48,486
+Altura de crecimiento,48,487
+"Antecedentes familiares: enfermedad tiroidea positiva, diabetes tipo 2 positiva",48,487
+"Antecedentes personales: Altura del padre 1,70 m, altura de la madre 1,50 m",48,487
+mala alimentación,48,487
+Sin suplementación,48,487
+resto sin particularidades,48,488
+Realiza carrera (running) 4 veces por semana,48,489
+No consume suplementos de proteínas,48,489
+"Dieta vegetariana, específicamente ovolactovegetariana",48,489
+Paciente con enfermedad celíaca,48,489
+Realizó liposucción en los meses de enero y febrero,48,489
+Horario de entrenamiento de 16:00 a 18:00 horas,48,489
+Sueño insuficiente con despertares frecuentes,48,489
+Ciclos menstruales irregulares durante los últimos 2 años,48,489
+Recientemente se realizó una inducción del ciclo menstrual,48,489
+Antecedentes de diabetes mellitus tipo 2,49,490
+Hipotiroidismo post-quirúrgico,49,490
+Nódulo tiroideo indeterminado,49,490
+Hemitiroidectomía izquierda realizada el 28 de diciembre de 2021,49,490
+aumento de peso progresivo y brusco,49,490
+Embarazo reciente,49,490
+Hiperglucemia durante el embarazo,49,490
+Sobrepeso,49,490
+Actualmente en periodo de lactancia,49,490
+Consumo ansioso de azúcares,49,490
+Inició actividad física en gimnasio tres veces por semana,49,491
+No toma medicamentos ni suplementos,49,491
+Sueño intermitente y de mala calidad,49,491
+Cortisol: ritmo normal,49,492
+Variabilidad de la frecuencia cardíaca (HRV): invertida (indicativo de aumento de estrés nocturno),49,492
+Mejoría de la astenia,49,493
+Mejoría en la calidad del sueño,49,493
+Mejora en entrenamiento,49,494
+Resultados de laboratorio generales: normales,49,495
+Prueba de esquizofrenia,49,495
+Dislipidemia leve,49,496
+Conversión de testosterona a estradiol (E2),49,496
+sin datos,49,497
+Medicación actual: Diapresan A,49,498
+"Suplementos: cardamomo, zinc, aminoácidos, arginina, L-carnitina, glutamina, colágeno",49,498
+"Actividad física: entrenamiento personalizado 2-3 veces por semana, yoga dos veces por semana, running",49,498
+Lesión reciente: desgarro del músculo sóleo,49,498
+Calidad del sueño: media,49,498
+Buen patrón de sueño,49,499
+Sin sofocos,49,499
+control ginecológico normal el año pasado,49,499
+Nivel de ingesta alimentaria normal,49,499
+Actividad física habitual,49,499
+Hipogonadismo,50,500
+Curva de cortisol: normal,50,500
+Residente en Italia,50,501
+Medida de composición corporal por bioimpedancia,50,501
+"Suplementos: Omega 3, vitamina K2, cafeína y beta-alanina en el desayuno",50,501
+Creatina y HMB con glutamina después del entrenamiento,50,501
+Proteína y frutos secos después del entrenamiento,50,501
+Almuerzo,50,501
+ZMA y glutamina antes de dormir,50,501
+CBD y cúrcuma,50,501
+"Proteína aislada (30%) de Myprotein, ISO-100",50,501
+osteoporosis en cadera,50,502
+osteopenia en región lumbar,50,502
+hipotiroidismo/hipertiroidismo fluctuante,50,502
+Anticuerpos anti-tiroperoxidasa (ATPO) positivos,50,502
+Resultados de laboratorio generales: normales,50,502
+"nódulo en lóbulo derecho de 12,11 mm",50,502
+biopsia por punción negativa,50,502
+leve osteopenia en región lumbar,50,502
+contorno algo irregular,50,502
+nódulo de 12x11 mm,50,502
+a la palpación móvil,50,502
+duro-elástico,50,502
+sin molestias,50,502
+Megestrol o Dutasteride (incertidumbre en la medicación),50,503
+astenia leve,50,503
+falta de motivación,50,503
+Resonancia magnética de hipófisis recibida sin cambios,50,504
+Realiza ejercicios de fuerza tres veces por semana,50,505
+Consumo de alimentos dulces,50,505
+No presenta pérdida de peso,50,505
+sin datos,50,506
+Síndrome climatérico,50,507
+astenia,50,507
+poliartralgias,50,507
+aumento de peso,50,507
+Realiza actividad física: caminata,50,507
+Hipotiroidismo,50,507
+Intolerancia a las harinas,50,507
+Sueño insuficiente,50,507
+Centellograma: sin hallazgos patológicos,50,508
+Presenta bajo peso y amenorrea,50,508
+control nutricional adecuado,50,508
+cólicos cada 24 a 26 días,50,509
+estrés y ansiedad,50,509
+inicio del climaterio,50,509
+aumento en la tasa de filtración glomerular,51,510
+Aumento en la excreción renal de calcio y fósforo,51,510
+Hormona paratiroidea (PTH) y calcio séricos: normales,51,510
+resultados de laboratorio normales,51,511
+Resultados de laboratorio generales: normales,51,512
+"Anticonceptivo oral (ACO) ""Divina"" usado durante 8 años",51,513
+Realiza Pilates dos veces por semana,51,513
+No toma medicamentos para el asma (MA),51,513
+No consume suplementos,51,513
+Sueño adecuado,51,513
+Antecedentes de cáncer de próstata bajo tratamiento con dutasterida mensual,51,514
+astenia con 6 meses de evolución,51,514
+Hipersomnia constante,51,514
+Dislipidemia tratada con atorvastatina 10 mg,51,514
+Sueño intermitente,51,514
+Sin suplementación,51,514
+Resto de resultados de laboratorio: normales,51,515
+Hipertensión arterial resistente con activación simpática,51,515
+¿Causada por apnea del sueño?,51,515
+Presenta hernia discal cervical con déficit funcional en miembro superior derecho y parestesia,51,516
+En tratamiento de rehabilitación con buen resultado,51,516
+Ecografía Doppler de tiroides: no homogénea,51,517
+No ha recibido terapia neurocognitiva,51,518
+No ha realizado entrenamiento físico durante 15 días,51,518
+buen patrón de sueño,51,518
+atrofia muscular,51,518
+Resultados de laboratorio generales: sin particularidades,51,518
+Deficiencia de vitamina D,51,518
+Aparición de nevus sin especificar,51,519
+"Medicación actual: Pharmaton 25, Rivotril 0,5 mg, Melatol 3 mg (bajo tratamiento para trastornos del sueño)",51,519
+Viaje programado del 24 de mayo al junio,51,519
+En tratamiento nutricional,52,520
+Reducción en el consumo de grasas,52,520
+Entrenamiento físico cuatro veces por semana,52,520
+Realiza actividad física cuatro veces por semana,52,521
+Plan nutricional no adecuado,52,521
+Ansiedad,52,521
+Tiene cuatro exámenes finales en la universidad y está trabajando en su tesis,52,521
+Defensa de tesis programada para febrero,52,521
+Antecedentes de hiperprolactinemia,52,522
+Acné facial,52,522
+Dispositivo intrauterino Mirena recientemente insertado,52,522
+¿Polimenorrea?,52,522
+Pérdida de cabello,52,522
+Edemas generalizados,52,522
+"Realiza actividad física habitualmente dos veces por semana, específicamente yoga",52,522
+Refiere mejora clínica,52,523
+Mejor nivel de descanso,52,523
+Buenos parámetros de recuperación,52,523
+Eutiroideo,52,523
+Deficiencia de vitamina K,52,524
+Deficiencia de vitamina D,52,524
+Deficiencia de magnesio,52,524
+sin datos,52,525
+pérdida de cabello,52,526
+aumento de colesterol,52,526
+Antecedentes personales de migraña sin aura,52,526
+Realiza entrenamiento aeróbico localizado,52,526
+Antecedentes de anorexia nerviosa,52,526
+Síndrome de Gilbert,52,526
+Anticonceptivos orales,52,526
+Buen patrón de sueño con despertares,52,526
+No toma suplementos,52,526
+Cuarta dosis de medicación con síntomas,52,526
+Resultados de laboratorio generales: normales,52,526
+Hepatitis no especificada,52,526
+No vacunada,52,527
+Realiza actividad física 3 veces por semana,52,527
+Buen nivel de sueño,52,527
+Ecografía Doppler: glándula paratiroidea 14x8x9 mm,52,527
+sin datos,52,528
+Estrés habitual,52,529
+Buen patrón de sueño,52,529
+Aumento de peso,52,529
+ansiedad,52,529
+Alimentación inadecuada,52,529
+Buen nivel de actividad física,52,529
+Refiere poliuria nocturna,52,529
+aumento en la tasa de filtración glomerular,53,530
+Aumento en la excreción renal de calcio y fósforo,53,530
+Hormona paratiroidea (PTH) y calcio séricos: normales,53,530
+Resultados de laboratorio generales: óptimos,53,531
+No sigue planes nutricionales actuales,53,532
+antecedentes de entrenamiento inconstante,53,532
+Objetivo: aumento de masa muscular,53,532
+Presenta despertares nocturnos,53,532
+buen nivel de entrenamiento físico,53,533
+lesiones articulares en la rodilla,53,533
+Antecedentes de artes marciales mixtas (MMA),53,533
+Mala alimentación,53,533
+ansiedad por comer,53,533
+Astenia,53,533
+Poliposis de vitamina B12 con aumento de peso,53,533
+Uso de colágeno,53,533
+Mala calidad de sueño,53,533
+"Realiza actividad física 4 veces por semana, específicamente boxeo, durante 40 minutos",53,533
+antecedentes de tratamientos hormonales,53,533
+mejoría en el sueño y la digestión,53,534
+duerme bien,53,534
+estudio cardiológico realizado,53,534
+Ecocardiograma: normal,53,535
+Electrocardiograma: normal,53,535
+Cambio de entrenamiento con Leandro,53,536
+sin datos,53,537
+Estrés habitual,53,538
+Buen patrón de sueño,53,538
+Aumento de peso,53,538
+ansiedad,53,538
+Alimentación inadecuada,53,538
+Buen nivel de actividad física,53,538
+Refiere poliuria nocturna,53,538
+buena respuesta al Clomifeno,53,539
+Realiza entrenamiento de musculación en gimnasio,54,540
+Juega al tenis tres veces por semana,54,540
+"Experimenta sofocos, aunque con disminución",54,540
+Buen patrón de sueño,54,540
+"Presenta trastorno alimentario, practica ayuno",54,540
+No consume suplementos,54,540
+"No toma Omega 3, Beta-Hidroxi Beta-Metilbutirato (HMB) ni Magnesio",54,540
+Sí consume Vitamina C,54,540
+Resultados de laboratorio generales: normales,54,541
+Hormona estimulante de la tiroides (TSH) inhibida,54,542
+tiroxina (T4) normal,54,542
+¿Enfermedad de Plummer?,54,542
+No se realiza gammagrafía tiroidea en España,54,542
+Inicio de tratamiento natural para el vitíligo,54,543
+Anticonceptivo oral combinado: Damzel,54,543
+Refiere estrés habitual debido a cambio de trabajo,54,543
+Práctica de rugby,54,544
+No consume medicamentos,54,544
+"Suplementos: No-Xplode, C4",54,544
+Sin otra medicación,54,544
+Buena recuperación,54,545
+Mejoría en composición corporal,54,545
+niveles de testosterona normalizados,54,545
+dolor en los hombros,54,546
+disminución de calambres y parestesias en las manos,54,546
+patrón nuclear granulado grueso,54,546
+Buena activación del sistema parasimpático,54,547
+¿Sobrecrecimiento bacteriano del intestino delgado (SIBO)?,54,547
+¿Permeabilidad intestinal?,54,547
+sin datos,54,548
+función gonadal normal,54,549
+función tiroidea normal,54,549
+Presencia de inmunocitos,54,549
+Mejoría en cuadro de insomnio,55,550
+dificultades al levantarse,55,550
+Cansancio habitual,55,550
+Buen nivel de pérdida de grasa,55,551
+Buen nivel de composición corporal,55,551
+Próximo torneo en Neuquén en noviembre y diciembre,55,551
+Se inicia reactivación del tratamiento,55,552
+Sin síntomas,55,553
+Buen patrón de sueño,55,553
+Dieta alta en proteínas con pérdida de peso,55,553
+Consumo de 200g de carne y verduras,55,553
+"Cirugía estética realizada el 9 de diciembre, seguida de 2 meses de rehabilitación",55,553
+Buen nivel de energía,55,553
+Buen patrón de sueño,55,553
+Bajo nivel de Beta-hidroxibutirato (HMB),55,553
+Variabilidad de la frecuencia cardíaca sin desconexión simpática nocturna,55,554
+Buen nivel de energía,55,555
+Buen nivel de entrenamiento,55,555
+No está tomando suplementos actualmente,55,555
+Hepatitis N,55,556
+Anticuerpos antitiroglobulina (ATG): positivo,55,556
+Anticuerpos antitiroperoxidasa (ATP): positivo,55,556
+Actualmente sin uso de melatonina,55,557
+Punción aspirativa con aguja fina (PAAF) con resultado Bethesda II,55,557
+Eosinofilia,55,558
+Hipogammaglobulinemia,55,558
+Leve exceso de calcio en orina,55,558
+Ferritina: normal,55,559
+Inmunoglobulinas: normales,55,559
+Proteograma: normal,55,559
+Mejora con la reducción del estrés,55,559
+Sin medicamentos suplementarios,56,560
+Presenta alergia nasal,56,560
+No está bajo tratamiento actual,56,560
+Realiza actividad física: Pádel y Pilates,56,560
+Sigue un plan nutricional,56,560
+Ciclos menstruales regulares,56,560
+No está tomando anticonceptivos orales actualmente,56,560
+Tiene 3 años de evolución de los síntomas,56,560
+Refiere episodio de reacción alérgica localizada en el rostro,56,560
+actividades deportivas: ciclismo de ruta y levantamiento de pesas en gimnasio,56,561
+Ex fumador,56,561
+Antecedentes patológicos: hipotiroidismo,56,561
+"Suplementación: aminoácidos, creatina, multivitamínicos, beta-alanina",56,561
+Buen patrón de sueño,56,561
+Rodilla derecha,56,562
+Sin entrenamiento durante 4 meses,56,562
+Pasó 1 mes en Europa,56,562
+Resultados de laboratorio: normales,56,562
+"Toma suplementos de proteína, creatina, HMB y glutamina",56,562
+Continúa con Finasteride,56,562
+Buen nivel de rendimiento físico,56,563
+Aumento de la masa muscular,56,563
+sin datos,56,564
+Realiza actividad física tres veces por semana,56,565
+Buena ingesta alimentaria,56,565
+No reporta cambios en su plan de alimentación,56,565
+ha incrementado la ingesta alimentaria y la actividad física a cuatro veces por semana,56,565
+sin datos,56,566
+"Antecedentes familiares: enfermedad cardiovascular positiva, infarto agudo de miocardio",56,567
+Sin antecedentes personales,56,567
+"Suplementos: Proteína de suero (Whey) 1005 ENA, Creatina ENA",56,567
+Sin plan de nutrición establecido,56,567
+Posición en el fútbol: arquero para el club San Miguel,56,567
+Entrenamiento actual en el club y gimnasio por cuenta propia,56,567
+Sin mediciones recientes de composición corporal,56,567
+Sin controles de laboratorio recientes,56,567
+Sueño interrumpido con despertares,56,567
+Comienza la temporada en febrero,56,567
+Vacaciones del 15 de diciembre a enero,56,567
+reactivación adecuada,56,568
+Sin palpitaciones,56,569
+Tirotropina (TSH) suprimida,56,569
+reactivación adecuada,57,570
+Antecedentes de hiperprolactinemia,57,571
+Acné facial,57,571
+Dispositivo intrauterino Mirena recientemente insertado,57,571
+¿Polimenorrea?,57,571
+Pérdida de cabello,57,571
+Edemas generalizados,57,571
+"Realiza actividad física habitualmente dos veces por semana, específicamente yoga",57,571
+No toma medicamentos,57,572
+Suplementos: Creatina 5 gramos/día,57,572
+antecedentes de uso de estanozolol y testosterona,57,572
+"Entrenamiento 4-5 veces por semana, enfocado en fuerza y CrossFit",57,572
+Objetivo: estética y aumento de masa muscular,57,572
+buen nivel de sueño,57,572
+Sin plan nutricional actual,57,572
+buen nivel de ingesta proteica,57,572
+Tomografía por Emisión de Fotón Único (SPECT): normal,57,573
+Prueba de esfuerzo (ergometría): normal,57,573
+Hipertensión arterial sistólica y diastólica basal,57,573
+Hemograma: normal,57,573
+Última ingesta en enero,57,574
+Sobrepeso,57,575
+Dificultad para la pérdida de peso,57,575
+"Antecedentes familiares: sin diabetes, con dislipidemia, sin tiroidopatías",57,575
+Medicamentos: ninguno,57,575
+Suplementos: ninguno,57,575
+"Actividad física: gimnasio tres veces por semana, complementado con pádel y tenis",57,575
+Sin plan de alimentación establecido,57,575
+Refiere buen patrón de sueño,57,575
+"Toma 0,5 mg de clonazepam para dormir",57,575
+Actualmente presenta buen nivel de energía,57,575
+Objetivo: disminución de la tensión arterial,57,575
+Estado de salud general,57,575
+sin datos,57,576
+Antecedentes familiares: hipotiroidismo,57,577
+No presenta diabetes,57,577
+Oxandrolona 20 mg durante 4 meses,57,577
+Metenolona 100 mg durante 2 meses,57,577
+Ciclos menstruales irregulares,57,577
+Entrenamiento diario de 1 hora de musculación,57,577
+Aumento de transaminasas,57,577
+nódulo semisólido en lóbulo superior derecho del pulmón,57,578
+otros nódulos menores en el mismo lugar,57,578
+Inespecífico,57,578
+Ecografía prostática: normal,57,578
+Presenta un alto nivel de estrés,57,579
+Calidad de sueño deficiente,57,579
+Alimentación inadecuada,57,579
+"No está tomando suplementos de Zinc, Magnesio y Vitamina B6 (ZMA) ni Magnesio",57,579
+"toma Clonazepam 1,5 mg y Fluoxetina 1,5 mg",58,580
+Realiza actividad física en bicicleta,58,580
+Antecedente de bulimia,58,580
+No sigue un plan nutricional,58,580
+No toma suplementos,58,580
+Padece de insomnio crónico,58,580
+No se han realizado controles de laboratorio,58,580
+Hipersomnia,58,580
+Hemograma normal,58,581
+sin datos,58,582
+Hepatitis: negativa,58,583
+Buena respuesta al tratamiento,58,583
+"reacción dermatológica, específicamente acné",58,584
+No presenta antecedentes familiares ni personales,58,584
+No está tomando suplementos,58,584
+Realiza actividad física en gimnasio tres veces por semana,58,584
+Buen patrón de sueño con ciclos regulares,58,584
+Utiliza dispositivo intrauterino no hormonal,58,584
+Refiere haber tenido un cambio hormonal reciente,58,584
+Paciente no desea iniciar medicación,58,585
+Buen patrón de sueño,58,586
+Proceso inflamatorio de bajo grado,58,586
+Refiere haber seguido un plan hasta abril con Oxandrolona y Drostanolona,58,587
+"También ha tomado Cardarine, proteína y creatina en bajas dosis",58,587
+Actividad física habitual,58,588
+Resultados de laboratorio generales: normales,58,588
+Dos pruebas positivas para Diana,58,589
+No pertenece a ningún club deportivo actualmente,59,590
+Tiene intención de trasladarse al extranjero,59,590
+Actualmente en mes de hipertrofia,59,590
+"Entrenamiento los días martes y jueves, sábado y domingo",59,591
+Antecedentes familiares de dislipidemia,59,591
+Insulinemia: normal,59,591
+Somatotropina: fina,59,591
+Anticuerpos anti-transglutaminasa tisular (celiaquía): negativos,59,591
+Zinc: normal,59,591
+Hemograma normal,59,592
+Pruebas hepáticas normales,59,593
+inició probióticos sin mejoría,59,593
+uso continuo de esteroides,59,594
+alteración en la libido,59,594
+Diagnóstico de disbalance hormonal,59,594
+Buen nivel de condición física,59,595
+Resultados de laboratorio generales: normales,59,595
+Ionograma: normal,59,596
+Pruebas hepáticas: normales,59,596
+Ecografía tiroidea: glándula tiroides de tamaño 45x10x20 mm,59,596
+Lactato deshidrogenasa (LDH): normal,59,596
+dolor en los hombros,59,597
+disminución de calambres y parestesias en las manos,59,597
+patrón nuclear granulado grueso,59,597
+Actualmente bajo tratamiento con Liraglutida y Losartán,59,598
+No está tomando insulina,59,598
+Buena respuesta al tratamiento,59,599
+Reside en Los Ángeles,60,600
+Viaja menos,60,600
+Entrenamiento con Federico,60,600
+Informa buena ingesta de proteínas (huevo/pescado),60,600
+Sin uso de probióticos,60,600
+Bajo consumo de grasas y carbohidratos,60,600
+Calidad de sueño deficiente,60,600
+"Ciclos menstruales de 35 días, no abundantes",60,600
+Paciente practicante de CrossFit en competición,60,601
+ciclo de Oxandrolona realizado hace 6 meses,60,601
+sin síntomas relevantes,60,601
+Resultados de laboratorio generales: normales,60,602
+Niveles hormonales: óptimos,60,602
+Inicio de planificación familiar con método anticonceptivo Bietti: buen resultado,60,602
+Buen rendimiento físico,60,603
+Estrés,60,603
+Posible cambio de equipo y viaje a Ecuador,60,603
+Ferritina: baja,60,603
+Necesita aumentar 5 kilogramos,60,604
+Hemoglobina Normal,60,605
+Hormona foliculoestimulante (FSH): normal,60,605
+Uso de testosterona con recuperación adecuada,60,606
+Sueño inadecuado,60,606
+Variabilidad de la frecuencia cardíaca (HRV),60,606
+Evaluación urológica: normal,60,607
+Refiere pólipo precanceroso en hermano,60,607
+recuperación completa,60,608
+Buen rendimiento físico,60,608
+En programa de entrenamiento,60,608
+Buen patrón de sueño,60,608
+Leve déficit de inducción,60,608
+Presenta estrés psicológico,60,608
+Resultados de laboratorio: normales,60,608
+Alopecia,60,609
+controles generales normales,60,609
+Actividad física: running,60,609
+plan nutricional propio,60,609
+Antecedentes de dieta restrictiva,60,609
+Dieta vegana durante 5 a 6 meses en 2019,60,609
+Bajo dieta FODMAP,60,609
+Sueño intermitente,60,609
+Estrés habitual,60,609
+Un año en evaluación,60,609
+actividades deportivas: ciclismo de ruta y levantamiento de pesas en gimnasio,61,610
+Ex fumador,61,610
+Antecedentes patológicos: hipotiroidismo,61,610
+"Suplementación: aminoácidos, creatina, multivitamínicos, beta-alanina",61,610
+Buen patrón de sueño,61,610
+Resultados de laboratorio: normales,61,611
+Bajo nivel de actividad física,61,611
+Recientemente cambiado de residencia,61,611
+Menor carga laboral,61,611
+No recibe tratamiento con testosterona,61,611
+Hepatitis N,61,612
+Resultados de laboratorio generales: normales,61,613
+Hormona estimulante de la tiroides (TSH): normal,61,613
+Cortisol: normal,61,613
+ciclos menstruales irregulares,61,613
+tratamiento con Sulbutiamina,61,613
+sin datos,61,614
+sin datos,61,615
+Resultados de laboratorio: normales,61,616
+Presenta un alto nivel de estrés,61,617
+Calidad de sueño deficiente,61,617
+Alimentación inadecuada,61,617
+"No está tomando suplementos de Zinc, Magnesio y Vitamina B6 (ZMA) ni Magnesio",61,617
+Aumento de peso,61,618
+Inicio de empleo,61,618
+¿Episodios de manía?,61,618
+Retiró implante hormonal (hace 1 año),61,618
+continúa con ciclos menstruales regulares,61,618
+Resto sin particularidades,61,618
+Sin seguimiento psiquiátrico,61,618
+durmiendo 7 horas con ayuda de Tranquinal,61,619
+Hemograma normal,61,619
+Pruebas hepáticas normales,61,619
+Monitorización ambulatoria de la presión arterial (MAPA): patrón dipper conservado,61,619
+aumento en la tasa de filtración glomerular,62,620
+Aumento en la excreción renal de calcio y fósforo,62,620
+Hormona paratiroidea (PTH) y calcio séricos: normales,62,620
+sin datos,62,621
+Buen rendimiento físico,62,622
+Estrés,62,622
+Posible cambio de equipo y viaje a Ecuador,62,622
+Ferritina: baja,62,622
+Reside en Los Ángeles,62,623
+Viaja menos,62,623
+Entrenamiento con Federico,62,623
+Informa buena ingesta de proteínas (huevo/pescado),62,623
+Sin uso de probióticos,62,623
+Bajo consumo de grasas y carbohidratos,62,623
+Calidad de sueño deficiente,62,623
+"Ciclos menstruales de 35 días, no abundantes",62,623
+Paciente con buen nivel de entrenamiento físico,62,624
+Trombosis venosa profunda en vena safena mayor,62,624
+Actualmente en reposo debido a cirugía por carcinoma basocelular en brazo y pierna,62,624
+Sin estrés y buen nivel de sueño,62,625
+ingesta de cafeína hasta la noche,62,625
+Realiza entrenamiento con pesas,62,626
+Practica flamenco dos veces por semana,62,626
+Planea realizar el Camino de Santiago de Compostela,62,626
+Refiere molestias en la rodilla,62,626
+Mejoría leve en la calidad del sueño,62,626
+Resultados de laboratorio generales: óptimos,62,626
+Hemograma con leucopenia habitual,62,627
+"Nódulo isodenso de 9x5,5 mm en tiroides",62,627
+disminución de la actividad física,62,628
+Reanudación gradual de la actividad,62,628
+diagnóstico de Fobia,62,628
+activación simpática nocturna,62,628
+Tensión arterial diastólica: baja,62,628
+Hormona luteinizante (LH): baja,62,628
+Densitometría ósea,62,629
+Necesita aumentar 5 kilogramos,63,630
+Ferritina: baja,63,631
+Carrera con pico de frecuencia cardíaca,63,632
+Quejas de mialgias,63,632
+cólicos cada 24 a 26 días,63,633
+estrés y ansiedad,63,633
+inicio del climaterio,63,633
+Hemograma: normal,63,634
+Resultados de laboratorio generales: normales,63,635
+leve aumento de las transaminasas,63,635
+Paciente en periodo de vacaciones,63,636
+Descenso constante de la tensión arterial,63,636
+Realiza entrenamiento físico dos veces por semana,63,636
+Sin hipotensión,63,636
+Ausencia de ciclo menstrual,63,636
+Hormona estimulante de la tiroides (TSH) inhibida,63,637
+tiroxina (T4) normal,63,637
+¿Enfermedad de Plummer?,63,637
+No se realiza gammagrafía tiroidea en España,63,637
+Ecocardiograma: normal,63,638
+Electrocardiograma: normal,63,638
+Presenta astenia y falta de motivación,63,639
+Dolor muscular,63,639
+eosinofilia,63,639
+Última ingesta en enero,64,640
+Ciclos menstruales regulares,64,641
+Resultados de laboratorio normales,64,641
+Control médico normal,64,641
+No se realizó Monitorización Ambulatoria de la Presión Arterial (MAPA),64,642
+Resultados de laboratorio: normales,64,642
+nódulo semisólido en lóbulo superior derecho del pulmón,64,643
+otros nódulos menores en el mismo lugar,64,643
+Inespecífico,64,643
+Ecografía prostática: normal,64,643
+"Antecedentes familiares: enfermedad cardiovascular positiva, infarto agudo de miocardio",64,644
+Sin antecedentes personales,64,644
+"Suplementos: Proteína de suero (Whey) 1005 ENA, Creatina ENA",64,644
+Sin plan de nutrición establecido,64,644
+Posición en el fútbol: arquero para el club San Miguel,64,644
+Entrenamiento actual en el club y gimnasio por cuenta propia,64,644
+Sin mediciones recientes de composición corporal,64,644
+Sin controles de laboratorio recientes,64,644
+Sueño interrumpido con despertares,64,644
+Comienza la temporada en febrero,64,644
+Vacaciones del 15 de diciembre a enero,64,644
+Mejora en la Bioimpedancia eléctrica,64,645
+Bajo consumo de carbohidratos,64,645
+Variabilidad de la frecuencia cardíaca con predominio simpático,64,646
+No desea tomar medicación,64,646
+Antecedentes de cáncer de próstata bajo tratamiento con dutasterida mensual,64,647
+astenia con 6 meses de evolución,64,647
+Hipersomnia constante,64,647
+Dislipidemia tratada con atorvastatina 10 mg,64,647
+Sueño intermitente,64,647
+Sin suplementación,64,647
+Sin síntomas,64,648
+Buen estado de ánimo y energía,64,648
+Preparándose para competir en SouthFit,64,648
+Entrenamiento actual incluye CrossFit y ejercicios de fuerza,64,648
+Objetivo: competir y mejorar fuerza y recuperación,64,648
+Ergometría: normal,64,649
+Ecocardiograma de estrés: normal,64,649
+Estudio de sueño: normal,65,650
+ritmo cardíaco hiperadrenérgico sin sincronismo,65,650
+Actualmente no está tomando suplementos,65,650
+Retomó tratamiento con melatonina hace 10 días,65,650
+Suspendió Dehidroepiandrosterona (DHEA),65,650
+Disminuyó dosis de medicamento para el sueño,65,650
+Estudio de sueño: normal,65,651
+ritmo cardíaco hiperadrenérgico sin sincronismo,65,651
+Actualmente no está tomando suplementos,65,651
+Retomó tratamiento con melatonina hace 10 días,65,651
+Suspendió Dehidroepiandrosterona (DHEA),65,651
+Disminuyó dosis de medicamento para el sueño,65,651
+Continúa con disminución de la libido,65,652
+Medicación actual: Rosuvastatina (día por medio) y Metformina,65,653
+Tratamiento oncológico con Quitsan y Atenix,65,653
+Un año de toma de medicación,65,653
+Sin plan nutricional ni actividad física,65,653
+Amenorrea de 5 meses,65,653
+Sin síntomas,65,653
+Menarca a los 13 años,65,653
+Paciente refiere astenia y desgano,65,653
+Buen nivel de ánimo,65,654
+Hemograma: normal,65,654
+Hepatograma: normal,65,654
+Apolipoproteína A: normal,65,654
+Ecografía Doppler de cuello: normal,65,654
+Bajo en vitamina C,65,654
+Considera no continuar con Rugby,65,655
+Entrenamiento en gimnasio,65,655
+Deportes,65,655
+Buena alimentación,65,655
+Bajo consumo de Creatina HMB,65,655
+Omega 3,65,655
+Tiene un viaje programado en una semana por un periodo de 50 días,65,656
+Reporta palpitaciones,65,656
+Presenta insomnio,65,656
+Ciclos menstruales regulares sin uso de anticonceptivos orales,65,657
+¿Rosácea ocular?,65,657
+Síndrome de ojo seco,65,657
+¿Síndrome de Sjögren?,65,657
+Anticuerpos antinucleares (FAN) positivos,65,657
+Sin diagnóstico confirmado,65,657
+Siguiendo un plan nutricional,65,657
+Aumento de peso,65,657
+Baja actividad física,65,657
+Buen nivel de energía,65,657
+Ecografía de tiroides recibida: tiroiditis crónica sin nódulos,65,657
+hipergonadismo,65,658
+Buena respuesta al tratamiento con ezetimibe,65,659
+Buen patrón de sueño,65,659
+persistencia leve de astenia,65,659
+Mejora en el patrón de sueño,66,660
+Mejora en la astenia y el edema,66,660
+No realiza actividad física,66,660
+Regulación del ciclo menstrual,66,660
+Mejora en la mastitis,66,660
+Hemoglobina normal,66,661
+Resto sin particularidades,66,661
+Gastropatía congestiva,66,662
+Hemorroides internas,66,662
+Hipercalciuria idiopática?,66,662
+Centellograma: negativo,66,662
+Sin cambios en la fuerza,66,663
+Resultados de laboratorio: sin reactivación,66,663
+Resultados de laboratorio: normales,66,664
+Cesó el consumo de tabaco,66,665
+Aumento de peso con actividad física habitual,66,665
+Realiza carrera los lunes y jueves,66,665
+Natación una vez por semana,66,665
+"Refiere seguir un plan nutricional, excepto los fines de semana",66,665
+Continúa con levotiroxina 75 mcg (excepto los fines de semana),66,665
+Buen estado de ánimo,66,666
+Persiste eosinofilia moderada,66,666
+Resultados de laboratorio generales: normales,66,666
+sin datos,66,667
+Indica seguir un plan nutricional adecuado,66,668
+No presenta enfermedades actuales,66,668
+Buen patrón de sueño,66,668
+No consume suplementos proteicos,66,668
+No ha tenido controles recientes,66,668
+Diabetes mellitus tipo 2,66,669
+Ocupación: Capitán de Marina,66,669
+ritmos circadianos alterados,66,669
+Estrés habitual,66,669
+actividad física de manera regular,66,669
+buena ingesta alimentaria,66,669
+sin datos,67,670
+mejora clínica de la Artritis Reumatoide,67,671
+Atendido por reumatólogo y hematólogo,67,671
+bajo cuidado del jefe del Hospital Austral,67,671
+Factor reumatoide: negativo,67,671
+Anticuerpos anti-tiroperoxidasa (ATPO): elevados,67,671
+Continúa entrenamiento con Federico,67,672
+leve mejora en la calidad del sueño,67,672
+Ferritina: normal,67,673
+Inmunoglobulinas: normales,67,673
+Proteograma: normal,67,673
+Mejora con la reducción del estrés,67,673
+Buen nivel de rendimiento físico,67,674
+Aumento de la masa muscular,67,674
+Mejoría en cuadro de insomnio,67,675
+dificultades al levantarse,67,675
+Cansancio habitual,67,675
+sin datos,67,676
+Ecografía de abdomen: homogénea con leve esteatosis,67,677
+Antecedentes familiares de enfermedad celíaca,67,678
+actividad física regular,67,678
+buen plan nutricional sin orientación profesional,67,678
+no consume productos con harina,67,678
+antecedentes de ginecomastia,67,678
+buen patrón de sueño,67,678
+Ergometría: normal,67,679
+Resultados de laboratorio generales: normales,67,679
+Hepatitis no detectada,67,679
+sin datos,68,680
+Buen estado de ánimo,68,681
+Persiste eosinofilia moderada,68,681
+Resultados de laboratorio generales: normales,68,681
+sin datos,68,682
+Resultados de laboratorio generales: normales,68,683
+leve aumento de las transaminasas,68,683
+variabilidad de la frecuencia cardíaca,68,684
+Dificultad para iniciar el sueño,68,685
+sueño profundo,68,685
+buen nivel respiratorio durante el sueño,68,685
+No realiza actividad física,68,685
+Pérdidas menstruales,68,685
+infección del tracto urinario,68,685
+Control neurológico: normal,68,685
+Medicación actual: Rosuvastatina (día por medio) y Metformina,68,686
+Tratamiento oncológico con Quitsan y Atenix,68,686
+Un año de toma de medicación,68,686
+Sin plan nutricional ni actividad física,68,686
+Amenorrea de 5 meses,68,686
+Sin síntomas,68,686
+Menarca a los 13 años,68,686
+Paciente refiere astenia y desgano,68,686
+estabilidad emocional,68,687
+buen resultado con osteópata,68,687
+Hepatitis: negativo,68,687
+sin datos,68,688
+Hemoglobina Normal,68,689
+Hormona foliculoestimulante (FSH): normal,68,689
+Ciclos menstruales actuales irregulares,69,690
+"Actualmente tomando suplementos, específicamente Whey Strength",69,690
+Entrena cuatro veces por semana,69,690
+Calidad de sueño pobre con despertares frecuentes,69,690
+Resultados de laboratorio: normales,69,691
+"Espermograma: 0% de espermatozoides normales, buen número y motilidad",69,692
+Buena respuesta al tratamiento,69,693
+mejoras clínicas,69,694
+buen resultado de ayuno intermitente,69,694
+sin constancia en ayuno intermitente,69,694
+sin datos,69,695
+Inició actividad física en gimnasio tres veces por semana,69,696
+No toma medicamentos ni suplementos,69,696
+Sueño intermitente y de mala calidad,69,696
+Resultados de laboratorio: normales,69,697
+No realiza post-entrenamiento,69,698
+Toma HMB y proteína de suero de leche (Whey),69,698
+Resultados de laboratorio: normales,69,698
+Hemograma: normal,69,698
+Dislipidemia leve,69,699
+Conversión de testosterona a estradiol (E2),69,699
+Sin palpitaciones,70,700
+Tirotropina (TSH) suprimida,70,700
+Síndrome climatérico,70,701
+astenia,70,701
+poliartralgias,70,701
+aumento de peso,70,701
+Realiza actividad física: caminata,70,701
+Hipotiroidismo,70,701
+Intolerancia a las harinas,70,701
+Sueño insuficiente,70,701
+Viaje programado de 4 días en mayo,70,702
+Realiza entrenamiento con pesas,70,703
+Practica flamenco dos veces por semana,70,703
+Planea realizar el Camino de Santiago de Compostela,70,703
+Refiere molestias en la rodilla,70,703
+Mejoría leve en la calidad del sueño,70,703
+Resultados de laboratorio generales: óptimos,70,703
+Rodilla derecha,70,704
+Sin entrenamiento durante 4 meses,70,704
+Pasó 1 mes en Europa,70,704
+Resultados de laboratorio: normales,70,704
+"Toma suplementos de proteína, creatina, HMB y glutamina",70,704
+Continúa con Finasteride,70,704
+Antecedentes de cáncer de próstata bajo tratamiento con dutasterida mensual,70,705
+astenia con 6 meses de evolución,70,705
+Hipersomnia constante,70,705
+Dislipidemia tratada con atorvastatina 10 mg,70,705
+Sueño intermitente,70,705
+Sin suplementación,70,705
+Paciente retomó Clomifeno por su cuenta,70,706
+Resultados de laboratorio normales (bajo tratamiento con Clomifeno),70,706
+consumo habitual de Stanozolol hasta 100 mg,70,707
+antecedentes de cirugía por ginecomastia,70,707
+ciclos de dos meses y medio con tres meses de descanso,70,707
+Ecografía testicular: normal,70,707
+Resultados de laboratorio: normales,70,707
+Niveles de testosterona: medios,70,707
+Espermatogénesis incompleta: 2%,70,707
+leve mejoría,70,708
+sin datos,70,709
+escaso entrenamiento,71,710
+pérdida de masa muscular,71,710
+Antecedentes familiares: Dislipidemia y Tiroidopatía,71,710
+"Tratamiento actual: Levotiroxina 50 mcg, Litio 450 mg/día",71,710
+Realiza actividad física 2 a 3 veces por semana,71,710
+No toma suplementos nutricionales,71,710
+Buen patrón de sueño,71,710
+Antecedentes de obesidad,71,711
+Pérdida de peso exitosa con CrossFit,71,711
+Historia de hipertensión,71,711
+Hipertensión previa con disminución debido a pérdida de peso,71,711
+Sin suplementación,71,711
+Plan nutricional personalizado,71,711
+Buen patrón de sueño,71,711
+5 a 6 estímulos semanales de entrenamiento de intervalos de alta intensidad (HIIT),71,711
+Sin composiciones corporales recientes,71,711
+sin datos,71,712
+Ecografía de abdomen: homogénea con leve esteatosis,71,713
+sin datos,71,714
+sin datos,71,715
+Refiere despertares nocturnos pero se vuelve a dormir rápidamente,71,716
+Ritmo circadiano: 1,71,716
+Refiere días con aumento de apetito,71,716
+Mejora en nivel energético,71,716
+Inicio de tratamiento natural para el vitíligo,71,717
+Anticonceptivo oral combinado: Damzel,71,717
+Refiere estrés habitual debido a cambio de trabajo,71,717
+Toma Semaglutida 1mg semanalmente,71,718
+Toma Levotiroxina 150 mcg,71,718
+Toma Rosuvastatina 10 mg,71,718
+Toma Urokit,71,718
+Toma Hidroclorotiazida,71,718
+Toma Metformina 750 mg dos veces al día,71,718
+Cambió de Citrato de Magnesio a Treonato de Magnesio,71,718
+Disminuyó la dosis de Levotiroxina a 137 mcg,71,718
+Antecedentes familiares: tiroidopatía,71,719
+Antecedentes personales: uso de Amitriptilina por neuralgia del trigémino,71,719
+Estrés habitual,71,719
+Buen nivel de sueño,71,719
+Sin suplementación,71,719
+Deficiencia de vitamina D,71,719
+Ciclos menstruales regulares,71,719
+Estrés psicológico habitual,71,719
+Entrenamiento de lunes a viernes,72,720
+Estado de salud y estilo de vida,72,720
+No toma medicamentos antihipertensivos,72,720
+Toma Dutasterida,72,720
+No toma suplementos,72,720
+Plan nutricional basado en antropometría,72,720
+Calidad de sueño deficiente,72,720
+Astenia frecuente,72,720
+Resultados de laboratorio: normales,72,721
+No recibe terapia hormonal,72,721
+1 mes de dieta cetogénica con buen resultado,72,722
+leve mejora en el sueño,72,722
+No recibe Aldactone ni Renitec,72,722
+Resultados de laboratorio hematológicos: normales,72,723
+Cirugía de hombro realizada el 25 de julio,72,723
+Extracción realizada en la última semana,72,723
+No sigue planes nutricionales actuales,72,724
+antecedentes de entrenamiento inconstante,72,724
+Objetivo: aumento de masa muscular,72,724
+Presenta despertares nocturnos,72,724
+Buena activación del sistema parasimpático,72,725
+¿Sobrecrecimiento bacteriano del intestino delgado (SIBO)?,72,725
+¿Permeabilidad intestinal?,72,725
+En terapia,72,726
+amenorrea leve,72,727
+Acné facial,72,727
+Múltiples ocupaciones laborales,72,728
+Sin actividad física regular,72,728
+Antecedentes familiares de tiroides positivos,72,729
+Hipotiroidismo autoinmune,72,729
+Sedentarismo,72,729
+Sin plan de nutrición actual,72,729
+Sueño deficiente debido a cuidado de la hija,72,729
+Lactancia materna,72,729
+Sin suplementos dietéticos actuales,72,729
+Sin ecografías recientes,72,729
+Ciclos menstruales irregulares,72,729
+Realiza deporte de alto rendimiento (motocross),73,730
+Antecedentes de cirugía en hombros,73,730
+"Medicación actual: multivitamínico (megamultivitamínico magistral), ácido ascórbico, aloe vera, omega 3",73,730
+Actualmente en rehabilitación por cirugía de labrum desgarrado,73,730
+Realiza entrenamiento en gimnasio tres veces por semana y remo 2-3 veces (20 minutos cada vez),73,730
+"Tras la rehabilitación, planea retomar el motocross",73,730
+Buen patrón de sueño,73,730
+No se han realizado estudios hormonales previamente,73,730
+El objetivo es mejorar el estado físico,73,730
+Antecedentes familiares: cáncer gástrico en padre,73,731
+Antecedentes personales: cirugía de cadera debido a pinzamiento,73,731
+Actividad física: dos veces a la semana,73,731
+Estrés habitual,73,731
+Fallecimiento de padre,73,731
+Tratamiento previo con diclofenaco y pridinol,73,731
+Sin plan nutricional actual,73,731
+Dificultad para iniciar el sueño,73,731
+Refiere sueño profundo,73,731
+Resultados de laboratorio hematológicos: normales,73,732
+Cirugía de hombro realizada el 25 de julio,73,732
+Extracción realizada en la última semana,73,732
+Resultados de laboratorio generales: normales,73,733
+En México,73,734
+Finalización de ciclo y reactivación,73,734
+Alopecia,73,735
+controles generales normales,73,735
+Actividad física: running,73,735
+plan nutricional propio,73,735
+Antecedentes de dieta restrictiva,73,735
+Dieta vegana durante 5 a 6 meses en 2019,73,735
+Bajo dieta FODMAP,73,735
+Sueño intermitente,73,735
+Estrés habitual,73,735
+Un año en evaluación,73,735
+Nefrología indica la posibilidad de hipercalcemia debido al uso de Litio,73,736
+comenzó tratamiento con Hormona de Crecimiento (GH) y prohormonas,73,736
+astenia y desgano,73,737
+Suspensión de granola,73,738
+Sin otros síntomas presentes,73,738
+Disminución de carbohidratos en la dieta,73,738
+Diabetes mellitus tipo 2,73,739
+Ocupación: Capitán de Marina,73,739
+ritmos circadianos alterados,73,739
+Estrés habitual,73,739
+actividad física de manera regular,73,739
+buena ingesta alimentaria,73,739
+Resultados de laboratorio hematológicos: normales,74,740
+"Ecografía tiroidea: lóbulo izquierdo ausente, lóbulo derecho presenta nódulo de 7 mm y quiste de 3,3 mm, sin cambios",74,740
+sin datos,74,741
+Resultados de laboratorio: normales,74,742
+Estrés crónico con síndrome depresivo debido al fallecimiento del padre,74,743
+Alta actual,74,743
+Uso de Clonazepam debido a insomnio,74,743
+Oligomenorrea,74,743
+Sin síntomas,74,743
+Cambios en el estado de ánimo durante el síndrome premenstrual,74,743
+Refiere buen nivel de sueño con Clonazepam,74,743
+Se despierta con energía,74,743
+No realiza actividad física debido a falta de tiempo,74,743
+"Cuando realiza actividad física, presenta dificultad en la recuperación",74,743
+Sin estudios recientes,74,743
+sin datos,74,744
+Buen rendimiento físico,74,745
+Estrés,74,745
+Posible cambio de equipo y viaje a Ecuador,74,745
+Ferritina: baja,74,745
+Evaluación neurológica realizada (Dr. Salvat),74,746
+Tomografía Axial Computarizada (TAC) y la Resonancia Magnética Nuclear (RMN) son normales,74,746
+Se acuesta a las 23 horas,74,747
+se duerme a las 3 am,74,747
+Duerme siesta,74,747
+Hiperosmia a las 18 horas,74,747
+Bajo tratamiento con anticonceptivos orales (ACO) por endometriosis y Supradyn,74,747
+"Antecedentes personales, antecedentes familiares y medicación actual: no",74,748
+Buen nivel de sueño,74,748
+Astenia habitual,74,748
+Astenia matinal,74,748
+Actividad física habitual: no,74,748
+¿Trastorno por déficit de atención e hiperactividad (TDAH)?,74,749
+escaso entrenamiento,75,750
+pérdida de masa muscular,75,750
+Antecedentes familiares: Dislipidemia y Tiroidopatía,75,750
+"Tratamiento actual: Levotiroxina 50 mcg, Litio 450 mg/día",75,750
+Realiza actividad física 2 a 3 veces por semana,75,750
+No toma suplementos nutricionales,75,750
+Buen patrón de sueño,75,750
+Variabilidad de la frecuencia cardíaca sin desactivación simpática,75,751
+Estudio de sueño: normal,75,752
+ritmo cardíaco hiperadrenérgico sin sincronismo,75,752
+Actualmente no está tomando suplementos,75,752
+Retomó tratamiento con melatonina hace 10 días,75,752
+Suspendió Dehidroepiandrosterona (DHEA),75,752
+Disminuyó dosis de medicamento para el sueño,75,752
+Paciente practicante de CrossFit en competición,75,753
+ciclo de Oxandrolona realizado hace 6 meses,75,753
+sin síntomas relevantes,75,753
+Ergometría: normal,75,754
+Ecocardiograma de estrés: normal,75,754
+Buen nivel de actividad física,75,755
+Cambio de ocupación,75,756
+Buen nivel de actividad física,75,756
+Campeonatos,75,756
+Periodo de descanso de competencia desde el 17 de julio hasta el 7 de agosto,75,756
+Bajo nivel de proteínas,75,756
+Cuadro clínico con leve desbalance de miembros superiores,75,757
+"reacción dermatológica, específicamente acné",75,758
+No presenta antecedentes familiares ni personales,75,758
+No está tomando suplementos,75,758
+Realiza actividad física en gimnasio tres veces por semana,75,758
+Buen patrón de sueño con ciclos regulares,75,758
+Utiliza dispositivo intrauterino no hormonal,75,758
+Refiere haber tenido un cambio hormonal reciente,75,758
+Ocupación: Profesor de Jiu-Jitsu brasileño,75,759
+residente de Rosario,75,759
+tratada con gel de testosterona y posteriormente cipionato de testosterona,75,759
+No tiene intención de tener descendencia,75,759
+Buen patrón de sueño,75,759
+Historial de laboratorio indica hipogonadismo,75,759
+Antígeno prostático específico (PSA) realizado,75,759
+Informa bruxismo,75,759
+"Suplementos: ZMA, vitamina C (1 gramo), proteína de suero (Whey), resveratrol",75,759
+sin datos,76,760
+Hemoglobina Normal,76,761
+Hormona foliculoestimulante (FSH): normal,76,761
+Resultados de laboratorio generales: normales,76,762
+Estrés,76,763
+sueño de mala calidad,76,763
+Hemoglobina normal,76,763
+Testosterona: normal,76,763
+Monitorización ambulatoria de la presión arterial (MAPA): normal,76,763
+variabilidad normal,76,763
+Tensión arterial,76,763
+mejora en sueño y síntomas después de tomar Alprazolam,76,763
+Resultados de laboratorio generales: normales,76,764
+electrocardiograma: normal,76,765
+Leve insuficiencia tricuspídea y aórtica,76,765
+Realiza entrenamiento físico 5 veces por semana,76,766
+Buen patrón de sueño,76,766
+No consume suplementos,76,766
+Resultados de laboratorio generales: normales,76,767
+Variabilidad de la frecuencia cardíaca (HRV) con poca desconexión nocturna,76,767
+No recibe dopamina ni serotonina,76,767
+Practica kitesurf de septiembre a abril,76,768
+Objetivo estético,76,768
+Medicación actual: Finasterida 1mg,76,768
+Programado para implante el 23 de septiembre,76,768
+No toma suplementos,76,768
+Ha tomado creatina anteriormente,76,768
+Buen patrón de sueño habitual,76,768
+Realiza entrenamiento de fuerza 5 a 6 veces por semana con entrenador,76,768
+Sigue un plan nutricional alto en proteínas,76,768
+Menciona antropometría previa,76,768
+No ha tenido controles de laboratorio,76,768
+"Resultados de laboratorio generales: óptimos, dentro de la curva normal",76,769
+Continúa con actividad física de fuerza,76,769
+Entrenamiento de lunes a viernes,77,770
+Estado de salud y estilo de vida,77,770
+No toma medicamentos antihipertensivos,77,770
+Toma Dutasterida,77,770
+No toma suplementos,77,770
+Plan nutricional basado en antropometría,77,770
+Calidad de sueño deficiente,77,770
+Astenia frecuente,77,770
+Refiere mejora clínica,77,771
+Mejor nivel de descanso,77,771
+Buenos parámetros de recuperación,77,771
+Eutiroideo,77,771
+Mejora en la Bioimpedancia eléctrica,77,772
+Bajo consumo de carbohidratos,77,772
+Antecedentes de trastorno de ansiedad,77,773
+Tratamiento previo con antidepresivos,77,773
+Actualmente tomando Escitalopram,77,773
+Antecedentes de uso crónico de Zolpidem sin resultados,77,773
+Refiere depresión y problemas de sueño,77,773
+Toma Omega 3 y probióticos,77,773
+Realiza entrenamiento con peso corporal cuatro veces por semana,77,773
+Refiere disminución en rendimiento,77,773
+Niveles de testosterona: medios,77,774
+Sin síntomas,77,775
+inflamación intestinal constante,77,775
+Buen patrón de sueño,77,775
+Resultados de laboratorio: normales,77,775
+Sin dispositivo intrauterino hormonal,77,775
+Ciclos menstruales regulares,77,775
+Sin estrés y buen nivel de sueño,77,776
+ingesta de cafeína hasta la noche,77,776
+sin datos,77,777
+Presenta astenia,77,778
+Alteración del ritmo del sueño durante las vacaciones,77,778
+Resultados de laboratorio generales: normales,77,779
+Bajo nivel de sideroblastos,77,779
+Ciclos menstruales regulares,78,780
+Realiza actividad física 6 veces por semana,78,780
+Paciente retomó Clomifeno por su cuenta,78,781
+Resultados de laboratorio normales (bajo tratamiento con Clomifeno),78,781
+"Dieta vegetariana (sin consumo de leche, pero sí de huevos)",78,782
+Sin signos de anemia,78,782
+Reporta reacción cutánea a vitamina B12,78,782
+Recientemente inició consumo de polen,78,782
+Diagnóstico de hipotiroidismo,78,782
+Sin ecografías recientes,78,782
+Sin evaluación de anticuerpos,78,782
+Reporta despertar después de 9 horas de sueño,78,782
+"Realiza entrenamiento físico a las 9 am, tres veces por semana",78,782
+Buen nivel de recuperación,78,782
+Consume suplementos,78,782
+Reporta caída de cabello post-COVID-19,78,782
+Ciclos menstruales regulares,78,782
+"En noviembre, realizó congelamiento de óvulos con inducción hormonal",78,782
+Ligera mejora en el monitoreo Holter,78,783
+actividad simpática excesiva,78,783
+No completó el tratamiento prescrito,78,783
+"Menciona haber solicitado una cita en la clínica del sueño, a la cual no asistió",78,783
+Reporta haber iniciado tratamiento con cannabidiol (CBD) de farmacia,78,783
+Antecedentes familiares: tiroidopatía,78,784
+Antecedentes personales: uso de Amitriptilina por neuralgia del trigémino,78,784
+Estrés habitual,78,784
+Buen nivel de sueño,78,784
+Sin suplementación,78,784
+Deficiencia de vitamina D,78,784
+Ciclos menstruales regulares,78,784
+Estrés psicológico habitual,78,784
+"Espermograma: 0% de espermatozoides normales, buen número y motilidad",78,785
+Hemoglobina Normal,78,786
+Evaluación urológica: normal,78,787
+Refiere pólipo precanceroso en hermano,78,787
+Siguiendo tratamiento nutricional con Antonella,78,788
+Dieta baja en carbohidratos,78,788
+Retomó entrenamiento con pesas,78,788
+Tratamiento de kinesiología con Sebastián Martínez,78,788
+No realizará CrossFit este año,78,788
+Participará en la clasificación nacional de levantamiento de pesas,78,788
+"Buen nivel de sueño, pero presenta dificultad para despertar",78,788
+Análisis de orina: normal,78,789
+Resultados de laboratorio iniciales: normales,79,790
+Resto sin patología hematológica,79,790
+Realiza estiramientos,79,790
+Disminución de Kefir,79,790
+Continúa con Levotiroxina (Lt4),79,790
+Suspensión de betabloqueantes,79,791
+Se someterá a cirugía estética (liposucción),79,791
+Control respiratorio debido a medicación,79,791
+Buen patrón de sueño,79,792
+mala recuperación aeróbica,79,792
+déficit de resistencia a la fuerza,79,792
+No sigue un plan nutricional,79,792
+mal estado nutricional,79,792
+No ha tenido controles de composición corporal,79,792
+No está tomando suplementos,79,792
+deficiencia de glóbulos rojos,79,792
+Examen coprológico y parasitológico: normales,79,793
+Mejora en entrenamiento,79,793
+Realiza CrossFit cinco veces por semana,79,793
+Sin suplementación,79,793
+Presenta pérdida de peso,79,793
+Buen nivel de condición física,79,794
+Resultados de laboratorio generales: normales,79,794
+Dispepsia,79,795
+gastritis por Helicobacter pylori,79,795
+Erupciones cutáneas,79,795
+poliartralgias,79,795
+Úlceras bucales,79,795
+Estrés debido al fallecimiento de su padre,79,795
+ritmo de vida elevado,79,795
+actividad física regular,79,795
+No toma suplementos de vitamina B12,79,795
+Calidad de sueño: media,79,795
+Astenia,79,795
+Eosinofilia,79,796
+Hipogammaglobulinemia,79,796
+Leve exceso de calcio en orina,79,796
+Paciente se trasladará a vivir a España,79,797
+Continúa con hipertrofia,79,797
+Restricción en diciembre,79,797
+Resonancia magnética de hipófisis recibida sin cambios,79,798
+Hemograma normal,79,799
+leve aumento de transaminasas,79,799
+Sin síntomas,80,800
+inflamación intestinal constante,80,800
+Buen patrón de sueño,80,800
+Resultados de laboratorio: normales,80,800
+Sin dispositivo intrauterino hormonal,80,800
+Ciclos menstruales regulares,80,800
+estrés crónico,80,801
+Vértigo,80,801
+ansiedad,80,801
+pérdida de cabello,80,801
+Cambio de residencia reciente,80,801
+función gonadal normal,80,801
+Resultados de laboratorio generales: normales,80,801
+Análisis de orina: normal,80,802
+Realiza actividad física cuatro veces por semana,80,803
+Plan nutricional no adecuado,80,803
+Ansiedad,80,803
+Tiene cuatro exámenes finales en la universidad y está trabajando en su tesis,80,803
+Defensa de tesis programada para febrero,80,803
+Tratamiento en Fundación Leloir por el Dr. Correa,80,804
+Realiza escalada en roca dos veces por semana,80,804
+Realiza running de manera esporádica,80,804
+Medicación actual: dimetilfumarato,80,804
+Fosfatasa alcalina ósea normal alta,80,804
+Resto sin particularidades,80,804
+Centellograma negativo,80,804
+sin datos,80,805
+Buen patrón de sueño,80,806
+mala recuperación aeróbica,80,806
+déficit de resistencia a la fuerza,80,806
+No sigue un plan nutricional,80,806
+mal estado nutricional,80,806
+No ha tenido controles de composición corporal,80,806
+No está tomando suplementos,80,806
+deficiencia de glóbulos rojos,80,806
+Disminución de glucosa en sangre intersticial (ISF) sin ciclos de hipoglucemia,80,807
+Ferritina: baja,80,808
+amenorrea leve,80,809
+Acné facial,80,809
+Toma berberina y ácido hialurónico,81,810
+Toma metformina,81,810
+Buen nivel de entrenamiento,81,810
+sueño inducido por melatonina,81,810
+Resto sin particularidades,81,810
+Estrés crónico con síndrome depresivo debido al fallecimiento del padre,81,811
+Alta actual,81,811
+Uso de Clonazepam debido a insomnio,81,811
+Oligomenorrea,81,811
+Sin síntomas,81,811
+Cambios en el estado de ánimo durante el síndrome premenstrual,81,811
+Refiere buen nivel de sueño con Clonazepam,81,811
+Se despierta con energía,81,811
+No realiza actividad física debido a falta de tiempo,81,811
+"Cuando realiza actividad física, presenta dificultad en la recuperación",81,811
+Sin estudios recientes,81,811
+Ecografía de abdomen: homogénea con leve esteatosis,81,812
+Paciente refiere haber retomado dieta cetogénica con astenia,81,813
+osteoporosis en cadera,81,814
+osteopenia en región lumbar,81,814
+hipotiroidismo/hipertiroidismo fluctuante,81,814
+Anticuerpos anti-tiroperoxidasa (ATPO) positivos,81,814
+Resultados de laboratorio generales: normales,81,814
+"nódulo en lóbulo derecho de 12,11 mm",81,814
+biopsia por punción negativa,81,814
+leve osteopenia en región lumbar,81,814
+contorno algo irregular,81,814
+nódulo de 12x11 mm,81,814
+a la palpación móvil,81,814
+duro-elástico,81,814
+sin molestias,81,814
+sin datos,81,815
+No desea iniciar tratamiento en este momento,81,816
+No desea realizar recolección de orina de 24 horas,81,816
+Control médico,81,817
+Antecedentes familiares: abuelo con tiroidopatía,81,818
+"Trauma adaptativo, desencadenado por divorcio y emigración",81,818
+Síndrome del túnel carpiano,81,818
+Tiroidopatía con 30 años de evolución,81,818
+Reporta despertares nocturnos,81,818
+"Paciente ciclista, realiza entrenamiento de resistencia con objetivos recreativos",81,818
+Entrenamiento los sábados por la mañana,81,818
+Durante la semana entrena a las 17-18 horas,81,818
+"Los martes y miércoles realiza CrossFit por la mañana, en ayunas",81,818
+Programado para cirugía de colgajo en septiembre,81,818
+"Suplementos: creatina, Animal Pack, L-carnitina, beta-alanina, cafeína",81,818
+No presenta síntomas matutinos,81,819
+Inició terapia con testosterona y metformina,82,820
+suspendida abruptamente debido a un viaje,82,820
+Ha reiniciado la terapia con testosterona,82,820
+No realiza post-entrenamiento,82,821
+Toma HMB y proteína de suero de leche (Whey),82,821
+Resultados de laboratorio: normales,82,821
+Hemograma: normal,82,821
+Presenta un alto nivel de estrés,82,822
+Calidad de sueño deficiente,82,822
+Alimentación inadecuada,82,822
+"No está tomando suplementos de Zinc, Magnesio y Vitamina B6 (ZMA) ni Magnesio",82,822
+Suspensión de betabloqueantes,82,823
+Se someterá a cirugía estética (liposucción),82,823
+Control respiratorio debido a medicación,82,823
+Hipertensión arterial,82,824
+Mejora en la calidad del sueño,82,824
+Uso de Testosterona cipionato 200 mg y Stanozolol 20 mg (marca nacional) durante 12 a 14 semanas,82,824
+Terapia post-ciclo,82,824
+Sin seguimiento hormonal,82,824
+Síntomas de astenia y desgano,82,824
+No presenta síntomas matutinos,82,825
+Resultados de laboratorio generales: normales,82,826
+Niveles hormonales: óptimos,82,826
+Inicio de planificación familiar con método anticonceptivo Bietti: buen resultado,82,826
+No ha tenido controles médicos durante 2 años,82,827
+ha estado realizando entrenamiento físico,82,827
+Buen nivel de sueño,82,828
+Hemoglobina normal,82,828
+Pruebas hepáticas normales,82,828
+Tensión arterial normal,82,828
+Bajo en Omega 3 y Magnesio,82,828
+Altura de crecimiento,82,829
+"Antecedentes familiares: enfermedad tiroidea positiva, diabetes tipo 2 positiva",82,829
+"Antecedentes personales: Altura del padre 1,70 m, altura de la madre 1,50 m",82,829
+mala alimentación,82,829
+Sin suplementación,82,829
+Buen nivel de actividad física,83,830
+estado eutiroideo,83,831
+Inconsistencia en el entrenamiento,83,831
+Tensión arterial,83,831
+Infección por virus de la gripe A,83,831
+Mejora en la calidad del sueño,83,831
+Resonancia magnética de hipófisis recibida sin cambios,83,832
+actividad física en el gimnasio,83,833
+juega al pádel,83,833
+Resultados de laboratorio generales: normales,83,833
+Tiempo de coagulación parcial activado (aPTT): normal,83,833
+Disminución leve de la función gonadal debido al entrenamiento,83,834
+Buen patrón de sueño,83,835
+Sin lesiones,83,835
+Buen rendimiento en fútbol,83,835
+Pruebas hepáticas: normales,83,835
+tratamiento con levotiroxina 100 mcg (inestable),83,836
+Nódulos tiroideos pequeños,83,836
+manejada con actividad física hasta hace 1 año,83,836
+en tratamiento con especialista en lípidos,83,836
+Medicación: ezetimibe 10 mg + rosuvastatina 2.5 mg,83,836
+sin datos,83,837
+En tratamiento nutricional,83,838
+Reducción en el consumo de grasas,83,838
+Entrenamiento físico cuatro veces por semana,83,838
+mejor rendimiento físico,83,839
+Participa en deportes de contacto,83,839
+Mejora en la recuperación post-ejercicio,83,839
+Eosinofilia,84,840
+No presenta síntomas matutinos,84,841
+sin datos,84,842
+Buen rendimiento físico,84,843
+Estrés,84,843
+Posible cambio de equipo y viaje a Ecuador,84,843
+Ferritina: baja,84,843
+No sigue planes nutricionales actuales,84,844
+antecedentes de entrenamiento inconstante,84,844
+Objetivo: aumento de masa muscular,84,844
+Presenta despertares nocturnos,84,844
+Ha recibido 3 dosis de la vacuna Pfizer-BioNTech contra COVID-19,84,845
+Durmiendo adecuadamente,84,845
+"Según Garmin, la batería corporal está alta",84,845
+Presenta otitis,84,846
+Sin anticonceptivos orales,84,847
+Sin medicamentos suplementarios,84,848
+Presenta alergia nasal,84,848
+No está bajo tratamiento actual,84,848
+Realiza actividad física: Pádel y Pilates,84,848
+Sigue un plan nutricional,84,848
+Ciclos menstruales regulares,84,848
+No está tomando anticonceptivos orales actualmente,84,848
+Tiene 3 años de evolución de los síntomas,84,848
+Refiere episodio de reacción alérgica localizada en el rostro,84,848
+Práctica de rugby,84,849
+No consume medicamentos,84,849
+"Suplementos: No-Xplode, C4",84,849
+Sin otra medicación,84,849
+Evaluación urológica: normal,85,850
+Refiere pólipo precanceroso en hermano,85,850
+durmiendo 7 horas con ayuda de Tranquinal,85,851
+Hemograma normal,85,851
+Pruebas hepáticas normales,85,851
+Monitorización ambulatoria de la presión arterial (MAPA): patrón dipper conservado,85,851
+Actualmente sin uso de melatonina,85,852
+Punción aspirativa con aguja fina (PAAF) con resultado Bethesda II,85,852
+Medicación actual: Diapresan A,85,853
+"Suplementos: cardamomo, zinc, aminoácidos, arginina, L-carnitina, glutamina, colágeno",85,853
+"Actividad física: entrenamiento personalizado 2-3 veces por semana, yoga dos veces por semana, running",85,853
+Lesión reciente: desgarro del músculo sóleo,85,853
+Calidad del sueño: media,85,853
+Lesión en el manguito de los rotadores,85,854
+Inadecuada alimentación,85,854
+Bajo tratamiento con 40 mg de fluoxetina,85,854
+No toma ácido fenofíbrico,85,854
+Sin controles médicos,85,854
+Inadecuado patrón de sueño,85,854
+No sigue un plan nutricional,85,854
+No está realizando entrenamiento físico actualmente,85,855
+No se han realizado análisis de laboratorio,85,855
+Resultados de laboratorio indican hipergonadotropismo,85,856
+Buen patrón de sueño,85,857
+Sin lesiones,85,857
+Buen rendimiento en fútbol,85,857
+Pruebas hepáticas: normales,85,857
+Buen patrón de sueño,85,858
+"Sin suplementación, excepto Vitamina C",85,858
+"Anticonceptivos orales con ciclos regulares, Aviane-28",85,858
+Realiza actividad física 3 veces por semana,85,858
+Reporta buen patrón de sueño,85,858
+mejora en los niveles de testosterona,85,859
+paciente en plan de tratamiento,85,859
+Hemoglobina normal,86,860
+Buena activación del sistema parasimpático,86,861
+¿Sobrecrecimiento bacteriano del intestino delgado (SIBO)?,86,861
+¿Permeabilidad intestinal?,86,861
+hiperglucemia,86,862
+Mejoría en parámetros con actividad física,86,862
+Paciente refiere haber suspendido el consumo de harinas,86,862
+Realiza natación y carrera,86,862
+Tratamiento en Fundación Leloir por el Dr. Correa,86,863
+Realiza escalada en roca dos veces por semana,86,863
+Realiza running de manera esporádica,86,863
+Medicación actual: dimetilfumarato,86,863
+Fosfatasa alcalina ósea normal alta,86,863
+Resto sin particularidades,86,863
+Centellograma negativo,86,863
+Suspensión de betabloqueantes,86,864
+Se someterá a cirugía estética (liposucción),86,864
+Control respiratorio debido a medicación,86,864
+Resonancia magnética de hipófisis recibida sin cambios,86,865
+Resultados de laboratorio hematológicos: normales,86,866
+"Ecografía tiroidea: lóbulo izquierdo ausente, lóbulo derecho presenta nódulo de 7 mm y quiste de 3,3 mm, sin cambios",86,866
+Resto sin particularidades,86,867
+Control clínico,86,868
+Hepatitis normal,86,869
+Ionograma normal,86,869
+Hemograma normal,86,869
+Orina normal,86,869
+Ecografía tiroidea y abdominal: normales,86,869
+sin datos,87,870
+Cambio de entrenamiento con Leandro,87,871
+Hepatitis no especificada,87,872
+Anticuerpos contra la peroxidasa tiroidea (ATPo) positivos,87,872
+Sin estrés y buen nivel de sueño,87,873
+ingesta de cafeína hasta la noche,87,873
+sin datos,87,874
+Pruebas hepáticas: normales,87,875
+Manometría esofágica: normal,87,875
+¿Presenta hernia hiatal o desplazamiento de funduplicatura?,87,875
+Reflujo gastroesofágico,87,875
+Insuficiencia cardíaca: gastroenterología,87,875
+sin datos,87,876
+Practica rugby,87,877
+toma suplemento de proteína de manera irregular,87,877
+No está tomando medicación,87,877
+No ha tomado suplementos anteriormente,87,877
+Calidad de sueño: media,87,877
+No sigue un plan nutricional,87,877
+Plan de entrenamiento con Santiago,87,877
+No se han realizado controles de laboratorio durante dos años,87,877
+No se ha realizado control hormonal,87,877
+No se ha realizado control de composición corporal,87,877
+"mejora en la fuerza, sin cambios en la composición corporal",87,877
+sin datos,87,878
+También ha estado tomando Stanozolol por vía oral,87,879
+hipertransaminasemia,87,879
+Paciente indica que aumentó la dosis de levotiroxina a 100 mcg por su cuenta,88,880
+mejora en la calidad del sueño y despertares,88,880
+"Polimenorrea tratada con parche anticonceptivo, actualmente tomando anticonceptivos orales",88,880
+Hipogonadismo,88,881
+Curva de cortisol: normal,88,881
+bajo buen tratamiento y control,88,882
+Antecedente de tumor testicular,88,883
+Seminoma no seminomatoso,88,883
+Cirugía previa,88,883
+Antecedentes de uso de finasterida con disminución de la libido,88,883
+Realiza fútbol tres veces por semana y asiste al gimnasio dos veces por semana con instructor,88,883
+Presenta dificultad en la recuperación después del ejercicio,88,883
+Astenia,88,883
+Sueño de mala calidad,88,883
+Toma Somit según necesidad,88,883
+Suplemento con proteína de suero de leche,88,883
+Sigue un plan nutricional con nutricionista,88,883
+"Biopsia testicular: hialinosis tubular, ausencia completa de células germinales, hipertrofia relativa de células de Leydig",88,883
+Recuperación testicular: 1 espermatozoide inmóvil cada 50 campos,88,883
+Antecedentes de diabetes mellitus tipo 2,88,884
+Hipotiroidismo post-quirúrgico,88,884
+Nódulo tiroideo indeterminado,88,884
+Hemitiroidectomía izquierda realizada el 28 de diciembre de 2021,88,884
+aumento de peso progresivo y brusco,88,884
+Embarazo reciente,88,884
+Hiperglucemia durante el embarazo,88,884
+Sobrepeso,88,884
+Actualmente en periodo de lactancia,88,884
+Consumo ansioso de azúcares,88,884
+Historia de fractura de costilla debido a equitación,88,885
+Historia de cirugía de reducción mamaria y liposucción,88,885
+Realiza electrofitness,88,885
+Ha intentado múltiples planes nutricionales,88,885
+No puede seguir una dieta cetogénica,88,885
+No consume alcohol,88,885
+No toma suplementos,88,885
+Presenta mala calidad de sueño,88,885
+Experiencia de despertares nocturnos,88,885
+Rodilla derecha,88,886
+Sin entrenamiento durante 4 meses,88,886
+Pasó 1 mes en Europa,88,886
+Resultados de laboratorio: normales,88,886
+"Toma suplementos de proteína, creatina, HMB y glutamina",88,886
+Continúa con Finasteride,88,886
+Resto de resultados de laboratorio: normales,88,887
+Hipertensión arterial resistente con activación simpática,88,887
+¿Causada por apnea del sueño?,88,887
+Hepatitis no especificada,88,888
+Anticuerpos contra la peroxidasa tiroidea (ATPo) positivos,88,888
+Enfermedad de reflujo gastroesofágico (ERGE),88,889
+disfonía crónica progresiva,88,889
+Antecedente de colecistectomía,88,889
+Dolor en el abdomen,88,889
+Sobrepeso,88,889
+endoscopia gastrointestinal normal,88,889
+No toma otras medicaciones,88,889
+No sigue planes nutricionales,88,889
+No realiza actividad física,88,889
+Calidad de sueño deficiente,88,889
+Presenta hernia discal cervical con déficit funcional en miembro superior derecho y parestesia,89,890
+En tratamiento de rehabilitación con buen resultado,89,890
+Vacaciones programadas en 6 semanas,89,891
+Antecedentes de ginecomastia,89,892
+Sin palpitaciones,89,893
+Tirotropina (TSH) suprimida,89,893
+Mejoría en osteocondritis,89,894
+Mejoría en capacidad aeróbica y resistencia muscular,89,894
+No realizó actividad física,89,894
+Se va de viaje por trabajo con posibilidad de déficit de sueño,89,894
+Antecedentes de hiperprolactinemia,89,895
+Acné facial,89,895
+Dispositivo intrauterino Mirena recientemente insertado,89,895
+¿Polimenorrea?,89,895
+Pérdida de cabello,89,895
+Edemas generalizados,89,895
+"Realiza actividad física habitualmente dos veces por semana, específicamente yoga",89,895
+Hemoglobina normal,89,896
+Pruebas hepáticas normales,89,896
+Prolactina: normal,89,896
+Buena respuesta al tratamiento,89,897
+"toma suplementos hormonales: Glutamina y ZMA, Creatina 8 gramos",89,898
+Sigue plan de nutrición de GA Nutrition,89,898
+Presenta insomnio y pesadillas,89,898
+Sigue plan de dieta alta en carbohidratos,89,898
+"Su último turno de entrenamiento es en la tarde, generalmente entrena por la mañana",89,898
+Siguió plan hormonal en 2018,89,898
+No ha tenido controles hormonales recientes,89,898
+Variabilidad de la frecuencia cardíaca medida por dispositivo portátil,89,898
+Indica seguir un plan nutricional adecuado,89,899
+No presenta enfermedades actuales,89,899
+Buen patrón de sueño,89,899
+No consume suplementos proteicos,89,899
+No ha tenido controles recientes,89,899
+buen patrón de sueño,90,900
+Realiza actividad física 5 veces por semana,90,900
+Hemograma: normal,90,901
+Mejora en entrenamiento,90,902
+Mejora en entrenamiento,90,903
+sin datos,90,904
+Función tiroidea: normal,90,905
+nódulo isoecoico con vascularización periférica,90,905
+Hemoglobina Normal,90,906
+Variabilidad de la frecuencia cardíaca con predominio simpático sostenido,90,907
+Resto del examen físico sin particularidades,90,907
+Mastólogo no recomienda cirugía,90,908
+Ginecólogo recomienda estrógeno (no especificado),90,908
+Paciente refiere estrés habitual,90,908
+1 mes de dieta cetogénica con buen resultado,90,909
+leve mejora en el sueño,90,909
+No recibe Aldactone ni Renitec,90,909
+Variabilidad en la función digestiva,91,910
+Creatina con buen resultado físico en kitesurf,91,910
+Resultados de laboratorio: normales,91,911
+Interrumpió el uso de aripiprazol con mejoría clínica,91,912
+Cambio a metilfenidato y lamotrigina,91,912
+Leve mejoría clínica,91,912
+La concentración no mejora,91,912
+Hiperactividad,91,912
+Ingesta excesiva de alimentos en la tarde,91,912
+Mejoría en el patrón de sueño,91,912
+Viaje programado de 4 días en mayo,91,913
+sin datos,91,914
+Buen patrón de sueño,91,915
+En proceso de mudanza,91,915
+Sin actividad física,91,915
+Buena respuesta al tratamiento,91,916
+Buen nivel de fuerza,91,917
+No pertenece a ningún club deportivo actualmente,91,918
+Tiene intención de trasladarse al extranjero,91,918
+Actualmente en mes de hipertrofia,91,918
+Resultados de laboratorio generales: normales,91,919
+cirugía de cornetes,92,920
+buen estado clínico hasta enero de 2021,92,921
+estrés en 2020 debido al fallecimiento de su padre,92,921
+está tomando Venlafaxina,92,921
+está tomando Levotiroxina (LT4) 50 mcg,92,921
+Posible variabilidad de la frecuencia cardíaca (HRV),92,921
+"Anticonceptivo oral (ACO) ""Divina"" usado durante 8 años",92,922
+Realiza Pilates dos veces por semana,92,922
+No toma medicamentos para el asma (MA),92,922
+No consume suplementos,92,922
+Sueño adecuado,92,922
+Realiza ejercicios de fuerza tres veces por semana,92,923
+Consumo de alimentos dulces,92,923
+No presenta pérdida de peso,92,923
+Sin suplementación actual,92,924
+Resultados de laboratorio generales: normales,92,924
+Función gonadal: normal,92,924
+Resultados de laboratorio generales: normales,92,925
+Prueba de esquizofrenia,92,925
+Hipertensión arterial,92,926
+Mejora en la calidad del sueño,92,926
+Uso de Testosterona cipionato 200 mg y Stanozolol 20 mg (marca nacional) durante 12 a 14 semanas,92,926
+Terapia post-ciclo,92,926
+Sin seguimiento hormonal,92,926
+Síntomas de astenia y desgano,92,926
+Pendiente de control,92,927
+Pruebas hepáticas: normales,92,928
+Manometría esofágica: normal,92,928
+¿Presenta hernia hiatal o desplazamiento de funduplicatura?,92,928
+Reflujo gastroesofágico,92,928
+Insuficiencia cardíaca: gastroenterología,92,928
+Sin síntomas,92,929
+Buen estado de ánimo y energía,92,929
+Preparándose para competir en SouthFit,92,929
+Entrenamiento actual incluye CrossFit y ejercicios de fuerza,92,929
+Objetivo: competir y mejorar fuerza y recuperación,92,929
+Mejora en la sensación de saciedad,93,930
+Sin náuseas,93,930
+Resultados de laboratorio: normales,93,931
+Sueño: normal,93,931
+Buen patrón de sueño,93,932
+Ciclos menstruales regulares con ISIS FREE,93,932
+Sin cambios en la fuerza,93,933
+Resultados de laboratorio: sin reactivación,93,933
+Variabilidad de la frecuencia cardíaca (HRV): leve mejora en la desviación estándar de todos los intervalos NN (SDNN) sin activación parasimpática nocturna,93,934
+Pruebas hepáticas: normales,93,935
+Manometría esofágica: normal,93,935
+¿Presenta hernia hiatal o desplazamiento de funduplicatura?,93,935
+Reflujo gastroesofágico,93,935
+Insuficiencia cardíaca: gastroenterología,93,935
+Levotiroxina de lunes a viernes,93,936
+Hemograma con eosinofilia moderada,93,936
+Proteína C reactiva (PCR) no especificada,93,936
+Uso de testosterona con recuperación adecuada,93,937
+Sueño inadecuado,93,937
+Variabilidad de la frecuencia cardíaca (HRV),93,937
+sin datos,93,938
+Cuarta semana desde el inicio,93,939
+Hemoglobina normal,94,940
+Astenia leve,94,941
+Refiere sofocos,94,941
+Mastólogo no recomienda cirugía,94,942
+Ginecólogo recomienda estrógeno (no especificado),94,942
+Paciente refiere estrés habitual,94,942
+sin datos,94,943
+Sin síntomas,94,944
+Buen patrón de sueño,94,944
+Dieta alta en proteínas con pérdida de peso,94,944
+Consumo de 200g de carne y verduras,94,944
+"Cirugía estética realizada el 9 de diciembre, seguida de 2 meses de rehabilitación",94,944
+Buen nivel de energía,94,944
+Buen patrón de sueño,94,944
+Bajo nivel de Beta-hidroxibutirato (HMB),94,944
+Buen nivel de rendimiento,94,945
+Clasificación de Games Master Mayhem,94,945
+Competencia del 4 al 7 de agosto,94,945
+Practica kitesurf de septiembre a abril,94,946
+Objetivo estético,94,946
+Medicación actual: Finasterida 1mg,94,946
+Programado para implante el 23 de septiembre,94,946
+No toma suplementos,94,946
+Ha tomado creatina anteriormente,94,946
+Buen patrón de sueño habitual,94,946
+Realiza entrenamiento de fuerza 5 a 6 veces por semana con entrenador,94,946
+Sigue un plan nutricional alto en proteínas,94,946
+Menciona antropometría previa,94,946
+No ha tenido controles de laboratorio,94,946
+Ciclos menstruales regulares sin uso de anticonceptivos orales,94,947
+¿Rosácea ocular?,94,947
+Síndrome de ojo seco,94,947
+¿Síndrome de Sjögren?,94,947
+Anticuerpos antinucleares (FAN) positivos,94,947
+Sin diagnóstico confirmado,94,947
+Siguiendo un plan nutricional,94,947
+Aumento de peso,94,947
+Baja actividad física,94,947
+Buen nivel de energía,94,947
+Ecografía de tiroides recibida: tiroiditis crónica sin nódulos,94,947
+Hemoglobina normal,94,948
+sin datos,94,949
+En ayunas,95,950
+Hipotiroidismo,95,951
+Antecedente de trombosis venosa profunda,95,951
+Sin actividad física,95,951
+dificultad para iniciar el sueño,95,951
+ansiedad por consumo,95,951
+Ciclos menstruales regulares,95,951
+Hemograma con leucopenia habitual,95,952
+"Nódulo isodenso de 9x5,5 mm en tiroides",95,952
+Evaluación neurológica realizada (Dr. Salvat),95,953
+Tomografía Axial Computarizada (TAC) y la Resonancia Magnética Nuclear (RMN) son normales,95,953
+Diarrea,95,954
+Dolor muscular,95,954
+Buena respuesta al tratamiento,95,955
+Mejoría en cuadro de insomnio,95,956
+dificultades al levantarse,95,956
+Cansancio habitual,95,956
+Buen nivel de condición física,95,957
+Resultados de laboratorio generales: normales,95,957
+Hepatitis N,95,958
+Paciente en tratamiento con nandrolona y hormona de crecimiento,95,958
+Buena respuesta al entrenamiento,95,959
+Buen nivel de sueño,95,959
+Suspensión del consumo de harinas y clomifeno,95,959
+Se inicia reactivación del tratamiento,96,960
+uso continuo de esteroides,96,961
+alteración en la libido,96,961
+Diagnóstico de disbalance hormonal,96,961
+En tratamiento nutricional,96,962
+Reducción en el consumo de grasas,96,962
+Entrenamiento físico cuatro veces por semana,96,962
+Ionograma: normal,96,963
+Hepatograma: normal,96,963
+Variabilidad de la frecuencia cardíaca (HRV) con aumento del estímulo simpático sin reducción nocturna,96,963
+Estrés oxidativo alto,96,963
+Sin anticonceptivos orales,96,964
+Resultados de laboratorio: normales,96,965
+Bajo nivel de actividad física,96,965
+Recientemente cambiado de residencia,96,965
+Menor carga laboral,96,965
+No recibe tratamiento con testosterona,96,965
+Cirujano no recomienda cirugía mamaria,96,966
+Paciente realiza por su cuenta plan con moduladores selectivos de los receptores de andrógenos (SARMs),96,966
+Mejora en composición corporal,96,966
+Buen nivel de actividad física,96,967
+Inició terapia con testosterona y metformina,96,968
+suspendida abruptamente debido a un viaje,96,968
+Ha reiniciado la terapia con testosterona,96,968
+No está tomando Duloxetina,96,969
+"Presenta astenia, mareos y falta de motivación",96,969
+Cortisol: curva normal,96,969
+Prueba de tolerancia a la glucosa: resistencia leve a la insulina,96,969
+Pendiente de control,97,970
+Antecedentes de ginecomastia,97,971
+Variabilidad de la frecuencia cardíaca sin desconexión simpática nocturna,97,972
+sin datos,97,973
+Antecedentes familiares: tiroidopatía,97,974
+Antecedentes personales: uso de Amitriptilina por neuralgia del trigémino,97,974
+Estrés habitual,97,974
+Buen nivel de sueño,97,974
+Sin suplementación,97,974
+Deficiencia de vitamina D,97,974
+Ciclos menstruales regulares,97,974
+Estrés psicológico habitual,97,974
+Antecedentes de diabetes mellitus tipo 2,97,975
+Hipotiroidismo post-quirúrgico,97,975
+Nódulo tiroideo indeterminado,97,975
+Hemitiroidectomía izquierda realizada el 28 de diciembre de 2021,97,975
+aumento de peso progresivo y brusco,97,975
+Embarazo reciente,97,975
+Hiperglucemia durante el embarazo,97,975
+Sobrepeso,97,975
+Actualmente en periodo de lactancia,97,975
+Consumo ansioso de azúcares,97,975
+"Paciente tomando Memantine, Sulbutiamina, Dehidroepiandrosterona (DHEA) y Triptófano",97,976
+Leve aumento de la libido,97,976
+Mayor estabilidad emocional,97,976
+Estrés habitual,97,977
+Resultados de laboratorio y ecografía abdominal: normales,97,978
+sin datos,97,979
+No desea iniciar tratamiento en este momento,98,980
+No desea realizar recolección de orina de 24 horas,98,980
+Ciclos menstruales actuales irregulares,98,981
+"Actualmente tomando suplementos, específicamente Whey Strength",98,981
+Entrena cuatro veces por semana,98,981
+Calidad de sueño pobre con despertares frecuentes,98,981
+sin datos,98,982
+"Antecedentes personales, antecedentes familiares y medicación actual: no",98,983
+Buen nivel de sueño,98,983
+Astenia habitual,98,983
+Astenia matinal,98,983
+Actividad física habitual: no,98,983
+Refiere haber seguido un plan hasta abril con Oxandrolona y Drostanolona,98,984
+"También ha tomado Cardarine, proteína y creatina en bajas dosis",98,984
+sin datos,98,985
+remisión en corto plazo,98,986
+Control general: normal,98,986
+Cambio de entrenamiento con Leandro,98,987
+Realiza actividad física cuatro veces por semana,98,988
+Plan nutricional no adecuado,98,988
+Ansiedad,98,988
+Tiene cuatro exámenes finales en la universidad y está trabajando en su tesis,98,988
+Defensa de tesis programada para febrero,98,988
+síntomas de astenia y apatía,98,989
+Dificultad en la recuperación después del ejercicio en el gimnasio,98,989
+ataques de pánico durante la conducción,98,989
+Tratamiento con sertralina ha mejorado los síntomas generales,98,989
+No presenta ataques de pánico al conducir en autopistas o túneles,98,989
+Uso esporádico de clonazepam,98,989
+"Sueño normal, ligero",98,989
+Hiperemia,98,989
+Variabilidad de la frecuencia cardíaca (HRV),98,989
+Ecocardiograma: normal,99,990
+Electrocardiograma: normal,99,990
+Resto de resultados de laboratorio: normales,99,991
+Hipertensión arterial resistente con activación simpática,99,991
+¿Causada por apnea del sueño?,99,991
+Buen patrón de sueño,99,992
+"Sin suplementación, excepto Vitamina C",99,992
+"Anticonceptivos orales con ciclos regulares, Aviane-28",99,992
+Realiza actividad física 3 veces por semana,99,992
+Reporta buen patrón de sueño,99,992
+buena respuesta al Clomifeno,99,993
+Tiroidopatía,99,994
+Medicación actual: Montelukast,99,994
+Historia de neumonías recurrentes,99,994
+Vacunación completa,99,994
+Reporta sofocos y aumento de peso,99,994
+Síndrome menopáusico,99,994
+Insomnio con despertares nocturnos,99,994
+Sin astenia ni hiperosmia,99,994
+Toma multivitamínico con selenio y vitamina D,99,994
+Sin densitometrías óseas recientes,99,994
+Reporta pérdida de masa muscular,99,994
+Realiza Pilates,99,994
+Sin plan nutricional actual,99,994
+Estado eutiroideo,99,995
+Buen nivel de actividad física,99,995
+Satisfecho con plan nutricional,99,995
+Disminución en el consumo de granos,99,995
+Peso estable,99,995
+Participará en competencia en julio/agosto,99,995
+Torneo en noviembre en Neuquén,99,995
+Buen patrón de sueño,99,995
+sin datos,99,996
+Diabetes mellitus tipo 2,99,997
+Ocupación: Capitán de Marina,99,997
+ritmos circadianos alterados,99,997
+Estrés habitual,99,997
+actividad física de manera regular,99,997
+buena ingesta alimentaria,99,997
+Resultados de laboratorio: normales,99,998
+Mejora en el patrón de sueño,99,999
+Mejora en la astenia y el edema,99,999
+No realiza actividad física,99,999
+Regulación del ciclo menstrual,99,999
+Mejora en la mastitis,99,999

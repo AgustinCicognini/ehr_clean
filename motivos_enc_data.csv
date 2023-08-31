@@ -1,0 +1,1511 @@
+motivo_consulta,patien_id,encounter_id
+Sin síntomas,0,0
+aumento de tensión arterial a 160/100 mmHg,0,1
+evaluación general,0,2
+Continúa con actividad física,0,3
+sin datos,0,4
+evaluación de dislipidemia y osteoporosis,0,5
+evaluación,0,6
+Mejoría con plan nutricional,0,7
+Regreso de viaje,0,8
+Mejoría clínica,0,8
+Paciente refiere sentirse bien,0,9
+variabilidad de la frecuencia cardíaca (HRV) con excelente activación parasimpática,1,10
+Buen nivel de sueño,1,10
+Mejor nivel energético con Sulbutiamina,1,10
+Realizando actividad física en circuito,1,10
+Mejor nivel digestivo,1,10
+Refiere estancamiento en peso,1,10
+evaluación hormonal,1,11
+sin datos,1,12
+Resultado satisfactorio,1,13
+Sin síntomas,1,13
+nerviosismo,1,14
+dispepsia,1,14
+Ansiedad,1,14
+irritabilidad,1,14
+Sueño irregular,1,14
+sin datos,1,15
+Mejoría en la condición,1,16
+sin datos,1,17
+evaluación general,1,18
+hipercorticolemia,1,19
+aumento de la hormona estimulante de la tiroides (TSH),1,19
+periodo post-ciclo con buena recuperación,2,20
+disminución de la libido,2,20
+desea iniciar plan de salud en octubre,2,20
+sin datos,2,21
+Mejoría clínica,2,22
+variabilidad de la frecuencia cardíaca (HRV) con excelente activación parasimpática,2,23
+Buen nivel de sueño,2,23
+Mejor nivel energético con Sulbutiamina,2,23
+Realizando actividad física en circuito,2,23
+Mejor nivel digestivo,2,23
+Refiere estancamiento en peso,2,23
+No realiza actividad física ni sigue un plan nutricional debido a un viaje,2,24
+mejoria en fuerza y aumento de peso,2,25
+mejoria en estado de animo,2,25
+Sin síntomas,2,26
+sin datos,2,27
+astenia,2,28
+mejora en el sueño después de iniciar tratamiento con Melatonina/Circadin,2,29
+No logró iniciar meditación,2,29
+El uso de Cannabidiol (CBD) y Magnesio causó problemas digestivos,2,29
+Retomó el uso de Sulbutiamina y Cannabidiol sin alteraciones digestivas,2,29
+No logra mantener el plan nutricional,2,29
+Reporta ingesta ansiosa en las tardes,2,29
+evaluación de rendimiento y composición corporal,3,30
+Sin controles médicos durante 1 año,3,31
+poliuria transitoria,3,32
+evaluación de dislipidemia y osteoporosis,3,33
+astenia y falta de energía,3,34
+dificultad para perder peso,3,34
+aumento de peso,3,34
+buen inicio de plan nutricional,3,35
+gastroenteritis resuelta,3,35
+sin síntomas,3,36
+síntomas hormonales,3,36
+sin datos,3,37
+diagnóstico de hipertiroidismo,3,38
+Hiperglucemia con un año de evolución,3,38
+sin datos,3,39
+sin datos,4,40
+uso repetido de esteroides orales,4,41
+mejoria clinica,4,42
+Sin síntomas,4,43
+Buen patrón de sueño,4,44
+Buen nivel de actividad física,4,44
+Buen nivel de energía,4,44
+Satisfecho con plan de nutrición,4,44
+astenia y falta de interés,4,45
+Mejora transitoria en los síntomas,4,46
+episodio de hipotensión,4,47
+Astenia,4,47
+palpitaciones,4,47
+hipogonadismo,4,48
+Continúa con estrés,4,49
+Persiste astenia,5,50
+mensaje,5,51
+Presenta eosinofilia,5,52
+evaluación hormonal,5,53
+dolor testicular,5,53
+diagnóstico reciente de hipertensión arterial,5,54
+Persiste astenia,5,55
+astenia y desgano intensos,5,56
+evaluación hormonal,5,57
+disminución de la libido,5,57
+Derivada de Romina Tiberi,5,58
+Posible infección por COVID-19,5,59
+astenia post-viaje,5,59
+Estrés crónico,5,59
+sin datos,6,60
+Mejoría clínica debido a la disminución de la carga,6,61
+No ha tenido controles médicos durante un año,6,62
+buenos resultados con el tratamiento,6,62
+mejoria en rendimiento deportivo,6,63
+sin datos,6,64
+pérdida de cabello,6,65
+Astenia matutina,6,65
+Amenorrea de 2 meses,6,65
+Edemas generalizados,6,65
+Sin síntomas,6,66
+No toma medicación,6,67
+Dieta incluye soja y palta,6,67
+Calidad de sueño deficiente,6,67
+Suplementos de Magnesio,6,67
+Vitamina no especificada,6,67
+Lesión en las rodillas,6,67
+"Inició rutina de gimnasio incluyendo caminata y ejercicios de fuerza, 4 veces por semana",6,67
+suspensión de toda la medicación,6,68
+buena respuesta al ayuno,6,68
+episodios de ingesta excesiva de alimentos durante la noche,6,68
+Mejoría clínica,6,69
+Mejoría en la astenia,7,70
+Busca suplementación,7,71
+tratamiento con dianabol durante 6 semanas,7,72
+evaluación hormonal,7,73
+¿Síndrome menopáusico?,7,73
+Astenia y falta de motivación,7,73
+sin datos,7,74
+Mejora en aumento de fuerza,7,75
+sin datos,7,76
+"Buena respuesta a actividad física, específicamente correr",7,77
+sin datos,7,78
+Paciente en viaje,7,79
+sin datos,8,80
+Regreso de viaje,8,81
+Mejoría clínica,8,81
+dificultad para conciliar el sueño después de viajar,8,82
+evaluación,8,83
+sin datos,8,84
+evaluación general,8,85
+mejorar rendimiento,8,85
+pérdida de peso,8,85
+evaluación hormonal después de ciclo de esteroides con efectos secundarios,8,86
+competición en fisicoculturismo,8,86
+Sin síntomas,8,87
+Sin síntomas,8,88
+astenia,8,89
+astenia después del parto de su primer hijo,9,90
+Mejora en el sueño,9,91
+Sin síntomas,9,92
+sin datos,9,93
+sin datos,9,94
+evaluación general por dislipidemia e hiperglucemia,9,95
+Buen patrón de sueño,9,96
+Buen nivel de actividad física,9,96
+Buen nivel de energía,9,96
+Satisfecho con plan de nutrición,9,96
+Mejoría en cuadro de astenia,9,97
+suspensión de toda la medicación,9,98
+buena respuesta al ayuno,9,98
+episodios de ingesta excesiva de alimentos durante la noche,9,98
+sin datos,9,99
+tres semanas sin entrenamiento,10,100
+evaluación general (Guiliana),10,101
+aumento de peso,10,101
+desregulación tiroidea,10,101
+insomnio,10,101
+dificultades con la gestión nutricional,10,101
+Sueño irregular,10,101
+Estrés crónico,10,101
+Recibo resultados de laboratorio,10,102
+sin datos,10,103
+Continúa con actividad física,10,104
+episodio de fiebre,10,105
+Sin síntomas,10,106
+evaluación general,10,107
+búsqueda de aumento de masa muscular,10,107
+episodio de fiebre,10,108
+evaluación general,10,109
+evaluación general,11,110
+mejorar rendimiento,11,110
+pérdida de peso,11,110
+Entrenamiento cinco veces por semana,11,111
+Inicio de plan nutricional,11,111
+nuevos resultados de laboratorio,11,112
+diagnóstico de esclerosis múltiple,11,113
+Recaídas hace un año,11,113
+fractura no traumática de costilla,11,113
+disminución de vitamina D,11,113
+tendinitis recurrente,11,113
+Epicondilitis,11,113
+Mala alimentación,11,113
+Baja vitamina B12,11,113
+disminución de la sed por ingesta de líquidos,11,114
+periodo post-ciclo con buena recuperación,11,115
+disminución de la libido,11,115
+desea iniciar plan de salud en octubre,11,115
+evaluación general relacionada con actividad deportiva,11,116
+consulta sobre plan hormonal,11,116
+evaluación general,11,117
+evaluación hormonal,11,118
+¿Síndrome menopáusico?,11,118
+Astenia y falta de motivación,11,118
+Infección por COVID-19 en enero,11,119
+Recuperación incompleta que continúa,11,119
+evaluación de crecimiento,12,120
+dislipidemia,12,120
+sin datos,12,121
+mejoria en fuerza y aumento de peso,12,122
+mejoria en estado de animo,12,122
+buen nivel de descanso durante las vacaciones,12,123
+Entrenando para triatlón,12,124
+Continúa con fuerza,12,124
+"Estrés, exceso de trabajo",12,124
+no puede seguir un plan nutricional,12,125
+aumento significativo de peso durante el embarazo,12,126
+evaluación de Levotiroxina 175 mcg,12,127
+Nivel alto de entrenamiento físico,12,128
+apatía y falta de interés,12,129
+Cefalea constante,12,129
+Mareos y vértigo,12,129
+Síntomas presentes durante dos semanas,12,129
+sin datos,13,130
+Paciente se siente bien,13,131
+Paciente se siente bien,13,132
+"Buena respuesta inicial, seguida de fatiga y reaparición de síntomas",13,133
+Sin respuesta al tratamiento,13,133
+Por correo electrónico,13,134
+evaluación general,13,135
+sin datos,13,136
+sin datos,13,137
+evaluación general,13,138
+búsqueda de aumento de masa muscular,13,138
+Recibo resultados de variabilidad de la frecuencia cardíaca (HRV) sin disminución nocturna,13,139
+sin datos,14,140
+astenia,14,141
+falta de interés,14,141
+Sin síntomas,14,142
+Por correo electrónico,14,143
+reiniciar entrenamiento en gimnasio,14,144
+No se realizó curva de glucosa,14,145
+Mejoría en la condición,14,146
+Pretemporada de gira por Europa del 16 de febrero al 12 de marzo,14,147
+evaluación general debido a obesidad,14,148
+sueño de corta duración,14,149
+Sin síntomas,15,150
+Infección por COVID-19 en enero,15,151
+Mejora en el sueño,15,152
+Regreso de viaje,15,153
+Mejoría clínica,15,153
+Leve astenia,15,154
+caída de cabello,15,154
+Leve parestesias,15,154
+Mejoría clínica,15,155
+episodio de estrés,15,156
+evaluación general por dislipidemia e hiperglucemia,15,157
+mejoria en los sintomas,15,158
+Insuficiencia cardíaca,15,159
+Control anual,16,160
+Buscando embarazo,16,160
+evaluación general y suplementación,16,161
+inicio de entrenamiento hace 6 meses en gimnasio,16,161
+evaluación hormonal,16,162
+"evaluación de efectos secundarios después de la tercera dosis de vacunación (2 dosis de Sinopharm, 1 dosis de Sputnik V)",16,163
+hipotiroidismo,16,164
+hiperprolactinemia,16,164
+dislipidemia familiar,16,164
+Alopecia,16,164
+Sueño de mala calidad,16,164
+Libido baja,16,164
+evaluación general,16,165
+dispepsia,16,165
+intolerancia alimentaria en evolución,16,165
+sin datos,16,166
+mejoria clinica,16,167
+acné facial,16,168
+Sin síntomas,16,169
+pérdida de peso no confirmada de 3 a 4 kg,17,170
+disminución de fuerza,17,170
+Sin controles médicos durante 1 año,17,171
+COVID-19 con síntomas leves,17,171
+Mejoría clínica,17,172
+evaluación de astenia,17,173
+Primer puesto en Southfit,17,174
+Mejoría en nivel de descanso,17,175
+Mejoría en nivel de entrenamientos,17,175
+Sin síntomas,17,176
+mejoria clinica,17,177
+infección por COVID-19,17,178
+síntomas de fiebre,17,178
+cefalea,17,178
+odinofagia,17,178
+tos,17,178
+neumonitis,17,178
+osteonecrosis de la cabeza del fémur,17,178
+evaluación general relacionada con actividad deportiva,17,179
+consulta sobre plan hormonal,17,179
+sin datos,18,180
+sin datos,18,181
+dificultad para perder peso,18,182
+antecedente de COVID-19,18,183
+Recuperación respiratoria lenta,18,183
+leve mejoría,18,184
+evaluación general,18,185
+evaluación hormonal,18,186
+anginas bacterianas recurrentes,18,187
+evaluación de tiroides,18,188
+Continúa con estrés,18,189
+disminución de síntomas,18,189
+"posible infección por COVID-19, sin síntomas",18,189
+Sin síntomas,19,190
+evaluación hormonal general,19,191
+búsqueda de aumento de masa muscular,19,191
+mejora en rendimiento de resistencia aeróbica,19,191
+sin datos,19,192
+sin datos,19,193
+astenia y desgano,19,194
+sin datos,19,195
+sin datos,19,196
+evaluación hormonal después de uso de Oxandrolona y posible Metenolona,19,197
+múltiples efectos secundarios,19,197
+Infección por COVID-19 en enero,19,198
+sin síntomas,19,199
+síntomas hormonales,19,199
+Resultado satisfactorio,20,200
+Paciente no refiere haber seguido correctamente el plan nutricional,20,201
+Mejora en la calidad del sueño,20,202
+Sin episodios de diarrea,20,202
+Persiste la astenia,20,202
+astenia y falta de motivación,20,203
+sin datos,20,204
+sin datos,20,205
+caída en rendimiento,20,206
+dificultad para levantar pesos,20,206
+contracturas,20,206
+solicita evaluación hormonal,20,206
+evaluación de dislipidemia y osteoporosis,20,207
+astenia y desgano,20,208
+sin datos,20,209
+sin datos,21,210
+evaluación general,21,211
+mejoria clinica,21,212
+Sin síntomas,21,213
+Mejoría en la pérdida de peso (6 kg),21,214
+ansiedad por comida después de suspender Metformina,21,215
+astenia y falta de interés,21,216
+mejoria en los sintomas,21,217
+evaluación de hipotiroidismo secundario a hipertiroidismo,21,218
+alteraciones digestivas,21,218
+astenia,21,218
+no puede seguir un plan nutricional,21,219
+trastorno del sueño,22,220
+sin datos,22,221
+aumento de peso y edemas,22,222
+Infección por COVID-19 en enero,22,223
+Buen nivel de entrenamiento,22,224
+Sin síntomas,22,224
+astenia y falta de motivación,22,225
+Disminución de Coenzima Q10,22,226
+Estrés,22,226
+Continúa con síntomas,22,227
+sin datos,22,228
+sin datos,22,229
+Sin síntomas,23,230
+evaluación general,23,231
+evaluación de alteración del sueño,23,232
+disminución de la libido,23,232
+consulta con Hematología,23,233
+Pretemporada de gira por Europa del 16 de febrero al 12 de marzo,23,234
+estrés debido a mudanza,23,235
+sin datos,23,236
+sin datos,23,237
+pérdida de peso de 2 kg,23,238
+disminución de la capacidad física,23,239
+Insuficiencia cardíaca,24,240
+Continúa con síntomas,24,241
+Estrés,24,242
+Despertares frecuentes,24,242
+Entrenamiento previo a viaje a Pensacola,24,243
+"Síntomas de COVID-19: tos, fiebre, pérdida de gusto y olfato",24,244
+sin datos,24,245
+astenia y desgano,24,246
+sin datos,24,247
+Paciente se siente bien,24,248
+Sin síntomas,24,249
+Infección por COVID-19 en enero,25,250
+Mejoría clínica,25,251
+disminución leve del apetito,25,252
+antecedente de COVID-19,25,253
+Recuperación respiratoria lenta,25,253
+suspendido el uso de Pioglitazona,25,254
+astenia,25,254
+evaluación hormonal,25,255
+Eutiroidea,25,256
+Sin síntomas,25,257
+Astenia y desgano después de episodio de gripe,25,258
+episodios de convulsiones causan pérdida de cabello,25,259
+sin datos,26,260
+Presenta alopecia,26,261
+Mejora en el patrón de sueño,26,261
+Refiere astenia esporádica,26,261
+Refiere episodio de síndrome de intestino irritable (SII) debido a estrés y mala alimentación (gluten y helado),26,261
+evaluación de suplementación,26,262
+consulta con Hematología,26,263
+insomnio,26,264
+despertares frecuentes,26,264
+dificultad para iniciar el sueño,26,264
+astenia,26,264
+falta de recuperación después del sueño,26,264
+problemas digestivos,26,264
+dificultad para perder peso,26,264
+Recibo resultados de laboratorio,26,265
+Sin síntomas,26,266
+sueño de corta duración,26,267
+Sin síntomas,26,268
+Sin síntomas,26,269
+Resultados de laboratorio,27,270
+sin datos,27,271
+sin datos,27,272
+sin datos,27,273
+Inicio de hipertrofia con una evolución de 1 mes,27,274
+sin datos,27,275
+Persiste hipertrigliceridemia leve,27,276
+Incremento leve de acné,27,276
+evaluación de insomnio,27,277
+mejoria en síntomas digestivos,27,278
+Persiste astenia,27,279
+múltiples síntomas,28,280
+evaluación general,28,281
+sin datos,28,282
+acné facial,28,283
+sin datos,28,284
+Sin síntomas,28,285
+Persiste astenia,28,286
+Busca suplemento para mejorar la piel,28,287
+interrupción del consumo de cannabis durante 2 años,28,288
+reanudación con síntomas,28,288
+sin datos,28,289
+Realiza actividad física 2 o 3 veces por semana,29,290
+Presenta fatiga física,29,290
+Mejora en el sueño,29,291
+sin datos,29,292
+episodios de convulsiones causan pérdida de cabello,29,293
+Sin síntomas,29,294
+evaluación general debido a obesidad,29,295
+sin síntomas,29,296
+síntomas hormonales,29,296
+planea iniciar tratamiento con Primobolan y Stanozolol,29,297
+Mejoría en el nivel de sueño,29,298
+pérdida de peso de 10 kg,29,299
+Realiza actividad física 2 o 3 veces por semana,30,300
+Presenta fatiga física,30,300
+Sin síntomas,30,301
+Sin actividad física desde el inicio de la pandemia,30,302
+Sin seguimiento nutricional,30,302
+Sin controles de laboratorio,30,302
+Reporta aumento de peso de 5 kg,30,302
+Objetivo: disminución de la tensión arterial,30,302
+sin datos,30,303
+evaluación hormonal general,30,304
+búsqueda de aumento de masa muscular,30,304
+mejora en rendimiento de resistencia aeróbica,30,304
+Consulta de control: normal,30,305
+Nivel alto de entrenamiento físico,30,306
+Mejoría en cuadro de astenia,30,307
+evaluación de alteración del sueño,30,308
+sin datos,30,309
+Hormona estimulante de la tiroides (TSH) bloqueada,31,310
+astenia y falta de motivación,31,311
+Disminución de la libido,31,311
+sin datos,31,312
+Embarazo de 11 semanas,31,313
+Náuseas persistentes,31,313
+Distensión abdominal,31,313
+mejora en el nivel de energía,31,314
+mejora en la libido,31,314
+evaluación general,31,315
+Mejoría en la condición,31,316
+mejoria en rendimiento deportivo,31,317
+Estrés con alteración del sueño,31,318
+contusión durante partido de fútbol con pérdida de conciencia,31,319
+Mareos,31,319
+astenia,32,320
+sin datos,32,321
+diagnóstico de hipertiroidismo,32,322
+Hiperglucemia con un año de evolución,32,322
+sin datos,32,323
+Entrenamiento de fútbol 11 en GEBA,32,324
+Entrenamiento de alta intensidad en intervalos (HIIT) en gimnasio,32,324
+Después de viaje,32,325
+sin datos,32,326
+estrés habitual,32,327
+insomnio,32,327
+irritabilidad,32,327
+episodios de anorexia,32,327
+inicio de amenorrea,32,327
+problemas familiares que afectan el sueño,32,327
+estrés laboral,32,327
+evaluación hormonal,32,328
+seropositivo para VIH,32,328
+sin datos,32,329
+ciclos menstruales de 26 días,33,330
+aumento de peso asociado a la ingesta de alimentos,33,330
+"lesiones recurrentes en hombro, espalda y región lumbar",33,330
+buen nivel de sueño,33,330
+Inflamación del intestino,33,330
+Sin síntomas,33,331
+evaluación general hormonal,33,332
+sin datos,33,333
+aumento de peso no controlado,33,334
+mejoria clinica,33,335
+evaluación hormonal,33,336
+Mejoría clínica debido a la disminución de la carga,33,337
+infección por COVID-19,33,338
+síntomas de fiebre,33,338
+cefalea,33,338
+odinofagia,33,338
+tos,33,338
+neumonitis,33,338
+osteonecrosis de la cabeza del fémur,33,338
+sin datos,33,339
+Hormona estimulante de la tiroides (TSH) bloqueada,34,340
+Mejoría en nivel de descanso,34,341
+Mejoría en nivel de entrenamientos,34,341
+sin datos,34,342
+sin datos,34,343
+evaluación de astenia,34,344
+continúa con tos,34,345
+mejoria clinica,34,346
+falta de interés,34,347
+disminución de la libido,34,347
+sin datos,34,348
+Mejoría en parámetros de sueño tras la adquisición de un reloj,34,349
+Mejora en la calidad del sueño,34,349
+Sin controles,35,350
+trastorno del sueño,35,350
+evaluación hormonal general,35,351
+disminución leve del apetito,35,352
+sin datos,35,353
+evaluación general,35,354
+evaluación general por estrés polisintomático,35,355
+Astenia y desgano después de episodio de gripe,35,356
+evaluación de astenia y desgano,35,357
+astenia y falta de energía,35,358
+dificultad para perder peso,35,358
+aumento de peso,35,358
+disminución leve del apetito,35,359
+Inicio de hipertrofia con una evolución de 1 mes,36,360
+evaluación de tiroides,36,361
+evaluación general,36,362
+Mejoría clínica debido a la disminución de la carga,36,363
+evaluación general y suplementación,36,364
+inicio de entrenamiento hace 6 meses en gimnasio,36,364
+entrenamiento físico intenso y con peso,36,365
+Recibo resultados de laboratorio generales: normales,36,366
+ansiedad por comida después de suspender Metformina,36,367
+astenia y falta de motivación,36,368
+Continúa con estrés,36,369
+evaluación hormonal,37,370
+No ha tenido controles médicos durante 3 años,37,371
+Retomó actividad física en abril,37,371
+"Refiere pubalgia, con mejoría",37,371
+Recurrencia de dolor en el hombro,37,371
+Problemas con el plan nutricional,37,371
+Ingesta de alimentos por ansiedad,37,371
+No consume suplementos,37,371
+evaluación de alteración del sueño,37,372
+No ha tenido controles médicos durante un año,37,373
+buenos resultados con el tratamiento,37,373
+periodo post-ciclo con buena recuperación,37,374
+disminución de la libido,37,374
+desea iniciar plan de salud en octubre,37,374
+sin datos,37,375
+aumento de peso,37,376
+poliartralgias,37,376
+Consulta con Dr. Fretchel con diagnóstico de Diabetes Autoinmune Latente del Adulto (LADA),37,377
+sin datos,37,378
+astenia,37,379
+mialgias proximales,37,379
+Insuficiencia cardíaca,38,380
+caída en rendimiento,38,381
+dificultad para levantar pesos,38,381
+contracturas,38,381
+solicita evaluación hormonal,38,381
+reiniciar entrenamiento en gimnasio,38,382
+evaluación hormonal después de un ciclo de 7 semanas de Sustanon y Trenbolona,38,383
+disminución abrupta de la libido,38,383
+impotencia desde diciembre de 2022,38,383
+Sin síntomas,38,384
+Disminución de Coenzima Q10,38,385
+Estrés,38,385
+evaluación de insomnio,38,386
+Sin síntomas,38,387
+Estrés,38,387
+seguimiento del plan nutricional,38,388
+Astenia crónica,38,389
+Buen nivel de sueño,39,390
+Caída desde su propia altura,39,391
+sin datos,39,392
+trombosis venosa superficial,39,393
+Sin controles médicos durante 4 años,39,394
+Refiere haber tenido COVID-19 con síntomas,39,394
+"Refiere haber tenido sobreentrenamiento previo, con amenorrea",39,394
+Astenia habitual,39,394
+Presenta poliartralgias,39,394
+Con inicio de tratamiento sin resultado,39,394
+Entrenando para triatlón,39,395
+Continúa con fuerza,39,395
+"Estrés, exceso de trabajo",39,395
+astenia,39,396
+falta de interés,39,396
+No ha tenido controles médicos durante un año,39,397
+Ha suspendido la lactancia,39,397
+sin datos,39,398
+astenia y falta de motivación,39,399
+mejora en la conciliación del sueño,40,400
+despierta a las 5 a.m.,40,400
+contracturas musculares,40,400
+astenia,40,400
+somnolencia a las 22 horas,40,400
+infección por COVID-19 con síntomas de astenia y desgano,40,401
+lesión en el coxis debido a esquí,40,401
+evaluación de insomnio,40,402
+disminución de la libido,40,403
+astenia y falta de motivación,40,404
+astenia y desgano durante 17 horas,40,405
+evaluación general de salud,40,406
+evaluación general por dislipidemia e hiperglucemia,40,407
+sin datos,40,408
+dificultades para perder peso,40,409
+sin datos,41,410
+evaluación general debido a un aumento de peso de 15 kg,41,411
+evaluación hormonal,41,412
+astenia y falta de interés,41,413
+planea iniciar tratamiento con Primobolan y Stanozolol,41,414
+No se realizó curva de glucosa,41,415
+Mejoría en el edema,41,416
+evaluación de dificultad para pérdida de peso,41,417
+ansiedad por consumo,41,417
+Sin síntomas,41,418
+Sin nuevos episodios,41,418
+Busca suplemento para mejorar la piel,41,419
+evaluación general y suplementación,42,420
+inicio de entrenamiento hace 6 meses en gimnasio,42,420
+evaluación,42,421
+Leve astenia,42,422
+caída de cabello,42,422
+Leve parestesias,42,422
+Sin controles médicos durante 1 año,42,423
+Meningitis aséptica idiopática linfofítica,42,424
+Reaparición de estrés,42,425
+Ingesta de alimentos por ansiedad,42,425
+mejoria en la astenia,42,426
+Consulta de control: normal,42,427
+evaluación general,42,428
+No ha tenido controles médicos durante un año,42,429
+buenos resultados con el tratamiento,42,429
+toma anticonceptivos orales,43,430
+toma omeprazol para el reflujo gastroesofágico,43,430
+"toma probióticos, hierro, magnesio y melatonina",43,430
+sobrecrecimiento bacteriano del intestino delgado (SIBO),43,430
+estrés,43,430
+biodecodificación,43,430
+poliuria,43,430
+sin datos,43,431
+diagnóstico de hipertiroidismo,43,432
+Hiperglucemia con un año de evolución,43,432
+evaluación general por dislipidemia e hiperglucemia,43,433
+reiniciar entrenamiento en gimnasio,43,434
+Aplicación actual de cipionato de testosterona: 30 mg,43,435
+No realiza actividad física ni sigue un plan nutricional debido a un viaje,43,436
+astenia y falta de interés,43,437
+Disminución de la libido,43,437
+Entrenamiento con dolor en el pie,43,437
+recibo resultados de laboratorio,43,438
+Estrés habitual,43,439
+"Buena respuesta inicial, seguida de fatiga y reaparición de síntomas",44,440
+Sin respuesta al tratamiento,44,440
+Recibo ecodoppler,44,441
+Buen nivel de entrenamiento,44,442
+Sin síntomas,44,442
+sin datos,44,443
+evaluación hormonal después de uso de Oxandrolona y posible Metenolona,44,444
+múltiples efectos secundarios,44,444
+mejoria en fuerza y aumento de peso,44,445
+mejoria en estado de animo,44,445
+mejora en rendimiento,44,446
+no mejora en peso corporal,44,446
+sin datos,44,447
+mejoria hasta la última consulta,44,448
+no muestra progreso con el programa de entrenamiento BIGG,44,448
+Mejoría en dolores generalizados,44,449
+astenia,45,450
+dificultad en la recuperación,45,450
+Buen nivel de sueño,45,451
+sin datos,45,452
+sin datos,45,453
+evaluación de hipotensión ortostática post-entrenamiento,45,454
+Sin síntomas,45,455
+sin datos,45,456
+dificultad para pérdida de peso,45,457
+evaluación general de entrenamiento físico,45,458
+solicita evaluación médica completa,45,458
+dificultad para la pérdida de peso,45,459
+Buena respuesta,46,460
+aumento de la libido,46,460
+astenia y desgano durante 17 horas,46,461
+Astenia y falta de motivación,46,462
+Dificultad para iniciar el sueño,46,462
+No realiza actividad física ni sigue un plan nutricional debido a un viaje,46,463
+sin datos,46,464
+Reanudó el entrenamiento,46,465
+episodios de diarrea después de iniciar una dieta que no es astringente,46,465
+pérdida de cabello,46,465
+Estrés habitual,46,466
+sin datos,46,467
+pérdida de cabello,46,468
+Astenia matutina,46,468
+Amenorrea de 2 meses,46,468
+Edemas generalizados,46,468
+infección por COVID-19 con síntomas de astenia y desgano,46,469
+lesión en el coxis debido a esquí,46,469
+Estrés,47,470
+Aumento de peso,47,470
+sin datos,47,471
+dificultad para conciliar el sueño después de viajar,47,472
+Estrés,47,473
+Despertares frecuentes,47,473
+evaluación general después de COVID-19,47,474
+dificultad para perder peso,47,474
+Entrenamiento cinco veces por semana,47,475
+Inicio de plan nutricional,47,475
+reiniciar entrenamiento en gimnasio,47,476
+sin datos,47,477
+evaluación general y suplementación,47,478
+inicio de entrenamiento hace 6 meses en gimnasio,47,478
+evaluación general,47,479
+No ha tenido controles médicos durante 3 años,48,480
+Retomó actividad física en abril,48,480
+"Refiere pubalgia, con mejoría",48,480
+Recurrencia de dolor en el hombro,48,480
+Problemas con el plan nutricional,48,480
+Ingesta de alimentos por ansiedad,48,480
+No consume suplementos,48,480
+sin datos,48,481
+buen inicio de plan nutricional,48,482
+gastroenteritis resuelta,48,482
+ansiedad esporádica relacionada con la ingesta de carbohidratos,48,483
+astenia y desgano,48,483
+tensión interna,48,483
+despertares nocturnos,48,483
+sensación de descanso insuficiente,48,483
+palpitaciones,48,483
+Continúa con actividad física,48,484
+mejora en el nivel de energía,48,485
+mejora en la libido,48,485
+astenia y desgano,48,486
+evaluación hormonal,48,487
+Mejoría en la pérdida de peso (6 kg),48,488
+evaluación general de entrenamiento físico,48,489
+solicita evaluación médica completa,48,489
+evaluación metabólica,49,490
+evaluación general,49,491
+sin datos,49,492
+seguimiento del plan nutricional,49,493
+Mejoría clínica,49,494
+sin datos,49,495
+sin datos,49,496
+episodios de convulsiones causan pérdida de cabello,49,497
+diagnóstico reciente de hipertensión arterial,49,498
+irregularidad en el ciclo menstrual,49,499
+episodios de estrés,49,499
+episodio aislado de astenia esporádica,49,499
+niveles de colesterol más bajos,49,499
+no realizó actividad física durante tres meses,49,499
+variabilidad de la frecuencia cardíaca (HRV) con predominio simpático,50,500
+Buen nivel de rendimiento,50,501
+evaluación de osteoporosis,50,502
+reflujo gastroesofágico,50,503
+No asistió a consulta previa,50,504
+No sigue un plan nutricional debido a ansiedad,50,505
+sin datos,50,506
+"evaluación de efectos secundarios después de la tercera dosis de vacunación (2 dosis de Sinopharm, 1 dosis de Sputnik V)",50,507
+No asistió a controles médicos,50,508
+deseo de disminuir medicación,50,509
+sin datos,51,510
+dispepsia asociada al consumo de suplementos nutricionales,51,511
+mejoría metabólica,51,511
+pérdida de peso,51,511
+sin datos,51,512
+evaluación nutricional,51,513
+evaluación de astenia,51,514
+No se realizó curva de glucosa,51,515
+Buen resultado en la pérdida de peso,51,516
+sin datos,51,517
+No ha tenido controles médicos durante un año,51,518
+buenos resultados con el tratamiento,51,518
+Mejoría clínica,51,519
+Astenia,52,520
+Estrés crónico,52,520
+Sin síntomas,52,521
+aumento de peso,52,522
+Reanuda la toma de Tiroxina (T4),52,523
+intolerancia a histamina,52,524
+intolerancia a lácteos,52,524
+enfermedad celíaca,52,524
+síntomas de Síndrome de Intestino Irritable,52,524
+sin datos,52,525
+evaluación hormonal,52,526
+COVID-19 sin síntomas,52,527
+episodios de convulsiones causan pérdida de cabello,52,528
+Sin síntomas,52,529
+sin datos,53,530
+Mejoría clínica,53,531
+Se siente mejor,53,531
+evaluación general y suplementación,53,532
+inicio de entrenamiento hace 6 meses en gimnasio,53,532
+evaluación hormonal,53,533
+interrupción del consumo de cannabis durante 2 años,53,534
+reanudación con síntomas,53,534
+sin datos,53,535
+Sin síntomas,53,536
+mejoria clinica,53,537
+Sin síntomas,53,538
+Mejora transitoria en los síntomas,53,539
+sin síntomas,54,540
+síntomas hormonales,54,540
+falta de interés,54,541
+disminución de la libido,54,541
+Nódulo tiroideo de 23mm irregular,54,542
+Sin síntomas,54,543
+Mejoría clínica,54,543
+evaluación hormonal general,54,544
+búsqueda de aumento de masa muscular,54,544
+mejora en rendimiento de resistencia aeróbica,54,544
+Mejoría en nivel de descanso,54,545
+Mejoría en nivel de entrenamientos,54,545
+Continúa con síntomas,54,546
+sin datos,54,547
+Tensión arterial baja,54,548
+Sin síntomas,54,549
+astenia y falta de motivación,55,550
+Sin síntomas,55,551
+"Buena respuesta inicial, seguida de fatiga y reaparición de síntomas",55,552
+Sin respuesta al tratamiento,55,552
+Busca suplemento para mejorar la piel,55,553
+Reanudó el entrenamiento,55,554
+episodios de diarrea después de iniciar una dieta que no es astringente,55,554
+pérdida de cabello,55,554
+sin datos,55,555
+Persiste astenia,55,556
+Mejora en el sueño,55,557
+sin datos,55,558
+anginas bacterianas recurrentes,55,559
+evaluación,56,560
+evaluación general,56,561
+mejorar rendimiento,56,561
+pérdida de peso,56,561
+cirugía articular en rehabilitación,56,562
+sin datos,56,563
+sin datos,56,564
+pérdida de peso no confirmada de 3 a 4 kg,56,565
+disminución de fuerza,56,565
+Tensión arterial baja,56,566
+evaluación general,56,567
+Sin síntomas,56,568
+mejora notable,56,568
+pérdida de peso de 10 kg,56,569
+Sin síntomas,57,570
+mejora notable,57,570
+aumento de peso,57,571
+evaluación general,57,572
+sin datos,57,573
+uso repetido de esteroides orales,57,574
+evaluación general,57,575
+sin datos,57,576
+evaluación hormonal general,57,577
+sin datos,57,578
+No se realizó análisis de laboratorio después de la administración de Clomifeno,57,579
+El paciente no reporta mejoría,57,579
+evaluación general,58,580
+Sin síntomas,58,581
+Estrés,58,581
+sin datos,58,582
+sin datos,58,583
+evaluación metabólica general,58,584
+buen inicio de plan nutricional,58,585
+gastroenteritis resuelta,58,585
+Estrés habitual,58,586
+Primer puesto en Southfit,58,587
+Disminución de Coenzima Q10,58,588
+Estrés,58,588
+Continúa por tres semanas,58,589
+Planificación de entrenamiento en Santiago enfocado en fuerza y potencia,59,590
+evaluación de crecimiento,59,591
+dislipidemia,59,591
+Sin síntomas,59,592
+Estrés,59,592
+Presenta alopecia,59,593
+Mejora en el patrón de sueño,59,593
+Refiere astenia esporádica,59,593
+Refiere episodio de síndrome de intestino irritable (SII) debido a estrés y mala alimentación (gluten y helado),59,593
+evaluación hormonal,59,594
+Pretemporada de gira por Europa del 16 de febrero al 12 de marzo,59,595
+Sin síntomas,59,596
+Continúa con síntomas,59,597
+Paciente programado para cirugía bariátrica,59,598
+astenia después del parto de su primer hijo,59,599
+consulta con traumatólogo,60,600
+evaluación hormonal,60,601
+sin datos,60,602
+problemas de sueño,60,603
+Cambio de posición a hooker (jugador de rugby),60,604
+aumento de peso,60,605
+poliartralgias,60,605
+disminución de la libido,60,606
+Realiza ayuno,60,607
+Refiere ayuno de 5 días con buen resultado,60,607
+antecedente de caída de caballo que resultó en fractura de húmero,60,608
+evaluación de hipotiroidismo secundario a hipertiroidismo,60,609
+alteraciones digestivas,60,609
+astenia,60,609
+evaluación general,61,610
+mejorar rendimiento,61,610
+pérdida de peso,61,610
+Sin síntomas,61,611
+pérdida de peso de 2 kg,61,612
+sin datos,61,613
+sin datos,61,614
+sin datos,61,615
+sin datos,61,616
+No se realizó análisis de laboratorio después de la administración de Clomifeno,61,617
+El paciente no reporta mejoría,61,617
+Sin controles médicos durante 2 años,61,618
+Mejoría clínica,61,618
+Buen nivel de sueño,61,619
+sin datos,62,620
+Persiste astenia,62,621
+mejora en el sueño,62,621
+problemas de sueño,62,622
+consulta con traumatólogo,62,623
+Mejora en aumento de fuerza,62,624
+astenia y desgano,62,625
+Mejoría en dolores generalizados,62,626
+astenia,62,627
+mialgias proximales,62,627
+mejoria en la astenia,62,628
+sin datos,62,629
+Cambio de posición a hooker (jugador de rugby),63,630
+nuevos resultados de laboratorio,63,631
+astenia y falta de motivación,63,632
+Disminución de la libido,63,632
+deseo de disminuir medicación,63,633
+Astenia y desgano después de episodio de gripe,63,634
+sin datos,63,635
+náuseas de 3 minutos de duración,63,636
+Nódulo tiroideo de 23mm irregular,63,637
+sin datos,63,638
+mejoria en síntomas digestivos,63,639
+uso repetido de esteroides orales,64,640
+sin datos,64,641
+astenia,64,642
+sin datos,64,643
+evaluación general,64,644
+Buen patrón de sueño,64,645
+Buen nivel de actividad física,64,645
+Buen nivel de energía,64,645
+Satisfecho con plan de nutrición,64,645
+mejoría inicial seguida de empeoramiento,64,646
+evaluación de astenia,64,647
+Busca suplementación,64,648
+Estrés,64,649
+Aumento de peso,64,649
+episodio de estrés,65,650
+episodio de estrés,65,651
+Consulta de control: normal,65,652
+evaluación general por dislipidemia e hiperglucemia,65,653
+Sin síntomas,65,654
+poliuria transitoria,65,655
+no ha seguido un plan nutricional,65,656
+Sin controles médicos durante 1 año,65,657
+COVID-19 con síntomas leves,65,657
+sin datos,65,658
+Sin síntomas,65,659
+mejoria clinica despues de 10 dias,66,660
+sin datos,66,661
+sin datos,66,662
+sin datos,66,663
+sin datos,66,664
+Sin controles médicos durante 4 años,66,665
+Durante viaje,66,666
+Presenta astenia,66,666
+Mejoría clínica,66,666
+suspendido el uso de Pioglitazona,66,667
+astenia,66,667
+evaluación general de entrenamiento,66,668
+evaluación general después de COVID-19,66,669
+dificultad para perder peso,66,669
+Estado de salud sin cambios,67,670
+suspensión de toda la medicación,67,671
+buena respuesta al ayuno,67,671
+episodios de ingesta excesiva de alimentos durante la noche,67,671
+leve mejoría,67,672
+anginas bacterianas recurrentes,67,673
+sin datos,67,674
+astenia y falta de motivación,67,675
+sin datos,67,676
+Paciente no refiere haber seguido correctamente el plan nutricional,67,677
+dificultades para perder peso,67,678
+trastorno del sueño,67,679
+sin datos,68,680
+Durante viaje,68,681
+Presenta astenia,68,681
+Mejoría clínica,68,681
+Mejoría clínica,68,682
+El paciente se siente mejor,68,682
+Mejoría estética,68,682
+sin datos,68,683
+sin datos,68,684
+astenia con un mes de evolución,68,685
+evaluación general por dislipidemia e hiperglucemia,68,686
+Sin síntomas,68,687
+disminución de la sed por ingesta de líquidos,68,688
+aumento de peso,68,689
+poliartralgias,68,689
+evaluación hormonal después de uso de Oxandrolona y posible Metenolona,69,690
+múltiples efectos secundarios,69,690
+sin datos,69,691
+Sin síntomas,69,692
+astenia después del parto de su primer hijo,69,693
+Cinco años sin controles médicos,69,694
+tratamiento de fertilización in vitro,69,694
+Diagnóstico postparto de espondilitis anquilosante,69,694
+Aumento de peso de 40 kg,69,694
+tratamiento nutricional,69,694
+Medicación biológica inyectable,69,694
+ayuno intermitente,69,694
+Hipertrigliceridemia,69,694
+Reflujo gastroesofágico,69,694
+suspendido el uso de Pioglitazona,69,695
+astenia,69,695
+evaluación general,69,696
+Embarazo de 11 semanas,69,697
+Náuseas persistentes,69,697
+Distensión abdominal,69,697
+levantamiento olímpico,69,698
+sin datos,69,699
+pérdida de peso de 10 kg,70,700
+"evaluación de efectos secundarios después de la tercera dosis de vacunación (2 dosis de Sinopharm, 1 dosis de Sputnik V)",70,701
+astenia leve,70,702
+estrés,70,702
+Mejoría en dolores generalizados,70,703
+cirugía articular en rehabilitación,70,704
+evaluación de astenia,70,705
+astenia y falta de interés,70,706
+Estrés relacionado con el trabajo,70,706
+Insomnio reciente,70,706
+evaluación hormonal,70,707
+dolor testicular,70,707
+pérdida de peso,70,708
+episodio de depresión,70,708
+Por mensaje,70,709
+evaluación general hormonal,71,710
+evaluación debido a pérdida de peso,71,711
+Hormona estimulante de la tiroides (TSH) bloqueada,71,712
+Paciente no refiere haber seguido correctamente el plan nutricional,71,713
+Caída desde su propia altura,71,714
+Tres semanas de tratamiento con Clomifeno con buen incremento,71,715
+Sin síntomas,71,716
+Sin síntomas,71,717
+Mejoría clínica,71,717
+Toma Risperidona (por insomnio),71,718
+Se despierta sintiéndose descansado,71,718
+evaluación general debido a pérdida de peso,71,719
+evaluación general debido a resultados insatisfactorios en su entrenamiento,72,720
+sin datos,72,721
+Recibo resultados de laboratorio generales: normales,72,722
+Sin síntomas,72,723
+evaluación general y suplementación,72,724
+inicio de entrenamiento hace 6 meses en gimnasio,72,724
+sin datos,72,725
+Recibe tratamiento con Metilfenidato,72,726
+"Recibe tratamiento con Aripiprazol 2,5 mg",72,726
+Presenta insomnio,72,726
+Comenzó los primeros días de marzo,72,726
+Entrenamiento irregular con Camilo Yanes,72,726
+ansiedad por comida después de suspender Metformina,72,727
+Estrés,72,728
+Despertares frecuentes,72,728
+evaluación general,72,729
+dificultad para perder peso,72,729
+evaluación de suplementación,73,730
+evaluación general,73,731
+dispepsia,73,731
+intolerancia alimentaria en evolución,73,731
+Sin síntomas,73,732
+sin datos,73,733
+Entrenamiento previo a viaje a Pensacola,73,734
+evaluación de hipotiroidismo secundario a hipertiroidismo,73,735
+alteraciones digestivas,73,735
+astenia,73,735
+No se realizó consulta con Hematología,73,736
+aumento de peso,73,737
+sin datos,73,738
+evaluación general después de COVID-19,73,739
+dificultad para perder peso,73,739
+sin datos,74,740
+Resultados de laboratorio tras suspensión de tratamiento,74,741
+Paciente prefiere iniciar Terapia de Reemplazo Hormonal,74,741
+Embarazo de 11 semanas,74,742
+Náuseas persistentes,74,742
+Distensión abdominal,74,742
+evaluación de astenia,74,743
+Ecografías previas muestran nódulo con contornos regulares,74,744
+Nueva ecografía muestra leve irregularidad con aumento de 2 mm,74,744
+Síntomas de sofocos nocturnos,74,744
+problemas de sueño,74,745
+contusión durante partido de fútbol con pérdida de conciencia,74,746
+Mareos,74,746
+Sin controles,74,747
+trastorno del sueño,74,747
+evaluación general,74,748
+Referencia a Psiquiatría por trastorno de ansiedad,74,749
+evaluación general hormonal,75,750
+sin datos,75,751
+episodio de estrés,75,752
+evaluación hormonal,75,753
+Estrés,75,754
+Aumento de peso,75,754
+Presenta eosinofilia,75,755
+Sin síntomas,75,756
+reiniciar entrenamiento en gimnasio,75,757
+evaluación metabólica general,75,758
+evaluación general,75,759
+mejora en rendimiento durante la pandemia que posteriormente declinó,75,759
+dificultades en la recuperación,75,759
+sin datos,76,760
+aumento de peso,76,761
+poliartralgias,76,761
+falta de interés,76,762
+disminución de la libido,76,762
+astenia y falta de motivación,76,763
+sin datos,76,764
+Estrés debido a diagnóstico de cáncer testicular en yerno,76,765
+evaluación hormonal,76,766
+seropositivo para VIH,76,766
+Continúa con estrés,76,767
+disminución de síntomas,76,767
+"posible infección por COVID-19, sin síntomas",76,767
+evaluación general relacionada con actividad deportiva,76,768
+consulta sobre plan hormonal,76,768
+sin datos,76,769
+evaluación general debido a resultados insatisfactorios en su entrenamiento,77,770
+Reanuda la toma de Tiroxina (T4),77,771
+Buen patrón de sueño,77,772
+Buen nivel de actividad física,77,772
+Buen nivel de energía,77,772
+Satisfecho con plan de nutrición,77,772
+evaluación de insomnio,77,773
+mejoria clinica,77,774
+Control anual,77,775
+Buscando embarazo,77,775
+astenia y desgano,77,776
+Regreso de viaje,77,777
+Mejoría clínica,77,777
+"Síntomas de COVID-19: tos, fiebre, pérdida de gusto y olfato",77,778
+disfagia,77,779
+sueño alterado,77,779
+evaluación general,78,780
+astenia y falta de interés,78,781
+Estrés relacionado con el trabajo,78,781
+Insomnio reciente,78,781
+evaluación nutricional,78,782
+estrés intenso,78,783
+evaluación general debido a pérdida de peso,78,784
+Sin síntomas,78,785
+sin datos,78,786
+Realiza ayuno,78,787
+Refiere ayuno de 5 días con buen resultado,78,787
+mejoria en los sintomas,78,788
+sin datos,78,789
+mejora en el sueño con Melatonina de liberación prolongada (Circadin),79,790
+sueño intermitente de 6 horas,79,790
+mejora clínica con disminución de la astenia cuando tiene buen sueño,79,790
+buen rendimiento en el gimnasio,79,790
+episodio de hipotensión,79,791
+Astenia,79,791
+palpitaciones,79,791
+evaluación general de actividad física,79,792
+Paciente refiere sentirse bien,79,793
+Pretemporada de gira por Europa del 16 de febrero al 12 de marzo,79,794
+múltiples síntomas,79,795
+sin datos,79,796
+Después de viaje,79,797
+No asistió a consulta previa,79,798
+sin datos,79,799
+Control anual,80,800
+Buscando embarazo,80,800
+astenia,80,801
+falta de interés después de histerectomía,80,801
+sin datos,80,802
+Sin síntomas,80,803
+diagnóstico de esclerosis múltiple,80,804
+Recaídas hace un año,80,804
+fractura no traumática de costilla,80,804
+disminución de vitamina D,80,804
+tendinitis recurrente,80,804
+Epicondilitis,80,804
+Mala alimentación,80,804
+Baja vitamina B12,80,804
+Sin controles médicos durante 3 años,80,805
+desgarros repetidos en el tríceps debido a sobreentrenamiento en el gimnasio,80,805
+mala respuesta al estrés,80,805
+deficiencia en la ingesta alimentaria,80,805
+evaluación general de actividad física,80,806
+"Inició tratamiento con Semaglutida 0,25 mg",80,807
+presentó náuseas al principio,80,807
+luego mejoró,80,807
+nuevos resultados de laboratorio,80,808
+ansiedad por comida después de suspender Metformina,80,809
+Sin síntomas,81,810
+evaluación de astenia,81,811
+Paciente no refiere haber seguido correctamente el plan nutricional,81,812
+Sin síntomas,81,813
+evaluación de osteoporosis,81,814
+sin datos,81,815
+toma anticonceptivos orales,81,816
+toma omeprazol para el reflujo gastroesofágico,81,816
+"toma probióticos, hierro, magnesio y melatonina",81,816
+sobrecrecimiento bacteriano del intestino delgado (SIBO),81,816
+estrés,81,816
+biodecodificación,81,816
+poliuria,81,816
+Sin síntomas,81,817
+evaluación de dificultad para pérdida de peso,81,818
+ansiedad por consumo,81,818
+evaluación de hipogonadismo,81,819
+astenia y desgano intensos,82,820
+levantamiento olímpico,82,821
+No se realizó análisis de laboratorio después de la administración de Clomifeno,82,822
+El paciente no reporta mejoría,82,822
+episodio de hipotensión,82,823
+Astenia,82,823
+palpitaciones,82,823
+evaluación hormonal después de ciclo de esteroides con efectos secundarios,82,824
+competición en fisicoculturismo,82,824
+evaluación de hipogonadismo,82,825
+sin datos,82,826
+Desea retomar los controles médicos,82,827
+Sin síntomas,82,828
+evaluación hormonal,82,829
+sin datos,83,830
+mejoria de sintomas,83,831
+No asistió a consulta previa,83,832
+ruptura de ligamentos,83,833
+Sin síntomas,83,834
+Despertares breves debido a hija,83,835
+hipotiroidismo,83,836
+hiperprolactinemia,83,836
+dislipidemia familiar,83,836
+Alopecia,83,836
+Sueño de mala calidad,83,836
+Libido baja,83,836
+sin datos,83,837
+Astenia,83,838
+Estrés crónico,83,838
+Consulta sobre plan de tratamiento,83,839
+resultados de laboratorio con hipercalcemia,84,840
+evaluación de hipogonadismo,84,841
+Por mensaje,84,842
+problemas de sueño,84,843
+evaluación general y suplementación,84,844
+inicio de entrenamiento hace 6 meses en gimnasio,84,844
+haber tenido COVID-19 con síntomas agudos durante 2 días,84,845
+estrés debido a mudanza,84,846
+Persiste hipertrigliceridemia leve,84,847
+Incremento leve de acné,84,847
+evaluación,84,848
+evaluación hormonal general,84,849
+búsqueda de aumento de masa muscular,84,849
+mejora en rendimiento de resistencia aeróbica,84,849
+Realiza ayuno,85,850
+Refiere ayuno de 5 días con buen resultado,85,850
+Buen nivel de sueño,85,851
+Mejora en el sueño,85,852
+diagnóstico reciente de hipertensión arterial,85,853
+Sin controles médicos durante 2 años,85,854
+antecedentes de tendinopatía,85,855
+Mejoría clínica,85,856
+Despertares breves debido a hija,85,857
+Sin actividad física desde el inicio de la pandemia,85,858
+Sin seguimiento nutricional,85,858
+Sin controles de laboratorio,85,858
+Reporta aumento de peso de 5 kg,85,858
+Objetivo: disminución de la tensión arterial,85,858
+mejora en el nivel de energía,85,859
+mejora en la libido,85,859
+Sin síntomas,86,860
+sin datos,86,861
+evaluación de Diabetes Mellitus tipo 2,86,862
+diagnóstico de esclerosis múltiple,86,863
+Recaídas hace un año,86,863
+fractura no traumática de costilla,86,863
+disminución de vitamina D,86,863
+tendinitis recurrente,86,863
+Epicondilitis,86,863
+Mala alimentación,86,863
+Baja vitamina B12,86,863
+episodio de hipotensión,86,864
+Astenia,86,864
+palpitaciones,86,864
+No asistió a consulta previa,86,865
+sin datos,86,866
+sin datos,86,867
+sin datos,86,868
+antecedente de COVID-19,86,869
+Recuperación respiratoria lenta,86,869
+sin datos,87,870
+Sin síntomas,87,871
+No toma medicación,87,872
+Dieta incluye soja y palta,87,872
+Calidad de sueño deficiente,87,872
+Suplementos de Magnesio,87,872
+Vitamina no especificada,87,872
+Lesión en las rodillas,87,872
+"Inició rutina de gimnasio incluyendo caminata y ejercicios de fuerza, 4 veces por semana",87,872
+astenia y desgano,87,873
+sin datos,87,874
+continúa con tos,87,875
+Caída desde su propia altura,87,876
+evaluación de suplementación,87,877
+Posible infección por COVID-19,87,878
+astenia post-viaje,87,878
+Estrés crónico,87,878
+Sin controles médicos durante 3 años,87,879
+Paciente refiere haber estado en un plan hormonal de 6 meses con testosterona inyectable de manera continua,87,879
+Paciente expresa interés en utilizar Hormona de Crecimiento Humano (GH),87,879
+astenia y falta de energía,88,880
+dificultad para perder peso,88,880
+aumento de peso,88,880
+variabilidad de la frecuencia cardíaca (HRV) con predominio simpático,88,881
+suspende tratamiento psiquiátrico con Somit,88,882
+mejoría en hiperosmia diurna,88,882
+mejor estado de ánimo,88,882
+embarazo espontáneo en mujer,88,882
+seropositividad para VIH (no referido previamente),88,882
+evaluación hormonal,88,883
+evaluación metabólica,88,884
+evaluación general debido a un aumento de peso de 15 kg,88,885
+cirugía articular en rehabilitación,88,886
+No se realizó curva de glucosa,88,887
+No toma medicación,88,888
+Dieta incluye soja y palta,88,888
+Calidad de sueño deficiente,88,888
+Suplementos de Magnesio,88,888
+Vitamina no especificada,88,888
+Lesión en las rodillas,88,888
+"Inició rutina de gimnasio incluyendo caminata y ejercicios de fuerza, 4 veces por semana",88,888
+múltiples síntomas,88,889
+Buen resultado en la pérdida de peso,89,890
+pérdida de masa muscular en el último mes,89,891
+sin datos,89,892
+pérdida de peso de 10 kg,89,893
+mejoria clinica,89,894
+aumento de peso,89,895
+Astenia,89,896
+astenia después del parto de su primer hijo,89,897
+mejorar rendimiento en Crossfit,89,898
+evaluación general de entrenamiento,89,899
+astenia,90,900
+Astenia y desgano después de episodio de gripe,90,901
+Mejoría clínica,90,902
+Mejoría clínica,90,903
+sin datos,90,904
+sin datos,90,905
+sin datos,90,906
+Astenia,90,907
+Sin controles médicos durante 3 años,90,908
+oligomenorrea,90,908
+Estrés habitual debido al trabajo,90,908
+mastitis debido a nódulos,90,908
+aumento de peso,90,908
+Recibo resultados de laboratorio generales: normales,90,909
+buen nivel de descanso durante las vacaciones,91,910
+sin datos,91,911
+no puede seguir un plan nutricional,91,912
+astenia leve,91,913
+estrés,91,913
+sin datos,91,914
+Sin síntomas de astenia,91,915
+astenia después del parto de su primer hijo,91,916
+Durante vacaciones laborales,91,917
+Reporta aumento de peso,91,917
+Planificación de entrenamiento en Santiago enfocado en fuerza y potencia,91,918
+sin datos,91,919
+Resultados de laboratorio,92,920
+Espermograma,92,920
+Reporta apneas del sueño,92,920
+aumento de peso y edemas,92,921
+evaluación nutricional,92,922
+No sigue un plan nutricional debido a ansiedad,92,923
+Astenia y falta de motivación,92,924
+Dificultad para iniciar el sueño,92,924
+sin datos,92,925
+evaluación hormonal después de ciclo de esteroides con efectos secundarios,92,926
+competición en fisicoculturismo,92,926
+sin datos,92,927
+continúa con tos,92,928
+Busca suplementación,92,929
+Sin síntomas,93,930
+sin datos,93,931
+mejoria hasta la última consulta,93,932
+no muestra progreso con el programa de entrenamiento BIGG,93,932
+sin datos,93,933
+No realiza actividad física ni sigue un plan nutricional debido a un viaje,93,934
+continúa con tos,93,935
+Mejoría clínica,93,936
+Sin síntomas,93,936
+disminución de la libido,93,937
+Tensión arterial baja,93,938
+trombosis venosa superficial,93,939
+Buen nivel de entrenamiento,94,940
+Sin síntomas,94,940
+Sin síntomas,94,941
+Sin controles médicos durante 3 años,94,942
+oligomenorrea,94,942
+Estrés habitual debido al trabajo,94,942
+mastitis debido a nódulos,94,942
+aumento de peso,94,942
+sin datos,94,943
+Busca suplemento para mejorar la piel,94,944
+Sin síntomas,94,945
+evaluación general relacionada con actividad deportiva,94,946
+consulta sobre plan hormonal,94,946
+Sin controles médicos durante 1 año,94,947
+COVID-19 con síntomas leves,94,947
+sin datos,94,948
+Realiza actividad física 2 o 3 veces por semana,94,949
+Presenta fatiga física,94,949
+Apertura de historia clínica el 10 de junio,95,950
+otra apertura el 10 de julio,95,950
+evaluación de tiroides,95,951
+astenia,95,952
+mialgias proximales,95,952
+contusión durante partido de fútbol con pérdida de conciencia,95,953
+Mareos,95,953
+astenia y falta de interés,95,954
+astenia después del parto de su primer hijo,95,955
+astenia y falta de motivación,95,956
+Pretemporada de gira por Europa del 16 de febrero al 12 de marzo,95,957
+Mejoría en cuadro de astenia,95,958
+tres semanas sin entrenamiento,95,959
+"Buena respuesta inicial, seguida de fatiga y reaparición de síntomas",96,960
+Sin respuesta al tratamiento,96,960
+evaluación hormonal,96,961
+Astenia,96,962
+Estrés crónico,96,962
+sin datos,96,963
+Persiste hipertrigliceridemia leve,96,964
+Incremento leve de acné,96,964
+Sin síntomas,96,965
+molestia en glándula mamaria,96,966
+Presenta eosinofilia,96,967
+astenia y desgano intensos,96,968
+dificultad para la pérdida de peso,96,969
+sin datos,97,970
+sin datos,97,971
+Reanudó el entrenamiento,97,972
+episodios de diarrea después de iniciar una dieta que no es astringente,97,972
+pérdida de cabello,97,972
+Realiza actividad física 2 o 3 veces por semana,97,973
+Presenta fatiga física,97,973
+evaluación general debido a pérdida de peso,97,974
+evaluación metabólica,97,975
+leve mejora inicial,97,976
+hipercortisolismo,97,977
+sin datos,97,978
+Por correo electrónico,97,979
+toma anticonceptivos orales,98,980
+toma omeprazol para el reflujo gastroesofágico,98,980
+"toma probióticos, hierro, magnesio y melatonina",98,980
+sobrecrecimiento bacteriano del intestino delgado (SIBO),98,980
+estrés,98,980
+biodecodificación,98,980
+poliuria,98,980
+evaluación hormonal después de uso de Oxandrolona y posible Metenolona,98,981
+múltiples efectos secundarios,98,981
+sin datos,98,982
+evaluación general,98,983
+Primer puesto en Southfit,98,984
+sin datos,98,985
+nuevo episodio de afección dermatológica debido a estrés por viaje,98,986
+Sin síntomas,98,987
+Sin síntomas,98,988
+evaluación general,98,989
+sin datos,99,990
+No se realizó curva de glucosa,99,991
+Sin actividad física desde el inicio de la pandemia,99,992
+Sin seguimiento nutricional,99,992
+Sin controles de laboratorio,99,992
+Reporta aumento de peso de 5 kg,99,992
+Objetivo: disminución de la tensión arterial,99,992
+Mejora transitoria en los síntomas,99,993
+evaluación general,99,994
+Sin síntomas,99,995
+astenia,99,996
+evaluación general después de COVID-19,99,997
+dificultad para perder peso,99,997
+sin datos,99,998
+mejoria clinica despues de 10 dias,99,999
